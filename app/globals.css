@@ -1,0 +1,152 @@
+@import "tailwindcss";
+
+/* Scope hover: to real hover-capable pointers only — prevents iOS Safari's
+   stuck-hover-after-tap from leaving cards visually lifted/overlapping. */
+@custom-variant hover {
+  @media (hover: hover) {
+    &:hover {
+      @slot;
+    }
+  }
+}
+
+:root {
+  /* Brand — extracted from live site CSS (customizer accent #941010) and logo mark */
+  --brand-primary: #8c1414;       /* barn red — accent, CTAs, links */
+  --brand-primary-dark: #6e0f10;  /* pressed / hover state */
+  --brand-dark: #17130f;          /* near-black warm charcoal — dark surfaces, footer */
+  --brand-ink: #1c1712;           /* primary text */
+
+  --surface-main: #ffffff;
+  --surface-subtle: #f4f1ec;      /* quiet warm stone — stucco-adjacent neutral, not a theme color */
+  --surface-dark: #17130f;
+  --surface-dark-raised: #221c16;
+
+  --text-primary: #1c1712;
+  --text-secondary: #5c554c;
+  --text-on-dark: #f4f1ec;
+  --text-on-dark-secondary: #b9b0a3;
+
+  --border-subtle: #e4ded3;
+  --border-on-dark: rgba(244, 241, 236, 0.14);
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-feature: 20px;
+  --radius-btn: 8px;
+}
+
+@theme inline {
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-primary-dark: var(--brand-primary-dark);
+  --color-brand-dark: var(--brand-dark);
+  --color-brand-ink: var(--brand-ink);
+
+  --color-surface-main: var(--surface-main);
+  --color-surface-subtle: var(--surface-subtle);
+  --color-surface-dark: var(--surface-dark);
+  --color-surface-dark-raised: var(--surface-dark-raised);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-on-dark: var(--text-on-dark);
+  --color-text-on-dark-secondary: var(--text-on-dark-secondary);
+
+  --color-border-subtle: var(--border-subtle);
+  --color-border-on-dark: var(--border-on-dark);
+
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-feature: var(--radius-feature);
+  --radius-btn: var(--radius-btn);
+
+  --font-heading: var(--font-oswald);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: var(--surface-main);
+  color: var(--text-primary);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading), Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .hero-title {
+    font-size: clamp(2.75rem, 6.5vw, 6.5rem);
+    line-height: 0.94;
+    letter-spacing: -0.03em;
+  }
+
+  .section-title {
+    font-size: clamp(2.2rem, 4.6vw, 4.6rem);
+    line-height: 0.98;
+    letter-spacing: -0.025em;
+  }
+
+  .body-large {
+    font-size: clamp(1.05rem, 1.4vw, 1.25rem);
+    line-height: 1.6;
+  }
+
+  .scrollbar-hide {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .section-marker {
+    font-family: var(--font-heading), sans-serif;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+
+  /* Neo-brutalist accents — used selectively, not globally */
+  .border-brutal {
+    border: 2px solid var(--brand-ink);
+  }
+
+  .border-brutal-dark {
+    border: 2px solid var(--text-on-dark);
+  }
+
+  .shadow-brutal {
+    box-shadow: 6px 6px 0 0 var(--brand-ink);
+  }
+
+  .shadow-brutal-sm {
+    box-shadow: 4px 4px 0 0 var(--brand-ink);
+  }
+
+  .shadow-brutal-primary {
+    box-shadow: 6px 6px 0 0 var(--brand-primary);
+  }
+}
+
+@keyframes story-progress {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

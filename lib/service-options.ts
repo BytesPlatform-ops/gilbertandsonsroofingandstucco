@@ -1,0 +1,16 @@
+export const serviceOptions = [
+  "Roof Installation",
+  "Roof Repair",
+  "Roof Replacement",
+  "Roof Inspection",
+  "Roof Maintenance",
+  "Emergency Roofing",
+  "Specialty Roofing",
+  "Tile Roofing",
+  "Commercial Roof Restoration",
+  "Stucco",
+  "Painting",
+  "Drywall",
+  "Plastering",
+  "Other",
+];
