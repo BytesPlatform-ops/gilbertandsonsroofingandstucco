@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { primaryNav, siteConfig } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
-import CTAButton from "@/components/shared/CTAButton";
+import EstimateButton from "@/components/estimate/EstimateButton";
 import MobileMenu from "@/components/layout/MobileMenu";
 
 export default function Header() {
@@ -73,7 +73,7 @@ export default function Header() {
                       } hover:text-brand-primary`}
                     >
                       Roofing
-                      <span className="absolute left-4 right-4 -bottom-0.5 h-0.5 bg-brand-primary scale-x-0 origin-left transition-transform duration-[250ms] ease-out group-hover:scale-x-100 motion-reduce:transition-none" />
+                      <span className="absolute left-4 right-4 -bottom-0.5 h-0.5 bg-transparent transition-colors duration-150 ease-out group-hover:bg-brand-primary" />
                     </Link>
                     <div
                       className={`absolute left-1/2 top-full -translate-x-1/2 pt-3 transition-opacity duration-150 ${
@@ -123,9 +123,7 @@ export default function Header() {
               >
                 {siteConfig.phone}
               </a>
-              <CTAButton href="/#contact" variant="primary">
-                Get Free Estimate
-              </CTAButton>
+              <EstimateButton variant="primary">Get Free Estimate</EstimateButton>
             </div>
 
             <button

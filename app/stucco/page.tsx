@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
+import EstimateButton from "@/components/estimate/EstimateButton";
 import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import SafeMedia from "@/components/shared/SafeMedia";
 import FAQAccordion from "@/components/shared/FAQAccordion";
@@ -122,9 +123,9 @@ export default function StuccoPage() {
               climate.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <CTAButton href="/#contact" variant="primary" showArrow>
+              <EstimateButton variant="primary" showArrow>
                 Free Estimate
-              </CTAButton>
+              </EstimateButton>
               <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                 Call {siteConfig.phone}
               </CTAButton>

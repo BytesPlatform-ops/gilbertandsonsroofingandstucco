@@ -2,8 +2,10 @@ export type CoreService = {
   slug: string;
   title: string;
   description: string;
-  image: string | null;
-  href: string;
+  /** Path relative to /public — e.g. public/projects/foo.jpg is "/projects/foo.jpg". */
+  image: string;
+  /** Only set for services with their own page. Otherwise the CTA opens the estimate modal. */
+  href?: string;
   cta: string;
   items: string[];
 };
@@ -35,7 +37,6 @@ export const coreServices: CoreService[] = [
     description:
       "Exterior and interior painting services that support repair, renovation and property maintenance projects.",
     image: "/projects/ai-house-exterior-golden-hour-01.png",
-    href: "/#contact",
     cta: "Request an Estimate",
     items: ["Interior Painting", "Exterior Painting"],
   },
@@ -43,8 +44,9 @@ export const coreServices: CoreService[] = [
     slug: "drywall",
     title: "Drywall",
     description: "Drywall installation and repair for damaged, remodeled or newly finished interior spaces.",
-    image: null,
-    href: "/#contact",
+    // Closest surface/finish-work photo currently in /public. Drop a real
+    // drywall photo in public/projects/ and swap this one path to use it.
+    image: "/projects/stucco-project-construction-01.webp",
     cta: "Request an Estimate",
     items: ["Installation", "Repair"],
   },
@@ -54,7 +56,6 @@ export const coreServices: CoreService[] = [
     description:
       "Plaster repair and finishing services for walls and surfaces requiring a durable, properly finished result.",
     image: "/projects/ai-stucco-patch-progress-01.png",
-    href: "/#contact",
     cta: "Request an Estimate",
     items: ["Smooth Finish", "Textured Finish"],
   },

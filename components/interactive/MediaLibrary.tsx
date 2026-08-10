@@ -40,10 +40,10 @@ export default function MediaLibrary({ items = projectMedia }: { items?: Project
             key={f.key}
             type="button"
             onClick={() => setFilter(f.key)}
-            className={`px-4 py-2 text-sm font-heading font-semibold uppercase tracking-[0.03em] border transition-colors ${
+            className={`px-4 py-2 text-sm font-heading font-semibold uppercase tracking-[0.03em] border cursor-pointer transition-colors duration-150 ${
               filter === f.key
                 ? "bg-brand-primary text-white border-brand-primary"
-                : "border-white/20 text-text-on-dark-secondary hover:text-text-on-dark hover:border-white/40"
+                : "border-white/20 text-text-on-dark-secondary hover:bg-white/10 hover:text-text-on-dark hover:border-white/60"
             }`}
           >
             {f.label}
@@ -51,23 +51,17 @@ export default function MediaLibrary({ items = projectMedia }: { items?: Project
         ))}
       </div>
 
-      <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-3 transition-opacity duration-200">
+      <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-3">
         {filtered.map((item, index) => (
           <button
             key={item.id}
             type="button"
             onClick={() => setActiveIndex(index)}
-            className="group relative aspect-[4/3] overflow-hidden border border-white/10 transition-[border-color,transform] duration-300 ease-out hover:-translate-y-1.5 hover:border-white/50 motion-reduce:hover:translate-y-0"
+            className="group relative aspect-[4/3] overflow-hidden border border-white/10 cursor-pointer transition-colors duration-150 hover:border-white/60"
           >
-            <SafeMedia
-              src={item.src}
-              alt={item.alt}
-              fill
-              rounded={false}
-              className="transition-transform duration-500 ease-out group-hover:scale-[1.035]"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-            <div className="absolute left-3 right-3 bottom-3 translate-y-12 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-[350ms] ease-out flex items-end justify-between gap-2">
+            <SafeMedia src={item.src} alt={item.alt} fill rounded={false} />
+            <div className="absolute inset-0 bg-gradient-to-t from-brand-dark/85 via-brand-dark/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-150" />
+            <div className="absolute left-3 right-3 bottom-3 opacity-0 group-hover:opacity-100 transition-opacity duration-150 flex items-end justify-between gap-2">
               <span>
                 <span className="block text-xs font-heading font-semibold uppercase tracking-[0.03em] text-white">
                   {item.title}

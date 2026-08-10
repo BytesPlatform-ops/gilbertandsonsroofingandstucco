@@ -3,6 +3,10 @@
 import { useState } from "react";
 import Link from "next/link";
 import SafeMedia from "@/components/shared/SafeMedia";
+import EstimateButton from "@/components/estimate/EstimateButton";
+
+const ctaClass =
+  "inline-flex items-center gap-2 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary cursor-pointer transition-colors duration-150 hover:text-brand-primary-dark hover:underline underline-offset-4";
 
 export type ExplorerOption = {
   key: string;
@@ -37,16 +41,18 @@ export default function OptionExplorer({
             onClick={() => setActiveIndex(index)}
             onMouseEnter={hoverPreview ? () => setActiveIndex(index) : undefined}
             aria-pressed={index === activeIndex}
-            className={`group min-h-[44px] px-4 md:px-0 md:py-4 md:border-b md:border-border-subtle text-left border transition-colors ${
+            className={`group min-h-[44px] px-4 md:px-3 md:py-4 md:border-b md:border-border-subtle text-left border cursor-pointer transition-colors duration-150 ${
               index === activeIndex
-                ? "bg-brand-ink text-white md:bg-transparent md:text-brand-ink md:border-transparent md:border-b-border-subtle"
-                : "border-border-subtle text-text-secondary hover:text-brand-ink md:border-transparent md:border-b-border-subtle"
+                ? "bg-brand-ink text-white md:bg-surface-subtle md:text-brand-ink md:border-transparent md:border-b-border-subtle"
+                : "border-border-subtle text-text-secondary hover:bg-surface-subtle hover:text-brand-ink md:border-transparent md:border-b-border-subtle"
             }`}
           >
             <span className="inline-flex items-center gap-2 font-heading font-semibold text-sm md:text-base uppercase tracking-[0.02em]">
               <span
-                className={`hidden md:inline-block w-1.5 h-1.5 shrink-0 bg-brand-primary transition-transform duration-200 ${
-                  index === activeIndex ? "scale-100" : "scale-0 group-hover:scale-100"
+                className={`hidden md:inline-block w-1.5 h-1.5 shrink-0 transition-colors duration-150 ${
+                  index === activeIndex
+                    ? "bg-brand-primary"
+                    : "bg-transparent group-hover:bg-brand-primary"
                 }`}
                 aria-hidden="true"
               />
@@ -56,7 +62,7 @@ export default function OptionExplorer({
         ))}
       </div>
 
-      <div key={active.key} className="animate-[fadeIn_0.35s_ease]">
+      <div>
         {active.image && (
           <div className="relative aspect-[16/9] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm mb-6">
             <SafeMedia src={active.image} alt={active.heading} fill rounded={false} />
@@ -69,17 +75,19 @@ export default function OptionExplorer({
             {active.note}
           </p>
         )}
-        {ctaLabel && ctaHref && (
-          <Link
-            href={ctaHref}
-            className="inline-block mt-6 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary hover:text-brand-primary-dark"
-          >
-            {ctaLabel} →
-          </Link>
-        )}
+        {ctaLabel &&
+          (ctaHref ? (
+            <Link href={ctaHref} className={`mt-6 ${ctaClass}`}>
+              {ctaLabel}
+              <span aria-hidden="true">→</span>
+            </Link>
+          ) : (
+            // No href means "start an estimate" — routes to the shared modal.
+            <EstimateButton unstyled showArrow className={`mt-6 ${ctaClass}`}>
+              {ctaLabel}
+            </EstimateButton>
+          ))}
       </div>
-
-      <style>{`@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }`}</style>
     </div>
   );
 }

@@ -7,7 +7,7 @@ export default function HeroEstimateCard({ className = "" }: { className?: strin
       <p className="text-sm text-text-secondary mt-1 mb-5">
         Tell us what&rsquo;s going on — we&rsquo;ll get back to you.
       </p>
-      <ContactForm />
+      <ContactForm idPrefix="hero-estimate" />
     </div>
   );
 }

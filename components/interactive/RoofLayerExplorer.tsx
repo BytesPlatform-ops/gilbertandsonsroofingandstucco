@@ -31,7 +31,6 @@ export default function RoofLayerExplorer() {
       <div className="flex flex-col gap-2 md:gap-3">
         {layers.map((layer, index) => {
           const isActive = index === activeIndex;
-          const offset = index < activeIndex ? -10 : index > activeIndex ? 10 : 0;
           return (
             <button
               key={layer.key}
@@ -39,10 +38,9 @@ export default function RoofLayerExplorer() {
               onClick={() => setActiveIndex(index)}
               onMouseEnter={() => setActiveIndex(index)}
               aria-pressed={isActive}
-              className={`relative h-20 md:h-24 ${layer.tone} border transition-transform duration-300 ease-out flex items-center px-6 ${
-                isActive ? "border-brand-primary" : "border-black/10"
+              className={`relative h-20 md:h-24 ${layer.tone} border-2 cursor-pointer transition-colors duration-150 flex items-center px-6 ${
+                isActive ? "border-brand-primary" : "border-black/10 hover:border-brand-primary/60"
               }`}
-              style={{ transform: `translateY(${offset}px)`, zIndex: isActive ? 10 : 1 }}
             >
               <span
                 className={`font-heading font-semibold text-sm md:text-base uppercase tracking-[0.03em] ${
@@ -56,7 +54,7 @@ export default function RoofLayerExplorer() {
         })}
       </div>
 
-      <div key={layers[activeIndex].key} className="animate-[fadeIn_0.3s_ease]">
+      <div>
         <span className="section-marker text-text-secondary">
           {String(activeIndex + 1).padStart(2, "0")} / {String(layers.length).padStart(2, "0")}
         </span>
@@ -65,8 +63,6 @@ export default function RoofLayerExplorer() {
         </h3>
         <p className="text-text-secondary mt-3">{layers[activeIndex].body}</p>
       </div>
-
-      <style>{`@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }`}</style>
     </div>
   );
 }

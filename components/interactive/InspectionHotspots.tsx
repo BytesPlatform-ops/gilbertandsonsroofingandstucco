@@ -62,13 +62,13 @@ export default function InspectionHotspots() {
             onMouseEnter={() => setActiveKey(hotspot.key)}
             aria-label={hotspot.label}
             aria-pressed={activeKey === hotspot.key}
-            className="absolute w-11 h-11 -ml-[22px] -mt-[22px] flex items-center justify-center"
+            className="absolute w-11 h-11 -ml-[22px] -mt-[22px] flex items-center justify-center cursor-pointer"
             style={{ left: `${hotspot.x}%`, top: `${hotspot.y}%` }}
           >
             <span
-              className={`w-4 h-4 rounded-full border-2 transition-all duration-200 ${
+              className={`w-4 h-4 rounded-full border-2 transition-colors duration-150 ${
                 activeKey === hotspot.key
-                  ? "bg-brand-primary border-white scale-125"
+                  ? "bg-brand-primary border-white"
                   : "bg-white/80 border-brand-primary"
               }`}
             />
@@ -79,7 +79,7 @@ export default function InspectionHotspots() {
       <div>
         <span className="section-marker text-text-secondary">Hotspots</span>
         {active ? (
-          <div key={active.key} className="animate-[fadeIn_0.25s_ease] mt-3">
+          <div className="mt-3">
             <h3 className="text-xl font-heading font-semibold text-brand-ink">{active.label}</h3>
             <p className="text-text-secondary mt-2">{active.body}</p>
           </div>
@@ -95,8 +95,10 @@ export default function InspectionHotspots() {
                 type="button"
                 onClick={() => setActiveKey(hotspot.key)}
                 onMouseEnter={() => setActiveKey(hotspot.key)}
-                className={`text-sm py-2 border-b border-border-subtle w-full text-left transition-colors ${
-                  activeKey === hotspot.key ? "text-brand-primary font-semibold" : "text-text-secondary hover:text-brand-ink"
+                className={`text-sm py-2 px-2 border-b border-border-subtle w-full text-left cursor-pointer transition-colors duration-150 ${
+                  activeKey === hotspot.key
+                    ? "bg-surface-subtle text-brand-primary font-semibold"
+                    : "text-text-secondary hover:bg-surface-subtle hover:text-brand-ink"
                 }`}
               >
                 {hotspot.label}
@@ -105,8 +107,6 @@ export default function InspectionHotspots() {
           ))}
         </ul>
       </div>
-
-      <style>{`@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }`}</style>
     </div>
   );
 }

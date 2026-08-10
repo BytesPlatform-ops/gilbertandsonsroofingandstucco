@@ -5,7 +5,6 @@ import Link from "next/link";
 import SafeMedia from "@/components/shared/SafeMedia";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
-import RevealOnScroll from "@/components/interactive/RevealOnScroll";
 
 const tabs = [
   {
@@ -59,7 +58,6 @@ export default function RoofingFeature() {
       <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28">
         <SectionMarker number="03" label="Roofing" />
         <div className="grid lg:grid-cols-2 gap-12 items-start mt-8">
-          <RevealOnScroll direction="left">
           <div>
             <h2 className="section-title font-heading font-semibold text-brand-ink">
               Protection starts at the top.
@@ -78,10 +76,10 @@ export default function RoofingFeature() {
                   type="button"
                   onClick={() => setActive(index)}
                   onMouseEnter={() => setActive(index)}
-                  className={`px-4 py-2 text-sm font-heading font-semibold uppercase tracking-[0.03em] transition-colors ${
+                  className={`px-4 py-2 text-sm font-heading font-semibold uppercase tracking-[0.03em] border-2 cursor-pointer transition-colors duration-150 ${
                     index === active
-                      ? "bg-brand-ink text-white"
-                      : "text-text-secondary hover:text-brand-ink"
+                      ? "bg-brand-ink text-white border-brand-ink"
+                      : "bg-transparent border-transparent text-text-secondary hover:bg-surface-main hover:text-brand-ink hover:border-brand-ink"
                   }`}
                 >
                   {t.label}
@@ -89,12 +87,12 @@ export default function RoofingFeature() {
               ))}
             </div>
 
-            <div key={tab.key} className="mt-6 animate-[fadeIn_0.4s_ease]">
+            <div className="mt-6">
               <h3 className="text-2xl font-heading font-semibold text-brand-ink">{tab.title}</h3>
               <p className="text-text-secondary mt-3 max-w-md">{tab.body}</p>
               <Link
                 href={tab.href}
-                className="inline-block mt-4 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary"
+                className="inline-block mt-4 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary transition-colors duration-150 hover:text-brand-primary-dark hover:underline underline-offset-4"
               >
                 Learn More →
               </Link>
@@ -106,20 +104,12 @@ export default function RoofingFeature() {
               </CTAButton>
             </div>
           </div>
-          </RevealOnScroll>
 
-          <RevealOnScroll direction="right" delayMs={100}>
-            <div key={tab.image} className="relative aspect-[4/3] lg:aspect-[5/4] overflow-hidden rounded-[var(--radius-feature)] animate-[fadeScale_0.4s_ease]">
-              <SafeMedia src={tab.image} alt={tab.title} fill rounded={false} priority />
-            </div>
-          </RevealOnScroll>
+          <div className="relative aspect-[4/3] lg:aspect-[5/4] overflow-hidden rounded-[var(--radius-feature)]">
+            <SafeMedia src={tab.image} alt={tab.title} fill rounded={false} priority />
+          </div>
         </div>
       </div>
-
-      <style>{`
-        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-        @keyframes fadeScale { from { opacity: 0; transform: scale(1.015); } to { opacity: 1; transform: scale(1); } }
-      `}</style>
     </section>
   );
 }

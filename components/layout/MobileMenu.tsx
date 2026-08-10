@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { primaryNav, siteConfig } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
+import { useEstimate } from "@/components/estimate/EstimateProvider";
 
 export default function MobileMenu({
   open,
@@ -14,6 +15,7 @@ export default function MobileMenu({
   onClose: () => void;
 }) {
   const [roofingExpanded, setRoofingExpanded] = useState(false);
+  const { openEstimate } = useEstimate();
 
   return (
     <div
@@ -59,7 +61,7 @@ export default function MobileMenu({
                     <Link
                       href={item.href}
                       onClick={onClose}
-                      className="py-4 text-lg font-heading font-semibold uppercase tracking-[0.03em] flex-1"
+                      className="py-4 text-lg font-heading font-semibold uppercase tracking-[0.03em] flex-1 transition-colors duration-150 hover:text-brand-primary"
                     >
                       Roofing
                     </Link>
@@ -98,7 +100,7 @@ export default function MobileMenu({
                   <Link
                     href={item.href}
                     onClick={onClose}
-                    className="block py-4 text-lg font-heading font-semibold uppercase tracking-[0.03em]"
+                    className="block py-4 text-lg font-heading font-semibold uppercase tracking-[0.03em] transition-colors duration-150 hover:text-brand-primary"
                   >
                     {item.label}
                   </Link>
@@ -111,17 +113,20 @@ export default function MobileMenu({
         <div className="p-5 border-t border-border-on-dark shrink-0 flex flex-col gap-3">
           <a
             href={siteConfig.phoneHref}
-            className="min-h-[52px] flex items-center justify-center rounded-btn border border-white/25 font-heading font-semibold uppercase tracking-[0.04em] text-sm"
+            className="min-h-[52px] flex items-center justify-center rounded-btn border border-white/25 font-heading font-semibold uppercase tracking-[0.04em] text-sm transition-colors duration-150 hover:bg-white hover:text-brand-ink hover:border-white"
           >
             Call {siteConfig.phone}
           </a>
-          <Link
-            href="/#contact"
-            onClick={onClose}
-            className="min-h-[52px] flex items-center justify-center rounded-btn bg-brand-primary font-heading font-semibold uppercase tracking-[0.04em] text-sm"
+          <button
+            type="button"
+            onClick={() => {
+              onClose();
+              openEstimate();
+            }}
+            className="min-h-[52px] flex items-center justify-center rounded-btn bg-brand-primary font-heading font-semibold uppercase tracking-[0.04em] text-sm cursor-pointer transition-colors duration-150 hover:bg-brand-primary-dark"
           >
             Get a Free Estimate
-          </Link>
+          </button>
         </div>
       </div>
     </div>

@@ -175,7 +175,6 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         },
       ],
       ctaLabel: "Free Estimate",
-      ctaHref: "/#contact",
     },
     relatedSlugs: ["roof-inspections", "emergency-roofing", "roof-replacements"],
     faqs: [
@@ -386,7 +385,6 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         },
       ],
       ctaLabel: "Free Estimate",
-      ctaHref: "/#contact",
     },
     relatedSlugs: ["roof-inspections", "roof-repairs", "emergency-roofing"],
     faqs: [
@@ -516,7 +514,6 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         },
       ],
       ctaLabel: "Free Estimate",
-      ctaHref: "/#contact",
     },
     relatedSlugs: ["tile-roofing", "silicone-roof-restoration", "roof-installations"],
     faqs: [
@@ -669,7 +666,6 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         },
       ],
       ctaLabel: "Free Estimate",
-      ctaHref: "/#contact",
     },
     relatedSlugs: ["specialty-roofing", "roof-inspections", "roof-maintenance"],
     faqs: [

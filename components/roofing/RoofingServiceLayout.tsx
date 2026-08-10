@@ -6,7 +6,7 @@ import FAQAccordion from "@/components/shared/FAQAccordion";
 import OptionExplorer from "@/components/interactive/OptionExplorer";
 import RoofLayerExplorer from "@/components/interactive/RoofLayerExplorer";
 import InspectionHotspots from "@/components/interactive/InspectionHotspots";
-import RevealOnScroll from "@/components/interactive/RevealOnScroll";
+import EstimateButton from "@/components/estimate/EstimateButton";
 import { roofingServices } from "@/lib/roofing-services";
 import type { RoofingServicePage } from "@/lib/roofing-service-content";
 import { siteConfig } from "@/lib/site-config";
@@ -46,9 +46,9 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
             </h1>
             <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">{page.intro}</p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <CTAButton href="/#contact" variant="primary" showArrow>
+              <EstimateButton variant="primary" showArrow>
                 Free Estimate
-              </CTAButton>
+              </EstimateButton>
               <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                 Call {siteConfig.phone}
               </CTAButton>
@@ -69,7 +69,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
         <div className="relative z-10 mx-auto max-w-[1200px] px-5 md:px-8">
           <div className="flex flex-col gap-16 md:gap-24">
             {page.sections.map((section, index) => (
-              <RevealOnScroll key={section.heading} direction={index % 2 === 1 ? "right" : "left"}>
+              <div key={section.heading}>
                 <div
                   className={`flex flex-col md:flex-row gap-8 md:gap-16 items-start ${
                     index % 2 === 1 ? "md:flex-row-reverse" : ""
@@ -100,7 +100,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                     )}
                   </div>
                 </div>
-              </RevealOnScroll>
+              </div>
             ))}
           </div>
 
@@ -133,15 +133,15 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                 <a
                   key={service.slug}
                   href={service.href}
-                  className="group block bg-surface-main border-2 border-border-subtle p-6 rounded-md transition-[transform,box-shadow,border-color] duration-200 ease-out hover:-translate-y-1.5 hover:border-brand-ink hover:shadow-brutal-sm motion-reduce:hover:translate-y-0 motion-reduce:hover:shadow-none"
+                  className="group block bg-surface-main border-2 border-border-subtle p-6 rounded-md transition-colors duration-150 ease-out hover:bg-surface-subtle hover:border-brand-ink"
                 >
                   <h3 className="font-heading font-semibold text-lg text-brand-ink mb-2">
                     {service.title}
                   </h3>
                   <p className="text-sm text-text-secondary mb-4">{service.description}</p>
-                  <span className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary">
+                  <span className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary group-hover:underline underline-offset-4">
                     Explore
-                    <span className="transition-transform duration-200 group-hover:translate-x-1">→</span>
+                    <span aria-hidden="true">→</span>
                   </span>
                 </a>
               ))}

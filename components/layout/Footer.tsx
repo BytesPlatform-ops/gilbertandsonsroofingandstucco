@@ -3,6 +3,7 @@ import Link from "next/link";
 import { primaryNav, siteConfig, supportingServices } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
 import CTAButton from "@/components/shared/CTAButton";
+import EstimateButton from "@/components/estimate/EstimateButton";
 
 export default function Footer() {
   return (
@@ -23,9 +24,9 @@ export default function Footer() {
             Get a free estimate today.
           </h2>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <CTAButton href="/#contact" variant="primary" showArrow>
+            <EstimateButton variant="primary" showArrow>
               Get a Free Estimate
-            </CTAButton>
+            </EstimateButton>
             <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
               Call {siteConfig.phone}
             </CTAButton>
@@ -48,7 +49,7 @@ export default function Footer() {
           </p>
           <a
             href={siteConfig.social.facebook}
-            className="inline-block mt-5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-text-on-dark-secondary hover:text-text-on-dark transition-[color,transform] duration-200 hover:-translate-y-0.5 motion-reduce:hover:translate-y-0"
+            className="inline-block mt-5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-text-on-dark-secondary hover:text-text-on-dark hover:underline underline-offset-4 transition-colors duration-150"
           >
             Facebook
           </a>
@@ -61,7 +62,7 @@ export default function Footer() {
               <li key={item.href}>
                 <Link href={item.href} className="group relative inline-block text-sm text-text-on-dark-secondary hover:text-text-on-dark transition-colors">
                   {item.label}
-                  <span className="absolute left-0 -bottom-0.5 h-px w-0 bg-brand-primary transition-[width] duration-200 ease-out group-hover:w-full" />
+                  <span className="absolute left-0 -bottom-0.5 h-px w-full bg-transparent transition-colors duration-150 ease-out group-hover:bg-brand-primary" />
                 </Link>
               </li>
             ))}
@@ -69,7 +70,7 @@ export default function Footer() {
               <li key={item.label}>
                 <Link href={item.href} className="group relative inline-block text-sm text-text-on-dark-secondary hover:text-text-on-dark transition-colors">
                   {item.label}
-                  <span className="absolute left-0 -bottom-0.5 h-px w-0 bg-brand-primary transition-[width] duration-200 ease-out group-hover:w-full" />
+                  <span className="absolute left-0 -bottom-0.5 h-px w-full bg-transparent transition-colors duration-150 ease-out group-hover:bg-brand-primary" />
                 </Link>
               </li>
             ))}
@@ -83,7 +84,7 @@ export default function Footer() {
               <li key={service.slug}>
                 <Link href={service.href} className="group relative inline-block text-sm text-text-on-dark-secondary hover:text-text-on-dark transition-colors">
                   {service.shortTitle}
-                  <span className="absolute left-0 -bottom-0.5 h-px w-0 bg-brand-primary transition-[width] duration-200 ease-out group-hover:w-full" />
+                  <span className="absolute left-0 -bottom-0.5 h-px w-full bg-transparent transition-colors duration-150 ease-out group-hover:bg-brand-primary" />
                 </Link>
               </li>
             ))}

@@ -4,6 +4,7 @@ import TopBar from "@/components/layout/TopBar";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import MobileActionBar from "@/components/layout/MobileActionBar";
+import EstimateProvider from "@/components/estimate/EstimateProvider";
 import { siteConfig } from "@/lib/site-config";
 import "./globals.css";
 
@@ -59,11 +60,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessJsonLd) }}
         />
-        <TopBar />
-        <Header />
-        <main className="flex-1 pb-16 md:pb-0">{children}</main>
-        <Footer />
-        <MobileActionBar />
+        <EstimateProvider>
+          <TopBar />
+          <Header />
+          <main className="flex-1 pb-16 md:pb-0">{children}</main>
+          <Footer />
+          <MobileActionBar />
+        </EstimateProvider>
       </body>
     </html>
   );

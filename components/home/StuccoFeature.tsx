@@ -1,7 +1,6 @@
 import SafeMedia from "@/components/shared/SafeMedia";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
-import RevealOnScroll from "@/components/interactive/RevealOnScroll";
 
 const benefits = ["Durability", "Weather Protection", "Energy Efficiency", "Texture & Color Options"];
 
@@ -12,13 +11,12 @@ export default function StuccoFeature() {
         <SectionMarker number="04" label="Stucco" />
       </div>
 
-      <RevealOnScroll direction="image" className="relative mt-8 h-[80vh] min-h-[520px] w-full overflow-hidden">
+      <div className="relative mt-8 h-[80vh] min-h-[520px] w-full overflow-hidden">
         <SafeMedia
           src="/projects/stucco-house-exterior-01.webp"
           alt="Residential stucco exterior finished by Gilbert & Sons"
           fill
           rounded={false}
-          className="scale-105"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-brand-dark/85 via-brand-dark/20 to-transparent" />
 
@@ -49,7 +47,7 @@ export default function StuccoFeature() {
             </CTAButton>
           </div>
         </div>
-      </RevealOnScroll>
+      </div>
     </section>
   );
 }
