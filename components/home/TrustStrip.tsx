@@ -1,4 +1,5 @@
 import { siteConfig } from "@/lib/site-config";
+import FadeIn from "@/components/shared/FadeIn";
 
 function CalendarIcon() {
   return (
@@ -60,8 +61,8 @@ export default function TrustStrip() {
     <section className="bg-brand-dark border-b border-border-on-dark">
       <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-10">
         <div className="grid grid-cols-2 md:grid-cols-5 gap-8 md:gap-6">
-          {items.map(({ icon: Icon, stat, desc }) => (
-            <div key={stat} className="flex flex-col items-center text-center gap-3">
+          {items.map(({ icon: Icon, stat, desc }, index) => (
+            <FadeIn key={stat} delay={index * 70} className="flex flex-col items-center text-center gap-3">
               <span className="w-12 h-12 rounded-full border border-brand-primary/40 flex items-center justify-center text-brand-primary">
                 <Icon />
               </span>
@@ -69,7 +70,7 @@ export default function TrustStrip() {
                 <p className="font-heading font-semibold text-text-on-dark">{stat}</p>
                 <p className="text-xs text-text-on-dark-secondary mt-1">{desc}</p>
               </div>
-            </div>
+            </FadeIn>
           ))}
         </div>
       </div>

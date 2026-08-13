@@ -3,6 +3,7 @@ import SectionMarker from "@/components/shared/SectionMarker";
 import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import CTAButton from "@/components/shared/CTAButton";
 import FAQAccordion from "@/components/shared/FAQAccordion";
+import FadeIn from "@/components/shared/FadeIn";
 import OptionExplorer from "@/components/interactive/OptionExplorer";
 import RoofLayerExplorer from "@/components/interactive/RoofLayerExplorer";
 import InspectionHotspots from "@/components/interactive/InspectionHotspots";
@@ -40,19 +41,21 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                 ]}
               />
             </div>
-            <p className="section-marker text-text-on-dark-secondary mb-4">{page.eyebrow}</p>
-            <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
-              {page.title}
-            </h1>
-            <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">{page.intro}</p>
-            <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <EstimateButton variant="primary" showArrow>
-                Free Estimate
-              </EstimateButton>
-              <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
-                Call {siteConfig.phone}
-              </CTAButton>
-            </div>
+            <FadeIn>
+              <p className="section-marker text-text-on-dark-secondary mb-4">{page.eyebrow}</p>
+              <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
+                {page.title}
+              </h1>
+              <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">{page.intro}</p>
+              <div className="mt-8 flex flex-col sm:flex-row gap-4">
+                <EstimateButton variant="primary" showArrow>
+                  Free Estimate
+                </EstimateButton>
+                <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
+                  Call {siteConfig.phone}
+                </CTAButton>
+              </div>
+            </FadeIn>
           </div>
         </div>
       </section>
@@ -69,7 +72,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
         <div className="relative z-10 mx-auto max-w-[1200px] px-5 md:px-8">
           <div className="flex flex-col gap-16 md:gap-24">
             {page.sections.map((section, index) => (
-              <div key={section.heading}>
+              <FadeIn key={section.heading} delay={index * 60}>
                 <div
                   className={`flex flex-col md:flex-row gap-8 md:gap-16 items-start ${
                     index % 2 === 1 ? "md:flex-row-reverse" : ""
@@ -100,16 +103,18 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                     )}
                   </div>
                 </div>
-              </div>
+              </FadeIn>
             ))}
           </div>
 
           {page.interactive && (
             <div className="mt-20 md:mt-28 pt-16 md:pt-20 border-t border-border-subtle">
-              <SectionMarker number="—" label={page.interactive.label} />
-              <h2 className="text-2xl md:text-3xl font-heading font-semibold text-brand-ink mt-6 mb-10">
-                {page.interactive.heading}
-              </h2>
+              <FadeIn>
+                <SectionMarker number="—" label={page.interactive.label} />
+                <h2 className="text-2xl md:text-3xl font-heading font-semibold text-brand-ink mt-6 mb-10">
+                  {page.interactive.heading}
+                </h2>
+              </FadeIn>
               {page.interactive.kind === "options" && (
                 <OptionExplorer
                   options={page.interactive.options}
@@ -127,23 +132,26 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
       {related.length > 0 && (
         <section className="bg-surface-subtle border-y border-border-subtle">
           <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-16 md:py-20">
-            <SectionMarker number="—" label="Related Roofing Services" />
+            <FadeIn>
+              <SectionMarker number="—" label="Related Roofing Services" />
+            </FadeIn>
             <div className="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {related.map((service) => (
-                <a
-                  key={service.slug}
-                  href={service.href}
-                  className="group block bg-surface-main border-2 border-border-subtle p-6 rounded-md transition-colors duration-150 ease-out hover:bg-surface-subtle hover:border-brand-ink"
-                >
-                  <h3 className="font-heading font-semibold text-lg text-brand-ink mb-2">
-                    {service.title}
-                  </h3>
-                  <p className="text-sm text-text-secondary mb-4">{service.description}</p>
-                  <span className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary group-hover:underline underline-offset-4">
-                    Explore
-                    <span aria-hidden="true">→</span>
-                  </span>
-                </a>
+              {related.map((service, index) => (
+                <FadeIn key={service.slug} delay={index * 80}>
+                  <a
+                    href={service.href}
+                    className="group block bg-surface-main border-2 border-border-subtle p-6 rounded-md transition-colors duration-150 ease-out hover:bg-surface-subtle hover:border-brand-ink"
+                  >
+                    <h3 className="font-heading font-semibold text-lg text-brand-ink mb-2">
+                      {service.title}
+                    </h3>
+                    <p className="text-sm text-text-secondary mb-4">{service.description}</p>
+                    <span className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary group-hover:underline underline-offset-4">
+                      Explore
+                      <span aria-hidden="true">→</span>
+                    </span>
+                  </a>
+                </FadeIn>
               ))}
             </div>
           </div>
@@ -151,10 +159,12 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
       )}
 
       <section className="mx-auto max-w-[800px] px-5 md:px-8 py-20 md:py-28">
-        <SectionMarker number="FAQ" label="Common Questions" />
-        <div className="mt-8">
-          <FAQAccordion items={page.faqs} />
-        </div>
+        <FadeIn>
+          <SectionMarker number="FAQ" label="Common Questions" />
+          <div className="mt-8">
+            <FAQAccordion items={page.faqs} />
+          </div>
+        </FadeIn>
       </section>
     </>
   );

@@ -8,7 +8,7 @@
  */
 
 export const VIDEO_LINKS = {
-  HOME_HERO: "/projects/hero-roofline-video.mp4",
+  HOME_HERO: "/projects/hero-background-web.mp4",
 
   HOME_PROJECT_01: "", // ADD ROOF INSTALLATION VIDEO
   HOME_PROJECT_02: "", // ADD ROOF REPAIR VIDEO
@@ -28,7 +28,7 @@ export const VIDEO_LINKS = {
 
 export const heroMedia = {
   videoUrl: VIDEO_LINKS.HOME_HERO,
-  posterUrl: "/projects/hero-video-poster.jpg",
+  posterUrl: "/projects/hero-background-poster.jpg",
   objectPositionDesktop: "center center",
   objectPositionMobile: "center center",
 };

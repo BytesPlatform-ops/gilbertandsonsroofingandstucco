@@ -29,13 +29,13 @@ export default function Hero() {
         <div className="absolute inset-0 z-[1]" style={{ background: HERO_GRADIENT }} aria-hidden="true" />
 
         {/*
-          The estimate card sits in normal flow beside the copy rather than
-          absolutely positioned. That keeps it clear of the fixed header and
-          its "Get Free Estimate" button at every viewport height.
+          A real grid, not flex — the right column is a fixed track so the
+          form is flush against the container's right edge instead of just
+          trailing after the headline with leftover space to its right.
         */}
-        <div className="relative z-[2] w-full flex items-center px-5 md:px-10 lg:px-16 pt-[108px] md:pt-[148px] pb-16">
-          <div className="w-full flex items-center gap-10 xl:gap-16">
-            <div className="flex-1 max-w-2xl">
+        <div className="relative z-[2] w-full flex items-center px-5 md:px-8 lg:px-10 xl:px-16 pt-[108px] md:pt-[148px] pb-16">
+          <div className="w-full grid md:grid-cols-[minmax(0,1fr)_400px] lg:grid-cols-[minmax(0,1fr)_430px] xl:grid-cols-[minmax(0,1fr)_460px] gap-8 lg:gap-10 xl:gap-16 items-center">
+            <div className="min-w-0 max-w-2xl">
               <p className="section-marker text-text-on-dark-secondary mb-6">
                 {siteConfig.serviceArea}
               </p>
@@ -53,14 +53,14 @@ export default function Hero() {
               </div>
             </div>
 
-            <div className="hidden lg:block w-full max-w-[420px] shrink-0">
+            <div className="hidden md:block w-full">
               <HeroEstimateCard />
             </div>
           </div>
         </div>
       </div>
 
-      <div className="lg:hidden relative z-[2] px-5 md:px-10 py-14 bg-brand-dark">
+      <div className="md:hidden relative z-[2] px-5 py-14 bg-brand-dark">
         <HeroEstimateCard />
       </div>
     </section>

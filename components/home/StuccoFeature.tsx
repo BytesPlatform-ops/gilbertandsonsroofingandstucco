@@ -1,6 +1,7 @@
 import SafeMedia from "@/components/shared/SafeMedia";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
+import FadeIn from "@/components/shared/FadeIn";
 
 const benefits = ["Durability", "Weather Protection", "Energy Efficiency", "Texture & Color Options"];
 
@@ -21,31 +22,33 @@ export default function StuccoFeature() {
         <div className="absolute inset-0 bg-gradient-to-r from-brand-dark/85 via-brand-dark/20 to-transparent" />
 
         <div className="relative z-10 h-full mx-auto max-w-[1200px] px-5 md:px-8 flex flex-col justify-end pb-16">
-          <h2 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-lg">
-            Built for the New Mexico exterior.
-          </h2>
-          <p className="body-large text-text-on-dark-secondary mt-6 max-w-md">
-            Stucco and EIFS finishing for homes and commercial buildings —
-            durable, energy-efficient, and finished in the texture and color
-            that fits your property.
-          </p>
+          <FadeIn>
+            <h2 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-lg">
+              Built for the New Mexico exterior.
+            </h2>
+            <p className="body-large text-text-on-dark-secondary mt-6 max-w-md">
+              Stucco and EIFS finishing for homes and commercial buildings —
+              durable, energy-efficient, and finished in the texture and color
+              that fits your property.
+            </p>
 
-          <div className="mt-8 flex flex-wrap gap-3">
-            {benefits.map((benefit) => (
-              <span
-                key={benefit}
-                className="px-4 py-2 border border-white/25 text-xs font-heading font-semibold uppercase tracking-[0.04em] text-text-on-dark"
-              >
-                {benefit}
-              </span>
-            ))}
-          </div>
+            <div className="mt-8 flex flex-wrap gap-3">
+              {benefits.map((benefit) => (
+                <span
+                  key={benefit}
+                  className="px-4 py-2 border border-white/25 text-xs font-heading font-semibold uppercase tracking-[0.04em] text-text-on-dark"
+                >
+                  {benefit}
+                </span>
+              ))}
+            </div>
 
-          <div className="mt-10">
-            <CTAButton href="/stucco" variant="primary" showArrow>
-              Explore Stucco
-            </CTAButton>
-          </div>
+            <div className="mt-10">
+              <CTAButton href="/stucco" variant="primary" showArrow>
+                Explore Stucco
+              </CTAButton>
+            </div>
+          </FadeIn>
         </div>
       </div>
     </section>

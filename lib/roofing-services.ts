@@ -13,7 +13,7 @@ export const roofingServices: RoofingService[] = [
     shortTitle: "Installations",
     href: "/roofing/roof-installations",
     description:
-      "Professional roof installation using top-grade materials and industry-leading techniques.",
+      "New roof installation for asphalt shingle, metal, tile, flat and TPO systems, matched to your property.",
   },
   {
     slug: "roof-repairs",

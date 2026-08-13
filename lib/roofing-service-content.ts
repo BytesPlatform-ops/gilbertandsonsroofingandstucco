@@ -32,10 +32,10 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     eyebrow: "Roof Installations · Las Cruces, NM",
     title: "Professional roof installation in Las Cruces, NM",
     metaDescription:
-      "Gilbert & Sons installs residential and commercial roofs in Las Cruces, NM using top-grade materials and industry-leading techniques.",
+      "Gilbert & Sons installs residential and commercial roofs in Las Cruces, NM, matching materials and technique to the property and its climate.",
     intro:
-      "Gilbert & Sons provides professional roof installation services for residential and commercial properties across New Mexico, using top-grade materials and industry-leading installation techniques.",
-    heroImage: "/projects/aerial-shingle-roof-02.jpg",
+      "Gilbert & Sons installs roofs for residential and commercial properties across New Mexico, choosing materials and installation methods that fit the property and hold up to the local climate.",
+    heroImage: "/projects/roof-installation.jpg",
     backgroundPhrase: "BUILT TO LAST.",
     sections: [
       {
@@ -52,7 +52,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       {
         heading: "Installation process",
         body:
-          "We start with an on-site evaluation and a clear quote, then install using industry-leading techniques and quality materials, keeping you informed as work progresses.",
+          "We start with an on-site evaluation and a clear quote, then install using quality materials and proper technique, keeping you informed as work progresses.",
       },
     ],
     interactive: {
@@ -120,7 +120,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       "Roof repair services from Gilbert & Sons in Las Cruces, NM — leaks, storm damage and general roof wear repaired by a licensed, insured and bonded contractor.",
     intro:
       "Roofs develop problems over time — leaks, storm damage, and general wear and tear. Gilbert & Sons repairs these issues to restore your roof's protection.",
-    heroImage: "/projects/roof-detail-01.jpg",
+    heroImage: "/projects/aerial-shingle-roof-04.jpg",
     backgroundPhrase: "STOP THE DAMAGE.",
     sections: [
       {
@@ -202,7 +202,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       "Gilbert & Sons provides full roof replacement services in Las Cruces, NM when repair is no longer the right solution for your property.",
     intro:
       "When a roof reaches the end of its useful life or has suffered damage beyond what repair can address, Gilbert & Sons provides full roof replacement to give you a brand-new, long-lasting roof.",
-    heroImage: "/projects/aerial-shingle-roof-03.jpg",
+    heroImage: "/projects/roof-replacement.jpg",
     backgroundPhrase: "READY FOR WHAT'S NEXT.",
     sections: [
       {
@@ -289,7 +289,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       "Thorough roof inspections from Gilbert & Sons help identify potential roofing issues in Las Cruces, NM before they become larger repairs.",
     intro:
       "Thorough roof inspections help identify potential issues early, before they turn into larger and more costly repairs.",
-    heroImage: "/projects/roof-detail-02.jpg",
+    heroImage: "/projects/roof-inspection.jpg",
     backgroundPhrase: "KNOW BEFORE IT LEAKS.",
     sections: [
       {
@@ -345,7 +345,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       "Customized roof maintenance plans from Gilbert & Sons keep residential and commercial roofing systems in Las Cruces, NM performing properly.",
     intro:
       "Gilbert & Sons offers customized maintenance plans to suit your property's needs, helping roofing systems continue performing properly over time.",
-    heroImage: "/projects/aerial-shingle-roof-04.jpg",
+    heroImage: "/projects/roof-maintenance.jpg",
     backgroundPhrase: "STAY AHEAD OF IT.",
     sections: [
       {
@@ -372,7 +372,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         {
           key: "residential",
           label: "Residential",
-          image: "/projects/aerial-roof-overview-01.jpg",
+          image: "/projects/aerial-shingle-roof-04.jpg",
           heading: "Residential Maintenance",
           body: "Periodic checks on shingle, tile, or metal roofing to catch small issues — loose flashing, worn sealant — before they become leaks.",
         },
@@ -494,7 +494,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         {
           key: "insurance",
           label: "Insurance Claims",
-          image: "/projects/aerial-roof-overview-01.jpg",
+          image: "/projects/aerial-shingle-roof-01.jpg",
           heading: "Insurance Claim Assistance",
           body: "We help document and support insurance claims tied to storm or covered roof damage.",
         },
@@ -660,7 +660,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
         {
           key: "finished",
           label: "05 Finished Surface",
-          image: "/projects/ai-roofer-coating-application-01.png",
+          image: "/projects/aerial-shingle-roof-04.jpg",
           heading: "Finished Surface",
           body: "A renewed, reflective commercial roofing surface — without a full tear-off and replacement.",
         },

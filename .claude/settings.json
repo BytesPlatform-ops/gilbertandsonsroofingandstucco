@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /Users/bytes/Documents/GitHub/gilbertandsonsroofingandstucco *)",
+      "Read(//Applications/**)",
+      "Bash(curl -s http://localhost:3000/service-areas -o /tmp/sa2.html -w \"service-areas: %{http_code}\\\\n\")",
+      "Bash(curl -s http://localhost:3000/ -o /tmp/home2.html -w \"home: %{http_code}\\\\n\")",
+      "Read(//tmp/**)"
+    ]
+  }
+}

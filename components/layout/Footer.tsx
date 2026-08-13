@@ -4,6 +4,7 @@ import { primaryNav, siteConfig, supportingServices } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
 import CTAButton from "@/components/shared/CTAButton";
 import EstimateButton from "@/components/estimate/EstimateButton";
+import FadeIn from "@/components/shared/FadeIn";
 
 export default function Footer() {
   return (
@@ -18,7 +19,7 @@ export default function Footer() {
           <polyline points="0,24 720,0 1440,24" fill="none" stroke="currentColor" strokeOpacity="0.08" strokeWidth="1" />
         </svg>
 
-        <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28 text-center">
+        <FadeIn className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28 text-center">
           <p className="section-marker text-text-on-dark-secondary mb-6">Contact</p>
           <h2 className="section-title font-heading font-semibold text-text-on-dark max-w-3xl mx-auto">
             Get a free estimate today.
@@ -31,7 +32,7 @@ export default function Footer() {
               Call {siteConfig.phone}
             </CTAButton>
           </div>
-        </div>
+        </FadeIn>
       </div>
 
       <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-16 grid grid-cols-2 md:grid-cols-4 gap-10">
@@ -45,7 +46,8 @@ export default function Footer() {
           />
           <p className="text-sm text-text-on-dark-secondary max-w-xs leading-relaxed">
             Licensed, insured and bonded roofing and stucco contractor serving
-            Las Cruces and Doña Ana County since {siteConfig.established}.
+            Las Cruces and Doña Ana County since {siteConfig.established}.{" "}
+            {siteConfig.contractorLicense}.
           </p>
           <a
             href={siteConfig.social.facebook}

@@ -5,6 +5,7 @@ import Link from "next/link";
 import SafeMedia from "@/components/shared/SafeMedia";
 import SectionMarker from "@/components/shared/SectionMarker";
 import EstimateButton from "@/components/estimate/EstimateButton";
+import FadeIn from "@/components/shared/FadeIn";
 import { coreServices } from "@/lib/core-services";
 
 const linkClass =
@@ -17,12 +18,14 @@ export default function Services() {
   return (
     <section className="bg-surface-main">
       <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28">
-        <SectionMarker number="02" label="What We Do" />
-        <h2 className="section-title font-heading font-semibold text-brand-ink mt-6 max-w-2xl">
-          Five trades. One crew you can count on.
-        </h2>
+        <FadeIn>
+          <SectionMarker number="02" label="What We Do" />
+          <h2 className="section-title font-heading font-semibold text-brand-ink mt-6 max-w-2xl">
+            Roofing and stucco first. Painting and plastering when a job calls for it.
+          </h2>
+        </FadeIn>
 
-        <div className="hidden lg:grid grid-cols-[minmax(0,340px)_1fr] gap-16 mt-16">
+        <FadeIn delay={100} className="hidden lg:grid grid-cols-[minmax(0,340px)_1fr] gap-16 mt-16">
           <ul className="flex flex-col border-t border-border-subtle">
             {coreServices.map((service, index) => (
               <li key={service.slug} className="border-b border-border-subtle">
@@ -56,9 +59,19 @@ export default function Services() {
           </ul>
 
           <div className="grid grid-cols-2 gap-10 items-center">
-            <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm">
-              <SafeMedia src={active.image} alt={active.title} fill rounded={false} />
-            </div>
+            {active.href ? (
+              <Link
+                href={active.href}
+                aria-label={active.cta}
+                className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm block group"
+              >
+                <SafeMedia src={active.image} alt={active.title} fill rounded={false} />
+              </Link>
+            ) : (
+              <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm">
+                <SafeMedia src={active.image} alt={active.title} fill rounded={false} />
+              </div>
+            )}
             <div>
               <span className="section-marker text-text-secondary">
                 {String(activeIndex + 1).padStart(2, "0")} / {String(coreServices.length).padStart(2, "0")}
@@ -86,18 +99,28 @@ export default function Services() {
               </div>
             </div>
           </div>
-        </div>
+        </FadeIn>
 
         <div className="lg:hidden flex flex-col gap-10 mt-12">
           {coreServices.map((service, index) => (
-            <div key={service.slug} className="border-t border-border-subtle pt-8">
+            <FadeIn key={service.slug} delay={index * 70} className="border-t border-border-subtle pt-8">
               <span className="section-marker text-text-secondary">
                 {String(index + 1).padStart(2, "0")}
               </span>
               <h3 className="text-2xl font-heading font-semibold text-brand-ink mt-2">{service.title}</h3>
-              <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] mt-4">
-                <SafeMedia src={service.image} alt={service.title} fill rounded={false} />
-              </div>
+              {service.href ? (
+                <Link
+                  href={service.href}
+                  aria-label={service.cta}
+                  className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] mt-4 block"
+                >
+                  <SafeMedia src={service.image} alt={service.title} fill rounded={false} />
+                </Link>
+              ) : (
+                <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] mt-4">
+                  <SafeMedia src={service.image} alt={service.title} fill rounded={false} />
+                </div>
+              )}
               <p className="text-text-secondary mt-4">{service.description}</p>
               <div className="mt-4">
                 {service.href ? (
@@ -111,7 +134,7 @@ export default function Services() {
                   </EstimateButton>
                 )}
               </div>
-            </div>
+            </FadeIn>
           ))}
         </div>
       </div>

@@ -5,6 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { primaryNav, siteConfig } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
+import { serviceAreas } from "@/lib/service-areas";
 import { useEstimate } from "@/components/estimate/EstimateProvider";
 
 export default function MobileMenu({
@@ -15,6 +16,7 @@ export default function MobileMenu({
   onClose: () => void;
 }) {
   const [roofingExpanded, setRoofingExpanded] = useState(false);
+  const [areasExpanded, setAreasExpanded] = useState(false);
   const { openEstimate } = useEstimate();
 
   return (
@@ -89,6 +91,46 @@ export default function MobileMenu({
                             className="block py-2.5 text-sm text-text-on-dark-secondary hover:text-text-on-dark"
                           >
                             {service.title}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </li>
+              ) : item.label === "Service Areas" ? (
+                <li key={item.href} className="border-b border-border-on-dark">
+                  <div className="flex items-center justify-between">
+                    <Link
+                      href={item.href}
+                      onClick={onClose}
+                      className="py-4 text-lg font-heading font-semibold uppercase tracking-[0.03em] flex-1 transition-colors duration-150 hover:text-brand-primary"
+                    >
+                      Service Areas
+                    </Link>
+                    <button
+                      type="button"
+                      aria-label="Toggle service areas"
+                      aria-expanded={areasExpanded}
+                      onClick={() => setAreasExpanded((v) => !v)}
+                      className="w-11 h-11 flex items-center justify-center text-xl"
+                    >
+                      {areasExpanded ? "−" : "+"}
+                    </button>
+                  </div>
+                  <div
+                    className={`overflow-hidden transition-[max-height] duration-300 ease-out ${
+                      areasExpanded ? "max-h-[600px]" : "max-h-0"
+                    }`}
+                  >
+                    <ul className="pb-3 pl-3">
+                      {serviceAreas.map((area) => (
+                        <li key={area.slug}>
+                          <Link
+                            href={area.href}
+                            onClick={onClose}
+                            className="block py-2.5 text-sm text-text-on-dark-secondary hover:text-text-on-dark"
+                          >
+                            {area.name}
                           </Link>
                         </li>
                       ))}

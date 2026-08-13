@@ -1,5 +1,6 @@
 import SectionMarker from "@/components/shared/SectionMarker";
 import ContactForm from "@/components/shared/ContactForm";
+import FadeIn from "@/components/shared/FadeIn";
 import { siteConfig } from "@/lib/site-config";
 
 export default function ContactSection() {
@@ -7,10 +8,12 @@ export default function ContactSection() {
     // scroll-mt clears the fixed top bar + header when linked to as /#contact.
     <section id="contact" className="bg-surface-main scroll-mt-[92px] md:scroll-mt-[132px]">
       <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28">
-        <SectionMarker number="10" label="Contact" />
+        <FadeIn>
+          <SectionMarker number="10" label="Contact" />
+        </FadeIn>
 
         <div className="mt-10 grid lg:grid-cols-[minmax(0,1fr)_minmax(0,560px)] gap-12 lg:gap-16">
-          <div>
+          <FadeIn>
             <h2 className="section-title font-heading font-semibold text-brand-ink max-w-lg">
               Let&rsquo;s take a look at your property.
             </h2>
@@ -38,11 +41,11 @@ export default function ContactSection() {
                 {siteConfig.address.line2}
               </p>
             </div>
-          </div>
+          </FadeIn>
 
-          <div className="min-w-0">
+          <FadeIn delay={100} className="min-w-0">
             <ContactForm size="large" idPrefix="contact-section" />
-          </div>
+          </FadeIn>
         </div>
       </div>
     </section>

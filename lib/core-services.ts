@@ -15,8 +15,8 @@ export const coreServices: CoreService[] = [
     slug: "roofing",
     title: "Roofing",
     description:
-      "Roof installation, repair, replacement, inspection and specialty roofing solutions for residential and commercial properties.",
-    image: "/projects/aerial-shingle-roof-04.jpg",
+      "Installation, repair, replacement and inspection for asphalt shingle, tile, metal and flat roofs — residential and commercial, across Las Cruces and Doña Ana County.",
+    image: "/projects/aerial-shingle-roof-02.jpg",
     href: "/roofing",
     cta: "Explore Roofing",
     items: ["Roof Installations", "Roof Repair", "Roof Replacement", "Roof Inspection"],
@@ -25,7 +25,7 @@ export const coreServices: CoreService[] = [
     slug: "stucco",
     title: "Stucco",
     description:
-      "Stucco installation and repair for residential and commercial exteriors, including EIFS, parapets and exterior finish work.",
+      "Stucco and EIFS installation and repair built for the New Mexico climate, including parapet repair and full exterior finish work.",
     image: "/projects/stucco-house-exterior-02.webp",
     href: "/stucco",
     cta: "Explore Stucco",
@@ -35,26 +35,16 @@ export const coreServices: CoreService[] = [
     slug: "painting",
     title: "Painting",
     description:
-      "Exterior and interior painting services that support repair, renovation and property maintenance projects.",
+      "Exterior and interior painting, often paired with stucco or repair work so the finish matches when the job is done.",
     image: "/projects/ai-house-exterior-golden-hour-01.png",
     cta: "Request an Estimate",
     items: ["Interior Painting", "Exterior Painting"],
   },
   {
-    slug: "drywall",
-    title: "Drywall",
-    description: "Drywall installation and repair for damaged, remodeled or newly finished interior spaces.",
-    // Closest surface/finish-work photo currently in /public. Drop a real
-    // drywall photo in public/projects/ and swap this one path to use it.
-    image: "/projects/stucco-project-construction-01.webp",
-    cta: "Request an Estimate",
-    items: ["Installation", "Repair"],
-  },
-  {
     slug: "plastering",
     title: "Plastering",
     description:
-      "Plaster repair and finishing services for walls and surfaces requiring a durable, properly finished result.",
+      "Plaster repair and refinishing for walls and surfaces that need a clean, lasting result — smooth or textured.",
     image: "/projects/ai-stucco-patch-progress-01.png",
     cta: "Request an Estimate",
     items: ["Smooth Finish", "Textured Finish"],

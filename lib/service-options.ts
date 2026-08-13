@@ -10,7 +10,6 @@ export const serviceOptions = [
   "Commercial Roof Restoration",
   "Stucco",
   "Painting",
-  "Drywall",
   "Plastering",
   "Other",
 ];

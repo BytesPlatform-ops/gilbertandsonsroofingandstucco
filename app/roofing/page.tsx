@@ -4,6 +4,7 @@ import CTAButton from "@/components/shared/CTAButton";
 import EstimateButton from "@/components/estimate/EstimateButton";
 import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import SafeMedia from "@/components/shared/SafeMedia";
+import FadeIn from "@/components/shared/FadeIn";
 import RoofingNavigator from "@/components/roofing/RoofingNavigator";
 import FullScreenStoryScene from "@/components/interactive/FullScreenStoryScene";
 import { siteConfig, supportingServices } from "@/lib/site-config";
@@ -90,31 +91,35 @@ export default function RoofingHubPage() {
             <div className="mb-6">
               <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Roofing" }]} />
             </div>
-            <p className="section-marker text-text-on-dark-secondary mb-4">
-              Roofing · Las Cruces, NM
-            </p>
-            <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
-              Roofing that&rsquo;s built to perform.
-            </h1>
-            <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">
-              We offer a comprehensive range of roofing services for residential and
-              commercial clients across New Mexico — designed to deliver high-quality,
-              reliable and durable roofing that protects your property.
-            </p>
-            <div className="mt-8 flex flex-col sm:flex-row gap-4">
-              <EstimateButton variant="primary" showArrow>
-                Free Estimate
-              </EstimateButton>
-              <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
-                Call {siteConfig.phone}
-              </CTAButton>
-            </div>
+            <FadeIn>
+              <p className="section-marker text-text-on-dark-secondary mb-4">
+                Roofing · Las Cruces, NM
+              </p>
+              <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
+                Roofing that&rsquo;s built to perform.
+              </h1>
+              <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">
+                We offer a comprehensive range of roofing services for residential and
+                commercial clients across New Mexico — designed to deliver high-quality,
+                reliable and durable roofing that protects your property.
+              </p>
+              <div className="mt-8 flex flex-col sm:flex-row gap-4">
+                <EstimateButton variant="primary" showArrow>
+                  Free Estimate
+                </EstimateButton>
+                <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
+                  Call {siteConfig.phone}
+                </CTAButton>
+              </div>
+            </FadeIn>
           </div>
         </div>
       </section>
 
       <section className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28">
-        <SectionMarker number="01" label="Choose a Service" />
+        <FadeIn>
+          <SectionMarker number="01" label="Choose a Service" />
+        </FadeIn>
         <div className="mt-10">
           <RoofingNavigator />
         </div>
@@ -139,17 +144,19 @@ export default function RoofingHubPage() {
 
       <section className="bg-surface-subtle border-t border-border-subtle">
         <div className="mx-auto max-w-[1200px] px-5 md:px-8 py-16 md:py-20">
-          <SectionMarker number="—" label="Also Available" />
-          <div className="mt-8 flex flex-wrap gap-4">
-            {supportingServices.map((service) => (
-              <span
-                key={service.label}
-                className="px-5 py-3 border border-border-subtle bg-surface-main text-sm font-heading font-semibold uppercase tracking-[0.03em] text-brand-ink"
-              >
-                {service.label}
-              </span>
-            ))}
-          </div>
+          <FadeIn>
+            <SectionMarker number="—" label="Also Available" />
+            <div className="mt-8 flex flex-wrap gap-4">
+              {supportingServices.map((service) => (
+                <span
+                  key={service.label}
+                  className="px-5 py-3 border border-border-subtle bg-surface-main text-sm font-heading font-semibold uppercase tracking-[0.03em] text-brand-ink"
+                >
+                  {service.label}
+                </span>
+              ))}
+            </div>
+          </FadeIn>
         </div>
       </section>
     </>

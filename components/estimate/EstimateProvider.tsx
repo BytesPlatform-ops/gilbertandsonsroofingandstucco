@@ -8,6 +8,7 @@ import {
   useMemo,
   useRef,
   useState,
+  useSyncExternalStore,
   type ReactNode,
 } from "react";
 import { createPortal } from "react-dom";
@@ -116,13 +117,16 @@ function EstimateModal({ onClose }: { onClose: () => void }) {
   );
 }
 
+const subscribeNoop = () => () => {};
+const getClientSnapshot = () => true;
+const getServerSnapshot = () => false;
+
 export default function EstimateProvider({ children }: { children: ReactNode }) {
   const [open, setOpen] = useState(false);
-  const [mounted, setMounted] = useState(false);
 
   // Portals can only render after hydration — gating on this avoids a
   // server/client markup mismatch.
-  useEffect(() => setMounted(true), []);
+  const mounted = useSyncExternalStore(subscribeNoop, getClientSnapshot, getServerSnapshot);
 
   const openEstimate = useCallback(() => setOpen(true), []);
   const closeEstimate = useCallback(() => setOpen(false), []);

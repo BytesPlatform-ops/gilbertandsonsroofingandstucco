@@ -1,7 +1,7 @@
 import Hero from "@/components/home/Hero";
 import TrustStrip from "@/components/home/TrustStrip";
 import Services from "@/components/home/Services";
-import RoofingFeature from "@/components/home/RoofingFeature";
+import RoofingServiceCards from "@/components/home/RoofingServiceCards";
 import StuccoFeature from "@/components/home/StuccoFeature";
 import FieldNotes from "@/components/home/FieldNotes";
 import RecentWork from "@/components/home/RecentWork";
@@ -17,7 +17,7 @@ export default function Home() {
       <Hero />
       <TrustStrip />
       <Services />
-      <RoofingFeature />
+      <RoofingServiceCards />
       <StuccoFeature />
       <FieldNotes />
       <RecentWork />

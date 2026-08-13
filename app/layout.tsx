@@ -25,6 +25,7 @@ const localBusinessJsonLd = {
   areaServed: "Las Cruces, NM and Doña Ana County, NM",
   url: "https://gilbertandsonsroofingandstucco.com",
   foundingDate: String(siteConfig.established),
+  hasCredential: siteConfig.contractorLicense,
 };
 
 const oswald = Oswald({
