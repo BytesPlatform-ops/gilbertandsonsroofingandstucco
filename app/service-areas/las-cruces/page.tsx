@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
@@ -177,13 +178,27 @@ export default function LasCrucesServiceAreaPage() {
         </FadeIn>
         <div className="mt-10 grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-border-subtle border border-border-subtle">
           {[
-            { title: `Established ${siteConfig.established}`, body: "Local roofing and stucco work in Las Cruces for over a decade." },
+            {
+              title: `${new Date().getFullYear() - siteConfig.established}+ Years in the Industry`,
+              body: `Local roofing and stucco work in Las Cruces since ${siteConfig.established}.`,
+            },
             { title: "Licensed & Bonded", body: siteConfig.contractorLicense },
             { title: "Insured", body: "Coverage in place before work starts on your property." },
-            { title: "BBB Member", body: "Credibility you can verify independently." },
+            { title: "BBB Accredited Business", body: "Accredited by the Better Business Bureau — credibility you can verify independently.", logo: true },
           ].map((item, index) => (
             <FadeIn key={item.title} delay={index * 70} className="bg-surface-main p-8">
-              <h3 className="font-heading font-semibold text-lg text-brand-ink">{item.title}</h3>
+              <div className="flex items-center gap-2">
+                {item.logo && (
+                  <Image
+                    src="/bbb.webp"
+                    alt=""
+                    width={22}
+                    height={22}
+                    className="w-[22px] h-[22px] object-contain shrink-0"
+                  />
+                )}
+                <h3 className="font-heading font-semibold text-lg text-brand-ink">{item.title}</h3>
+              </div>
               <p className="text-sm text-text-secondary mt-3">{item.body}</p>
             </FadeIn>
           ))}

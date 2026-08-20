@@ -12,7 +12,8 @@ export const VIDEO_LINKS = {
 
   HOME_PROJECT_01: "", // ADD ROOF INSTALLATION VIDEO
   HOME_PROJECT_02: "", // ADD ROOF REPAIR VIDEO
-  HOME_PROJECT_03: "", // ADD COMPLETED ROOF / STUCCO VIDEO
+  HOME_PROJECT_03: "/projects/gilbert-sons-completed-roof-flyover.mp4",
+  FLEET_AND_CREW: "/projects/gilbert-sons-truck-fleet.mp4",
 
   ROOFING_INSTALLATION: "", // ADD ROOF INSTALLATION VIDEO
   ROOFING_REPAIR: "", // ADD ROOF REPAIR VIDEO

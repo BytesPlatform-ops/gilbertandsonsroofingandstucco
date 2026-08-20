@@ -26,6 +26,7 @@ const localBusinessJsonLd = {
   url: "https://gilbertandsonsroofingandstucco.com",
   foundingDate: String(siteConfig.established),
   hasCredential: siteConfig.contractorLicense,
+  award: "BBB Accredited Business",
 };
 
 const oswald = Oswald({

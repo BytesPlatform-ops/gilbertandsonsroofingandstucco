@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import SectionMarker from "@/components/shared/SectionMarker";
 import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import SafeMedia from "@/components/shared/SafeMedia";
@@ -100,7 +101,13 @@ export default function AboutPage() {
           ))}
         </div>
         <FadeIn delay={100} className="mt-10 flex flex-wrap gap-3">
-          {["Licensed", "Insured", "Bonded", "BBB Member", siteConfig.contractorLicense].map((badge) => (
+          {[
+            `${new Date().getFullYear() - siteConfig.established}+ Years in the Industry`,
+            "Licensed",
+            "Insured",
+            "Bonded",
+            siteConfig.contractorLicense,
+          ].map((badge) => (
             <span
               key={badge}
               className="px-4 py-2 border border-border-subtle text-xs font-heading font-semibold uppercase tracking-[0.04em] text-brand-ink"
@@ -108,6 +115,16 @@ export default function AboutPage() {
               {badge}
             </span>
           ))}
+          <span className="flex items-center gap-2 px-4 py-2 border border-border-subtle text-xs font-heading font-semibold uppercase tracking-[0.04em] text-brand-ink">
+            <Image
+              src="/bbb.webp"
+              alt=""
+              width={18}
+              height={18}
+              className="w-[18px] h-[18px] object-contain"
+            />
+            BBB Accredited Business
+          </span>
         </FadeIn>
       </section>
 

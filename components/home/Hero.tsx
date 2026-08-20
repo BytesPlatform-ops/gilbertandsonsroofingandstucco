@@ -1,3 +1,4 @@
+import Image from "next/image";
 import CTAButton from "@/components/shared/CTAButton";
 import SafeMedia from "@/components/shared/SafeMedia";
 import HeroEstimateCard from "@/components/home/HeroEstimateCard";
@@ -8,6 +9,8 @@ const HERO_GRADIENT =
   "linear-gradient(90deg, rgba(23,19,15,.72) 0%, rgba(23,19,15,.42) 45%, rgba(23,19,15,.14) 75%, rgba(23,19,15,.18) 100%)";
 
 export default function Hero() {
+  const years = new Date().getFullYear() - siteConfig.established;
+
   return (
     <section className="relative overflow-hidden bg-brand-dark">
       <div className="relative flex min-h-[85svh] md:min-h-[100svh]">
@@ -50,6 +53,31 @@ export default function Hero() {
                 <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                   Call {siteConfig.phone}
                 </CTAButton>
+              </div>
+
+              <div className="mt-8 flex flex-wrap items-stretch gap-3">
+                <span className="inline-flex items-center gap-2.5 rounded-md border border-white/15 bg-surface-dark-raised px-5 py-3">
+                  <span className="font-heading font-semibold text-4xl md:text-5xl text-brand-primary leading-none">
+                    {years}+
+                  </span>
+                  <span className="text-base font-heading font-semibold uppercase tracking-[0.02em] text-text-on-dark">
+                    Years in the Industry
+                  </span>
+                </span>
+                <span className="inline-flex items-center gap-3 rounded-md border border-white/15 bg-surface-dark-raised px-5 py-3">
+                  <span className="w-11 h-11 rounded bg-white flex items-center justify-center overflow-hidden p-1.5 shrink-0">
+                    <Image
+                      src="/bbb.webp"
+                      alt="Better Business Bureau Accredited Business"
+                      width={44}
+                      height={44}
+                      className="w-full h-full object-contain"
+                    />
+                  </span>
+                  <span className="text-base font-heading font-semibold uppercase tracking-[0.02em] text-text-on-dark">
+                    BBB Accredited Business
+                  </span>
+                </span>
               </div>
             </div>
 

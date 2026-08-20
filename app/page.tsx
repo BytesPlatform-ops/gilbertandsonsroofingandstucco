@@ -5,7 +5,7 @@ import RoofingServiceCards from "@/components/home/RoofingServiceCards";
 import StuccoFeature from "@/components/home/StuccoFeature";
 import FieldNotes from "@/components/home/FieldNotes";
 import RecentWork from "@/components/home/RecentWork";
-import WhyGilbert from "@/components/home/WhyGilbert";
+import AboutStrip from "@/components/home/AboutStrip";
 import Process from "@/components/home/Process";
 import FeaturedTestimonials from "@/components/home/FeaturedTestimonials";
 import ContactSection from "@/components/home/ContactSection";
@@ -21,7 +21,7 @@ export default function Home() {
       <StuccoFeature />
       <FieldNotes />
       <RecentWork />
-      <WhyGilbert />
+      <AboutStrip />
       <Process />
       <FeaturedTestimonials items={testimonials} />
       <ContactSection />

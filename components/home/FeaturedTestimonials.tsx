@@ -217,8 +217,18 @@ export default function FeaturedTestimonials({
             <h3 className="font-heading font-semibold text-lg text-text-on-dark">Gilbert &amp; Sons</h3>
             <p className="text-sm text-text-on-dark-secondary mt-1">Roofing &amp; Stucco Contractor</p>
             <div className="mt-5 flex flex-col gap-2 text-xs font-heading font-semibold uppercase tracking-[0.03em] text-text-on-dark-secondary border-t border-white/10 pt-5">
+              <span>{new Date().getFullYear() - siteConfig.established}+ Years in the Industry</span>
               <span>Licensed · Insured · Bonded</span>
-              <span>BBB Member</span>
+              <span className="flex items-center gap-2 normal-case tracking-normal">
+                <Image
+                  src="/bbb.webp"
+                  alt=""
+                  width={20}
+                  height={20}
+                  className="w-5 h-5 rounded-full bg-white object-contain p-0.5 shrink-0"
+                />
+                <span className="uppercase tracking-[0.03em]">BBB Accredited Business</span>
+              </span>
               <span>Serving Las Cruces since {siteConfig.established}</span>
               <span>{siteConfig.contractorLicense}</span>
             </div>
