@@ -11,7 +11,7 @@ import { siteConfig } from "@/lib/site-config";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Gilbert & Sons Roofing and Stucco Inc. — locally owned by Bob Gilbert, serving Las Cruces and Doña Ana County, New Mexico since 2010.",
+    "Gilbert & Sons Roofing and Stucco Inc. — led by President Bob Gilbert, serving Las Cruces and Doña Ana County, New Mexico since 2010.",
   alternates: { canonical: "/about" },
 };
 
@@ -56,15 +56,15 @@ export default function AboutPage() {
           <div>
             <SectionMarker number="01" label={`Established ${siteConfig.established}`} />
             <h2 className="section-title font-heading font-semibold text-brand-ink mt-6">
-              Owned by Bob Gilbert.
+              Led by President Bob Gilbert.
             </h2>
           </div>
           <p className="body-large text-text-secondary">
-            Bob Gilbert started Gilbert &amp; Sons in {siteConfig.established}, and it&rsquo;s
-            been doing roofing and stucco work in Las Cruces and Doña Ana County
-            ever since. It&rsquo;s a local, licensed, insured and bonded contractor —
-            not a franchise, and not a call center routing your number to a
-            subcontractor you&rsquo;ve never met.
+            Bob Gilbert founded Gilbert &amp; Sons in {siteConfig.established} and serves as
+            President of the company today. We&rsquo;ve been doing roofing and stucco work in
+            Las Cruces and Doña Ana County ever since — a local, licensed, insured and bonded
+            contractor, not a franchise or a call center routing your number to a subcontractor
+            you&rsquo;ve never met.
           </p>
         </FadeIn>
       </section>

@@ -57,10 +57,11 @@ export default function AboutStrip() {
 
           <div className="mt-8 grid sm:grid-cols-2 gap-8">
             <p className="text-text-secondary leading-relaxed">
-              {siteConfig.owner} started {siteConfig.shortName} in {siteConfig.established}, and
-              it&rsquo;s been doing roofing and stucco work in Las Cruces and Doña Ana County ever
-              since. It&rsquo;s a local, licensed, insured and bonded contractor — not a franchise,
-              and not a call center routing your number to a subcontractor you&rsquo;ve never met.
+              {siteConfig.president} founded {siteConfig.shortName} in {siteConfig.established} and
+              serves as President of the company today. We&rsquo;ve been doing roofing and stucco
+              work in Las Cruces and Doña Ana County ever since — a local, licensed, insured and
+              bonded contractor, not a franchise or a call center routing your number to a
+              subcontractor you&rsquo;ve never met.
             </p>
             <p className="text-text-secondary leading-relaxed">
               We&rsquo;re a BBB Accredited Business, and we work on single-family homes, rental

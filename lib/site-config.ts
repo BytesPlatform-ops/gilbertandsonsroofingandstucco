@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   serviceArea: "Las Cruces, NM · Doña Ana County",
   established: 2010,
-  owner: "Bob Gilbert",
+  president: "Bob Gilbert",
   contractorLicense: "NM Contractor License #377887",
   social: {
     facebook: "https://www.facebook.com/",

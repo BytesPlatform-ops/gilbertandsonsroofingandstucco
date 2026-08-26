@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import SafeMedia from "@/components/shared/SafeMedia";
+import BeforeAfterSlider from "@/components/shared/BeforeAfterSlider";
 import EstimateButton from "@/components/estimate/EstimateButton";
 
 const ctaClass =
@@ -15,6 +16,13 @@ export type ExplorerOption = {
   heading: string;
   body: string;
   note?: string;
+  /** Renders a draggable before/after slider instead of `image` — pass null srcs for placeholders. */
+  beforeAfter?: {
+    before: string | null;
+    after: string | null;
+    beforeAlt?: string;
+    afterAlt?: string;
+  };
 };
 
 export default function OptionExplorer({
@@ -63,10 +71,21 @@ export default function OptionExplorer({
       </div>
 
       <div>
-        {active.image && (
-          <div className="relative aspect-[16/9] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm mb-6">
-            <SafeMedia src={active.image} alt={active.heading} fill rounded={false} />
+        {active.beforeAfter ? (
+          <div className="mb-6">
+            <BeforeAfterSlider
+              beforeSrc={active.beforeAfter.before}
+              afterSrc={active.beforeAfter.after}
+              beforeAlt={active.beforeAfter.beforeAlt ?? `${active.heading} — before`}
+              afterAlt={active.beforeAfter.afterAlt ?? `${active.heading} — after`}
+            />
           </div>
+        ) : (
+          active.image && (
+            <div className="relative aspect-[16/9] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm mb-6">
+              <SafeMedia src={active.image} alt={active.heading} fill rounded={false} />
+            </div>
+          )
         )}
         <h3 className="text-2xl font-heading font-semibold text-brand-ink">{active.heading}</h3>
         <p className="text-text-secondary mt-3 max-w-xl">{active.body}</p>

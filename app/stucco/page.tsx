@@ -23,9 +23,15 @@ const explorerOptions = [
   {
     key: "repair",
     label: "Repair",
-    image: "/projects/ai-stucco-patch-progress-01.png",
+    image: null,
+    beforeAfter: {
+      before: "/projects/stucco-repair-before.png",
+      after: "/projects/stucco-repair-after.png",
+      beforeAlt: "Stucco wall with patched, unfinished repair areas",
+      afterAlt: "Same stucco wall with the finish blended and matched to the surrounding exterior",
+    },
     heading: "Matching the Existing Finish",
-    body: "Stucco repair involves more than filling damage. Texture, finish and surrounding surfaces need to be blended carefully so repaired areas fit naturally with the existing exterior.",
+    body: "Stucco repair involves more than filling damage. Texture, finish and surrounding surfaces need to be blended carefully so repaired areas fit naturally with the existing exterior. Drag the slider to compare a repair before and after.",
   },
   {
     key: "residential",
