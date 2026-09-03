@@ -49,6 +49,9 @@ export const metadata: Metadata = {
   },
   description:
     "Residential and commercial roofing and stucco in Las Cruces, New Mexico. Licensed, insured and bonded since 2010. Call 575-649-2316 for a free estimate.",
+  verification: {
+    google: "QhYfMWB1vDHBWOOTu82MDVSFlRmgf0he_6WjceCjNLY",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
