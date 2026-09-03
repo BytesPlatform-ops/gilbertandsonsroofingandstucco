@@ -14,8 +14,8 @@ export default function StuccoFeature() {
 
       <div className="relative mt-8 h-[80vh] min-h-[520px] w-full overflow-hidden">
         <SafeMedia
-          src="/projects/stucco-house-exterior-01.webp"
-          alt="Residential stucco exterior finished by Gilbert & Sons"
+          src="/projects/stucco-modern-exterior-01.jpeg"
+          alt="Modern stucco home exterior with a smooth, clean finish"
           fill
           rounded={false}
         />
