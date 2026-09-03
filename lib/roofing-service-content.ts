@@ -16,6 +16,7 @@ export type RoofingServicePage = {
   slug: string;
   eyebrow: string;
   title: string;
+  seoTitle: string;
   metaDescription: string;
   intro: string;
   heroImage: string;
@@ -31,8 +32,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "roof-installations",
     eyebrow: "Roof Installations · Las Cruces, NM",
     title: "Professional roof installation in Las Cruces, NM",
+    seoTitle: "Roof Installation in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Gilbert & Sons installs residential and commercial roofs in Las Cruces, NM, matching materials and technique to the property and its climate.",
+      "New roof installation in Las Cruces, NM — asphalt shingle, metal, tile, flat and TPO systems for homes and businesses. Free on-site estimate.",
     intro:
       "Gilbert & Sons installs roofs for residential and commercial properties across New Mexico, choosing materials and installation methods that fit the property and hold up to the local climate.",
     heroImage: "/projects/roof-installation.jpg",
@@ -116,8 +118,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "roof-repairs",
     eyebrow: "Roof Repairs · Las Cruces, NM",
     title: "Roof repair for leaks, storm damage and wear in Las Cruces, NM",
+    seoTitle: "Roof Repair in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Roof repair services from Gilbert & Sons in Las Cruces, NM — leaks, storm damage and general roof wear repaired by a licensed, insured and bonded contractor.",
+      "Roof repair in Las Cruces, NM for leaks, storm damage, flashing and general wear. Licensed, insured and bonded. Call 575-649-2316.",
     intro:
       "Roofs develop problems over time — leaks, storm damage, and general wear and tear. Gilbert & Sons repairs these issues to restore your roof's protection.",
     heroImage: "/projects/aerial-shingle-roof-04.jpg",
@@ -198,8 +201,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "roof-replacements",
     eyebrow: "Roof Replacements · Las Cruces, NM",
     title: "Full roof replacement in Las Cruces, NM",
+    seoTitle: "Roof Replacement in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Gilbert & Sons provides full roof replacement services in Las Cruces, NM when repair is no longer the right solution for your property.",
+      "Full roof replacement in Las Cruces, NM when repair is no longer the answer. Shingle, metal, tile, flat & TPO. Insurance claims welcome.",
     intro:
       "When a roof reaches the end of its useful life or has suffered damage beyond what repair can address, Gilbert & Sons provides full roof replacement to give you a brand-new, long-lasting roof.",
     heroImage: "/projects/roof-replacement.jpg",
@@ -285,8 +289,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "roof-inspections",
     eyebrow: "Roof Inspections · Las Cruces, NM",
     title: "Roof inspections in Las Cruces, NM",
+    seoTitle: "Roof Inspection in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Thorough roof inspections from Gilbert & Sons help identify potential roofing issues in Las Cruces, NM before they become larger repairs.",
+      "Roof inspections in Las Cruces, NM — catch leaks, storm damage and wear early. Ideal before buying or selling a home. Call 575-649-2316.",
     intro:
       "Thorough roof inspections help identify potential issues early, before they turn into larger and more costly repairs.",
     heroImage: "/projects/roof-inspection.jpg",
@@ -341,8 +346,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "roof-maintenance",
     eyebrow: "Roof Maintenance · Las Cruces, NM",
     title: "Roof maintenance plans in Las Cruces, NM",
+    seoTitle: "Roof Maintenance in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Customized roof maintenance plans from Gilbert & Sons keep residential and commercial roofing systems in Las Cruces, NM performing properly.",
+      "Roof maintenance plans in Las Cruces, NM for residential and commercial roofs. Preventive checks that extend roof life. Free estimates.",
     intro:
       "Gilbert & Sons offers customized maintenance plans to suit your property's needs, helping roofing systems continue performing properly over time.",
     heroImage: "/projects/roof-maintenance.jpg",
@@ -409,8 +415,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "emergency-roofing",
     eyebrow: "Emergency Roofing · Las Cruces, NM",
     title: "Emergency roofing services in Las Cruces, NM",
+    seoTitle: "Emergency Roof Repair in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Prompt, responsive emergency roofing services from Gilbert & Sons for urgent roof damage in Las Cruces, NM. Call 575-649-2316.",
+      "Emergency roof repair in Las Cruces, NM for active leaks and storm damage. Fast, responsive local response. Call 575-649-2316 now.",
     intro:
       "Gilbert & Sons provides prompt and responsive emergency roofing services when your property has urgent roof damage.",
     heroImage: "/projects/aerial-shingle-roof-05.jpg",
@@ -454,8 +461,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "specialty-roofing",
     eyebrow: "Specialty Roofing · Las Cruces, NM",
     title: "Specialty roofing systems and services in Las Cruces, NM",
+    seoTitle: "Metal, Flat & TPO Roofing in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Asphalt shingle, metal, tile, flat and TPO roofing, plus storm damage repair, insurance claim assistance, gutters and leak detection from Gilbert & Sons.",
+      "Metal, flat and TPO roofing in Las Cruces, NM, plus storm damage repair, gutters, leak detection and insurance claim help. Free estimates.",
     intro:
       "Beyond standard installation and repair, Gilbert & Sons provides a range of specialty roofing systems and related exterior services.",
     heroImage: "/projects/aerial-roof-overview-01.jpg",
@@ -536,8 +544,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "tile-roofing",
     eyebrow: "Tile Roofing · Las Cruces, NM",
     title: "Tile roofing in Las Cruces, NM",
+    seoTitle: "Tile Roofing in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Tile roof installation and underlayment replacement from Gilbert & Sons in Las Cruces, NM, including clay tile options.",
+      "Tile roof installation and underlayment replacement in Las Cruces, NM, including clay tile and 50-year synthetic underlayment.",
     intro:
       "Tile roofing combines a durable surface tile with a critical underlayment system beneath it. Gilbert & Sons installs new tile roofs and replaces underlayment on existing tile roofs.",
     heroImage: "/projects/aerial-shingle-roof-07.jpg",
@@ -591,8 +600,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     slug: "silicone-roof-restoration",
     eyebrow: "Silicone Roof Restoration (SRM) · Commercial",
     title: "Silicone roof restoration for commercial roofs in Las Cruces, NM",
+    seoTitle: "Silicone Roof Coating in Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Silicone and elastomeric roof coating restoration for commercial roofs from Gilbert & Sons in Las Cruces, NM — a lower-disruption alternative to full tear-off.",
+      "Silicone and elastomeric roof coating for commercial roofs in Las Cruces, NM — a lower-cost, lower-disruption alternative to full tear-off.",
     intro:
       "Silicone Roof Maintenance (SRM) uses silicone and elastomeric coatings to renew an existing commercial roof, often as an alternative to a full tear-off and replacement.",
     heroImage: "/projects/aerial-shingle-roof-08.jpg",

@@ -67,9 +67,9 @@ const roofingStories: StoryMediaItem[] = [
 ];
 
 export const metadata: Metadata = {
-  title: "Roofing Services in Las Cruces, NM",
+  title: { absolute: "Roofing Services in Las Cruces, NM | Gilbert & Sons" },
   description:
-    "Roof installation, repair, replacement, inspection, maintenance, emergency and specialty roofing services from Gilbert & Sons in Las Cruces, NM.",
+    "Residential & commercial roofing services in Las Cruces, NM. Installation, repair, replacement, inspection and emergency roofing. Free estimates.",
   alternates: { canonical: "/roofing" },
 };
 

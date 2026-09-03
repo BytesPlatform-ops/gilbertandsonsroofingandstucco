@@ -5,7 +5,7 @@ import { roofingServiceContent } from "@/lib/roofing-service-content";
 const page = roofingServiceContent["roof-maintenance"];
 
 export const metadata: Metadata = {
-  title: page.title,
+  title: { absolute: page.seoTitle },
   description: page.metaDescription,
   alternates: { canonical: "/roofing/roof-maintenance" },
 };

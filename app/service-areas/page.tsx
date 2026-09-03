@@ -10,9 +10,9 @@ import { siteConfig } from "@/lib/site-config";
 import { serviceAreas } from "@/lib/service-areas";
 
 export const metadata: Metadata = {
-  title: "Roofing & Stucco Service Areas",
+  title: { absolute: "Roofing & Stucco Service Areas | Gilbert & Sons" },
   description:
-    "Gilbert & Sons Roofing and Stucco is based in Las Cruces, NM and serves Doña Ana County and the surrounding Southern New Mexico region.",
+    "Roofing and stucco services across Las Cruces, Doña Ana County and Southern New Mexico — including Mesilla, Hatch, Deming, Anthony and El Paso.",
   alternates: { canonical: "/service-areas" },
 };
 

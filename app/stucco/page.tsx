@@ -13,9 +13,9 @@ import { siteConfig, supportingServices } from "@/lib/site-config";
 import { getProjectMedia } from "@/lib/project-media";
 
 export const metadata: Metadata = {
-  title: "Stucco Services in Las Cruces, NM",
+  title: { absolute: "Stucco Contractor in Las Cruces, NM | Gilbert & Sons" },
   description:
-    "Residential and commercial stucco, EIFS, and parapet repair from Gilbert & Sons in Las Cruces, NM. Licensed, insured and bonded since 2010.",
+    "Stucco and EIFS installation, repair and parapet work in Las Cruces, NM. Residential & commercial exterior finishing since 2010. Free estimates.",
   alternates: { canonical: "/stucco" },
 };
 
