@@ -22,6 +22,7 @@ export const primaryNav = [
   { label: "Roofing", href: "/roofing" },
   { label: "Stucco", href: "/stucco" },
   { label: "Service Areas", href: "/service-areas" },
+  { label: "Blog", href: "/blog" },
   { label: "About Us", href: "/about" },
 ];
 
