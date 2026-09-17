@@ -3,8 +3,10 @@ import Link from "next/link";
 import { primaryNav, siteConfig, supportingServices } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
 import CTAButton from "@/components/shared/CTAButton";
+import { buttonClass } from "@/components/shared/buttonStyles";
 import EstimateButton from "@/components/estimate/EstimateButton";
 import FadeIn from "@/components/shared/FadeIn";
+import WhatsAppIcon from "@/components/shared/WhatsAppIcon";
 
 export default function Footer() {
   return (
@@ -22,15 +24,25 @@ export default function Footer() {
         <FadeIn className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28 text-center">
           <p className="section-marker text-text-on-dark-secondary mb-6">Contact</p>
           <h2 className="section-title font-heading font-semibold text-text-on-dark max-w-3xl mx-auto">
-            Get a free estimate today.
+            Get an estimate today.
           </h2>
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="mt-10 flex flex-col sm:flex-row sm:flex-wrap items-center justify-center gap-4">
             <EstimateButton variant="primary" showArrow>
-              Get a Free Estimate
+              Get an Estimate
             </EstimateButton>
             <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
               Call {siteConfig.phone}
             </CTAButton>
+            <a
+              href={siteConfig.whatsappHref}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Message Gilbert & Sons on WhatsApp"
+              className={buttonClass("secondary-dark")}
+            >
+              <WhatsAppIcon size={18} />
+              <span>WhatsApp</span>
+            </a>
           </div>
         </FadeIn>
       </div>

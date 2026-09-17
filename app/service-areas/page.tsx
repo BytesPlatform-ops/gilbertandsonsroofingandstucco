@@ -75,7 +75,7 @@ export default function ServiceAreasPage() {
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <EstimateButton variant="primary" showArrow>
-                  Free Estimate
+                  Get an Estimate
                 </EstimateButton>
                 <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                   Call {siteConfig.phone}

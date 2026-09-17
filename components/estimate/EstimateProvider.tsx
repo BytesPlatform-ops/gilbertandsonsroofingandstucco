@@ -23,7 +23,7 @@ type EstimateContextValue = {
 const EstimateContext = createContext<EstimateContextValue | null>(null);
 
 /**
- * Single source of truth for the "Get a Free Estimate" experience.
+ * Single source of truth for the "Get an Estimate" experience.
  * Every estimate CTA on the site opens this one modal, so the form is
  * always rendered at viewport level — never inside a card or a
  * half-width grid column that would squeeze it.
@@ -103,7 +103,7 @@ function EstimateModal({ onClose }: { onClose: () => void }) {
               id="estimate-modal-title"
               className="text-2xl md:text-3xl font-heading font-semibold text-brand-ink pr-12"
             >
-              Get a Free Estimate
+              Get an Estimate
             </h2>
             <p className="text-text-secondary mt-2 mb-7 max-w-xl">
               Tell us what&rsquo;s going on and we&rsquo;ll get back to you with

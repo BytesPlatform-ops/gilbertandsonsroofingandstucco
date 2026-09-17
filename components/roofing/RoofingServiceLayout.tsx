@@ -49,7 +49,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
               <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">{page.intro}</p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <EstimateButton variant="primary" showArrow>
-                  Free Estimate
+                  Get an Estimate
                 </EstimateButton>
                 <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                   Call {siteConfig.phone}

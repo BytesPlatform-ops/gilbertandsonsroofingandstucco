@@ -4,6 +4,10 @@ export const siteConfig = {
   phone: "575-649-2316",
   phoneHref: "tel:+15756492316",
   email: "gilbertandsons2010@gmail.com",
+  whatsappNumber: "15756492316",
+  whatsappHref:
+    "https://wa.me/15756492316?text=" +
+    encodeURIComponent("Hi Gilbert & Sons, I'd like to ask about an estimate."),
   address: {
     line1: "5452 Santa Cruz Ave.",
     line2: "Las Cruces, NM 88012",

@@ -73,10 +73,10 @@ export default function AboutStrip() {
       </div>
 
       <FadeIn className="bg-surface-dark px-6 md:px-10 py-8 flex flex-col sm:flex-row items-center justify-between gap-5 border-t border-border-on-dark">
-        <p className="font-heading font-semibold text-xl text-text-on-dark">Get a Free Estimate</p>
+        <p className="font-heading font-semibold text-xl text-text-on-dark">Get an Estimate</p>
         <div className="flex flex-col sm:flex-row gap-3">
           <EstimateButton variant="primary" showArrow>
-            Get a Free Estimate
+            Get an Estimate
           </EstimateButton>
           <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
             Call {siteConfig.phone}

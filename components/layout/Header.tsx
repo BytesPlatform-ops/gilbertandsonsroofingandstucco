@@ -8,6 +8,7 @@ import { roofingServices } from "@/lib/roofing-services";
 import { serviceAreas } from "@/lib/service-areas";
 import EstimateButton from "@/components/estimate/EstimateButton";
 import MobileMenu from "@/components/layout/MobileMenu";
+import WhatsAppIcon from "@/components/shared/WhatsAppIcon";
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -165,7 +166,21 @@ export default function Header() {
               >
                 {siteConfig.phone}
               </a>
-              <EstimateButton variant="primary" className="whitespace-nowrap">Get Free Estimate</EstimateButton>
+              <a
+                href={siteConfig.whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Message Gilbert & Sons on WhatsApp"
+                title="Message us on WhatsApp"
+                className={`flex items-center justify-center w-12 h-[52px] shrink-0 rounded-btn border-2 transition-colors duration-150 ease-out focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-primary ${
+                  dark
+                    ? "border-white/40 text-white hover:bg-white hover:text-brand-ink hover:border-white"
+                    : "border-brand-ink/25 text-brand-ink hover:bg-brand-ink hover:text-white hover:border-brand-ink"
+                }`}
+              >
+                <WhatsAppIcon size={18} />
+              </a>
+              <EstimateButton variant="primary" className="whitespace-nowrap">Get an Estimate</EstimateButton>
             </div>
 
             <button

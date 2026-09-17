@@ -26,7 +26,7 @@ export default function MobileActionBar() {
         onClick={openEstimate}
         className="flex-1 flex items-center justify-center h-14 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-white bg-brand-primary cursor-pointer transition-colors duration-150 hover:bg-brand-primary-dark"
       >
-        Free Estimate
+        Estimate
       </button>
     </div>
   );

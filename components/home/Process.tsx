@@ -2,7 +2,7 @@ import SectionMarker from "@/components/shared/SectionMarker";
 import FadeIn from "@/components/shared/FadeIn";
 
 const steps = [
-  { number: "01", title: "Tell Us What's Going On", body: "Call or request a free estimate online — tell us what you're seeing." },
+  { number: "01", title: "Tell Us What's Going On", body: "Call or request an estimate online — tell us what you're seeing." },
   { number: "02", title: "Inspection", body: "We look at the property in person and assess the actual condition." },
   { number: "03", title: "Recommendation & Quote", body: "We explain what we found and give you a clear, honest quote." },
   { number: "04", title: "Professional Work", body: "Our crew completes the work and cleans up when it's done." },

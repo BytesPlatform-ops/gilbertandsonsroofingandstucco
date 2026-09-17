@@ -187,7 +187,7 @@ export default async function BlogArticlePage({ params }: PageProps<"/blog/[slug
                 </p>
                 <div className="mt-6 flex flex-col sm:flex-row gap-4">
                   <EstimateButton variant="primary" showArrow>
-                    Get a Free Estimate
+                    Get an Estimate
                   </EstimateButton>
                   <CTAButton href={siteConfig.phoneHref} variant="secondary-light">
                     Call {siteConfig.phone}

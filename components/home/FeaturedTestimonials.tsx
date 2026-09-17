@@ -233,7 +233,7 @@ export default function FeaturedTestimonials({
               <span>{siteConfig.contractorLicense}</span>
             </div>
             <EstimateButton variant="primary" className="mt-6 w-full justify-center">
-              Get a Free Estimate
+              Get an Estimate
             </EstimateButton>
           </FadeIn>
 

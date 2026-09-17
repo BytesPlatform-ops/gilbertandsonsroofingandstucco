@@ -7,6 +7,7 @@ import { primaryNav, siteConfig } from "@/lib/site-config";
 import { roofingServices } from "@/lib/roofing-services";
 import { serviceAreas } from "@/lib/service-areas";
 import { useEstimate } from "@/components/estimate/EstimateProvider";
+import WhatsAppIcon from "@/components/shared/WhatsAppIcon";
 
 export default function MobileMenu({
   open,
@@ -159,6 +160,16 @@ export default function MobileMenu({
           >
             Call {siteConfig.phone}
           </a>
+          <a
+            href={siteConfig.whatsappHref}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Message Gilbert & Sons on WhatsApp"
+            className="min-h-[52px] flex items-center justify-center gap-2 rounded-btn border border-white/25 font-heading font-semibold uppercase tracking-[0.04em] text-sm transition-colors duration-150 hover:bg-white hover:text-brand-ink hover:border-white"
+          >
+            <WhatsAppIcon size={16} />
+            WhatsApp
+          </a>
           <button
             type="button"
             onClick={() => {
@@ -167,7 +178,7 @@ export default function MobileMenu({
             }}
             className="min-h-[52px] flex items-center justify-center rounded-btn bg-brand-primary font-heading font-semibold uppercase tracking-[0.04em] text-sm cursor-pointer transition-colors duration-150 hover:bg-brand-primary-dark"
           >
-            Get a Free Estimate
+            Get an Estimate
           </button>
         </div>
       </div>

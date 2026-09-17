@@ -37,7 +37,7 @@ const faqs = [
       "We look at shingles or roofing material condition, flashing around chimneys and vents, gutters, signs of water intrusion, and the general structure of the roof. You'll get a straightforward explanation of what's fine, what to watch, and what needs attention now.",
   },
   {
-    question: "What happens after I request a free estimate?",
+    question: "What happens after I request an estimate?",
     answer:
       "We'll follow up to schedule a time to look at the property in person, assess the actual condition, and give you a clear quote based on what we find — not a guess over the phone.",
   },
@@ -91,7 +91,7 @@ export default function LasCrucesServiceAreaPage() {
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <EstimateButton variant="primary" showArrow>
-                  Free Estimate
+                  Get an Estimate
                 </EstimateButton>
                 <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">
                   Call {siteConfig.phone}

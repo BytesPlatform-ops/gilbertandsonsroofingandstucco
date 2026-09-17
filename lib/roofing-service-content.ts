@@ -109,7 +109,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       {
         question: "How do I get started?",
         answer:
-          "Request a free estimate online or call 575-649-2316. We'll evaluate your property and walk you through material options and an expected timeline.",
+          "Request an estimate online or call 575-649-2316. We'll evaluate your property and walk you through material options and an expected timeline.",
       },
     ],
   },
@@ -177,7 +177,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           body: "Flashing and roof edges are common leak points where two roofing surfaces or materials meet.",
         },
       ],
-      ctaLabel: "Free Estimate",
+      ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["roof-inspections", "emergency-roofing", "roof-replacements"],
     faqs: [
@@ -390,7 +390,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           body: "Flat and TPO commercial roofs benefit from regular drainage and seam checks to avoid costly water intrusion.",
         },
       ],
-      ctaLabel: "Free Estimate",
+      ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["roof-inspections", "roof-repairs", "emergency-roofing"],
     faqs: [
@@ -521,7 +521,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           body: "Finding the actual source of a leak — not just the symptom — and repairing it.",
         },
       ],
-      ctaLabel: "Free Estimate",
+      ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["tile-roofing", "silicone-roof-restoration", "roof-installations"],
     faqs: [
@@ -675,7 +675,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           body: "A renewed, reflective commercial roofing surface — without a full tear-off and replacement.",
         },
       ],
-      ctaLabel: "Free Estimate",
+      ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["specialty-roofing", "roof-inspections", "roof-maintenance"],
     faqs: [

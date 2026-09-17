@@ -9,7 +9,7 @@ import { buttonClass, type ButtonVariant } from "@/components/shared/buttonStyle
  * pass `unstyled` with your own className for inline/link-style triggers.
  */
 export default function EstimateButton({
-  children = "Get a Free Estimate",
+  children = "Get an Estimate",
   variant = "primary",
   showArrow = false,
   className = "",

@@ -176,7 +176,7 @@ export default function ContactForm({
           size === "large" ? "min-h-[56px]" : "min-h-[52px]"
         } px-6 rounded-btn bg-brand-primary text-white border-2 border-brand-ink font-heading font-semibold uppercase tracking-[0.04em] text-sm cursor-pointer transition-colors duration-150 hover:bg-brand-primary-dark hover:border-brand-primary-dark disabled:opacity-60 disabled:cursor-not-allowed`}
       >
-        {status === "submitting" ? "Sending…" : "Request Free Estimate"}
+        {status === "submitting" ? "Sending…" : "Request an Estimate"}
       </button>
     </form>
   );

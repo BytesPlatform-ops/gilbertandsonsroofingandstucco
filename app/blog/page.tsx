@@ -168,7 +168,7 @@ export default function BlogPage() {
 
           <FadeIn className="mt-12 flex flex-col sm:flex-row items-center gap-4">
             <EstimateButton variant="primary" showArrow>
-              Get a Free Estimate
+              Get an Estimate
             </EstimateButton>
             <CTAButton href={siteConfig.phoneHref} variant="secondary-light">
               Call {siteConfig.phone}
