@@ -2,9 +2,22 @@
 
 import { useState, type FormEvent } from "react";
 import { serviceOptions } from "@/lib/service-options";
+import { siteConfig } from "@/lib/site-config";
 
 type Status = "idle" | "submitting" | "success" | "error";
 type Size = "default" | "large";
+
+const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
+
+/**
+ * Web3Forms blocks server-to-server calls on the free plan, so the browser
+ * posts to their API directly. Their docs state the access key is designed to
+ * be public ("Don't worry this can be public"); it only identifies the form
+ * and cannot be used to read submissions.
+ */
+const WEB3FORMS_ACCESS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? "";
+
+const GENERIC_ERROR = `Something went wrong. Please call us at ${siteConfig.phone}.`;
 
 const baseInputClass =
   "w-full px-4 border border-border-subtle bg-surface-main text-brand-ink placeholder:text-text-secondary focus:outline-none focus:border-brand-primary transition-colors";
@@ -35,25 +48,55 @@ export default function ContactForm({
 
     const form = event.currentTarget;
     const data = new FormData(form);
-    const payload = Object.fromEntries(data.entries());
+    const value = (key: string) => String(data.get(key) ?? "").trim();
 
     try {
-      const response = await fetch("/api/contact", {
+      if (!WEB3FORMS_ACCESS_KEY) {
+        // Misconfiguration: fail visibly rather than pretend the request sent.
+        console.error(
+          "[contact] NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY is not set — submission was not sent."
+        );
+        throw new Error(GENERIC_ERROR);
+      }
+
+      const response = await fetch(WEB3FORMS_ENDPOINT, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          access_key: WEB3FORMS_ACCESS_KEY,
+          subject: "New Estimate Request — Gilbert & Sons",
+          from_name: `${siteConfig.shortName} Website`,
+          // Makes Reply in Gmail go straight back to the customer.
+          replyto: value("email"),
+          botcheck: value("botcheck"),
+          // Keys become the labels shown in the delivered email.
+          Name: value("name"),
+          Phone: value("phone"),
+          Email: value("email"),
+          "Service Needed": value("service"),
+          "Property Type": value("propertyType") || "Not specified",
+          Message: value("message"),
+        }),
       });
 
-      if (!response.ok) {
-        const body = await response.json().catch(() => ({}));
-        throw new Error(body.error ?? "Something went wrong. Please call us instead.");
+      const body = (await response.json().catch(() => ({}))) as {
+        success?: boolean;
+        message?: string;
+      };
+
+      if (!response.ok || body.success === false) {
+        console.error(
+          `[contact] Web3Forms rejected the submission (status ${response.status}): ` +
+            `${body.message ?? "no message"}`
+        );
+        throw new Error(GENERIC_ERROR);
       }
 
       setStatus("success");
       form.reset();
     } catch (error) {
       setStatus("error");
-      setErrorMessage(error instanceof Error ? error.message : "Something went wrong.");
+      setErrorMessage(error instanceof Error ? error.message : GENERIC_ERROR);
     }
   };
 
@@ -166,6 +209,16 @@ export default function ContactForm({
           className={`${inputClass} ${size === "large" ? "min-h-[150px]" : "min-h-[120px]"} py-3`}
         />
       </div>
+
+      <input
+        type="checkbox"
+        name="botcheck"
+        className="hidden"
+        style={{ display: "none" }}
+        tabIndex={-1}
+        autoComplete="off"
+        aria-hidden="true"
+      />
 
       {status === "error" && <p className="text-sm text-brand-primary">{errorMessage}</p>}
 
