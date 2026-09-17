@@ -6,7 +6,7 @@ import CTAButton from "@/components/shared/CTAButton";
 import { buttonClass } from "@/components/shared/buttonStyles";
 import EstimateButton from "@/components/estimate/EstimateButton";
 import FadeIn from "@/components/shared/FadeIn";
-import WhatsAppIcon from "@/components/shared/WhatsAppIcon";
+import MessageIcon from "@/components/shared/MessageIcon";
 
 export default function Footer() {
   return (
@@ -34,14 +34,12 @@ export default function Footer() {
               Call {siteConfig.phone}
             </CTAButton>
             <a
-              href={siteConfig.whatsappHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Message Gilbert & Sons on WhatsApp"
+              href={siteConfig.smsHref}
+              aria-label="Text Gilbert & Sons"
               className={buttonClass("secondary-dark")}
             >
-              <WhatsAppIcon size={18} />
-              <span>WhatsApp</span>
+              <MessageIcon size={18} />
+              <span>Text Us</span>
             </a>
           </div>
         </FadeIn>
