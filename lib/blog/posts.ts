@@ -1855,4 +1855,1097 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "how-long-do-tile-roofs-last",
+    title: "How Long Do Tile Roofs Last? Clay, Concrete and the Underlayment Catch",
+    excerpt:
+      "The tiles last 50 to 100 years. The underlayment beneath them lasts 20 to 30, and that is the number that decides when your roof leaks. Here is what that means for a tile roof in New Mexico.",
+    metaTitle: "How Long Do Tile Roofs Last? Clay vs Concrete",
+    metaDescription:
+      "How long do tile roofs last? Clay runs 50 to 100 years, concrete 40 to 75, but the underlayment fails at 20 to 30. Here's what that means.",
+    category: "Roofing Materials",
+    tags: [
+      "tile roof",
+      "clay tile",
+      "concrete tile",
+      "underlayment",
+      "lifespan",
+      "materials",
+      "flashing",
+      "maintenance",
+    ],
+    publishedAt: "2026-09-25",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-long-do-tile-roofs-last/clay-tile-roof-underlayment-install.webp",
+    featuredImageAlt:
+      "Clay barrel tile roof mid-installation on a Southwest home, with white underlayment exposed and tiles stacked in rows ready to lay",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/tile-roofing",
+      "/roofing/roof-inspections",
+      "/roofing/roof-replacements",
+    ],
+    keywords: [
+      "how long do tile roofs last",
+      "tile roof lifespan",
+      "clay vs concrete tile roof",
+      "tile roof underlayment replacement",
+      "tile roofing las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Short answer: the tiles last 50 to 100 years. Clay sits at the top of that range and often beyond it, concrete lands between 40 and 75, and slate can outlive the house. Tile is the longest-lasting roofing material most homeowners will ever buy.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "But there's a catch, and it's the part nobody mentions at the sales table. The tiles aren't what keeps water out of your house. The underlayment beneath them does that job, and underlayment lasts 20 to 30 years. So the honest answer to how long do tile roofs last is really two answers: the tiles go the distance, and the waterproof layer under them needs replacing at roughly the halfway mark.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide breaks down tile roof lifespan by material, explains why the underlayment is the number that actually matters, covers what shortens a tile roof's life, looks at how tile performs in southern New Mexico, and walks through the repair, relay or replace decision.",
+      },
+      { type: "heading", level: 2, text: "How Long Do Tile Roofs Last by Material?" },
+      {
+        type: "table",
+        head: ["Roofing material", "Typical lifespan"],
+        rows: [
+          ["Clay tile", "50 to 100 years, often longer"],
+          ["Concrete tile", "40 to 75 years"],
+          ["Slate", "75 to 200 years"],
+          ["Tile roof underlayment (felt)", "20 to 30 years"],
+          ["Tile roof underlayment (synthetic)", "25 to 40 years"],
+          ["Asphalt shingles (for comparison)", "15 to 30 years"],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Clay tile** is fired at high temperature, which makes it chemically stable, non-combustible and nearly immune to UV. Its color is baked in, so it doesn't fade the way surface-colored materials do. Clay is the classic choice on Spanish and Mediterranean-style homes across Las Cruces and Mesilla, and many of those roofs have been in place for half a century.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Concrete tile** is molded from sand, cement and water, then colored on the surface or throughout. It's heavier than clay, less expensive, and still remarkably durable. Its main long-term weakness is that surface color fades over time and the material is slightly more porous, which matters more in wet climates than here.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Slate** is quarried stone and lasts essentially forever, but it's expensive, very heavy, and rare in this region.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Compared with [asphalt shingles](/blog/what-is-asphalt-shingle-roofing), tile lasts two to four times longer. That's the headline number. The next section is the footnote that changes how you should read it.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-long-do-tile-roofs-last/concrete-tile-roof-desert-home.webp",
+        alt:
+          "Single-storey stucco home with a brown concrete tile roof and desert landscaping, photographed in late afternoon light",
+        caption:
+          "Concrete tile on a desert home. The tiles here will outlast two or three sets of the underlayment sitting beneath them.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why the Underlayment Matters More Than the Tile",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Here's what most homeowners don't realize about how long tile roofs last: tile is not a waterproof system on its own. Tiles shed the bulk of rainfall, but wind-driven rain, condensation and water running under laps all reach the layer beneath. That layer, the underlayment, is the actual waterproof membrane. It sits directly on the roof deck and it's what keeps the house dry.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Traditional asphalt-saturated felt underlayment lasts 20 to 30 years. Modern synthetic underlayments stretch that to 25 or 40 depending on the product. Either way, the underlayment reaches the end of its life decades before the tiles do.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What that looks like in practice is a roof that appears perfect from the street and leaks anyway. The tiles are intact. The underlayment beneath them has dried out, cracked and pulled away from fasteners, and water is finding the deck. This is the single most common reason a [tile roof](/roofing/tile-roofing) fails, and it's the reason \"how long do tile roofs last\" needs a two-part answer.",
+      },
+      {
+        type: "callout",
+        title: "The two-part answer",
+        text:
+          "The tiles are a 50 to 100 year material. The waterproofing under them is a 20 to 30 year material. Budget for the second one and the first one will outlive you.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The good news is that underlayment replacement doesn't mean a new roof. More on that below.",
+      },
+      { type: "heading", level: 2, text: "What Shortens a Tile Roof's Life" },
+      {
+        type: "paragraph",
+        text: "Tile is tough, but the system around it has weak points.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Installation quality.** Tiles under about 9 pounds per square foot need one fastener each, heavier tiles need more, and every tile needs proper headlap and sidelap. Skipped fasteners and rushed layout let monsoon wind lift tiles and let water run under them. A poorly installed tile roof can fail in 20 years instead of 75.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Foot traffic.** Tile cracks under concentrated weight. HVAC technicians, satellite installers and homeowners who walk the roof wrong are responsible for a large share of broken tiles. Every cracked tile is a spot where the underlayment takes direct sun and direct water.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Clogged valleys and debris.** Leaves, dust and nesting material pile up in valleys and behind chimneys, hold moisture against the underlayment and block drainage. On tile roofs, debris accumulation is a slow underlayment killer.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Flashing failures.** Where tile meets a stucco wall, a chimney or a skylight, metal flashing does the waterproofing. Flashing rarely lasts as long as tile and it's the second most common leak source after underlayment. On a stucco home those [roof-to-wall transitions](/blog/what-is-stucco-roofing) deserve particular attention.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Poor attic ventilation.** Heat trapped under the deck cooks the underlayment from below and accelerates its breakdown.",
+      },
+      { type: "heading", level: 2, text: "How Do Tile Roofs Hold Up in New Mexico?" },
+      { type: "paragraph", text: "Very well, with a few things to watch." },
+      {
+        type: "paragraph",
+        text:
+          "**What works in tile's favor.** Dry heat and intense UV are exactly the conditions clay and concrete were designed for. Tile doesn't dry out, curl or shed granules like asphalt. Its thermal mass and the air gap beneath each tile also cut heat transfer into the attic, which shows up on summer cooling bills. And southern New Mexico gets little of the freeze-thaw cycling that cracks concrete tile in northern climates, and almost none of the moss and algae that plague tile in humid regions.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**What to watch.** Surface color fading on concrete tile becomes noticeable at 15 to 20 years. It's cosmetic, not structural, but worth knowing. Monsoon downbursts hit 50 to 70 mph in the Mesilla Valley and will lift any tile that was under-fastened or has slipped. Blowing dust builds up in valleys faster here than in most places. And the same UV that tile shrugs off is brutal on any exposed underlayment, which is why one cracked tile left alone for two summers can become a leak.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Net result: a well-installed, maintained tile roof in Las Cruces can comfortably reach the upper end of its range. The underlayment still needs attention at 20 to 30 years regardless.",
+      },
+      { type: "heading", level: 2, text: "Signs Your Tile Roof Needs Attention" },
+      {
+        type: "paragraph",
+        text:
+          "Knowing how long tile roofs last matters less than spotting the signals that yours needs work.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Cracked, chipped or slipped tiles** visible from the ground or after a wind event",
+          "**Leaks or ceiling stains with no obvious tile damage**, which almost always means the underlayment has failed",
+          "**Debris buildup in valleys** or behind roof penetrations",
+          "**Exposed or curling underlayment** visible at eaves, ridges or where tiles have shifted",
+          "**Sagging** along the ridge or a slope, which points to deck or structural issues under the weight of the tile",
+          "**Rust or gaps at flashing** around chimneys, skylights and stucco wall intersections",
+          "**The roof is 20 to 30 years old** and has never had the underlayment evaluated",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "A professional [roof inspection](/roofing/roof-inspections) can lift a few tiles and check the underlayment condition directly. That's the only reliable way to know how much life the system has left, since the tiles themselves tell you almost nothing.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-long-do-tile-roofs-last/concrete-tile-roof-field-detail.webp",
+        alt:
+          "Concrete tile roof with a section of tiles lifted and stacked aside and a sandbagged tarp covering the exposed deck area",
+        caption:
+          "Tiles lifted and stacked. This is exactly what a lift and relay looks like at the start, except the whole slope comes off instead of one section.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Tile Roof Repair, Underlayment Replacement or Full Replacement?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This is where tile differs from every other roofing material, and where knowing the answer saves real money.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Repair** is the right call for a handful of cracked or slipped tiles, a failed flashing detail, or a localized leak on a roof whose underlayment is otherwise sound. A [roof repair](/roofing/roof-repairs) swaps the damaged tiles and reseals the detail.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Underlayment replacement, also called lift and relay,** is the option most owners don't know exists. The crew removes the tiles in sections, stacks them, tears off the old underlayment, installs new synthetic underlayment and flashing, then reinstalls the original tiles. Broken tiles are replaced with matching stock. The result is a roof that's watertight for another 25 to 40 years using tiles that still have 50 years in them. It costs a fraction of a new tile roof because the most expensive component gets reused.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Full replacement** makes sense when a large share of the tiles are broken or discontinued and can't be matched, when the deck has significant rot, or when the owner wants to change materials entirely. On most tile roofs in this region, that's the least common outcome. A [roof replacement](/roofing/roof-replacements) is the answer for the deck and the structure, not for tiles that are still doing their job. If you're weighing that decision on any roof, our guide to [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced) walks through the signals.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Tile Roof Lifespan" },
+      {
+        type: "paragraph",
+        text:
+          "So, how long do tile roofs last? Clay 50 to 100 years, concrete 40 to 75, slate longer than either. But the underlayment beneath them lasts 20 to 30 years, and that's the number that decides when your roof leaks. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Tile is the longest-lasting roofing material available for New Mexico homes, and our dry, sunny climate suits it.",
+          "The underlayment is the real waterproof layer. Plan on replacing it around year 20 to 30 even when every tile looks perfect.",
+          "Lift and relay lets you reuse your original tiles over new underlayment, which is usually the smartest move on a roof between 20 and 40 years old.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We install clay and concrete [tile roofs](/roofing/tile-roofing), replace tile roof underlayment without replacing the tiles, and repair the flashing and stucco transitions where tile roofs most often leak. If your tile roof is past 20 years or you've noticed a stain with no obvious damage, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the underlayment in person and tell you exactly where the roof stands.",
+      },
+    ],
+  },
+  {
+    slug: "how-is-stucco-applied",
+    title: "How Is Stucco Applied? The Three-Coat Process Step by Step",
+    excerpt:
+      "Stucco goes on in three coats over wire lath, and the cure time between them matters more than the plaster itself. Here is the full process as a crew actually runs it on a New Mexico home.",
+    metaTitle: "How Is Stucco Applied? The 3-Coat Process Explained",
+    metaDescription:
+      "How is stucco applied? Walk through lath, scratch, brown and finish coats, curing times, textures and what a bad job looks like.",
+    category: "Stucco",
+    tags: [
+      "stucco",
+      "stucco application",
+      "three-coat stucco",
+      "lath",
+      "exterior",
+      "cracks",
+    ],
+    publishedAt: "2026-09-25",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-is-stucco-applied/stucco-coat-application-progress.webp",
+    featuredImageAlt:
+      "Exterior stucco wall with a large freshly applied base coat patch drying beside the existing textured finish, with a ladder against the eave",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/stucco",
+      "/roofing/roof-inspections",
+      "/roofing/roof-repairs",
+    ],
+    keywords: [
+      "how is stucco applied",
+      "three coat stucco process",
+      "stucco application steps",
+      "scratch brown and finish coat",
+      "stucco contractor las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Stucco is applied in three coats over a wire lath base: a scratch coat, a brown coat and a finish coat. Together they build up to about 7/8 of an inch of cement plaster, and the whole process takes one to two weeks because each coat has to cure before the next one goes on.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the short version. The long version matters, because how stucco is applied decides whether the wall lasts 80 years or cracks and takes on water inside 15. Most stucco failures trace back to something that went wrong during application, usually a rushed cure, a skipped detail or a coat that went on too thin.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide walks through the full process the way a crew actually does it on a New Mexico home: wall prep, lath, each of the three coats, curing times in our heat, textures and colors, how stucco goes over existing block or old stucco, and the shortcuts that cause problems later.",
+      },
+      { type: "heading", level: 2, text: "How Is Stucco Applied? The Short Version" },
+      {
+        type: "paragraph",
+        text:
+          "A traditional three-coat stucco system has four physical layers even though only three of them are called coats. First comes the lath, a weather-resistive paper and metal wire mesh fastened to the wall. Then the scratch coat, roughly 3/8 inch of cement plaster pressed into the lath and raked with horizontal grooves. Then the brown coat, another 3/8 inch that levels the wall flat. Then the finish coat, about 1/8 inch that carries the texture and color.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Over concrete block or masonry, the lath is often skipped and stucco is applied as a two-coat system directly to the block: one base coat and one finish coat. That's common on block homes across Las Cruces and Doña Ana County.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Either way, the principle is the same. Each coat bonds to the one below it, and each one needs time to cure before the next goes on.",
+      },
+      { type: "heading", level: 2, text: "Step 1: Preparing the Wall" },
+      {
+        type: "paragraph",
+        text:
+          "Before any plaster is mixed, the wall gets a set of details that decide how the finished stucco handles water.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "On a framed wall, sheathing gets covered with a weather-resistive barrier, usually two layers of Grade D building paper or a paper-and-housewrap combination. This is the drainage plane. Any water that gets through the stucco runs down this layer instead of into the wall.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Then the accessories go on. **Weep screed** runs along the base of the wall and lets water that reaches the paper drain out the bottom. **Corner aid** reinforces outside corners so they stay straight and don't chip. **Casing beads** frame windows and doors and give the stucco a clean stopping edge. **Expansion joints** get placed at intervals and at natural stress points so the cured stucco can move without cracking randomly across the wall.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Skipping any of these is the most common way stucco gets applied wrong, and none of them are visible once the finish coat is on.",
+      },
+      { type: "heading", level: 2, text: "Step 2: Installing the Lath" },
+      {
+        type: "paragraph",
+        text:
+          "Metal lath, either expanded metal or woven wire, is fastened over the paper with nails or staples driven into the studs. It's installed with furring, meaning it's held slightly off the wall so plaster can push behind it and fully encase the wire.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That embedment is the whole point of lath. The scratch coat has to lock around the metal so the cured stucco becomes a reinforced shell rather than a thin skin sitting on top of wire. Lath that's nailed flat against the paper, or plaster that's applied too thin to wrap around it, produces stucco that delaminates and cracks.",
+      },
+      { type: "heading", level: 2, text: "Step 3: The Scratch Coat" },
+      {
+        type: "paragraph",
+        text:
+          "The first plaster coat is a site-mixed blend of Portland cement, hydrated lime, sand and water, applied by hand with a hawk and trowel or sprayed on with a mortar pump and worked by hand. It goes on at roughly 3/8 inch and is pressed firmly into the lath so the wire is fully buried.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "While the surface is still wet, the crew rakes horizontal grooves into it with a scratcher. Those grooves give the brown coat something to grip.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Then it cures. The scratch coat needs 24 to 48 hours minimum before the brown coat goes on, and in dry heat it has to be kept moist during that window. A crew that lets the scratch coat dry out too fast gets shrinkage cracks that telegraph through every coat above it.",
+      },
+      { type: "heading", level: 2, text: "Step 4: The Brown Coat" },
+      {
+        type: "paragraph",
+        text:
+          "The brown coat is the leveling coat. It's the same cement mix, applied at another 3/8 inch over the scratched surface, then floated with a darby or straightedge to bring the whole wall into a flat, true plane. Any bumps or dips in the framing get corrected here. The surface is floated to a uniform texture that the finish can bond to.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This is the coat that decides whether the finished wall looks straight. It's also the coat that does most of the system's shrinkage, which is why it gets the longest cure.",
+      },
+      {
+        type: "callout",
+        title: "The cure that gets skipped",
+        text:
+          "Standard practice is a minimum of seven days before the finish coat, and longer is better. The brown coat should be moist-cured for at least the first 48 hours, with the wall misted morning and evening or draped in wet burlap.",
+      },
+      { type: "heading", level: 2, text: "Step 5: The Finish Coat" },
+      {
+        type: "paragraph",
+        text:
+          "The finish coat is what you actually see. It's thin, roughly 1/8 inch, and it comes in two families.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Cement finish** uses white Portland cement with iron oxide pigments mixed in for color. It's the traditional choice, it breathes well, and it weathers to a natural look over time.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Acrylic finish** is a polymer-based product applied over the cured brown coat. It's more flexible, resists hairline cracking better, holds color longer and offers a wider palette. It costs more and it's less breathable. Acrylic finishes are also what sits on top of [EIFS](/blog/stucco-vs-eifs), which is a different wall system entirely despite the similar look.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Texture is set in this coat. Common options in the Southwest include smooth (troweled flat), sand or float finish, dash (sprayed for a pebbled look), lace, and the skip-trowel or Santa Fe finish that gives Pueblo-style homes their soft, hand-formed look. On our [stucco projects](/stucco), the finish is matched to the architecture and to any existing stucco on the building.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "One rule crews follow: the finish coat is never misted. Wetting a colored finish causes blotchy, uneven color. That means waiting for the right weather window rather than rushing it.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-is-stucco-applied/finished-stucco-wall-texture.webp",
+        alt:
+          "Finished tan stucco home exterior with an even sand-float texture, stone window sills and a small tile accent roof over the entry",
+        caption:
+          "A cured finish coat with an even sand float texture. The casing beads at the windows and the clean stopping edges were set before any plaster went on.",
+      },
+      { type: "heading", level: 2, text: "How Long Does Stucco Application Take?" },
+      {
+        type: "paragraph",
+        text:
+          "For a typical house, plan on one to two weeks from lath to finished wall, with most of that time being cure rather than labor. A rough sequence:",
+      },
+      {
+        type: "list",
+        items: [
+          "Day 1 to 2: paper, accessories and lath",
+          "Day 2 to 3: scratch coat, then 24 to 48 hours moist cure",
+          "Day 4 to 5: brown coat, then a minimum of 7 days cure",
+          "Day 12 to 14: finish coat",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "New Mexico weather changes the details. Our low humidity and high heat pull water out of fresh plaster fast, so misting schedules are more aggressive here than in humid climates. Crews often start early to avoid applying plaster in direct afternoon sun, and finish coats get scheduled around wind, since blowing dust ruins a fresh finish. The cure windows don't get shorter because it's hot. If anything, they get longer.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Is Stucco Applied Over Existing Stucco or Block?",
+      },
+      { type: "paragraph", text: "Not every job starts with bare framing." },
+      {
+        type: "paragraph",
+        text:
+          "**Over concrete block or masonry**, stucco is usually applied as a two-coat system without lath. The block is cleaned, dampened, and sometimes coated with a bonding agent. A base coat goes on directly, cures, and then receives the finish coat. This is how most block homes in the region were done originally.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Over existing stucco**, the process depends on condition. Sound stucco with cosmetic issues can be recoated: the surface is cleaned, cracks are repaired, a bonding agent is applied and a new finish coat goes over the top. Stucco that's hollow, delaminating or holding moisture has to be removed back to the lath or the block before anything new is applied. Recoating over failing stucco just hides the problem for a few years. Our guide to [how long stucco lasts](/blog/how-long-does-stucco-last) covers how to judge which case you're in.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Patching and repair** follows the same three-coat sequence in miniature. The damaged area is cut out, new lath is tied in, and scratch, brown and finish are rebuilt in order with the texture blended into the surrounding wall.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Goes Wrong When Stucco Is Applied Badly",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Nearly every stucco problem we see on a service call comes back to how the stucco was applied.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Rushed curing.** Brown coat finished on day three instead of day seven. The result is a map of shrinkage cracks across the wall within the first year.",
+          "**Thin coats.** Base coats stretched to 1/4 inch to save material. The lath isn't embedded, the wall sounds hollow, and it cracks under thermal movement.",
+          "**No expansion joints.** The wall has no planned place to move, so it cracks wherever it wants, usually diagonally from window corners.",
+          "**Missing or buried weep screed.** Water reaches the paper and has no way out. It sits at the base of the wall and rots the sheathing.",
+          "**Stucco run over flashing.** At roof-to-wall transitions and parapets, plaster applied over the top edge of flashing wicks water behind the system. This is where a stucco problem and a roof leak become the same problem, and it's why a professional [roof and exterior inspection](/roofing/roof-inspections) looks at both.",
+          "**Finish coat applied in the wrong weather.** Blotchy color, dust embedded in the surface, or a finish that cracks because the base coat underneath wasn't done curing.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Every one of these is invisible on the day the job is finished. All of them show up later.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on How Stucco Is Applied" },
+      {
+        type: "paragraph",
+        text:
+          "So, how is stucco applied? Paper and lath first, then a scratch coat raked for grip, a brown coat floated flat, and a thin finish coat for texture and color, with proper moist curing between each. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "The three coats total about 7/8 inch, and thickness matters. Thin stucco is weak stucco.",
+          "Curing time is not negotiable. The brown coat needs at least seven days, and New Mexico heat makes misting more important, not less.",
+          "The details you can't see, weep screed, expansion joints, flashing and lath embedment, decide how the wall performs for the next 50 years.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We apply traditional three-coat [stucco](/stucco) and EIFS on new construction, recoat and repair existing stucco, and handle the parapet and roof-to-wall details that most stucco crews leave to someone else. Whether you're finishing a new build or fixing a wall that was applied wrong the first time, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll walk the property and give you a clear scope and quote.",
+      },
+    ],
+  },
+  {
+    slug: "how-does-roof-replacement-work",
+    title: "How Does Roof Replacement Work? What Happens From Estimate to Cleanup",
+    excerpt:
+      "Six stages, one to three days of crew time, and one to three weeks start to finish. Here is what actually happens on a roof replacement, including the moment the crew finds rotten decking.",
+    metaTitle: "How Does Roof Replacement Work? Step by Step",
+    metaDescription:
+      "How does roof replacement work? See all six stages from estimate to cleanup, how long each takes, and how to prepare your home for the job.",
+    category: "Roofing",
+    tags: [
+      "roof replacement",
+      "tear-off",
+      "roof installation",
+      "decking",
+      "materials",
+      "inspection",
+      "ventilation",
+      "flashing",
+    ],
+    publishedAt: "2026-09-25",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-does-roof-replacement-work/roof-replacement-crew-materials.webp",
+    featuredImageAlt:
+      "Gilbert & Sons crew member unloading rolls of roofing underlayment from a trailer on a Las Cruces street before a replacement job",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-replacements",
+      "/roofing/roof-installations",
+      "/roofing/roof-inspections",
+    ],
+    keywords: [
+      "how does roof replacement work",
+      "roof replacement process",
+      "roof tear off",
+      "roof replacement steps",
+      "roof replacement las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Roof replacement works in six stages: an inspection and estimate, materials and scheduling, property protection and tear-off, a deck inspection, installation of the new roof system, and cleanup with a final walkthrough. For most homes the crew is on site for one to three days. From the first phone call to the last nail pickup, the whole process usually runs one to three weeks.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the outline. What makes it feel overwhelming is that most homeowners only replace a roof once or twice in their lives, so nothing about it is familiar. The noise, the debris, the moment the crew finds rotten decking, the pile of paperwork at the end. None of it is a surprise to a roofer. All of it is a surprise to the owner.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide answers how does roof replacement work stage by stage, with what actually happens, how long each part takes, what can change the plan, and how to get your home ready.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Roof Replacement Work? The Six Stages at a Glance",
+      },
+      {
+        type: "table",
+        head: ["Stage", "What happens", "Typical time"],
+        rows: [
+          [
+            "1. Inspection and estimate",
+            "Roofer assesses the roof, measures, writes a scope",
+            "1 to 2 hours on site",
+          ],
+          [
+            "2. Materials and scheduling",
+            "Material selection, permit, order lead time, crew date",
+            "1 to 2 weeks",
+          ],
+          [
+            "3. Protection and tear-off",
+            "Tarps down, old roof removed to the deck",
+            "4 to 8 hours",
+          ],
+          [
+            "4. Deck inspection and repair",
+            "Rotten or unnailable boards replaced",
+            "0 to 6 hours",
+          ],
+          [
+            "5. Installation",
+            "Underlayment, flashing, new roofing, ventilation",
+            "1 to 2 days",
+          ],
+          [
+            "6. Cleanup and walkthrough",
+            "Debris hauled, magnet sweep, punch list, warranty",
+            "1 to 2 hours",
+          ],
+        ],
+      },
+      { type: "paragraph", text: "Each of these gets a closer look below." },
+      { type: "heading", level: 2, text: "Stage 1: Inspection and Estimate" },
+      {
+        type: "paragraph",
+        text:
+          "Every roof replacement starts with someone walking the roof. A proper [roof inspection](/roofing/roof-inspections) covers the roofing material, the flashing at every wall and penetration, the condition of the deck where it's visible, ventilation, drainage, and the attic if there's access.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The estimate that follows should be specific. A complete quote lists the roofing material by type and grade (architectural shingle, 60 mil TPO, concrete tile), the underlayment, all flashing to be replaced, drip edge, ventilation, the permit, disposal, and a per-sheet price for decking replacement. That last item matters because rot can only be confirmed after tear-off, so it's priced as a contingency rather than guessed at.",
+      },
+      {
+        type: "callout",
+        title: "A warning sign in any quote",
+        text:
+          "A one-line quote that just says \"replace roof\" is a warning sign. You can't compare it to anything, and it leaves room for surprises on the invoice.",
+      },
+      { type: "heading", level: 2, text: "Stage 2: Materials, Permits and Scheduling" },
+      {
+        type: "paragraph",
+        text:
+          "Once you've approved the scope, the material choice gets locked in. On a pitched roof in Las Cruces that usually means [architectural asphalt shingles](/blog/what-is-asphalt-shingle-roofing), clay or concrete tile, or metal. On a flat or low-slope roof it means [TPO](/blog/what-is-tpo-roofing) or another membrane. Each has its own lead time, with shingles typically available within days and specialty tile or metal sometimes taking weeks.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The contractor pulls the building permit. Most jurisdictions in Doña Ana County require one for a full replacement, and it triggers a final inspection that protects you.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Scheduling here revolves around weather. Roofers avoid tear-off with rain in the forecast, which in summer means working around monsoon patterns and often starting early in the day. The crew date gets set, and you'll get a heads-up on how to prepare (covered at the end of this post).",
+      },
+      { type: "heading", level: 2, text: "Stage 3: Property Protection and Tear-Off" },
+      {
+        type: "paragraph",
+        text:
+          "Tear-off day is the loudest and messiest part of how roof replacement works. Before anything comes off, the crew protects the property: tarps over landscaping, plywood or tarps against exterior walls and windows, a dump trailer positioned close to the house, and cars moved out of the driveway.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Then the old roof comes off in sections, starting at the corner farthest from the trailer and working toward it. Shingles, nails, old flashing and underlayment all go, right down to bare wood. On a tile roof, tiles are removed by hand and either stacked for reuse or hauled away. On a flat roof, the membrane and often the old insulation are cut and pulled.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Full tear-off matters. Laying new shingles over old saves a few hundred dollars up front, but it hides deck damage, adds weight, traps heat and voids most manufacturer warranties. Every reputable [roof replacement](/roofing/roof-replacements) in this region is a full tear-off.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Expect vibration through the whole house, dust falling in the attic, and a lot of noise for four to eight hours.",
+      },
+      { type: "heading", level: 2, text: "Stage 4: Deck Inspection and Repair" },
+      {
+        type: "paragraph",
+        text:
+          "With the roof stripped, the crew and foreman walk the bare deck. They're looking for soft or rotted plywood, boards that won't hold a nail, gaps, and areas where old leaks have done damage nobody could see from above.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Damaged sheets get cut out and replaced with new plywood or OSB, nailed to the rafters on the proper spacing. On a roof with a few bad spots this adds an hour or two. On a roof with widespread rot from years of leaking, it can add most of a day and a meaningful line on the invoice.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This is the stage where the pre-priced contingency from your estimate comes into play, and it's the reason a good contractor photographs the deck and shows you before replacing anything.",
+      },
+      { type: "heading", level: 2, text: "Stage 5: Installing the New Roof System" },
+      {
+        type: "paragraph",
+        text: "The new roof goes on as a system, in layers, and the order matters.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Dry-in.** Underlayment gets rolled across the entire deck and fastened. Synthetic underlayment is standard now because it doesn't tear in wind and handles our UV far better than felt. Ice and water shield goes in the valleys and around penetrations. Once the roof is dried in, it's weather-tight even before the finished roofing is on, which is why crews push to reach this point the same day as tear-off.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Drip edge and flashing.** Metal drip edge goes on at eaves and rakes. New step flashing, counterflashing and pipe boots are installed at every wall, chimney and penetration. On stucco homes, this is the detail that decides whether the roof leaks at the parapet or the wall line in five years. Flashing that meets a stucco wall has to be integrated with the stucco, not just tucked behind it.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-does-roof-replacement-work/shingle-nailing-installation-detail.webp",
+        alt:
+          "Nail gun resting on a partly shingled roof slope with drip edge, starter course, underlayment roll and shingle bundles staged at the ridge",
+        caption:
+          "Mid-installation: drip edge and starter course down at the eave, underlayment across the deck, and bundles staged at the ridge.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Starter and field material.** Starter strip goes along the eaves, then the shingles, tiles or membrane are installed course by course. Shingles are nailed to the manufacturer's pattern. Tile is fastened to spec and laid with proper headlap. TPO membrane is rolled out, fastened or adhered, and every seam is heat-welded and probed.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Ventilation and ridge.** Ridge vent or other exhaust ventilation gets installed, balanced against intake at the eaves. Ridge caps or ridge tiles finish the peak. Proper attic ventilation adds years to any roof in our heat and is required by most shingle warranties.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "For a typical home this stage runs one to two days depending on material, size and pitch. Tile and flat membrane [roof installations](/roofing/roof-installations) generally take longer than shingles.",
+      },
+      { type: "heading", level: 2, text: "Stage 6: Cleanup and Final Walkthrough" },
+      {
+        type: "paragraph",
+        text:
+          "When the last course is on, the crew blows off the roof, clears gutters and downspouts, and pulls the tarps. Every square foot of yard and driveway gets swept with a rolling magnet for nails. The dump trailer leaves.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The foreman then walks the finished roof, checking flashing, ridge, penetrations and any punch-list items. You do a walkthrough at ground level. The permit inspection gets scheduled if required. You receive the manufacturer warranty registration and the contractor's workmanship warranty in writing, and the final payment is made.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That paperwork is worth keeping somewhere safe. It's what you'll need if a problem comes up in year eight.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-does-roof-replacement-work/completed-roof-aerial-overview.webp",
+        alt:
+          "Overhead drone view of a completed brown shingle roof on a single-storey home with clean gutters and a clear driveway",
+        caption:
+          "A finished replacement from above. The overhead pass is also how a foreman checks ridge lines and penetrations without walking every slope.",
+      },
+      { type: "heading", level: 2, text: "How Long Does a Roof Replacement Take?" },
+      {
+        type: "paragraph",
+        text: "The on-site work is usually shorter than people expect.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Asphalt shingle, average home:** 1 to 2 days",
+          "**Asphalt shingle, large or steep roof:** 2 to 3 days",
+          "**Concrete or clay tile:** 3 to 5 days, longer if tiles are being reused over new underlayment",
+          "**TPO or other flat membrane:** 1 to 3 days depending on square footage and insulation",
+          "**Metal:** 2 to 4 days",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Add the lead time from estimate to crew date, and the full process is typically one to three weeks. Weather delays, material backorders and unexpected deck repair are the three things that stretch it.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How to Prepare Your Home for Roof Replacement",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A little preparation on your side makes the job smoother and protects your belongings.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Move vehicles** out of the driveway and away from the house before the crew arrives. Falling debris and stray nails are a real risk to paint and tires.",
+          "**Cover or remove items in the attic.** Tear-off vibration sends dust and debris down through every gap in the decking.",
+          "**Take down wall hangings** on upper floors. Mirrors and framed pictures can shift or fall from the hammering.",
+          "**Clear the perimeter.** Move patio furniture, grills, planters and anything under the eaves.",
+          "**Turn off sprinklers** for the duration so the crew isn't working on wet ground and tarps.",
+          "**Plan for pets and small children.** Tear-off day is loud and stressful for both. Many families arrange to be elsewhere during the noisiest hours.",
+          "**Mark anything fragile in the yard** and point it out to the foreman during the pre-job walkthrough.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on How Roof Replacement Works",
+      },
+      {
+        type: "paragraph",
+        text:
+          "So, how does roof replacement work? Inspect and estimate, choose materials and schedule, protect the property and tear off, check and repair the deck, install the new system in layers, then clean up and hand over the warranty. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "A detailed estimate with a per-sheet decking price is the sign of a contractor who's planning for what tear-off will reveal instead of surprising you with it.",
+          "Full tear-off and proper flashing at stucco walls and parapets are the two steps that separate a 25-year roof from a 10-year one in New Mexico.",
+          "The crew is on your roof for one to three days. Preparing the house the day before is what keeps that time from being stressful.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Not sure whether you're at the replacement stage yet? Our guide to [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced) covers the signals that push a roof from repair into replacement.",
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We replace asphalt shingle, tile, metal and flat roofs for homes and commercial buildings, including the [specialty roofing systems](/roofing/specialty-roofing) and stucco transitions most roofers subcontract out, and we walk you through every stage before it happens. To find out whether your roof needs replacing and what the job would involve, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the roof in person and give you a written scope and quote.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-emergency-roof-repair",
+    title: "What Is Emergency Roof Repair? When to Call and What to Expect",
+    excerpt:
+      "Emergency roof repair is a two-visit process: fast professional stabilization that stops the water today, then a scheduled permanent fix. Here is what counts as an emergency and what the roofer does on site.",
+    metaTitle: "What Is Emergency Roof Repair? When to Call a Pro",
+    metaDescription:
+      "What is emergency roof repair? Learn what counts as a roofing emergency, what the roofer does on site, and what to do before help arrives.",
+    category: "Storm Damage",
+    tags: [
+      "emergency roofing",
+      "storm damage",
+      "leaks",
+      "monsoon",
+      "flat roof",
+      "flashing",
+      "inspection",
+      "maintenance",
+    ],
+    publishedAt: "2026-09-25",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-emergency-roof-repair/storm-damaged-roof-emergency-tarp.webp",
+    featuredImageAlt:
+      "Roofer standing beside a sandbagged emergency tarp covering storm damage on a concrete tile roof in a Las Cruces neighbourhood",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/emergency-roofing",
+      "/roofing/roof-repairs",
+      "/roofing/roof-inspections",
+    ],
+    keywords: [
+      "what is emergency roof repair",
+      "emergency roof repair las cruces",
+      "storm damage roof repair",
+      "roof leak emergency",
+      "emergency roof tarp",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Emergency roof repair is same-day or next-day work by a licensed roofing contractor to stop active water intrusion, stabilize a damaged roof and prevent further damage to the building. It's not the tarp you throw over a hole yourself, and it's not the repair you schedule for next month. It sits in between: a fast professional response that buys time for a permanent fix.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most people first search \"what is emergency roof repair\" while standing under a ceiling that's dripping. The ceiling doesn't care about definitions, so here's the practical version: it's what you call when water is coming in now or will be with the next storm, and waiting isn't an option.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide covers what emergency roof repair actually involves, what counts as an emergency and what doesn't, what the roofer does when they arrive, how it differs from a DIY fix, why monsoon season drives most of these calls in Las Cruces, what to do while you wait, and how insurance usually treats it.",
+      },
+      { type: "heading", level: 2, text: "What Is Emergency Roof Repair?" },
+      {
+        type: "paragraph",
+        text:
+          "Emergency roof repair is a two-part process, and understanding that clears up most of the confusion.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Part one is stabilization.** The roofer arrives, finds the source of the water, and makes the roof weather-tight with a temporary measure. That might be a properly anchored heavy-duty tarp, a temporary dry-in with underlayment, a patch over a puncture, or clearing a blocked drain that's ponding water on a flat roof. The goal is to stop damage today.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Part two is the permanent repair.** Once the roof is dry and the weather cooperates, the roofer comes back to fix the actual problem: replace the torn membrane, reflash the parapet, reset the tiles, replace the section of decking that got soaked. This is a scheduled [roof repair](/roofing/roof-repairs), and it's sometimes a larger job than the emergency visit suggested.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Why two visits? Because permanent repairs need dry conditions, daylight, materials on hand and time to do right. None of those exist at 9 p.m. during a downburst. Emergency roof repair stops the bleeding. The follow-up closes the wound.",
+      },
+      { type: "heading", level: 2, text: "What Counts as a Roofing Emergency?" },
+      {
+        type: "paragraph",
+        text:
+          "Not every roof problem is an emergency, and knowing the difference saves you money and stress. These situations warrant an emergency call:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Active leak with more rain in the forecast.** Water coming through the ceiling, running down a wall or pooling in the attic.",
+          "**A hole or puncture.** From a fallen branch, wind-blown debris, or a collapsed section.",
+          "**Missing roofing after wind.** A section of shingles gone, tiles blown off, a flat roof membrane lifted or torn back.",
+          "**Tree or debris impact.** Anything heavy sitting on or through the roof.",
+          "**Sagging or structural movement.** A visibly dipping roofline, especially after heavy rain or on an older flat roof.",
+          "**Standing water on a flat roof that isn't draining.** Blocked scuppers or canales after a storm can put thousands of pounds of water on the deck.",
+          "**Water reaching electrical fixtures.** Any leak near lights, outlets or a panel is a safety issue first.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "What generally isn't an emergency: a small stain that hasn't grown, a single cracked tile with no leak, a few curled shingles on a dry week, or a slow drip you've been watching for a month. Those need a prompt inspection, not a night call. A good contractor will tell you honestly which category you're in.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Happens During an Emergency Roof Repair Visit?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Here's what the roofer actually does when they show up, and what you should expect from a professional [emergency roofing](/roofing/emergency-roofing) response.",
+      },
+      { type: "heading", level: 3, text: "Assessment and Safety" },
+      {
+        type: "paragraph",
+        text:
+          "First, they figure out where the water is coming from, which is often not where it's showing up inside. On a stucco home with a flat roof, a ceiling stain in the living room can trace back to a cracked parapet cap fifteen feet away. They also assess whether the roof is safe to walk. In sustained high wind or lightning, a responsible crew waits. No repair is worth someone falling.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-emergency-roof-repair/roofer-sealing-flashing-repair.webp",
+        alt:
+          "Roofer kneeling on a shingle roof to reseal the metal counterflashing where the roof meets a stucco chimney wall",
+        caption:
+          "Roof-to-wall flashing on a stucco chimney. This detail causes far more leaks than the roofing material around it, and it is usually where the water is actually getting in.",
+      },
+      { type: "heading", level: 3, text: "Water Diversion Inside" },
+      {
+        type: "paragraph",
+        text:
+          "Before going up, they may help redirect what's already coming in: poking a small drain hole in a sagging ceiling bubble so it drips in one controlled spot instead of collapsing, positioning containers, moving belongings.",
+      },
+      { type: "heading", level: 3, text: "Temporary Dry-In or Tarp" },
+      {
+        type: "paragraph",
+        text:
+          "Then the roof gets weather-tight. On a pitched roof, that's usually a heavy-duty reinforced tarp that extends several feet past the damage on all sides, anchored to the structure so wind can't lift it. On a flat roof, it may be a patch of membrane or underlayment sealed over the breach, or clearing drains so water can leave. Done right, this holds for weeks until permanent work is scheduled.",
+      },
+      { type: "heading", level: 3, text: "Documentation" },
+      {
+        type: "paragraph",
+        text:
+          "A professional crew photographs the damage before and after stabilization. You'll want this for insurance, and it also establishes what the permanent repair needs to address.",
+      },
+      { type: "heading", level: 3, text: "Scheduling the Permanent Repair" },
+      {
+        type: "paragraph",
+        text:
+          "Before leaving, they set a plan for the follow-up: what needs to be done, roughly what it will cost, and when weather will allow it.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Emergency Roof Repair vs Temporary Fixes: What's the Difference?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A homeowner tarp, a tube of sealant, or a bucket in the attic are temporary fixes. They reduce damage for a short time. Emergency roof repair is a licensed contractor stopping the leak and stabilizing the roof properly, then following through to fix the cause.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The difference shows up in how they fail. A DIY tarp that's too small, unanchored or laid on wet shingles lifts in the next gust and often does more harm than good. Sealant smeared over a membrane seam or a stucco crack hides the problem while water keeps moving behind it. Neither addresses why the roof failed.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "There's also the safety side. Roof work in wind, on a wet surface, in fading light, is how people get hurt. If the damage is small, the roof is low and the weather is calm, a homeowner tarp is a reasonable stopgap. If any of those aren't true, the answer to what is emergency roof repair is: the thing you call instead of climbing up there.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Monsoon Season Drives Emergency Roof Repair in Las Cruces",
+      },
+      {
+        type: "paragraph",
+        text:
+          "From late June through September, the Mesilla Valley gets the storms that generate most emergency roof repair calls of the year.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Monsoon downbursts regularly bring 50 to 70 mph winds. That's enough to lift under-fastened tile, strip older 3-tab shingles and peel back the edge of a flat roof membrane. Rain arrives sideways and hard, which tests every parapet cap, roof-to-wall flashing and window head on a [stucco building](/blog/what-is-stucco-roofing) at once. On flat roofs, a summer's worth of dust washes into scuppers and canales in the first big storm and blocks them, and a roof that's holding six inches of water is a structural emergency, not just a leak.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-emergency-roof-repair/flat-roof-drainage-ponding.webp",
+        alt:
+          "Overhead drone view of a commercial building with a white flat membrane roof, rooftop HVAC units, roof drains and a parapet edge",
+        caption:
+          "Drains and scuppers on a commercial flat roof. One blocked outlet after a monsoon storm is the difference between a wet roof and a structural call.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Hail is less frequent but does occur, and a hail event can crack dozens of tiles or bruise shingles across an entire slope in ten minutes.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The pattern every roofer in Las Cruces knows: the first significant monsoon storm of the year produces a wave of emergency calls, most of them on roofs that had a small, fixable problem in May.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Should You Do While You Wait for the Roofer?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "You've made the call. Here's how to spend the next hour or two productively and safely.",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Move belongings** out from under the leak. Furniture, electronics, rugs, anything on the floor below.",
+          "**Contain the water.** Buckets, towels, a tarp on the floor. If a ceiling is bulging, a small puncture with a screwdriver at the lowest point lets it drain in one place rather than collapsing.",
+          "**Photograph everything.** The leak, the damage inside, the exterior if you can see it from the ground, the date and time. Insurance will ask.",
+          "**Cut power to the affected area** at the breaker if water is anywhere near lights, outlets or fixtures.",
+          "**Stay off the roof.** Wet surfaces, wind and darkness are how emergencies get worse.",
+          "**Check the attic if it's safe** to see whether water is spreading, and note where it's entering.",
+          "**Don't start permanent repairs or cleanup** before the roofer and, if applicable, the adjuster have seen the damage.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Does Insurance Cover Emergency Roof Repair?" },
+      {
+        type: "paragraph",
+        text:
+          "In general terms, and this varies by policy: sudden storm damage from wind, hail or falling debris is typically covered under a standard homeowner policy. Damage from wear, age, deferred maintenance or a roof that was already failing usually isn't. The cost of emergency tarping or stabilization to prevent further damage is often reimbursable as part of a covered claim, because policies generally expect you to mitigate damage.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What helps a claim: photos before and after, a written assessment from the roofer, receipts for the emergency work, and a clear timeline. What hurts it: waiting weeks to report, cleaning up before documenting, or a roof with an obvious history of neglect.",
+      },
+      {
+        type: "callout",
+        title: "Not policy advice",
+        text:
+          "This is general guidance. Read your policy, call your carrier, and ask your roofer for the documentation they'd want. Many contractors, including Gilbert & Sons, work with insurance claims regularly and can produce the paperwork adjusters expect.",
+      },
+      { type: "heading", level: 2, text: "How to Avoid Needing Emergency Roof Repair" },
+      {
+        type: "paragraph",
+        text:
+          "Most emergency calls are the end of a story that started as a small, visible problem.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Get a pre-monsoon inspection.** A professional [roof inspection](/roofing/roof-inspections) in May or early June catches lifted flashing, cracked parapet caps, loose tiles and failing sealant before the first storm tests them.",
+          "**Clear drains, scuppers and canales.** On a flat roof, this alone prevents a large share of monsoon emergencies.",
+          "**Fix small problems immediately.** A single slipped tile or a hairline crack at a parapet is a fifteen-minute fix in spring and an emergency in July.",
+          "**Get on a maintenance plan.** Regular [roof maintenance](/roofing/roof-maintenance) means someone who knows your roof is looking at it twice a year.",
+          "**Save the number before you need it.** Searching for a roofer at night during a storm, when every roofer in town is getting the same call, is the worst time to be choosing.",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Emergency Roof Repair" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is emergency roof repair? Fast, professional stabilization of a roof that's letting water in, followed by a scheduled permanent fix once conditions allow. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "It's a two-visit process. The emergency call stops the damage. The follow-up repairs the cause. Both matter.",
+          "Active leaks, holes, missing sections, structural sag and ponding water are emergencies. A small, stable stain on a dry week is an inspection.",
+          "In Las Cruces, most emergency calls come from monsoon storms hitting roofs that had a small, known problem in spring. A pre-season inspection is the cheapest emergency roof repair you'll ever buy.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "If water is coming in right now, call **575-649-2316**. Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010, and we respond to active leaks, storm damage and flat roof failures on homes and commercial buildings, then handle the permanent repair ourselves rather than handing it off. For anything less urgent, email gilbertandsons2010@gmail.com or [request an estimate through our contact page](/#contact) and we'll get the roof inspected before the next storm does it for you.",
+      },
+    ],
+  },
 ];
