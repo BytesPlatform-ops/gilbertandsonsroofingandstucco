@@ -2948,4 +2948,1103 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-is-roof-flashing",
+    title: "What Is Roof Flashing? Types, Where It Goes and Why It Leaks",
+    excerpt:
+      "Roof flashing is the metal or membrane at every break in the roof that sends water back onto the roof instead of into the building. Here are the types, where each one goes on a stucco home, and why flashing is the top leak source.",
+    metaTitle: "What Is Roof Flashing? Types and Where It Goes",
+    metaDescription:
+      "What is roof flashing? Learn the types, where each goes on a stucco home, why flashing is the top leak source and when it needs repair.",
+    category: "Roofing",
+    tags: [
+      "flashing",
+      "leaks",
+      "stucco",
+      "parapet",
+      "flat roof",
+      "inspection",
+    ],
+    publishedAt: "2026-09-30",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-roof-flashing/roof-to-wall-flashing-stucco-gutter.webp",
+    featuredImageAlt:
+      "Close-up of metal flashing where an asphalt shingle roof meets a stucco wall, finished above a dark bronze gutter",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: ["/roofing/roof-repairs", "/roofing/roof-inspections", "/stucco"],
+    keywords: [
+      "what is roof flashing",
+      "roof flashing types",
+      "kickout flashing",
+      "step flashing stucco",
+      "roof flashing repair las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Roof flashing is thin sheet metal, or on flat roofs a strip of membrane, installed wherever the roof surface is interrupted or meets something vertical: a wall, a chimney, a pipe, a skylight, a parapet. Its job is to catch water at those breaks and send it back onto the roof instead of into the building.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the whole definition. Here's why it matters more than the definition suggests. Ask any roofer in Las Cruces where leaks come from and flashing is the first answer, ahead of the shingles, the tiles or the membrane. The roofing material covers the big open areas where water shedding is easy. Flashing handles every place where it's hard, and every one of those places is a seam between two materials that move differently in the heat.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what roof flashing is made of, walks through each type and where it goes, shows where it lives on a typical stucco home, covers why it fails, and lays out how to know when yours needs work.",
+      },
+      { type: "heading", level: 2, text: "What Is Roof Flashing and What Does It Do?" },
+      {
+        type: "paragraph",
+        text:
+          "Flashing works on two principles: overlap and gravity. Each piece is layered so that water running downhill always lands on top of the next piece, never behind it. Sealant is a backup, not the primary defense. A flashing detail that depends entirely on caulk to stay dry is a detail that will leak once the caulk dries out.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Materials.** Galvanized steel is the standard on residential roofs because it's affordable and durable. Aluminum is lighter and easier to bend but corrodes on contact with wet concrete or stucco, which matters here. Copper is the premium choice and lasts the life of the building. On flat roofs with [TPO](/blog/what-is-tpo-roofing) or PVC membranes, flashing is often the membrane itself run up the wall, plus TPO-clad metal at edges and terminations so the membrane can be heat-welded to it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Where it sits in the system.** On a pitched roof, flashing goes on after the underlayment and before or between courses of roofing so it's woven into the layers. On a flat roof, base flashing turns the membrane up the wall and counterflashing or a cap covers the top edge. Either way, flashing is integrated into the roof, not laid on top of it.",
+      },
+      { type: "heading", level: 2, text: "The Types of Roof Flashing" },
+      { type: "paragraph", text: "Each type solves a specific geometry problem." },
+      { type: "heading", level: 3, text: "Step Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "L-shaped pieces installed one per course where a pitched roof meets a vertical wall. Each piece laps over the shingle below and under the shingle above, stepping up the wall. This is the workhorse on shingle and tile roofs against stucco walls and chimneys.",
+      },
+      { type: "heading", level: 3, text: "Counterflashing" },
+      {
+        type: "paragraph",
+        text:
+          "A second layer that covers the top edge of step or base flashing, tucked into the wall or under a cap so water can't get behind the first layer. On stucco, counterflashing is either embedded in the stucco or set into a reglet cut into the wall.",
+      },
+      { type: "heading", level: 3, text: "Continuous or Apron Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "One long piece along the base of a wall or the front of a chimney where the roof runs straight into it. Includes expansion joints on long runs so thermal movement doesn't buckle it.",
+      },
+      { type: "heading", level: 3, text: "Kickout Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "A small angled piece at the bottom of a step-flashing run that diverts water away from the wall and into the gutter. Without it, water runs straight down the wall face behind the stucco. Missing kickout flashing is one of the most common causes of stucco rot below a roofline, and it's a detail many older homes in the region never got.",
+      },
+      { type: "heading", level: 3, text: "Drip Edge" },
+      {
+        type: "paragraph",
+        text:
+          "Metal along the eaves and rakes that carries water off the roof edge and past the fascia. It also keeps wind-driven rain from getting under the first course of roofing.",
+      },
+      { type: "heading", level: 3, text: "Valley Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "Metal in the channel where two roof planes meet. Valleys carry the most concentrated water flow on the roof, so this piece takes the most abuse.",
+      },
+      { type: "heading", level: 3, text: "Vent Pipe Boots" },
+      {
+        type: "paragraph",
+        text:
+          "A flanged base with a rubber or metal collar that seals around plumbing vents. The rubber collar is usually the first thing on any roof to fail in New Mexico sun.",
+      },
+      { type: "heading", level: 3, text: "Chimney and Skylight Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "A combination of apron, step, counterflashing and a cricket (a small peaked diverter) behind the chimney to keep water from pooling against the back.",
+      },
+      { type: "heading", level: 3, text: "Parapet and Base Flashing on Flat Roofs" },
+      {
+        type: "paragraph",
+        text:
+          "On flat roofs, the membrane turns up the inside of the parapet wall as base flashing and terminates under a cap or counterflashing. Scuppers and canales that drain through the parapet each get their own flashing sleeve.",
+      },
+      { type: "heading", level: 2, text: "Where Flashing Goes on a New Mexico Home" },
+      {
+        type: "paragraph",
+        text:
+          "Stucco homes have more flashing transitions than most, and a few of them are unique to this region.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Stucco wall intersections.** Every place a lower roof dies into a second-story wall needs step flashing, counterflashing and kickout flashing integrated with the weep screed at the base of the stucco.",
+          "**Parapets.** On flat-roofed Pueblo and commercial buildings, the parapet is the single biggest flashing detail on the property. Cap, counterflashing and base flashing all meet there. Our guide to [parapet repair](/blog/what-is-parapet-repair) covers that detail in depth.",
+          "**Canales and scuppers.** Each drain through a parapet is a hole in the wall that needs a flashed sleeve tied into the membrane.",
+          "**Tile-to-wall transitions.** Tile roofs need pan flashing under the tile at walls, with the tile cut around it, since tile can't be woven with step flashing the way shingles can.",
+          "**HVAC curbs and penetrations on flat roofs.** Every rooftop unit sits on a curb that needs flashed corners and a counterflashed top.",
+          "**Chimneys.** Common on older adobe and territorial-style homes, and often flashed with nothing but a bead of caulk.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Understanding what roof flashing is on a stucco home comes down to understanding that most of these details are shared between the roofer and the stucco crew. Get one side right and the other wrong, and it still leaks.",
+      },
+      { type: "heading", level: 2, text: "Why Does Roof Flashing Fail?" },
+      {
+        type: "paragraph",
+        text:
+          "Flashing outlasts most roofing materials when it's installed well. When it fails, the cause is usually one of these.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Thermal cycling.** Daily temperature swings of 30 to 40 degrees expand and contract metal against stucco, wood and membrane. Over years, that works fasteners loose and opens gaps at laps.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Sealant breakdown.** UV at our elevation bakes caulk and sealant hard within a few seasons. Any flashing detail that relied on sealant alone starts leaking when it does.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Stucco applied over the flashing edge.** This is the big one locally. When stucco is troweled down over the top edge of step or apron flashing instead of stopping above it, water wicks behind the stucco and runs down inside the wall. The roof looks fine. The wall rots.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Missing kickout flashing.** Water runs down the wall face, behind the stucco, and shows up as staining and soft spots at the base of the wall years later.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Rust and corrosion.** Galvanized coating wears through, or aluminum sits against wet stucco and corrodes.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Bad original installation.** Reused old flashing on a re-roof, flashing face-nailed and caulked instead of lapped, or no counterflashing at all.",
+      },
+      { type: "heading", level: 2, text: "Signs Your Roof Flashing Needs Repair" },
+      {
+        type: "list",
+        items: [
+          "**Ceiling stains along an exterior wall** or below a chimney, skylight or vent",
+          "**Rust streaks** running down the roof or the stucco below a transition",
+          "**Lifted, bent or separated metal** visible from the ground at wall lines or the roof edge",
+          "**Cracked or missing sealant** at counterflashing and pipe boots",
+          "**Dark stains or efflorescence on stucco** just below where a roof meets the wall",
+          "**Soft or hollow stucco** at the base of a wall below a roofline, which points to a missing kickout",
+          "**Water at the parapet's inside face** on a flat roof",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "A stain at a wall line with intact roofing above it is almost always a flashing problem, not a roofing problem. A professional [roof inspection](/roofing/roof-inspections) will check every transition rather than just the field of the roof.",
+      },
+      { type: "heading", level: 2, text: "Flashing Repair vs Replacement" },
+      {
+        type: "paragraph",
+        text:
+          "**Resealing** is appropriate when the metal is sound and properly lapped but the sealant at counterflashing or a pipe boot has dried out. It's quick and it buys years.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Replacement** is the answer when the metal is rusted through, was never lapped correctly, is missing kickout pieces, or has stucco run over the top of it. That last case means opening the stucco, installing the flashing correctly with the paper and weep screed, and re-stuccoing the wall. It's more work, but it's the only fix that holds. A [roof repair](/roofing/roof-repairs) that reseals over bad flashing is a repeat call in two years.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "On a full re-roof, all flashing should be replaced. Reusing old flashing on a new [roof installation](/roofing/roof-installations) is the single most common shortcut that shortens a roof's life.",
+      },
+      { type: "heading", level: 2, text: "How Flashing Ties Into Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "This is the part most articles about what roof flashing is skip, and it's the part that matters most here.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-roof-flashing/roofer-installing-counterflashing-stucco.webp",
+        alt:
+          "Roofer kneeling on a shingle roof working metal flashing into the base of a stucco chimney wall",
+        caption:
+          "Flashing at the base of a stucco chimney. The metal has to lap under the wall system, not sit on top of it with a bead of caulk.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "On a framed stucco wall, the flashing at a roof-to-wall transition has to be layered with the weather-resistive paper behind the stucco, the weep screed at the base, and the stucco itself. The step flashing goes on. The paper laps over it. The stucco stops above the flashing with a casing bead, not over it. The kickout at the bottom diverts water clear of the wall.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Get that sequence right and the wall stays dry for decades. Get it wrong, or let a roofer and a stucco crew each do their half without talking, and water finds the gap. This is why [stucco work](/stucco) and roofing are the same trade on this kind of building. For the wider picture, see our guide to [stucco roofing](/blog/what-is-stucco-roofing).",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Flashing" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is roof flashing? The metal and membrane at every break in the roof that directs water back where it belongs. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Flashing is the number one leak source on most roofs. When a leak appears at a wall, chimney or penetration, look at the flashing before the roofing.",
+          "Flashing works by overlap, not sealant. Any detail that depends on caulk will fail once New Mexico sun dries it out.",
+          "On a stucco home, flashing and stucco are one system. Stucco run over the flashing edge and missing kickout flashing are the two most common local causes of wall damage.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Want to know how a roofer checks every one of these details? Our guide to [what a roof inspection includes](/blog/what-does-a-roof-inspection-include) walks through the full checklist.",
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Because we do both roofing and stucco, we handle flashing transitions from the roof side and the wall side in one visit, including parapets, roof-to-wall intersections and kickout retrofits. If you've got a stain at a wall line or rust streaks on the stucco, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect every transition on the roof.",
+      },
+    ],
+  },
+  {
+    slug: "what-does-a-roof-inspection-include",
+    title: "What Does a Roof Inspection Include? The Full Checklist",
+    excerpt:
+      "A professional roof inspection covers the structure, the roofing material, the flashing and penetrations, and the attic, and ends with a written report with photos. Here is the full checklist by roof type, how long it takes and when to schedule one.",
+    metaTitle: "What Does a Roof Inspection Include? Full Checklist",
+    metaDescription:
+      "What does a roof inspection include? See the full checklist, how long it takes, what the report covers and when to schedule one.",
+    category: "Roof Maintenance",
+    tags: [
+      "inspection",
+      "maintenance",
+      "flashing",
+      "parapet",
+      "flat roof",
+      "tile roof",
+      "monsoon",
+    ],
+    publishedAt: "2026-09-30",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-does-a-roof-inspection-include/roofer-inspecting-tile-roof.webp",
+    featuredImageAlt:
+      "Roofer in a hard hat, safety vest and harness walking a tile roof during an inspection",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-inspections",
+      "/roofing/roof-maintenance",
+      "/roofing/roof-repairs",
+    ],
+    keywords: [
+      "what does a roof inspection include",
+      "roof inspection checklist",
+      "roof inspection las cruces",
+      "how long does a roof inspection take",
+      "roof inspection report",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "A professional roof inspection covers four things: the structure, the roofing material, the flashing and penetrations, and the interior or attic. It takes about 45 minutes to two hours depending on the roof, and it ends with a written report, usually with photos, that tells you what's wrong, what's fine, and what to do about it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the short answer. The longer answer matters because \"inspection\" gets used loosely. Some contractors mean a five-minute look from the driveway. Others mean a full walk of every transition on the roof, a trip into the attic and a moisture check on a flat roof. Knowing what a real inspection includes is how you tell the difference before you pay for one.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Here's the full breakdown: what gets checked, the checklist by roof type, how long it takes, what it costs, what the report contains, and when to schedule one in Las Cruces.",
+      },
+      { type: "heading", level: 2, text: "What Does a Roof Inspection Include? The Four Parts" },
+      { type: "heading", level: 3, text: "Structural" },
+      {
+        type: "paragraph",
+        text:
+          "The inspector looks at the roof's shape and support. Sagging along the ridge, dips in a plane, or a wavy roofline point to deck or rafter problems. On flat roofs, that means checking for low spots that pond water. They also check the condition of the fascia, soffits and any visible framing at the eaves.",
+      },
+      { type: "heading", level: 3, text: "Roofing Material" },
+      {
+        type: "paragraph",
+        text:
+          "This is the surface layer, and what gets checked depends on the material. Shingles get looked at for curling, cracking, missing tabs and granule loss. Tile gets checked for cracks, slipped or broken pieces and debris in the channels. Flat membranes and coatings get checked for seam separation, punctures, chalking, thinning and ponding.",
+      },
+      { type: "heading", level: 3, text: "Flashing and Penetrations" },
+      {
+        type: "paragraph",
+        text:
+          "Every place the roof is interrupted. Step and counterflashing at walls, chimney and skylight flashing, pipe boots, HVAC curbs, drip edge, valleys, and on Southwest buildings, the parapet caps, scuppers and canales. This is where most leaks originate, so a good inspector spends more time here than on the open roof. Our guide to [roof flashing](/blog/what-is-roof-flashing) explains each of these details.",
+      },
+      { type: "heading", level: 3, text: "Interior and Attic" },
+      {
+        type: "paragraph",
+        text:
+          "If there's attic access, the inspector checks for water stains on the underside of the deck, daylight through gaps, wet or compressed insulation, mold, and whether ventilation is working. Inside the home, they look at ceilings and the tops of exterior walls for staining.",
+      },
+      { type: "heading", level: 2, text: "The Roof Inspection Checklist" },
+      {
+        type: "paragraph",
+        text:
+          "Here's what a thorough inspection covers, organized by roof type. A stucco building gets the parapet and transition items regardless of roof type.",
+      },
+      { type: "paragraph", text: "**Every roof**" },
+      {
+        type: "list",
+        items: [
+          "Sagging, dips or structural movement",
+          "Fascia, soffit and eave condition",
+          "Drip edge and gutters or drainage",
+          "All flashing at walls, chimneys, skylights and penetrations",
+          "Pipe boots and vent collars",
+          "Sealant condition at every detail",
+          "Attic or interior for stains, daylight and moisture",
+          "Ventilation intake and exhaust",
+        ],
+      },
+      { type: "paragraph", text: "**Asphalt shingle roofs**" },
+      {
+        type: "list",
+        items: [
+          "Curling, cupping, cracking or blistering",
+          "Missing or lifted shingles",
+          "Granule loss and bald patches",
+          "Exposed or popped nails",
+          "Seal strip adhesion",
+          "Ridge cap condition",
+        ],
+      },
+      { type: "paragraph", text: "**Tile roofs**" },
+      {
+        type: "list",
+        items: [
+          "Cracked, chipped, slipped or missing tiles",
+          "Debris in valleys and behind penetrations",
+          "Underlayment condition (a few tiles lifted to check)",
+          "Ridge and hip mortar or foam",
+          "Bird stops and eave closures",
+        ],
+      },
+      { type: "paragraph", text: "**Flat, TPO and coated roofs**" },
+      {
+        type: "list",
+        items: [
+          "Seam integrity and welds",
+          "Punctures, tears and blisters",
+          "Ponding water and low spots",
+          "Coating thickness, chalking and reflectivity",
+          "Membrane termination at walls",
+          "Scuppers, canales and drains for blockage",
+        ],
+      },
+      { type: "paragraph", text: "**Stucco parapets and roof-to-wall transitions**" },
+      {
+        type: "list",
+        items: [
+          "Parapet cap or coping cracks",
+          "Counterflashing and base flashing at the parapet",
+          "Stucco cracks, staining and hollow spots on both faces",
+          "Kickout flashing at the bottom of wall intersections",
+          "Stucco stopped above the flashing, not run over it",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-does-a-roof-inspection-include/inspector-accessing-tile-roof-ladder.webp",
+        alt:
+          "Roofer in a hard hat and fall-protection harness climbing from a ladder onto a clay tile roof above a stucco wall",
+        caption:
+          "A real inspection means getting on the roof. A look from the driveway can't evaluate flashing, underlayment or seams.",
+      },
+      { type: "heading", level: 2, text: "How Long Does a Roof Inspection Take?" },
+      {
+        type: "list",
+        items: [
+          "**Single-story shingle roof:** 45 minutes to an hour",
+          "**Two-story or complex shingle roof:** one to two hours",
+          "**Tile roof:** one to two hours, since tiles need to be lifted to check underlayment",
+          "**Commercial flat roof:** one to three hours depending on square footage and the number of penetrations",
+          "**Add an attic walk:** 15 to 30 minutes",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Anything that takes ten minutes from the ground is a visual assessment, not an inspection. It can spot obvious damage but can't evaluate flashing, underlayment or a flat roof's seams.",
+      },
+      { type: "heading", level: 2, text: "How Much Does a Roof Inspection Cost?" },
+      {
+        type: "paragraph",
+        text:
+          "Nationally, a standalone roof inspection typically runs $120 to $400, with drone-assisted or infrared moisture inspections at the higher end. Many roofing contractors, including Gilbert & Sons, provide the inspection free when it's part of a repair or replacement estimate.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "There's a distinction worth knowing. A free contractor inspection is tied to a quote. An independent paid inspection produces a report with no sales attached, which is useful for real estate transactions or insurance disputes. Both have their place.",
+      },
+      { type: "heading", level: 2, text: "What's in the Roof Inspection Report?" },
+      { type: "paragraph", text: "A good report includes:" },
+      {
+        type: "list",
+        items: [
+          "**Photos** of every problem area and the major details, taken on the roof",
+          "**Condition ratings** for the roofing material, flashing, drainage and structure",
+          "**A prioritized list** separating urgent repairs from maintenance items from cosmetic issues",
+          "**A remaining-life estimate** for the roof based on material, age and condition",
+          "**A written quote** if repairs or replacement are recommended",
+          "**Documentation** suitable for an insurance claim or a home sale if that's the purpose",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "If a contractor walks your roof and gives you a verbal \"it looks fine\" with no photos, you didn't get an inspection. You got an opinion.",
+      },
+      { type: "heading", level: 2, text: "When Should You Get a Roof Inspection?" },
+      {
+        type: "paragraph",
+        text: "**Annually.** Once a year is the baseline for any roof past its fifth birthday.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**After monsoon season.** This is the big one for Las Cruces. Summer storms bring 50 to 70 mph downbursts, sideways rain and blowing dust. October is when the damage that happened in July and August gets found, and when there's still time to fix it before winter freeze-thaw widens every crack.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**After a specific storm.** Hail, or any wind event that took shingles or tiles off a neighbor's roof.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Before buying or selling a home.** A general home inspector looks at the roof from a ladder. A roofer walks it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Before a coating or restoration.** A [silicone restoration](/blog/what-is-silicone-roof-restoration) only works on a dry, sound roof, so a moisture survey and inspection come first.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**When you notice something.** A stain, a drip, granules in the gutter, a tile in the yard. Don't wait for the annual.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you're asking what a roof inspection includes because something already looks wrong, that's the answer: call now, not in spring. Small problems in October become [emergency roofing](/roofing/emergency-roofing) calls in January.",
+      },
+      { type: "heading", level: 2, text: "Roof Inspection vs Roof Certification" },
+      {
+        type: "paragraph",
+        text:
+          "A **roof inspection** assesses condition and recommends action. A **roof certification** is a document, usually requested by a buyer, lender or insurer, in which a roofer certifies that the roof is free of defects and expected to last a stated number of years, often two to five. A certification usually requires an inspection first and may require repairs before it's issued.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you're selling a home in Doña Ana County and the buyer's lender wants a certification, that's a different service from a standard inspection. Ask for it by name.",
+      },
+      { type: "heading", level: 2, text: "What Happens After the Inspection?" },
+      { type: "paragraph", text: "One of three things." },
+      {
+        type: "paragraph",
+        text:
+          "**Repairs.** The report identified specific problems, and the [roof repair](/roofing/roof-repairs) work gets quoted and scheduled. Most post-inspection repairs are flashing, sealant and drainage items, not roofing material.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**A maintenance plan.** The roof is sound but aging, and a [roof maintenance plan](/roofing/roof-maintenance) puts the next inspection and the routine items (drain clearing, sealant touch-up, debris removal) on a schedule.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Nothing.** The roof is in good shape. You have photos and a report documenting that, which is worth having on file for insurance or a future sale.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Inspections" },
+      {
+        type: "paragraph",
+        text:
+          "So, what does a roof inspection include? The structure, the roofing material, every flashing detail and penetration, and the attic or interior, walked in person and documented in a written report with photos. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "A real inspection takes 45 minutes to two hours and produces photos and a report. A look from the driveway is not an inspection.",
+          "Most problems found on a Las Cruces roof are at flashing, parapets and drains, not in the open field of the roof. The checklist should spend the most time there.",
+          "October, right after monsoon season, is the best time of year to get one. Storm damage gets found while it's still a small repair.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Already dealing with an active leak? Our guide to [emergency roof repair](/blog/what-is-emergency-roof-repair) covers what to do before help arrives.",
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Our [roof inspections](/roofing/roof-inspections) cover every item on the checklist above, including the parapets and stucco transitions most roofers skip, and come with a photo report and an honest recommendation. To schedule a post-monsoon inspection, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact).",
+      },
+    ],
+  },
+  {
+    slug: "what-is-parapet-repair",
+    title: "What Is Parapet Repair? Fixing the Most Common Flat Roof Leak",
+    excerpt:
+      "Parapet repair fixes the cap, the flashing and the stucco of the short wall above a flat roof, where more roof leaks start than anywhere else on a Pueblo-style or commercial building. Here is why parapets leak and what the repair involves.",
+    metaTitle: "What Is Parapet Repair? Fixing Flat Roof Leaks",
+    metaDescription:
+      "What is parapet repair? Learn why parapet walls leak, what the repair involves from cap to flashing to stucco, and the signs you need it.",
+    category: "Stucco",
+    tags: [
+      "parapet",
+      "flat roof",
+      "stucco",
+      "flashing",
+      "leaks",
+      "monsoon",
+      "silicone coating",
+    ],
+    publishedAt: "2026-09-30",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-parapet-repair/stucco-parapet-cap-flat-roof.webp",
+    featuredImageAlt:
+      "Stucco parapet wall and cap between a flat roof under repair and a clay tile roof section on a Las Cruces home",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-repairs",
+      "/roofing/silicone-roof-restoration",
+      "/stucco",
+    ],
+    keywords: [
+      "what is parapet repair",
+      "parapet wall repair",
+      "parapet leak",
+      "flat roof parapet flashing",
+      "parapet repair las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Parapet repair is the work of fixing the short wall that rises above the edge of a flat roof. It covers three things at once: the cap on top of the wall, the flashing where the roof membrane meets the wall, and the stucco on the wall's inner and outer faces. On Pueblo-style homes and commercial buildings across southern New Mexico, this one detail is where more \"roof leaks\" start than anywhere else on the building.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Homeowners usually find out what parapet repair is the hard way. A stain appears on a ceiling near an exterior wall. A roofer looks at the membrane and says it's fine. A stucco contractor looks at the wall and says it's fine. Meanwhile the stain grows. The problem is at the top of the wall where the two trades meet, and nobody owns it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what a parapet is, why it leaks, exactly what parapet repair involves, the metal-versus-stucco cap decision, the signs you need it, and why it takes a contractor who does both roofing and stucco.",
+      },
+      { type: "heading", level: 2, text: "What Is a Parapet Wall?" },
+      {
+        type: "paragraph",
+        text:
+          "A parapet is the section of exterior wall that extends above the roof surface. Flat-roofed buildings have them for a few reasons: they hide the roof and rooftop equipment from the street, they give the roof membrane a vertical surface to terminate against, they help contain water so it can be directed to drains, and on Pueblo and Territorial-style homes they're a defining part of the look.",
+      },
+      { type: "paragraph", text: "A parapet has five parts that matter for repair:" },
+      {
+        type: "list",
+        items: [
+          "**The cap or coping.** The top of the wall. On residential stucco buildings it's often just stucco rounded over the top. On commercial buildings it's usually metal coping or a precast concrete cap.",
+          "**The outer face.** Stucco, exposed to weather from the street side.",
+          "**The inner face.** Stucco or membrane, facing the roof.",
+          "**The base flashing.** Where the roof membrane turns up the inner face and terminates under counterflashing or the cap.",
+          "**Scuppers and canales.** The drains cut through the parapet. Each one is a hole in the wall that has to be flashed and sealed.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-parapet-repair/flat-roof-stucco-parapet-walls.webp",
+        alt:
+          "Aerial view of a two-story flat-roofed stucco building with parapet walls around the roof and scaffolding along one side",
+        caption:
+          "Parapets run around the full edge of a flat roof. Every foot of cap, flashing and stucco along them is a place water can get in.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Every one of those parts moves at a different rate in the desert heat. The membrane is flexible. The stucco is rigid. The metal expands more than either. The cap sits on top of all of it. That's why parapets fail.",
+      },
+      { type: "heading", level: 2, text: "Why Do Parapet Walls Leak?" },
+      {
+        type: "paragraph",
+        text:
+          "Understanding what parapet repair is starts with understanding the failure. Here's how it usually goes.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The cap cracks or fails.** A stucco cap is porous cement rounded over the top of a wall, and the top of a wall takes the most direct sun and the hardest rain. Hairline cracks open along the top. Water soaks in. The stucco cap on most residential parapets is the number one entry point.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Water travels down inside the wall.** Once water gets into the top of the parapet, it runs down through the wall assembly and behind the roof membrane's termination, then onto the deck. The homeowner sees a ceiling stain and assumes the roof failed. The roof is often intact.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Counterflashing pulls away.** The metal covering the top of the membrane termination loosens as the stucco and metal expand and contract against each other. Sealant at that joint dries out in UV within a few seasons.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The membrane termination separates.** The roof membrane running up the inner face of the parapet pulls away at the top edge or at a corner, especially at scuppers.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Scuppers and canales crack.** The stucco around a drain penetration cracks from thermal movement, and water gets behind the sleeve.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Monsoon makes all of it worse.** Rain driven sideways by 50 to 70 mph wind hits the outer face of every parapet in Las Cruces at once and finds every crack.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The compounding problem is that parapet water damage is slow and hidden. By the time a stain shows on a ceiling, water has usually been moving through the wall for a season or more.",
+      },
+      { type: "heading", level: 2, text: "What Is Parapet Repair? What the Work Involves" },
+      {
+        type: "paragraph",
+        text:
+          "Parapet repair is scoped to where the water is entering, but a full repair addresses all five parts so it doesn't come back.",
+      },
+      { type: "heading", level: 3, text: "Cap or Coping Replacement" },
+      {
+        type: "paragraph",
+        text:
+          "If the stucco cap is cracked or saturated, the repair either rebuilds it or replaces it with metal coping. A rebuilt stucco cap gets a slight slope toward the roof, a new finish and a sealer. Metal coping gets a continuous cleat on the outside, a drip edge on both sides, and sealed joints between sections.",
+      },
+      { type: "heading", level: 3, text: "Reflashing the Membrane Termination" },
+      {
+        type: "paragraph",
+        text:
+          "The base flashing and counterflashing at the inner face are stripped, the wall is prepped, and the membrane is re-terminated: run up the wall, mechanically fastened at the top with a termination bar, then covered with new counterflashing set into the wall or under the cap. On a coated roof, this is where the coating is carried up and over the flashing for a seamless seal. Our guide to [roof flashing](/blog/what-is-roof-flashing) explains how each of these layers works.",
+      },
+      { type: "heading", level: 3, text: "Stucco Face Repair" },
+      {
+        type: "paragraph",
+        text:
+          "Cracks on the inner and outer faces are opened, hollow or delaminated stucco is removed to the lath or block, new lath is tied in where needed, and the wall is rebuilt in scratch, brown and finish coats with texture matched to the surrounding surface.",
+      },
+      { type: "heading", level: 3, text: "Scupper and Canale Resealing" },
+      {
+        type: "paragraph",
+        text:
+          "Each drain through the parapet gets its sleeve reflashed, the membrane tied into it, and the stucco around it rebuilt.",
+      },
+      { type: "heading", level: 3, text: "Coating the Inside Face" },
+      {
+        type: "paragraph",
+        text:
+          "On flat roofs with a silicone or elastomeric coating, the inner face of the parapet is coated along with the roof so the whole surface becomes one waterproof membrane from deck to cap. A [silicone roof restoration](/roofing/silicone-roof-restoration) usually includes parapet faces for exactly this reason.",
+      },
+      { type: "heading", level: 2, text: "Metal Coping vs Stucco Cap: Which Is Better?" },
+      { type: "paragraph", text: "This comes up on nearly every parapet job." },
+      {
+        type: "paragraph",
+        text:
+          "**Stucco cap.** Matches the traditional look, costs less, and is what most homes in the region already have. Its weakness is that it's porous, it cracks with movement, and it has no drip edge, so water clings to the wall face rather than falling clear. It needs periodic sealing and crack repair to stay watertight.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Metal coping.** More expensive, and it changes the look, which matters on a historic adobe or a Pueblo-style home. But it's non-porous, it's continuous, it has drip edges on both sides, and it doesn't crack. On a commercial building it's the standard fix, and it typically ends the parapet leak problem for good.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The middle path many homeowners choose: a rebuilt stucco cap with a proper slope, a good sealer, and a maintenance schedule. It keeps the look and it works, as long as it gets checked annually.",
+      },
+      { type: "heading", level: 2, text: "Signs You Need Parapet Repair" },
+      {
+        type: "list",
+        items: [
+          "**Stains or dark streaks on the inside face** of the parapet, visible from the roof",
+          "**Ceiling stains near exterior walls**, especially in corners",
+          "**Cracks along the top of the wall**, running lengthwise or at corners",
+          "**Efflorescence** (white mineral deposits) on the stucco below the cap",
+          "**Hollow sound or soft spots** when you tap the stucco near the top of the wall",
+          "**Cracked stucco around scuppers or canales**",
+          "**Membrane visibly pulled away** from the wall at the top edge",
+          "**Paint peeling or bubbling** on the outer face below the cap",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Any one of these on a flat-roofed stucco building points at the parapet first. A professional [roof inspection](/roofing/roof-inspections) that includes the parapets, not just the membrane, will confirm where water is getting in.",
+      },
+      { type: "heading", level: 2, text: "Why Parapet Repair Needs a Roofer and a Stucco Crew" },
+      {
+        type: "paragraph",
+        text: "This is the honest answer to why so many parapet leaks go unfixed for years.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The membrane termination and counterflashing are roofing work. The cap and the wall faces are stucco work. A roofer who doesn't do stucco will reflash the termination and leave the cracked cap above it, and the water comes right back. A stucco crew that doesn't do roofing will patch the cracks and leave the failed flashing behind them, and the leak just gets hidden.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Effective parapet repair treats the parapet as one assembly. The same crew rebuilds the cap, reflashes the termination, repairs the faces and reseals the scuppers, in the right sequence, so each layer laps correctly over the one below. That's the only version of the repair that holds through the next monsoon season, and it's why Gilbert & Sons handles [stucco work](/stucco) and [roof repair](/roofing/roof-repairs) as one trade.",
+      },
+      { type: "heading", level: 2, text: "Parapet Repair Cost Factors" },
+      {
+        type: "paragraph",
+        text:
+          "Parapet repair is priced by scope rather than by a flat rate, and four things drive it:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Linear feet of parapet** involved. A single corner is a small job. All four sides of a commercial building is a project.",
+          "**Cap type.** Resealing a stucco cap costs least. Rebuilding it costs more. Installing metal coping costs most but tends to be the last time you pay for it.",
+          "**How far the water traveled.** If the deck, insulation or interior drywall took on water, the repair grows.",
+          "**Whether the membrane needs work.** A termination re-flash is modest. A section of membrane replacement or a coating of the inside faces adds to it.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "An inspection settles the scope before anything is quoted. The most expensive parapet repairs are the ones that were put off through two or three monsoon seasons.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Parapet Repair" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is parapet repair? Fixing the cap, the flashing and the stucco of the wall above a flat roof, as one assembly, so water stops getting in at the top. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "On a flat-roofed stucco building, the parapet is where most roof leaks actually start. Check it before blaming the membrane.",
+          "The cap is the usual entry point. A cracked stucco cap or failed coping lets water travel down inside the wall and behind the roof.",
+          "It's a two-trade repair. Reflashing without fixing the cap, or patching stucco without fixing the flashing, doesn't hold.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "For more on how the roof and the walls work together on these buildings, see our guide to [stucco roofing](/blog/what-is-stucco-roofing).",
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Parapet repair is the job we built the business around: cap rebuilds and metal coping, membrane termination and counterflashing, stucco face repair and scupper resealing, all handled by one crew in the right order. If you've got a stain near an exterior wall or cracks along the top of a parapet, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the roof and the wall together.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-silicone-roof-restoration",
+    title: "What Is Silicone Roof Restoration? The Process From Inspection to Warranty",
+    excerpt:
+      "Silicone roof restoration renews a sound flat roof without a tear-off: inspect, clean, repair, reinforce, then seal under a seamless silicone membrane with a 10 to 20 year warranty. Here is which roofs qualify and how the process works.",
+    metaTitle: "What Is Silicone Roof Restoration? Process Explained",
+    metaDescription:
+      "What is silicone roof restoration? See which flat roofs qualify, the step-by-step process, how it compares to replacement and the warranty.",
+    category: "Commercial Roofing",
+    tags: [
+      "silicone coating",
+      "roof coating",
+      "flat roof",
+      "commercial",
+      "restoration",
+      "moisture",
+      "parapet",
+      "inspection",
+      "maintenance",
+    ],
+    publishedAt: "2026-09-30",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-silicone-roof-restoration/silicone-coating-roller-application.webp",
+    featuredImageAlt:
+      "Roofer in a safety harness rolling silicone coating onto a commercial flat roof beside rooftop HVAC units",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/silicone-roof-restoration",
+      "/roofing/roof-inspections",
+      "/roofing/roof-maintenance",
+    ],
+    keywords: [
+      "what is silicone roof restoration",
+      "silicone roof coating process",
+      "flat roof restoration",
+      "silicone roof restoration vs replacement",
+      "silicone roof restoration las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Silicone roof restoration is a system for renewing an existing flat or low-slope roof without tearing it off. The roof is inspected, cleaned, repaired at every seam and detail, then sealed under a seamless layer of silicone that becomes the new waterproof membrane. It typically costs a fraction of a replacement, the building stays occupied during the work, and it comes with a 10 to 20 year warranty depending on the thickness applied.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the short version. The reason it's worth a full explanation is that \"coating\" sounds like painting, and property owners either dismiss it as a cosmetic fix or assume any contractor with a roller can do it. Neither is true. Done right, silicone restoration is a roofing system with a process, a specification and a warranty. Done wrong, it's an expensive layer of white on top of a roof that still leaks.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide covers what silicone roof restoration actually is, which roofs qualify, the process step by step, how long it takes, how it compares to replacement, what the warranty means, and why it suits southern New Mexico. If you want lifespan numbers by coating type, that's covered in a separate post on [how long roof coating lasts](/blog/how-long-does-roof-coating-last). This one is about the work itself.",
+      },
+      { type: "heading", level: 2, text: "What Is Silicone Roof Restoration?" },
+      { type: "paragraph", text: "Three terms get mixed up, so here's the distinction." },
+      {
+        type: "paragraph",
+        text:
+          "**Replacement** removes the old roof to the deck and installs a new system. It's the most expensive and disruptive option, and the right one when the roof underneath is structurally compromised.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Recoating** applies a fresh layer of coating over an existing coating that's aging. It's the maintenance step at the end of a restored roof's service life.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Restoration** is the first-time application of a full coating system over an existing, uncoated roof. It includes the inspection, moisture testing, cleaning, repairs and reinforcement that make the coating actually work. The silicone is the last step, not the whole job.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What makes it a system rather than a paint job is that the finished surface is seamless and fully adhered. Seams are where flat roofs leak, and a restored roof has none. Silicone in particular is chosen over acrylic for flat roofs because it holds up under ponding water and intense UV, both of which are facts of life on Las Cruces rooftops.",
+      },
+      { type: "heading", level: 2, text: "Which Roofs Qualify for Restoration?" },
+      {
+        type: "paragraph",
+        text:
+          "Most flat and low-slope commercial and residential roofs are candidates, provided the roof underneath is sound.",
+      },
+      { type: "paragraph", text: "**Roofs that typically qualify:**" },
+      {
+        type: "list",
+        items: [
+          "[TPO](/blog/what-is-tpo-roofing), PVC and EPDM single-ply membranes",
+          "Modified bitumen and built-up (tar and gravel) roofs",
+          "Metal roofs, standing seam and corrugated",
+          "Spray polyurethane foam",
+          "Concrete decks",
+          "Previously coated roofs with an aging acrylic or silicone layer",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The rule that decides it:** the deck and insulation must be dry. Silicone seals the surface, so any moisture already trapped in the insulation stays trapped and keeps degrading the roof from below. A moisture survey before restoration is not optional.",
+      },
+      { type: "paragraph", text: "**Roofs that don't qualify:**" },
+      {
+        type: "list",
+        items: [
+          "Roofs with widespread wet insulation (more than roughly a quarter of the area)",
+          "Roofs with a rotted or structurally compromised deck",
+          "Membranes that have failed so broadly that repairs would cost more than replacement",
+          "Gravel-surfaced roofs where the gravel can't be removed",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "A professional [roof inspection](/roofing/roof-inspections) with a moisture survey settles which category a roof falls into before anyone quotes the work.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Silicone Roof Restoration Process Step by Step",
+      },
+      {
+        type: "paragraph",
+        text: "Here's what silicone roof restoration looks like on a real job, in order.",
+      },
+      { type: "heading", level: 3, text: "Inspection and Moisture Survey" },
+      {
+        type: "paragraph",
+        text:
+          "The contractor walks the roof, documents every seam, penetration, drain and parapet, and identifies problem areas. A moisture survey, usually with an infrared scanner or a nuclear moisture meter, maps any wet insulation. Wet areas get cut out and replaced before anything else happens.",
+      },
+      { type: "heading", level: 3, text: "Adhesion Test" },
+      {
+        type: "paragraph",
+        text:
+          "A small patch of silicone is applied to the existing roof surface and allowed to cure, then pulled to confirm it bonds. Different substrates need different primers or none at all. Skipping this test is how coatings peel a year later.",
+      },
+      { type: "heading", level: 3, text: "Cleaning and Surface Prep" },
+      {
+        type: "paragraph",
+        text:
+          "The roof is pressure washed to remove dirt, chalk, oxidation and any loose material. On some substrates a cleaning solution or rinse aid is used. The roof has to be clean and completely dry before the next step, which in our climate usually means one day of drying.",
+      },
+      { type: "heading", level: 3, text: "Repairs to Seams, Flashing and Penetrations" },
+      {
+        type: "paragraph",
+        text:
+          "Every open seam is resealed. Failed flashing at parapets, curbs and pipes is repaired or replaced. Ponding areas may get tapered insulation or drain adjustments. Blisters are cut and patched. This is roofing work, and it's the step that separates a real restoration from a coating job. Our guide to [parapet repair](/blog/what-is-parapet-repair) covers the wall side of that work.",
+      },
+      { type: "heading", level: 3, text: "Reinforcing Details With Fabric" },
+      {
+        type: "paragraph",
+        text:
+          "Seams, flashing corners, drains, pipe boots and the base of the parapet get a base coat of silicone with polyester reinforcing fabric embedded in it. This turns every stress point into a reinforced, flexible detail rather than a thin film over a crack.",
+      },
+      { type: "heading", level: 3, text: "Applying the Silicone to Specified Thickness" },
+      {
+        type: "paragraph",
+        text:
+          "The silicone is applied by roller or spray to the full field of the roof and up the inside face of the parapets, in one or two coats, to a specified thickness. Thickness is measured in mils (thousandths of an inch) and it's what the warranty is built on: roughly 20 mils for a 10 year warranty, 25 for 15, 30 for 20. A wet mil gauge is used during application to verify coverage. Thickness should be written into the quote.",
+      },
+      { type: "heading", level: 3, text: "Final Inspection and Warranty" },
+      {
+        type: "paragraph",
+        text:
+          "Once cured, the contractor walks the roof again, checks thickness, verifies details, and issues the warranty paperwork. The manufacturer may send an inspector for a manufacturer-backed warranty.",
+      },
+      { type: "heading", level: 2, text: "How Long Does the Work Take?" },
+      {
+        type: "paragraph",
+        text:
+          "For a typical commercial flat roof, plan on two to five days on site, including drying time between cleaning and coating. A residential flat roof can be done in one to two days. Larger buildings scale with square footage.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Throughout, the building stays open. There's no tear-off noise, no debris chute, and no exposed deck. That's often the deciding factor for a business, a school or a medical office.",
+      },
+      { type: "heading", level: 2, text: "Silicone Roof Restoration vs Replacement" },
+      {
+        type: "table",
+        head: ["", "Silicone restoration", "Full replacement"],
+        rows: [
+          ["Cost", "Typically 40% to 60% less than tear-off", "Highest upfront cost"],
+          ["Time on site", "2 to 5 days", "1 to 3 weeks on large buildings"],
+          ["Disruption", "Building stays occupied", "Noise, debris, exposed deck"],
+          ["Landfill", "None, existing roof stays", "Full roof to landfill"],
+          ["Warranty", "10 to 20 years by thickness", "20 to 30 years by system"],
+          ["Energy", "Reflective surface lowers cooling load", "Depends on material chosen"],
+          ["Renewable", "Recoat at end of life", "Tear off again"],
+          ["Tax treatment", "Often expensed as maintenance", "Usually capitalized"],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The last row is worth a conversation with an accountant. Restoration is frequently treated as a maintenance expense in the year it's done rather than a capital improvement depreciated over decades. For a commercial owner, that can change the math significantly.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Restoration is not the right answer when the roof underneath is structurally failing. In that case a [roof replacement](/roofing/roof-replacements) is the honest recommendation, and a contractor who does both will tell you which one you need.",
+      },
+      { type: "heading", level: 2, text: "What About the Warranty?" },
+      { type: "paragraph", text: "Two kinds exist, and they cover different things." },
+      {
+        type: "paragraph",
+        text:
+          "**Manufacturer warranty** covers the coating material and is tied to the applied thickness. It usually requires the contractor to be certified with that manufacturer and may require a manufacturer inspection after the job. Common tiers are 10, 15 and 20 years.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Contractor workmanship warranty** covers the labor: the prep, the repairs, the application. This is the one that actually pays for a leak at a detail that wasn't reinforced properly.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**What voids a warranty:** coating applied thinner than specified, skipping the adhesion test, coating over wet insulation, and unaddressed ponding. Also, a recoat with the wrong chemistry. Silicone gets recoated with silicone.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Ask to see both warranties in writing before the work starts, and ask what mil thickness the quote is based on. If a contractor can't answer the thickness question, that's a paint job, not a restoration.",
+      },
+      { type: "heading", level: 2, text: "Why Restoration Makes Sense in Las Cruces" },
+      {
+        type: "paragraph",
+        text: "Southern New Mexico is close to ideal territory for silicone roof restoration.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**UV.** Sun exposure at our elevation destroys exposed membranes and asphalt. Silicone is among the most UV-stable coatings available.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Cooling load.** A white silicone surface reflects most solar energy instead of absorbing it. On a commercial building running air conditioning from May through October, that shows up on the utility bill every month.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-silicone-roof-restoration/restored-white-flat-roof-aerial.webp",
+        alt:
+          "Drone view of a bright white coated flat roof with parapet walls and rows of rooftop solar panels",
+        caption:
+          "A white coated flat roof reflects most of the sun's energy instead of soaking it up, which is where the cooling savings come from.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Ponding.** Flat roofs pond, especially older ones with settled drainage. Acrylic degrades under standing water. Silicone doesn't, which is why it's the standard recommendation here.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Timing.** Coating work needs dry conditions and moderate temperatures. Fall, right after monsoon season, is the natural window. The roof gets inspected for storm damage, repaired and coated before winter, and it's ready for next summer's sun. That's the season we're in now.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "For flat roofs across Las Cruces and Doña Ana County, restoration paired with a [roof maintenance plan](/roofing/roof-maintenance) is usually the lowest lifetime cost path for a structurally sound building.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Silicone Roof Restoration" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is silicone roof restoration? A full process of inspection, moisture testing, cleaning, repair and reinforcement, finished with a seamless silicone membrane applied to a specified thickness, that renews a sound flat roof at a fraction of replacement cost. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "It's a system, not a paint job. The prep, repairs and reinforced details are what make the coating work.",
+          "The deck and insulation must be dry. A moisture survey comes first, and a roof that fails it needs replacement instead.",
+          "Thickness in mils is what the warranty is built on. Get it in the quote.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Our [silicone roof restoration](/roofing/silicone-roof-restoration) service covers commercial and residential flat roofs, including the parapet faces and stucco transitions that most coating contractors leave out. If you want to know whether your flat roof qualifies, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the roof, run the moisture survey and give you an honest answer on restoration versus replacement.",
+      },
+    ],
+  },
 ];
