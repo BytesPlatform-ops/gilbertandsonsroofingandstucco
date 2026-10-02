@@ -50,7 +50,7 @@ export default function InspectionHotspots() {
       <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)]">
         <SafeMedia
           src="/projects/roof-detail-01.jpg"
-          alt="Roof surface used to illustrate common inspection points"
+          alt="Roof inspection checklist points on a Las Cruces, NM shingle roof"
           fill
           rounded={false}
         />

@@ -4,6 +4,7 @@ import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import CTAButton from "@/components/shared/CTAButton";
 import FAQAccordion from "@/components/shared/FAQAccordion";
 import FadeIn from "@/components/shared/FadeIn";
+import InlineText from "@/components/blog/InlineText";
 import OptionExplorer from "@/components/interactive/OptionExplorer";
 import RoofLayerExplorer from "@/components/interactive/RoofLayerExplorer";
 import InspectionHotspots from "@/components/interactive/InspectionHotspots";
@@ -23,7 +24,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
         <div className="relative min-h-[52vh] md:min-h-[62vh] flex items-end">
           <SafeMedia
             src={page.heroImage}
-            alt={page.title}
+            alt={page.heroImageAlt ?? page.title}
             fill
             priority
             rounded={false}
@@ -46,7 +47,9 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
               <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
                 {page.title}
               </h1>
-              <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">{page.intro}</p>
+              <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">
+                <InlineText text={page.intro} />
+              </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <EstimateButton variant="primary" showArrow>
                   Get an Estimate
@@ -87,7 +90,9 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                     <h2 className="text-2xl md:text-3xl font-heading font-semibold text-brand-ink mb-4">
                       {section.heading}
                     </h2>
-                    <p className="body-large text-text-secondary max-w-2xl">{section.body}</p>
+                    <p className="body-large text-text-secondary max-w-2xl">
+                      <InlineText text={section.body} />
+                    </p>
                     {section.bullets && (
                       <ul className="mt-6 grid sm:grid-cols-2 gap-x-8 gap-y-3 max-w-2xl">
                         {section.bullets.map((bullet) => (
@@ -96,7 +101,7 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                             className="flex items-center gap-3 text-sm font-medium text-brand-ink border-b border-border-subtle pb-3"
                           >
                             <span className="w-1.5 h-1.5 bg-brand-primary shrink-0" aria-hidden="true" />
-                            {bullet}
+                            <InlineText text={bullet} />
                           </li>
                         ))}
                       </ul>
@@ -145,7 +150,9 @@ export default function RoofingServiceLayout({ page }: { page: RoofingServicePag
                     <h3 className="font-heading font-semibold text-lg text-brand-ink mb-2">
                       {service.title}
                     </h3>
-                    <p className="text-sm text-text-secondary mb-4">{service.description}</p>
+                    <p className="text-sm text-text-secondary mb-4">
+                      {page.relatedDescriptions?.[service.slug] ?? service.description}
+                    </p>
                     <span className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary group-hover:underline underline-offset-4">
                       Explore
                       <span aria-hidden="true">→</span>

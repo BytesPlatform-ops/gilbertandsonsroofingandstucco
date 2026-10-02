@@ -24,7 +24,7 @@ function StoryMedia({
         type="video"
         videoUrl={item.videoUrl}
         src={item.posterUrl}
-        alt={item.title}
+        alt={item.imageAlt ?? item.title}
         fill
         rounded={false}
         playVideo
@@ -35,7 +35,7 @@ function StoryMedia({
   return (
     <SafeMedia
       src={item.imageUrl ?? item.posterUrl}
-      alt={item.title}
+      alt={item.imageAlt ?? item.title}
       fill
       rounded={false}
       priority={priority}

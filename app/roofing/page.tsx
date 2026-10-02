@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import SectionMarker from "@/components/shared/SectionMarker";
 import CTAButton from "@/components/shared/CTAButton";
 import EstimateButton from "@/components/estimate/EstimateButton";
@@ -14,6 +15,7 @@ const roofingStories: StoryMediaItem[] = [
   {
     id: "roof-installation",
     title: "Roof Installation",
+    imageAlt: "Roof installation in progress on a Las Cruces home, underlayment and shingles staged",
     description: "Materials and tools staged mid-installation — underlayment, shingles and a nail gun ready to go.",
     meta: "ROOF INSTALLATION",
     mediaType: "video",
@@ -23,6 +25,7 @@ const roofingStories: StoryMediaItem[] = [
   {
     id: "flashing-repair",
     title: "Flashing & Repair",
+    imageAlt: "Roof flashing repair on a Las Cruces, NM home",
     description: "Flashing repaired at a roof-wall transition — one of the most common leak points.",
     meta: "ROOF REPAIR",
     mediaType: "video",
@@ -59,6 +62,7 @@ const roofingStories: StoryMediaItem[] = [
   {
     id: "gutter-roofline",
     title: "Gutter & Roofline",
+    imageAlt: "Gutter and roofline work by a Las Cruces roofing contractor",
     description: "Gutters and roofline checked as part of routine maintenance.",
     meta: "GUTTER & ROOFLINE INSPECTION",
     mediaType: "image",
@@ -67,9 +71,9 @@ const roofingStories: StoryMediaItem[] = [
 ];
 
 export const metadata: Metadata = {
-  title: { absolute: "Roofing Services in Las Cruces, NM | Gilbert & Sons" },
+  title: { absolute: "Roofing Contractor Las Cruces, NM | Gilbert & Sons Roofing" },
   description:
-    "Residential & commercial roofing services in Las Cruces, NM. Installation, repair, replacement, inspection and emergency roofing. Free estimates.",
+    "Licensed roofing contractor in Las Cruces, NM since 2010. Roof repair, replacement, installation, TPO, tile, metal and silicone coatings. Free estimates.",
   alternates: { canonical: "/roofing" },
 };
 
@@ -96,12 +100,25 @@ export default function RoofingHubPage() {
                 Roofing · Las Cruces, NM
               </p>
               <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
-                Roofing that&rsquo;s built to perform.
+                Las Cruces Roofing Contractor, Residential &amp; Commercial Roofing Services
               </h1>
               <p className="body-large text-text-on-dark-secondary mt-6 max-w-xl">
-                We offer a comprehensive range of roofing services for residential and
-                commercial clients across New Mexico — designed to deliver high-quality,
-                reliable and durable roofing that protects your property.
+                Gilbert &amp; Sons is a{" "}
+                <Link
+                  href="/about"
+                  className="underline underline-offset-4 decoration-text-on-dark-secondary/50 hover:decoration-text-on-dark transition-colors"
+                >
+                  licensed and insured roofing company
+                </Link>{" "}
+                in Las Cruces, NM, offering a comprehensive range of{" "}
+                <Link
+                  href="/service-areas/las-cruces"
+                  className="underline underline-offset-4 decoration-text-on-dark-secondary/50 hover:decoration-text-on-dark transition-colors"
+                >
+                  residential and commercial roofing services
+                </Link>{" "}
+                across New Mexico, designed to deliver high-quality, reliable and durable
+                roofing that protects your property.
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <EstimateButton variant="primary" showArrow>
@@ -118,7 +135,7 @@ export default function RoofingHubPage() {
 
       <section className="mx-auto max-w-[1200px] px-5 md:px-8 py-20 md:py-28">
         <FadeIn>
-          <SectionMarker number="01" label="Choose a Service" />
+          <SectionMarker number="01" label="Choose a Roofing Service" />
         </FadeIn>
         <div className="mt-10">
           <RoofingNavigator />
@@ -130,11 +147,11 @@ export default function RoofingHubPage() {
         label="Roofing Projects"
         heading={
           <>
-            See how the
+            See how our
             <br />
-            work comes
+            Las Cruces roofing
             <br />
-            together.
+            work comes together.
           </>
         }
         backgroundWord="PROTECTION STARTS ABOVE."

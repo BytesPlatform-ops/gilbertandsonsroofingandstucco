@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import SafeMedia from "@/components/shared/SafeMedia";
+import InlineText from "@/components/blog/InlineText";
 import BeforeAfterSlider from "@/components/shared/BeforeAfterSlider";
 import EstimateButton from "@/components/estimate/EstimateButton";
 
@@ -16,6 +17,8 @@ export type ExplorerOption = {
   heading: string;
   body: string;
   note?: string;
+  /** Alt text for `image`. Falls back to `heading`. */
+  imageAlt?: string;
   /** Renders a draggable before/after slider instead of `image` — pass null srcs for placeholders. */
   beforeAfter?: {
     before: string | null;
@@ -83,12 +86,14 @@ export default function OptionExplorer({
         ) : (
           active.image && (
             <div className="relative aspect-[16/9] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm mb-6">
-              <SafeMedia src={active.image} alt={active.heading} fill rounded={false} />
+              <SafeMedia src={active.image} alt={active.imageAlt ?? active.heading} fill rounded={false} />
             </div>
           )
         )}
         <h3 className="text-2xl font-heading font-semibold text-brand-ink">{active.heading}</h3>
-        <p className="text-text-secondary mt-3 max-w-xl">{active.body}</p>
+        <p className="text-text-secondary mt-3 max-w-xl">
+          <InlineText text={active.body} />
+        </p>
         {active.note && (
           <p className="text-sm text-brand-primary font-medium mt-4 border-l-2 border-brand-primary pl-3">
             {active.note}

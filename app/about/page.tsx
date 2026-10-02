@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import SectionMarker from "@/components/shared/SectionMarker";
 import Breadcrumbs from "@/components/shared/Breadcrumbs";
 import SafeMedia from "@/components/shared/SafeMedia";
@@ -9,11 +10,22 @@ import FadeIn from "@/components/shared/FadeIn";
 import { siteConfig } from "@/lib/site-config";
 
 export const metadata: Metadata = {
-  title: "About Us",
+  title: { absolute: "About Gilbert & Sons | Las Cruces Roofers Since 2010" },
   description:
-    "Gilbert & Sons Roofing and Stucco Inc. — led by President Bob Gilbert, serving Las Cruces and Doña Ana County, New Mexico since 2010.",
+    "Family-owned roofing and stucco contractor in Las Cruces, NM since 2010. Licensed, insured, bonded. NM License #377887, BBB accredited.",
   alternates: { canonical: "/about" },
 };
+
+function AboutLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="text-brand-primary underline underline-offset-4 decoration-brand-primary/40 hover:decoration-brand-primary transition-colors"
+    >
+      {children}
+    </Link>
+  );
+}
 
 const workPhotos = [
   "/projects/aerial-shingle-roof-06.jpg",
@@ -44,7 +56,8 @@ export default function AboutPage() {
             <FadeIn>
               <p className="section-marker text-text-on-dark-secondary mb-4">About Us</p>
               <h1 className="section-title font-heading font-semibold uppercase text-text-on-dark max-w-3xl">
-                Local, licensed, and built on referrals.
+                About Gilbert &amp; Sons: Family-Owned Roofing &amp; Stucco Contractor in
+                Las Cruces, NM
               </h1>
             </FadeIn>
           </div>
@@ -62,9 +75,9 @@ export default function AboutPage() {
           <p className="body-large text-text-secondary">
             Bob Gilbert founded Gilbert &amp; Sons in {siteConfig.established} and serves as
             President of the company today. We&rsquo;ve been doing roofing and stucco work in
-            Las Cruces and Doña Ana County ever since — a local, licensed, insured and bonded
-            contractor, not a franchise or a call center routing your number to a subcontractor
-            you&rsquo;ve never met.
+            Las Cruces and Doña Ana County ever since as a family-owned, local, licensed,
+            insured and bonded roofing contractor, not a franchise or a call center routing
+            your number to a subcontractor you&rsquo;ve never met.
           </p>
         </FadeIn>
       </section>
@@ -80,10 +93,15 @@ export default function AboutPage() {
             </div>
             <p className="body-large text-text-secondary">
               We work on single-family homes, rental properties and commercial
-              buildings across Las Cruces and Doña Ana County — everything from a
-              single stucco patch to a full roof replacement. Roofing and stucco
-              are our core trades; painting and plastering support that work when
-              a project calls for it.
+              buildings across Las Cruces and Doña Ana County, everything from a
+              single <AboutLink href="/stucco">stucco repair</AboutLink> to a full{" "}
+              <AboutLink href="/roofing/roof-replacements">roof replacement</AboutLink>,{" "}
+              <AboutLink href="/roofing/roof-inspections">roof inspections</AboutLink> and{" "}
+              <AboutLink href="/roofing/silicone-roof-restoration">
+                silicone roof coatings
+              </AboutLink>
+              . Roofing and stucco are our core trades; painting and plastering support
+              that work when a project calls for it.
             </p>
           </FadeIn>
         </div>
@@ -163,8 +181,8 @@ export default function AboutPage() {
               Talk to us about your property.
             </h2>
             <p className="body-large text-text-on-dark-secondary mt-6 max-w-lg">
-              Tell us what&rsquo;s going on and we&rsquo;ll take it from there —
-              no pressure, just a straight answer.
+              Tell us what&rsquo;s going on and we&rsquo;ll take it from there, no
+              pressure, just a straight answer and a free written estimate.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <EstimateButton variant="primary" showArrow>

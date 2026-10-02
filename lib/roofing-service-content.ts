@@ -20,10 +20,14 @@ export type RoofingServicePage = {
   metaDescription: string;
   intro: string;
   heroImage: string;
+  /** Alt text for the hero image. Falls back to `title`. */
+  heroImageAlt?: string;
   backgroundPhrase: string;
   sections: ContentSection[];
   interactive?: InteractiveBlock;
   relatedSlugs: string[];
+  /** Per-page copy for a related-services card, keyed by that service's slug. */
+  relatedDescriptions?: Record<string, string>;
   faqs: FAQItem[];
 };
 
@@ -31,30 +35,32 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "roof-installations": {
     slug: "roof-installations",
     eyebrow: "Roof Installations · Las Cruces, NM",
-    title: "Professional roof installation in Las Cruces, NM",
-    seoTitle: "Roof Installation in Las Cruces, NM | Gilbert & Sons",
+    title: "New Roof Installation Las Cruces, NM",
+    seoTitle: "New Roof Installation Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "New roof installation in Las Cruces, NM — asphalt shingle, metal, tile, flat and TPO systems for homes and businesses. Free on-site estimate.",
+      
+      "New roof installation in Las Cruces, NM: shingle, metal, tile, flat and TPO. Licensed installers, free on-site estimate. Call 575-649-2316.",
     intro:
-      "Gilbert & Sons installs roofs for residential and commercial properties across New Mexico, choosing materials and installation methods that fit the property and hold up to the local climate.",
+      "Gilbert & Sons installs new roofs for residential and commercial properties in Las Cruces and across [southern New Mexico](/service-areas), choosing materials and installation methods that fit the property and hold up to the high-desert climate.",
     heroImage: "/projects/roof-installation.jpg",
+    heroImageAlt: "New roof installation on a Las Cruces, NM home by Gilbert & Sons",
     backgroundPhrase: "BUILT TO LAST.",
     sections: [
       {
-        heading: "What we install",
+        heading: "Roofing systems we install",
         body:
-          "We install roofing systems suited to Las Cruces' climate and to the structure of your property, from standard asphalt shingle roofs to metal, tile, flat and TPO systems.",
+          "We install roofing systems suited to Las Cruces' climate and to the structure of your property, from standard asphalt shingle roof installation to [metal, tile, flat and TPO roof installation](/roofing/specialty-roofing).",
         bullets: ["Asphalt shingle", "Metal roofing", "Tile roofing", "Flat roofing", "TPO roofing"],
       },
       {
-        heading: "Residential & commercial",
+        heading: "Residential & commercial roof installation",
         body:
-          "Whether it's a new home, an addition, or a commercial building, we install roofing systems appropriate to the property and the way it will be used.",
+          "Whether it's new construction roofing for a home, an addition, or a commercial building, we install roofing systems appropriate to the property and the way it will be used.",
       },
       {
-        heading: "Installation process",
+        heading: "Our roof installation process",
         body:
-          "We start with an on-site evaluation and a clear quote, then install using quality materials and proper technique, keeping you informed as work progresses.",
+          "We start with an [on-site evaluation](/roofing/roof-inspections) and a clear written quote, then install using quality materials and proper technique, keeping you informed as work progresses. Most residential installations are finished in one to three days.",
       },
     ],
     interactive: {
@@ -67,7 +73,8 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           label: "Asphalt Shingle",
           image: "/projects/aerial-shingle-roof-02.jpg",
           heading: "Asphalt Shingle",
-          body: "The most common residential roofing system — a reliable, cost-effective option we install regularly across Las Cruces.",
+          imageAlt: "Asphalt shingle roof installation in Las Cruces, NM",
+          body: "The most common residential roofing system, a reliable, cost-effective option we install regularly across Las Cruces. We offer architectural shingles as well as standard 3-tab, with cool-roof color options for the desert sun.",
         },
         {
           key: "metal",
@@ -95,6 +102,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       ctaHref: "/roofing/tile-roofing",
     },
     relatedSlugs: ["roof-replacements", "roof-inspections", "specialty-roofing"],
+    relatedDescriptions: {
+      "specialty-roofing": "Flat roof, TPO and metal roofing systems, plus gutter services.",
+    },
     faqs: [
       {
         question: "What roofing materials do you install?",
@@ -117,29 +127,38 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "roof-repairs": {
     slug: "roof-repairs",
     eyebrow: "Roof Repairs · Las Cruces, NM",
-    title: "Roof repair for leaks, storm damage and wear in Las Cruces, NM",
-    seoTitle: "Roof Repair in Las Cruces, NM | Gilbert & Sons",
+    title: "Roof Repair Las Cruces, NM | Leaks, Storm Damage & Wear",
+    seoTitle: "Roof Repair & Leak Repair Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Roof repair in Las Cruces, NM for leaks, storm damage, flashing and general wear. Licensed, insured and bonded. Call 575-649-2316.",
+      
+      "Roof leak repair, storm and hail damage repair in Las Cruces, NM. Licensed and insured since 2010. Free estimates. Call 575-649-2316.",
     intro:
-      "Roofs develop problems over time — leaks, storm damage, and general wear and tear. Gilbert & Sons repairs these issues to restore your roof's protection.",
+      "Roofs develop problems over time, leaks, storm damage, and general wear and tear. Gilbert & Sons provides roof repair in Las Cruces for shingle, tile, metal and flat roofs, restoring your roof's protection.",
     heroImage: "/projects/aerial-shingle-roof-04.jpg",
+    heroImageAlt: "Roofer repairing storm-damaged shingles on a Las Cruces, NM home",
     backgroundPhrase: "STOP THE DAMAGE.",
     sections: [
       {
-        heading: "Signs your roof may need repair",
+        heading: "Signs you need roof repair",
         body:
-          "Water stains on ceilings, missing or damaged shingles, and visible wear around vents and flashing are common signs it's time for a repair.",
+          "Water stains on ceilings, missing or damaged shingles, and visible wear around vents and flashing are common signs it's time for a repair. On flat roofs, ponding water and cracked parapet caps are the usual warning signs.",
       },
       {
-        heading: "Common problems we address",
+        heading: "Roof leak repair, flashing and storm damage: what we fix",
         body: "We repair a range of roofing issues so small problems don't turn into bigger ones.",
-        bullets: ["Active leaks", "Storm damage", "General wear and tear", "Damaged flashing and vents"],
+        bullets: [
+          "Active roof leaks",
+          "Storm, wind and hail damage",
+          "General wear and tear",
+          "Damaged flashing, vents and pipe boots",
+          "Flat roof and TPO seam leaks",
+          "[Tile roof repair](/roofing/tile-roofing) and slipped tiles",
+        ],
       },
       {
         heading: "How we approach repairs",
         body:
-          "We inspect the affected area, explain what we find, and repair the problem using materials appropriate to your existing roof system.",
+          "We inspect the affected area, explain what we find, and repair the problem using materials appropriate to your existing roof system: shingle, tile, metal, flat or TPO. If a repair won't hold, we tell you that too; see [repair vs. replacement](/roofing/roof-replacements) below.",
       },
     ],
     interactive: {
@@ -152,6 +171,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           label: "Leak",
           image: "/projects/aerial-shingle-roof-07.jpg",
           heading: "Active Leak",
+          imageAlt: "Roof leak repair, water stain on a ceiling in Las Cruces",
           body: "Water stains, dripping, or damp spots usually mean water is getting past the roofing system somewhere.",
           note: "This is educational only — not a diagnosis of your specific roof.",
         },
@@ -180,6 +200,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["roof-inspections", "emergency-roofing", "roof-replacements"],
+    relatedDescriptions: {
+      "emergency-roofing": "Prompt, responsive emergency roof leak repair and storm damage response.",
+    },
     faqs: [
       {
         question: "How do I know if I need a repair or a full replacement?",
@@ -200,29 +223,37 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "roof-replacements": {
     slug: "roof-replacements",
     eyebrow: "Roof Replacements · Las Cruces, NM",
-    title: "Full roof replacement in Las Cruces, NM",
-    seoTitle: "Roof Replacement in Las Cruces, NM | Gilbert & Sons",
+    title: "Roof Replacement in Las Cruces, NM",
+    seoTitle: "Roof Replacement Las Cruces, NM | Gilbert & Sons Roofing",
     metaDescription:
-      "Full roof replacement in Las Cruces, NM when repair is no longer the answer. Shingle, metal, tile, flat & TPO. Insurance claims welcome.",
+      
+      "Full roof replacement in Las Cruces, NM for shingle, tile, metal and flat/TPO roofs. Honest repair-vs-replace advice. Free estimate.",
     intro:
-      "When a roof reaches the end of its useful life or has suffered damage beyond what repair can address, Gilbert & Sons provides full roof replacement to give you a brand-new, long-lasting roof.",
+      "When a roof reaches the end of its useful life or has suffered damage beyond what repair can address, Gilbert & Sons provides full roof replacement in Las Cruces and [Doña Ana County](/service-areas) to give you a brand-new, long-lasting roof.",
     heroImage: "/projects/roof-replacement.jpg",
+    heroImageAlt: "Full roof replacement in progress on a Las Cruces, NM home",
     backgroundPhrase: "READY FOR WHAT'S NEXT.",
     sections: [
       {
-        heading: "Repair vs. replacement",
+        heading: "Roof repair vs. roof replacement",
         body:
-          "Not every roof problem calls for a full replacement. We evaluate the condition of your existing roof and recommend replacement only when it's the right call for your property.",
+          "Not every roof problem calls for a full replacement. We evaluate the condition of your existing roof and recommend roof replacement only when it's the right call for your property, and we show you the repair cost next to the replacement cost so you can decide.",
       },
       {
         heading: "Replacement process",
         body:
-          "We evaluate your existing roof, discuss roofing options, provide a quote, and carry out the replacement with attention to proper tear-off, underlayment and installation.",
+          "We evaluate your existing roof, discuss roofing options, provide a written quote, and carry out the replacement with attention to proper tear-off, decking repair, underlayment and installation. Most residential roof replacements take two to four days.",
       },
       {
-        heading: "Roofing options",
-        body: "We offer a range of systems appropriate to your property and preferences.",
-        bullets: ["Asphalt shingle", "Metal roofing", "Tile roofing", "Flat roofing", "TPO roofing"],
+        heading: "Roof replacement options",
+        body: "We offer a range of systems appropriate to your property and preferences, from shingle roof replacement to tile, metal and flat roof replacement.",
+        bullets: [
+          "Asphalt shingle",
+          "Metal roofing",
+          "Tile roofing",
+          "Flat roofing",
+          "[TPO roofing](/roofing/specialty-roofing)",
+        ],
       },
     ],
     interactive: {
@@ -235,8 +266,8 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           label: "Active Leak",
           image: "/projects/aerial-shingle-roof-05.jpg",
           heading: "Active Leak",
-          body: "An active leak can sometimes be repaired, but it depends on the cause and how widespread the damage is.",
-          note: "This may be worth having professionally inspected.",
+          imageAlt: "Active roof leak, deciding between repair and replacement in Las Cruces",
+          body: "An active leak can sometimes be repaired, but it depends on the cause and how widespread the damage is. A [roof inspection](/roofing/roof-inspections) will tell you whether a repair or a full roof replacement makes more sense.",
         },
         {
           key: "older-roof",
@@ -259,7 +290,7 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           label: "Isolated Damage",
           image: "/projects/roof-detail-01.jpg",
           heading: "Isolated Damage",
-          body: "Damage limited to one area of the roof can often be addressed with a targeted repair.",
+          body: "Damage limited to one area of the roof can often be addressed with a targeted [roof repair](/roofing/roof-repairs).",
           note: "This may be worth having professionally inspected.",
         },
       ],
@@ -288,40 +319,42 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "roof-inspections": {
     slug: "roof-inspections",
     eyebrow: "Roof Inspections · Las Cruces, NM",
-    title: "Roof inspections in Las Cruces, NM",
-    seoTitle: "Roof Inspection in Las Cruces, NM | Gilbert & Sons",
+    title: "Professional Roof Inspection in Las Cruces, NM",
+    seoTitle: "Roof Inspection Las Cruces, NM | Gilbert & Sons Roofing",
     metaDescription:
-      "Roof inspections in Las Cruces, NM — catch leaks, storm damage and wear early. Ideal before buying or selling a home. Call 575-649-2316.",
+      
+      "Roof inspections in Las Cruces, NM for homeowners, buyers, sellers and insurance claims. Written report with photos. Call 575-649-2316.",
     intro:
-      "Thorough roof inspections help identify potential issues early, before they turn into larger and more costly repairs.",
+      "Thorough roof inspections in Las Cruces help identify potential issues early, before they turn into larger and more costly repairs. Every inspection ends with a written report and photos.",
     heroImage: "/projects/roof-inspection.jpg",
+    heroImageAlt: "Roof inspector checking flashing on a Las Cruces, NM home",
     backgroundPhrase: "KNOW BEFORE IT LEAKS.",
     sections: [
       {
         heading: "Why roof inspections matter",
         body:
-          "Regular inspections catch small problems — a lifted shingle, a failing seal, early water intrusion — while they're still simple to fix.",
+          "Regular roof inspections catch small problems, a lifted shingle, a failing seal, early water intrusion, hail damage you can't see from the ground, while they're still simple to fix.",
       },
       {
         heading: "What we look for",
         body:
-          "We check the roofing surface, flashing, vents, and visible signs of wear or water intrusion, and explain what we find in plain terms.",
+          "We check the roofing surface, flashing, vents, drainage, parapets on flat roofs, and visible signs of wear or water intrusion, and explain what we find in plain terms.",
       },
       {
-        heading: "When to consider an inspection",
+        heading: "When to schedule a roof inspection",
         body:
-          "Common times to schedule an inspection include after a storm, before buying or selling a property, or as part of regular upkeep.",
+          "Common times to schedule an inspection include after a monsoon or hail storm, before buying or selling a property (real estate roof inspection), when filing an [insurance claim](/roofing/emergency-roofing), or as part of regular upkeep. A pre-monsoon roof inspection each spring is the single best time for [Las Cruces homes](/service-areas/las-cruces).",
       },
       {
         heading: "What happens next",
         body:
-          "If we find issues, we'll walk you through your options — repair, maintenance, or replacement — with no pressure either way.",
+          "If we find issues, we'll walk you through your options, [roof repair](/roofing/roof-repairs), [maintenance](/roofing/roof-maintenance), or [replacement](/roofing/roof-replacements), with no pressure either way, and put it all in a written roof inspection report.",
       },
     ],
     interactive: {
       kind: "hotspots",
       label: "What We Check",
-      heading: "What we look at during an inspection.",
+      heading: "Roof inspection checklist: what we look at.",
     },
     relatedSlugs: ["roof-repairs", "roof-maintenance", "roof-replacements"],
     faqs: [
@@ -345,42 +378,45 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "roof-maintenance": {
     slug: "roof-maintenance",
     eyebrow: "Roof Maintenance · Las Cruces, NM",
-    title: "Roof maintenance plans in Las Cruces, NM",
-    seoTitle: "Roof Maintenance in Las Cruces, NM | Gilbert & Sons",
+    title: "Roof Maintenance Services in Las Cruces, NM",
+    seoTitle: "Roof Maintenance Las Cruces, NM | Gilbert & Sons Roofing",
     metaDescription:
-      "Roof maintenance plans in Las Cruces, NM for residential and commercial roofs. Preventive checks that extend roof life. Free estimates.",
+      
+      "Preventive roof maintenance in Las Cruces, NM for shingle, tile, metal and flat/TPO roofs. Annual tune-ups and plans. Free estimates.",
     intro:
-      "Gilbert & Sons offers customized maintenance plans to suit your property's needs, helping roofing systems continue performing properly over time.",
+      "Gilbert & Sons offers customized roof maintenance plans to suit your property's needs, helping residential and commercial roofing systems in Las Cruces continue performing properly over time.",
     heroImage: "/projects/roof-maintenance.jpg",
+    heroImageAlt: "Roof maintenance technician inspecting flashing on a Las Cruces, NM home",
     backgroundPhrase: "STAY AHEAD OF IT.",
     sections: [
       {
-        heading: "Preventive maintenance",
+        heading: "Preventive roof maintenance",
         body:
-          "Routine maintenance addresses small wear points before they become leaks or larger repairs, extending the useful life of your roof.",
+          "Routine preventive roof maintenance addresses small wear points before they become leaks or larger repairs, extending the life of your roof.",
       },
       {
-        heading: "Roof condition checks",
+        heading: "Annual roof inspection and tune-up",
         body:
-          "We check the roofing surface, flashing, seals and drainage as part of a maintenance visit, and address issues we find.",
+          "We check the roofing surface, flashing, seals and drainage as part of a roof maintenance visit, and address issues we find during the same tune-up.",
       },
       {
-        heading: "Residential & commercial plans",
+        heading: "Residential & commercial roof maintenance plans",
         body:
-          "Maintenance needs differ between a residential shingle roof and a commercial flat or TPO system — we tailor plans to the property.",
+          "Maintenance needs differ between a residential shingle roof and a commercial flat or TPO roof, we tailor roof maintenance programs to the property.",
       },
     ],
     interactive: {
       kind: "options",
       label: "Residential or Commercial?",
-      heading: "Maintenance built around your property.",
+      heading: "Roof maintenance built around your property.",
       options: [
         {
           key: "residential",
           label: "Residential",
           image: "/projects/aerial-shingle-roof-04.jpg",
           heading: "Residential Maintenance",
-          body: "Periodic checks on shingle, tile, or metal roofing to catch small issues — loose flashing, worn sealant — before they become leaks.",
+          imageAlt: "Residential roof maintenance on a shingle roof in Las Cruces",
+          body: "Periodic residential roof maintenance checks on shingle, tile, or metal roofing to catch small issues, loose flashing, worn sealant, clogged gutters, before they become leaks.",
         },
         {
           key: "commercial",
@@ -414,24 +450,26 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "emergency-roofing": {
     slug: "emergency-roofing",
     eyebrow: "Emergency Roofing · Las Cruces, NM",
-    title: "Emergency roofing services in Las Cruces, NM",
-    seoTitle: "Emergency Roof Repair in Las Cruces, NM | Gilbert & Sons",
+    title: "Emergency Roof Repair & Storm Damage Repair in Las Cruces, NM",
+    seoTitle: "Emergency Roof Repair Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Emergency roof repair in Las Cruces, NM for active leaks and storm damage. Fast, responsive local response. Call 575-649-2316 now.",
+      
+      "Emergency roof repair in Las Cruces, NM for active leaks, monsoon, wind and hail damage. Fast local response. Call 575-649-2316 now.",
     intro:
-      "Gilbert & Sons provides prompt and responsive emergency roofing services when your property has urgent roof damage.",
+      "Gilbert & Sons provides prompt and responsive emergency roofing services in Las Cruces when your property has urgent roof damage from a leak, storm, wind or hail.",
     heroImage: "/projects/aerial-shingle-roof-05.jpg",
+    heroImageAlt: "Emergency roof repair after storm damage in Las Cruces, NM",
     backgroundPhrase: "RESPOND. REPAIR. PROTECT.",
     sections: [
       {
-        heading: "Urgent roofing problem?",
+        heading: "Active roof leak or urgent roofing problem?",
         body:
-          "If your roof is actively leaking or damaged, call 575-649-2316. Speaking with us directly is the fastest way to get help started.",
+          "If your roof is actively leaking or damaged, call 575-649-2316. Speaking with us directly is the fastest way to get emergency roof repair started.",
       },
       {
         heading: "What we handle",
         body:
-          "Active leaks, storm damage, and other urgent roofing issues that put your property at risk.",
+          "Active leaks, storm damage, wind and hail damage, emergency roof tarping, and other urgent roofing issues that put your property at risk.",
       },
       {
         heading: "What to do while you wait",
@@ -440,6 +478,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       },
     ],
     relatedSlugs: ["roof-repairs", "roof-inspections", "roof-replacements"],
+    relatedDescriptions: {
+      "roof-repairs": "Roof leak repair, storm damage and general wear and tear.",
+    },
     faqs: [
       {
         question: "What counts as a roofing emergency?",
@@ -460,23 +501,33 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "specialty-roofing": {
     slug: "specialty-roofing",
     eyebrow: "Specialty Roofing · Las Cruces, NM",
-    title: "Specialty roofing systems and services in Las Cruces, NM",
-    seoTitle: "Metal, Flat & TPO Roofing in Las Cruces, NM | Gilbert & Sons",
+    title: "Flat Roofing, TPO & Metal Roofing in Las Cruces, NM",
+    seoTitle: "Flat, TPO & Metal Roofing Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Metal, flat and TPO roofing in Las Cruces, NM, plus storm damage repair, gutters, leak detection and insurance claim help. Free estimates.",
+      
+      "Flat roof, TPO, metal and foam roofing in Las Cruces, NM. Cool-roof options built for high-desert sun and monsoon rain. Free estimates.",
     intro:
-      "Beyond standard installation and repair, Gilbert & Sons provides a range of specialty roofing systems and related exterior services.",
+      "Beyond standard shingle installation and repair, Gilbert & Sons installs and repairs flat roofs, TPO roofing, metal roofing and foam roofing in Las Cruces, along with related exterior services.",
     heroImage: "/projects/aerial-roof-overview-01.jpg",
+    heroImageAlt: "White TPO flat roof on a commercial building in Las Cruces, NM",
     backgroundPhrase: "SYSTEMS FOR EVERY ROOF.",
     sections: [
       {
-        heading: "Roofing systems",
-        body: "We work across multiple roofing systems, each suited to different property types and budgets.",
-        bullets: ["Asphalt Shingle Roofing", "Metal Roofing", "Tile Roofing", "Flat Roofing", "TPO Roofing"],
+        heading: "Flat, TPO and metal roofing systems",
+        body: "We work across multiple roofing systems, each suited to different property types and budgets, from low-slope commercial TPO to Pro-Panel metal on homes.",
+        bullets: [
+          "Flat Roofing",
+          "TPO Roofing",
+          "Metal Roofing (Pro-Panel, R-panel, standing seam)",
+          "Spray Foam Roofing",
+          "Modified Bitumen",
+          "[Tile Roofing](/roofing/tile-roofing)",
+          "Asphalt Shingle Roofing",
+        ],
       },
       {
         heading: "Additional roofing services",
-        body: "Supporting services that protect your roof and property beyond the roofing system itself.",
+        body: "Supporting services that protect your roof and property beyond the roofing system itself, including gutter installation in Las Cruces and roof leak detection.",
         bullets: [
           "Storm Damage Repair",
           "Insurance Claim Assistance",
@@ -497,7 +548,8 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           label: "Storm Damage",
           image: "/projects/aerial-shingle-roof-05.jpg",
           heading: "Storm Damage Repair",
-          body: "Wind and hail damage repaired, with insurance claim assistance where needed.",
+          imageAlt: "Storm damage repair on a metal roof in Las Cruces",
+          body: "[Wind and hail damage](/roofing/emergency-roofing) repaired on flat, metal and TPO roofs, with insurance claim assistance where needed.",
         },
         {
           key: "insurance",
@@ -543,41 +595,47 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "tile-roofing": {
     slug: "tile-roofing",
     eyebrow: "Tile Roofing · Las Cruces, NM",
-    title: "Tile roofing in Las Cruces, NM",
-    seoTitle: "Tile Roofing in Las Cruces, NM | Gilbert & Sons",
+    title: "Tile Roofing, Tile Roof Repair & Underlayment Replacement in Las Cruces, NM",
+    seoTitle: "Tile Roof Repair & Underlayment Las Cruces NM | Gilbert & Sons",
     metaDescription:
-      "Tile roof installation and underlayment replacement in Las Cruces, NM, including clay tile and 50-year synthetic underlayment.",
+      
+      "Tile roof repair, installation and underlayment replacement in Las Cruces, NM. Keep your tile, replace the underlayment. Free estimates.",
     intro:
-      "Tile roofing combines a durable surface tile with a critical underlayment system beneath it. Gilbert & Sons installs new tile roofs and replaces underlayment on existing tile roofs.",
+      "Tile roofing combines a durable surface tile with a critical underlayment system beneath it. Gilbert & Sons installs new tile roofs, repairs tile roofs, and replaces tile roof underlayment on existing roofs across [Las Cruces and Doña Ana County](/service-areas).",
     heroImage: "/projects/aerial-shingle-roof-07.jpg",
+    heroImageAlt: "Clay tile roof with new underlayment being relaid in Las Cruces, NM",
     backgroundPhrase: "BUILT IN LAYERS.",
     sections: [
       {
         heading: "Tile surface",
         body:
-          "The tile surface gives a tile roof its appearance and helps shed water off the roofing system.",
+          "The clay or concrete tile surface gives a tile roof its appearance and helps shed water off the roofing system. In the Las Cruces sun the tile itself often outlasts the house.",
       },
       {
         heading: "Underlayment",
         body:
-          "The waterproof barrier beneath the tile is critically important to the roofing system's performance. We use synthetic underlayment, including FT Synthetics, chosen for its positive reviews and limited lifetime warranty protection — offering a longer warranty of up to 50+ years compared to older felt underlayment.",
+          "The waterproof barrier beneath the tile is critically important to the roofing system's performance. We use synthetic underlayment, including FT Synthetics, chosen for its positive reviews and limited lifetime warranty protection, offering a longer warranty of up to 50+ years compared to older felt underlayment, which typically fails after 20 to 30 years of desert heat.",
       },
       {
         heading: "Tile installation",
-        body: "We install new tile roofing systems, including clay tile as an architectural option.",
+        body: "We install new tile roofing systems, including clay tile and concrete tile, with Spanish tile as an architectural option.",
       },
       {
-        heading: "Underlayment replacement",
+        heading: "Tile underlayment replacement",
         body:
-          "When the tile itself is in good condition but the underlayment beneath it has failed, we can replace the underlayment without a full tile replacement.",
+          "When the tile itself is in good condition but the underlayment beneath it has failed, we lift and relay the tile and replace the underlayment without a [full tile roof replacement](/roofing/roof-replacements). This is the most common tile roof repair we do in Las Cruces.",
       },
     ],
     interactive: {
       kind: "layers",
       label: "Why Underlayment Matters",
-      heading: "What sits beneath the tile matters.",
+      heading: "Why tile roofs fail in the desert, and it's rarely the tile.",
     },
     relatedSlugs: ["roof-installations", "roof-repairs", "roof-inspections"],
+    relatedDescriptions: {
+      "roof-repairs":
+        "Roof repair for leaks, storm damage, broken or slipped tiles and general wear and tear.",
+    },
     faqs: [
       {
         question: "Can you replace underlayment without replacing the tile?",
@@ -599,24 +657,26 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
   "silicone-roof-restoration": {
     slug: "silicone-roof-restoration",
     eyebrow: "Silicone Roof Restoration (SRM) · Commercial",
-    title: "Silicone roof restoration for commercial roofs in Las Cruces, NM",
-    seoTitle: "Silicone Roof Coating in Las Cruces, NM | Gilbert & Sons",
+    title: "Silicone Roof Coating & Commercial Roof Restoration in Las Cruces, NM",
+    seoTitle: "Silicone Roof Coating Las Cruces, NM | Gilbert & Sons",
     metaDescription:
-      "Silicone and elastomeric roof coating for commercial roofs in Las Cruces, NM — a lower-cost, lower-disruption alternative to full tear-off.",
+      
+      "Silicone roof coatings in Las Cruces, NM restore flat, TPO and metal roofs for a fraction of replacement cost. Free commercial assessment.",
     intro:
-      "Silicone Roof Maintenance (SRM) uses silicone and elastomeric coatings to renew an existing commercial roof, often as an alternative to a full tear-off and replacement.",
+      "Silicone Roof Maintenance (SRM) uses silicone and elastomeric roof coatings to renew an existing commercial roof in Las Cruces, flat, TPO, metal or foam, often as an alternative to a full tear-off and replacement.",
     heroImage: "/projects/aerial-shingle-roof-08.jpg",
+    heroImageAlt: "White silicone roof coating on a commercial flat roof in Las Cruces, NM",
     backgroundPhrase: "RESTORE. PROTECT. EXTEND.",
     sections: [
       {
         heading: "How it works",
         body:
-          "The existing roof is cleaned and prepared, then coated with a silicone or elastomeric layer that restores waterproofing and extends the roof's service life.",
+          "The existing roof is cleaned and prepared, seams and penetrations are repaired, then the roof is coated with a silicone or elastomeric roof coating that restores waterproofing and extends the roof's service life by 10 to 20 years.",
       },
       {
         heading: "Saves money",
         body:
-          "By eliminating the need for a full tear-off and replacement, silicone restoration can reduce project cost compared to a complete new roof system.",
+          "By eliminating the need for a full tear-off and replacement, commercial roof restoration with silicone can reduce project cost compared to a complete new roof system, typically a fraction of the roof coating vs. replacement price.",
       },
       {
         heading: "Less disruption, shorter timeline",
@@ -624,9 +684,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
           "SRM application causes significantly less disruption to a commercial property, and project duration can be up to 30% shorter than a full roof replacement.",
       },
       {
-        heading: "Energy performance",
+        heading: "Cool roof energy performance",
         body:
-          "A white silicone roof coating can reduce building energy consumption by 15% to 35% by reflecting solar heat away from the building.",
+          "A white reflective silicone roof coating can reduce building energy consumption by 15% to 35% by reflecting solar heat away from the building, a real difference under the Las Cruces sun.",
       },
       {
         heading: "Roofing code consideration",
@@ -637,14 +697,15 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
     interactive: {
       kind: "options",
       label: "The Process",
-      heading: "How restoration comes together.",
+      heading: "How silicone roof restoration comes together.",
       options: [
         {
           key: "inspection",
           label: "01 Inspection",
           image: "/projects/ai-roofer-gutter-inspection-01.png",
           heading: "Inspection",
-          body: "We evaluate the existing roof's condition to confirm it's a good candidate for restoration.",
+          imageAlt: "Commercial roof inspection before silicone coating, Las Cruces",
+          body: "We evaluate the existing roof's condition, membrane, seams, drainage, moisture in the insulation, to confirm it's a good candidate for roof coating rather than replacement.",
         },
         {
           key: "preparation",
@@ -678,6 +739,9 @@ export const roofingServiceContent: Record<string, RoofingServicePage> = {
       ctaLabel: "Get an Estimate",
     },
     relatedSlugs: ["specialty-roofing", "roof-inspections", "roof-maintenance"],
+    relatedDescriptions: {
+      "specialty-roofing": "Flat roof, TPO and metal roofing systems, plus gutter services.",
+    },
     faqs: [
       {
         question: "Is silicone restoration only for commercial roofs?",

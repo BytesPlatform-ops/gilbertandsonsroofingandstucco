@@ -15,7 +15,7 @@ export const coreServices: CoreService[] = [
     slug: "roofing",
     title: "Roofing",
     description:
-      "Installation, repair, replacement and inspection for asphalt shingle, tile, metal and flat roofs — residential and commercial, across Las Cruces and Doña Ana County.",
+      "Installation, repair, replacement and inspection for asphalt shingle, tile, metal and flat roofs, residential and commercial, across Las Cruces and Doña Ana County. We're the roofers Las Cruces property owners call when the job needs to be done right the first time.",
     image: "/projects/aerial-shingle-roof-02.jpg",
     href: "/roofing",
     cta: "Explore Roofing",

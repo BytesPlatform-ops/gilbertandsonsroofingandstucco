@@ -46,8 +46,10 @@ export default function Hero() {
                 Roofing that stands up to the elements.
               </h1>
               <p className="body-large text-text-on-dark-secondary mt-7 max-w-md">
-                Residential and commercial roofing and stucco, built for New Mexico
-                weather. Licensed, insured and bonded since {siteConfig.established}.
+                Residential and commercial roofing and stucco from the roofing
+                contractor Las Cruces homeowners and businesses have trusted since{" "}
+                {siteConfig.established}, built for New Mexico weather. Licensed, insured
+                and bonded.
               </p>
               <div className="mt-10">
                 <CTAButton href={siteConfig.phoneHref} variant="secondary-dark">

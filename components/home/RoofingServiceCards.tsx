@@ -40,7 +40,9 @@ export default function RoofingServiceCards() {
                   <h3 className="font-heading font-semibold text-base uppercase tracking-[0.01em] text-brand-ink group-hover:text-brand-primary transition-colors duration-150">
                     {service.shortTitle}
                   </h3>
-                  <p className="text-sm text-text-secondary mt-2 flex-1">{service.description}</p>
+                  <p className="text-sm text-text-secondary mt-2 flex-1">
+                    {service.homeCardDescription ?? service.description}
+                  </p>
                   <span className="inline-flex items-center gap-1.5 mt-4 text-xs font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary">
                     Learn More
                     <span aria-hidden="true">→</span>

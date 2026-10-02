@@ -59,8 +59,9 @@ export default function AboutStrip() {
             <p className="text-text-secondary leading-relaxed">
               {siteConfig.president} founded {siteConfig.shortName} in {siteConfig.established} and
               serves as President of the company today. We&rsquo;ve been doing roofing and stucco
-              work in Las Cruces and Doña Ana County ever since — a local, licensed, insured and
-              bonded contractor, not a franchise or a call center routing your number to a
+              work in Las Cruces and Doña Ana County ever since, one of the few roofing
+              contractors Las Cruces NM residents can actually meet in person: local, licensed,
+              insured and bonded, not a franchise or a call center routing your number to a
               subcontractor you&rsquo;ve never met.
             </p>
             <p className="text-text-secondary leading-relaxed">

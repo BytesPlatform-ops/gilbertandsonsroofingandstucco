@@ -45,11 +45,11 @@ export default function RoofingNavigator() {
 
       <div className="hidden lg:block relative">
         <div className="relative aspect-[4/3] overflow-hidden rounded-[var(--radius-feature)] border-2 border-brand-ink shadow-brutal-sm">
-          <SafeMedia src={activeContent.heroImage} alt={active.title} fill rounded={false} />
+          <SafeMedia src={activeContent.heroImage} alt={active.imageAlt ?? active.title} fill rounded={false} />
         </div>
         <div className="mt-6">
           <h3 className="text-2xl font-heading font-semibold text-brand-ink">{active.title}</h3>
-          <p className="text-text-secondary mt-3 max-w-xl">{active.description}</p>
+          <p className="text-text-secondary mt-3 max-w-xl">{active.hubDescription ?? active.description}</p>
           <Link
             href={active.href}
             className="inline-flex items-center gap-1.5 mt-5 text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary transition-colors duration-150 hover:text-brand-primary-dark hover:underline underline-offset-4"
@@ -74,7 +74,7 @@ export default function RoofingNavigator() {
               </span>
             </summary>
             <div className="pb-6 pl-12">
-              <p className="text-sm text-text-secondary mb-4">{service.description}</p>
+              <p className="text-sm text-text-secondary mb-4">{service.hubDescription ?? service.description}</p>
               <Link
                 href={service.href}
                 className="text-sm font-heading font-semibold uppercase tracking-[0.04em] text-brand-primary transition-colors duration-150 hover:text-brand-primary-dark hover:underline underline-offset-4"

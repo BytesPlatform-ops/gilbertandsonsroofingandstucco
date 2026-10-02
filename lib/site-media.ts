@@ -47,6 +47,8 @@ export type MediaSourceType = "file" | "youtube" | "vimeo";
 export interface StoryMediaItem {
   id: string;
   title: string;
+  /** Alt text for the slide image. Falls back to `title`. */
+  imageAlt?: string;
   description: string;
   meta: string;
   mediaType: "image" | "video";

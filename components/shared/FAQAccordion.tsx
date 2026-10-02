@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import InlineText from "@/components/blog/InlineText";
 
 export type FAQItem = {
   question: string;
@@ -47,7 +48,9 @@ export default function FAQAccordion({ items }: { items: FAQItem[] }) {
                 isOpen ? "max-h-[400px]" : "max-h-0"
               }`}
             >
-              <p className="pb-6 pr-10 text-text-secondary leading-relaxed">{item.answer}</p>
+              <p className="pb-6 pr-10 text-text-secondary leading-relaxed">
+                <InlineText text={item.answer} />
+              </p>
             </div>
           </div>
         );
