@@ -4047,4 +4047,1158 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-is-roof-underlayment",
+    title: "What Is Roof Underlayment? Felt, Synthetic and Self-Adhered Explained",
+    excerpt:
+      "Underlayment is the water-resistant layer between your deck and your roofing. On a shingle roof it is the second line of defense. On a tile roof it is the only one.",
+    metaTitle: "What Is Roof Underlayment? Types and Where It Goes",
+    metaDescription:
+      "What is roof underlayment? Compare felt, synthetic and self-adhered types, see where each goes, and learn why it matters most under tile.",
+    category: "Roofing Materials",
+    tags: [
+      "underlayment",
+      "materials",
+      "tile roof",
+      "flashing",
+      "inspection",
+      "lifespan",
+    ],
+    publishedAt: "2026-10-07",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-roof-underlayment/roofing-underlayment-base-sheet-rolls.webp",
+    featuredImageAlt:
+      "Gilbert & Sons crew member loading a roll of base sheet underlayment onto a ladder hoist on a Las Cruces street",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/tile-roofing",
+      "/roofing/roof-installations",
+      "/roofing/roof-inspections",
+    ],
+    keywords: [
+      "what is roof underlayment",
+      "synthetic vs felt underlayment",
+      "self-adhered underlayment",
+      "tile roof underlayment replacement",
+      "roof underlayment las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Roof underlayment is the water-resistant sheet installed directly on the roof deck, beneath the shingles, tile or metal you see from the street. On a shingle or metal roof it's the second line of defense, catching whatever wind-driven rain gets past the surface. On a tile roof it's the first line of defense, because tile sheds water but doesn't seal it out.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most homeowners never think about underlayment until a roofer mentions it in a quote, or until a tile roof starts leaking with every tile still intact. By then the question of what roof underlayment is has become a very practical one.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what it does, the three types and how they compare, where each one goes on the roof, why it matters more under tile than anything else, how New Mexico heat shortens its life, and what to ask your roofer about it.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Is Roof Underlayment and What Does It Do?",
+      },
+      { type: "paragraph", text: "Underlayment does four jobs at once." },
+      {
+        type: "paragraph",
+        text:
+          "**It sheds water that gets past the roofing.** Shingles, tiles and metal panels all let some water through in wind-driven rain, at laps, and around fasteners. Underlayment catches it and carries it down to the eave.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It protects the deck during installation.** Once underlayment is on, the roof is dried in. A storm during a two-day install doesn't soak the plywood, which is why reaching dry-in the same day as tear-off is a priority in [how roof replacement works](/blog/how-does-roof-replacement-work).",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It provides a slip surface.** Roofing materials expand and contract. Underlayment lets them move without abrading the deck.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It satisfies code and warranty.** Building code requires it, and nearly every shingle, tile and metal manufacturer voids the warranty without it.",
+      },
+      {
+        type: "callout",
+        title: "What underlayment is not",
+        text:
+          "It's not a roof. It's not meant to be exposed for long, and it's not meant to be the only thing between the deck and the sky.",
+      },
+      { type: "heading", level: 2, text: "The Three Types of Roof Underlayment" },
+      { type: "heading", level: 3, text: "Asphalt-Saturated Felt" },
+      {
+        type: "paragraph",
+        text:
+          "The traditional option. Organic or fiberglass mat soaked in asphalt, sold as 15 lb or 30 lb (sometimes labeled #15 and #30). It's inexpensive and crews have used it for a century. Its drawbacks are weight, tear-prone installation in wind, short UV tolerance (days, not weeks), and a tendency to dry out, wrinkle and crack over time, especially in hot attics.",
+      },
+      { type: "heading", level: 3, text: "Synthetic Underlayment" },
+      {
+        type: "paragraph",
+        text:
+          "Woven or spun polypropylene or polyethylene, usually with a slip-resistant coating. It's lighter, stronger, far more tear-resistant, and rated for weeks to months of UV exposure. It's become the standard on new shingle and metal installations. It costs more than felt but less than self-adhered.",
+      },
+      { type: "heading", level: 3, text: "Self-Adhered Underlayment" },
+      {
+        type: "paragraph",
+        text:
+          "Rubberized asphalt or butyl with a peel-off backing that sticks directly to the deck. Often called ice and water shield or peel-and-stick. It seals around nails, resists ponding and wind-driven water, and is the only type that acts as a true waterproof membrane. It's used in high-risk zones on every roof and as full coverage under tile and on low-slope sections. It's the most expensive type and it's not breathable, so it's rarely used over an entire pitched roof in a hot climate unless the design calls for it.",
+      },
+      { type: "heading", level: 2, text: "Felt vs Synthetic vs Self-Adhered" },
+      {
+        type: "paragraph",
+        text: "Here's how the three compare on the points that matter.",
+      },
+      {
+        type: "table",
+        head: ["", "Felt (15 or 30 lb)", "Synthetic", "Self-adhered"],
+        rows: [
+          ["Cost", "Lowest of the three", "Moderate", "Highest"],
+          ["Lifespan under roofing", "15 to 25 years", "25 to 40 years", "30 to 40 years"],
+          ["UV exposure tolerance", "Days before it degrades", "30 to 180 days by product", "30 to 90 days by product"],
+          ["Tear resistance", "Low, especially in wind", "High", "High"],
+          ["Weight", "Heavy rolls", "Light rolls, easier to install", "Heavy rolls"],
+          ["Seals around fasteners", "No", "No", "Yes, the only type that does"],
+          ["Breathable", "Yes", "Varies by product", "No"],
+          [
+            "Best use",
+            "Budget re-roofs, sheds and outbuildings",
+            "The open field of shingle and metal roofs",
+            "Valleys, eaves, penetrations, wall transitions, full coverage under tile and on low slope",
+          ],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The honest summary: synthetic has replaced felt as the default for good reason, and self-adhered goes wherever water concentrates or sits.",
+      },
+      { type: "heading", level: 2, text: "Where Each Type Goes on the Roof" },
+      { type: "paragraph", text: "A well-built roof uses more than one." },
+      {
+        type: "list",
+        items: [
+          "**Synthetic across the field.** The open slopes of a shingle or metal roof get synthetic, lapped course over course from eave to ridge. On an [asphalt shingle roof](/blog/what-is-asphalt-shingle-roofing) this is the layer the shingles are nailed through.",
+          "**Self-adhered in the valleys.** Valleys carry the most concentrated water on the roof.",
+          "**Self-adhered at the eaves.** Three feet up from the edge is standard, and it's where ice dams form in colder climates. Here it's less about ice and more about wind-driven monsoon rain pushing under the first course.",
+          "**Self-adhered around penetrations.** Pipes, vents, skylights and chimneys.",
+          "**Self-adhered at stucco wall transitions.** Where a roof meets a stucco wall, the underlayment turns up the wall under the step flashing and the weather-resistive paper. This is a detail most leaks on stucco homes trace back to.",
+          "**Full self-adhered or heavy synthetic under tile.** More on that next.",
+          "**Self-adhered on low-slope sections.** Anything under about 4:12 pitch gets full coverage, because water moves slowly and finds laps.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-roof-underlayment/roof-stripped-to-battens-deck.webp",
+        alt:
+          "Two roofers removing roof covering beside a brick chimney, exposing the battens and deck underneath",
+        caption:
+          "Once the covering is off, the deck is what the underlayment goes onto. This is the only stage at which it can be inspected or replaced.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "On a [roof installation](/roofing/roof-installations), the underlayment plan should be spelled out in the quote by type and location, not described as \"underlayment included.\"",
+      },
+      { type: "heading", level: 2, text: "Why Underlayment Matters More Under Tile" },
+      {
+        type: "paragraph",
+        text:
+          "Clay and concrete tile is the longest-lasting roofing material available, and it's also the one that depends most on what roof underlayment is doing beneath it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Tile isn't waterproof. The tiles overlap and shed most rain, but wind-driven water, capillary action at the laps, and water running under cracked or slipped tiles all reach the deck. The underlayment is the actual waterproof layer on a tile roof. The tiles mostly protect the underlayment from sun and impact.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That creates a mismatch, and it's the reason [how long tile roofs last](/blog/how-long-do-tile-roofs-last) is really two different numbers. The tiles last 50 to 100 years. The underlayment under them lasts 20 to 30 for felt and 25 to 40 for heavy synthetic or self-adhered. When the underlayment fails, the roof leaks with every tile intact, which confuses homeowners and leads to a lot of wasted tile repairs.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The fix is underlayment replacement, sometimes called lift and relay: the tiles come off in sections, the old underlayment is torn out, new self-adhered or heavy synthetic goes down with new flashing, and the original tiles go back on. It restores a [tile roof](/roofing/tile-roofing) for another 30 years without buying new tile. On a tile roof past 20 years, the underlayment should be checked before anything else.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How New Mexico Heat and UV Affect Underlayment",
+      },
+      { type: "paragraph", text: "Our climate is hard on the layer you can't see." },
+      {
+        type: "paragraph",
+        text:
+          "**Attic heat cooks it from below.** Roof deck temperatures in July exceed 150 degrees. Felt dries out, loses its asphalt oils and becomes brittle. Synthetic holds up far better, but a poorly ventilated attic shortens any underlayment's life.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**UV reaches it through gaps.** Every cracked tile, lifted shingle or open ridge exposes underlayment to direct sun. Felt breaks down within weeks. Synthetic's UV rating buys time, but none of it is permanent. That's why one broken tile left alone through two summers becomes a leak.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Installation delays matter.** If a roof is dried in and then the finished roofing waits for materials, the underlayment's UV rating decides whether it survives. Synthetic rated for 90 or 180 days is the safe choice here.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Thermal cycling stresses laps.** Daily swings of 30 to 40 degrees work the overlaps. Self-adhered seals them. Felt and synthetic depend on correct lap width and fastening.",
+      },
+      { type: "heading", level: 2, text: "Signs Your Underlayment Has Failed" },
+      {
+        type: "list",
+        items: [
+          "**Leaks with intact roofing above.** The classic tile roof symptom, but it happens under shingles and metal too.",
+          "**Brittle, cracked or torn material** when a tile or shingle is lifted during an inspection.",
+          "**Visible deterioration at the eaves** where underlayment shows below the first course.",
+          "**Water stains on the deck** seen from the attic, especially along rafters below a valley or wall.",
+          "**Leaks that appear only in wind-driven rain**, which points to water getting past the roofing and finding a failed lap.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "A professional [roof inspection](/roofing/roof-inspections) that lifts a few tiles or checks the attic is the only way to confirm underlayment condition. From the ground it's invisible.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What to Ask Your Roofer About Underlayment",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Before signing a quote for a new roof or a [roof replacement](/roofing/roof-replacements), ask four things:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**What type?** Felt, synthetic or self-adhered, and the product name.",
+          "**What weight or rating?** 30 lb felt over 15. For synthetic, the UV exposure rating.",
+          "**Where does the self-adhered go?** Valleys, eaves, penetrations and wall transitions at minimum. Full coverage under tile and on low slope.",
+          "**Is it itemized?** A quote that says \"underlayment included\" with no detail is a quote where the cheapest felt is likely.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The underlayment is a small fraction of the roof's cost and a large fraction of its ability to stay dry. It's the wrong place to save money.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Underlayment" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is roof underlayment? The water-resistant layer between the deck and the roofing, doing the quiet work of catching whatever the surface misses. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Synthetic has replaced felt as the standard for the open field. Self-adhered belongs in valleys, at eaves, around penetrations and at stucco wall transitions.",
+          "Under tile, the underlayment is the waterproof layer. It fails decades before the tiles do, and replacing it is the normal mid-life service on a tile roof.",
+          "New Mexico heat and UV shorten underlayment life. Ventilation, prompt repair of broken tiles and a quality synthetic or self-adhered product all extend it.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Every roof we install itemizes the underlayment by type and location, and we replace [tile roof underlayment](/roofing/tile-roofing) without replacing the tile. If you've got a leak with no visible damage, or a tile roof past 20 years that's never been checked, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the layer you can't see from the ground.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-a-roof-maintenance-plan",
+    title: "What Is a Roof Maintenance Plan? What's Included and Why It Pays",
+    excerpt:
+      "Scheduled visits, a fixed checklist and a written record, so the roof gets looked at before it leaks rather than after. Here is what is included and what it saves.",
+    metaTitle: "What Is a Roof Maintenance Plan? What's Included",
+    metaDescription:
+      "What is a roof maintenance plan? See what's included, how often visits happen, what it costs, and why many roof warranties require one.",
+    category: "Roof Maintenance",
+    tags: [
+      "maintenance",
+      "inspection",
+      "flat roof",
+      "commercial",
+      "monsoon",
+      "roof coating",
+      "warranty",
+    ],
+    publishedAt: "2026-10-07",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-a-roof-maintenance-plan/roofer-checking-gutter-eave.webp",
+    featuredImageAlt:
+      "Roofer on a ladder checking the gutter and roof edge of a home during a scheduled maintenance visit",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-maintenance",
+      "/roofing/roof-inspections",
+      "/roofing/silicone-roof-restoration",
+    ],
+    keywords: [
+      "what is a roof maintenance plan",
+      "roof maintenance plan cost",
+      "commercial roof maintenance",
+      "roof warranty maintenance requirement",
+      "roof maintenance las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "A roof maintenance plan is a scheduled program of inspections, cleaning, minor repairs and documentation, usually twice a year, designed to catch small problems before they become leaks, emergency calls or an early replacement. It's the difference between a roof that gets looked at when something goes wrong and a roof that gets looked at before it does.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most roofs in Las Cruces get the first kind of attention. A stain appears, a roofer is called, a repair is made, and nobody looks again until the next stain. That cycle costs more than the plan does, and it usually ends with a replacement five to ten years earlier than necessary.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what a roof maintenance plan is, what's included, how often visits happen, how residential and commercial plans differ, why warranties often require one, what it costs against what it saves, and whether it's worth it for your particular roof.",
+      },
+      { type: "heading", level: 2, text: "What Is a Roof Maintenance Plan?" },
+      {
+        type: "paragraph",
+        text:
+          "Three things separate a maintenance plan from a one-off inspection or a repair.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Scheduled visits.** The roofer comes on a calendar, not on a phone call. Typically spring and fall, sometimes quarterly on commercial buildings.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**A defined checklist.** Every visit covers the same items, so nothing is skipped and changes show up from one visit to the next.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**A written record.** Each visit produces a report with photos and a condition rating. Over a few years, that record documents the roof's history, supports warranty claims, and tells you years in advance when replacement is coming.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "An inspection tells you where the roof stands today (here's [what a roof inspection includes](/blog/what-does-a-roof-inspection-include)). A repair fixes one problem. A maintenance plan keeps the roof from needing most repairs at all.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What's Included in a Roof Maintenance Plan",
+      },
+      {
+        type: "paragraph",
+        text: "A proper plan covers all of the following on every visit.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Full inspection** of the roof surface, every flashing detail, penetrations, parapets, drip edge and ridge",
+          "**Drain, scupper and canale clearing** on flat roofs, and gutter and valley clearing on pitched roofs",
+          "**Debris removal** from the surface, behind HVAC units and at wall intersections",
+          "**Sealant inspection and touch-up** at counterflashing, pipe boots, curbs and terminations",
+          "**Minor repairs** done on the spot: a lifted shingle, a slipped tile, a loose fastener, a small seam separation",
+          "**Coating condition check** on restored flat roofs: chalking, thinning, adhesion at details, since [how long roof coating lasts](/blog/how-long-does-roof-coating-last) depends heavily on catching wear early",
+          "**Attic or interior check** where accessible, for stains, moisture and ventilation",
+          "**Photo report** documenting conditions and any work done",
+          "**Priority list** separating items handled on the visit, items to schedule, and items to watch",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Items beyond minor repair, such as a flashing rebuild or a parapet cap, get quoted separately with the photos to back them up.",
+      },
+      { type: "heading", level: 2, text: "How Often Should Roof Maintenance Happen?" },
+      {
+        type: "paragraph",
+        text:
+          "Twice a year is the standard, and in southern New Mexico the timing writes itself.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Late spring, before monsoon season.** May or early June. The goal is to clear drains, reseal details and fix anything loose before the first 60 mph downburst tests the roof.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Fall, after monsoon season.** October. The goal is to find storm damage while it's a small repair, and to get the roof tight before winter freeze-thaw cycles widen every crack.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**After any significant storm.** Hail, or a wind event that moved tiles or shingles anywhere on the street, warrants an extra visit.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Quarterly on some commercial roofs.** Buildings with heavy rooftop HVAC traffic, restaurant exhaust, or a history of ponding often justify four visits.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Once a year is better than nothing. Twice a year is what actually keeps a roof ahead of the weather here.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-a-roof-maintenance-plan/maintained-shingle-roof-aerial.webp",
+        alt:
+          "Aerial view of a well-kept shingle roof on a stucco home in a Las Cruces desert neighbourhood",
+        caption:
+          "A roof that stays ahead of the weather looks unremarkable from above. That is the point of a maintenance plan.",
+      },
+      { type: "heading", level: 2, text: "Residential vs Commercial Maintenance Plans" },
+      {
+        type: "paragraph",
+        text: "The checklist is similar. The scope, documentation and stakes differ.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Residential plans** cover a single roof, usually shingle, tile or a coated flat roof on a Pueblo-style home. Visits take an hour or two. The report is for the homeowner and, eventually, a buyer.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Commercial plans** cover larger flat roofs with more penetrations, more foot traffic and more drains. Visits take longer and often include a moisture check on coated or membrane roofs. Documentation matters more: it supports manufacturer warranties, insurance, lease obligations to tenants, and capital planning. Many property managers also need the record to show due diligence if a leak damages a tenant's inventory.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Both benefit from the same thing: someone who knows the roof looking at it on a schedule.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Does a Maintenance Plan Keep Your Warranty Valid?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Often, yes, and this is the part most owners don't learn until they file a claim.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most shingle manufacturer warranties require that the roof be maintained and that damage from neglect, clogged drainage or unaddressed minor issues is excluded. Coating manufacturer warranties on silicone and elastomeric systems are stricter: many require documented annual or semi-annual inspections, and some require them to be performed by an approved contractor. Miss the inspections and the 15 or 20 year warranty can be voided on a technicality.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A maintenance plan generates exactly the record those warranties ask for. If you've had a [silicone roof restoration](/roofing/silicone-roof-restoration) or a new shingle roof with a long warranty, the plan is part of protecting that investment, not an extra.",
+      },
+      { type: "heading", level: 2, text: "How Much Does a Roof Maintenance Plan Cost?" },
+      {
+        type: "paragraph",
+        text:
+          "Pricing depends on roof type, size and the number of visits. As general guidance:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Residential shingle or tile roof:** a few hundred dollars per year for two visits",
+          "**Residential coated flat roof:** similar, with the coating check included",
+          "**Commercial flat roof:** priced per square foot or per visit, scaling with size and the number of penetrations and drains",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Against that, consider what the plan prevents. One [emergency roofing](/roofing/emergency-roofing) call during a monsoon storm, with interior water damage, typically costs more than several years of maintenance. (If you're not sure what counts as one, see [what emergency roof repair is](/blog/what-is-emergency-roof-repair).) A roof that gets maintained reliably reaches the upper end of its lifespan range, which on a shingle roof is five to ten extra years before a replacement that costs tens of thousands. A coated flat roof that gets maintained can be recoated instead of torn off.",
+      },
+      {
+        type: "callout",
+        title: "The economics in one line",
+        text:
+          "The plan is cheap because the things it catches are cheap. The things it prevents are not.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What a Maintenance Plan Looks Like in Las Cruces",
+      },
+      { type: "paragraph", text: "Our climate shapes the checklist." },
+      {
+        type: "paragraph",
+        text:
+          "**May visit.** Clear every scupper, canale and drain of the dust and debris that accumulated over the dry season. Reseal pipe boots and counterflashing that baked through the spring. Check parapet caps for cracks. Confirm tiles and shingles are secure before monsoon wind. Walk the attic for ventilation.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**October visit.** Look for wind damage: lifted tiles, missing shingles, membrane edges peeled back. Check every flashing and parapet detail for water staining from sideways rain. Clear drains again, since the first storms wash a summer of dust into them. Check coating condition and reflectivity. Seal any cracks before freeze-thaw.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Both visits come with the photo report, and anything beyond minor repair is quoted with the pictures.",
+      },
+      { type: "heading", level: 2, text: "Is a Roof Maintenance Plan Worth It?" },
+      { type: "paragraph", text: "An honest answer by situation." },
+      {
+        type: "paragraph",
+        text:
+          "**New roof, under five years old.** Worth it mainly for the warranty record and to catch installation defects early. One visit a year is reasonable.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Mid-life roof, 10 to 20 years.** This is where the plan earns its keep. The roof is sound but details are aging, and small catches here add years.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Coated flat roof.** Yes, without question. The coating warranty likely requires it, drains clog here, and a recoat at the right time is the whole point of the system.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Tile roof past 20 years.** Yes, with specific attention to lifting a few tiles and checking the [underlayment](/blog/what-is-roof-underlayment) each visit.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Roof at the end of its life.** A plan won't save a roof that needs replacing. An inspection to confirm that, followed by a [roof replacement](/roofing/roof-replacements), is the honest recommendation.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Maintenance Plans" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is a roof maintenance plan? Scheduled visits, a fixed checklist and a written record, so the roof gets looked at before it leaks rather than after. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Twice a year, before and after monsoon season, is the right rhythm for this region.",
+          "Many shingle and nearly all coating warranties require documented maintenance. The plan is the documentation.",
+          "It pays for itself with the first emergency call it prevents, and it typically adds years to the roof's life.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Our [roof maintenance plans](/roofing/roof-maintenance) cover residential and commercial roofs, including parapets, stucco transitions and coated flat roofs, with a photo report after every visit. To set one up before the next storm season, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll start with a full [roof inspection](/roofing/roof-inspections) to set the baseline.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-metal-roofing",
+    title: "What Is Metal Roofing? Types, Lifespan and How It Handles New Mexico",
+    excerpt:
+      "Metal lasts 40 to 70 years, two to three times an asphalt roof, and handles desert sun, hail and monsoon wind better than almost anything else. Here is how the systems differ.",
+    metaTitle: "What Is Metal Roofing? Types, Lifespan and Cost",
+    metaDescription:
+      "What is metal roofing? Compare standing seam and exposed fastener panels, see real lifespan and cost, and how metal handles sun and hail.",
+    category: "Roofing Materials",
+    tags: [
+      "metal roofing",
+      "materials",
+      "lifespan",
+      "flashing",
+      "stucco",
+      "hail",
+      "cool roof",
+    ],
+    publishedAt: "2026-10-07",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-metal-roofing/standing-seam-metal-roof-commercial.webp",
+    featuredImageAlt:
+      "Overhead view of a white standing seam metal roof with raised vertical seams on a commercial building in Las Cruces",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/specialty-roofing",
+      "/roofing/roof-installations",
+      "/roofing/roof-replacements",
+    ],
+    keywords: [
+      "what is metal roofing",
+      "standing seam vs exposed fastener",
+      "metal roof lifespan",
+      "metal roof cost",
+      "metal roofing las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Metal roofing is a roof system made of steel, aluminum, copper or zinc, formed into panels or shingles and installed over a deck and underlayment. It lasts 40 to 70 years, which is two to three times the life of asphalt shingles, and it's one of the best performers available in desert sun, hail and monsoon wind.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "It's also the material most homeowners in Las Cruces know least about. They've seen it on barns and warehouses and assume it's loud, hot and industrial. Modern residential metal is none of those things, and on the right home it's the last roof the owner ever buys.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide covers what metal roofing is made of, the two main panel types and which one you want, how long it lasts, how it handles our climate, how it compares to shingles over 30 years, the myths, what it costs, and whether it belongs on a stucco home.",
+      },
+      { type: "heading", level: 2, text: "What Is Metal Roofing Made Of?" },
+      { type: "paragraph", text: "Four metals, each with a different price and personality." },
+      {
+        type: "paragraph",
+        text:
+          "**Steel** is the workhorse. It's either galvanized (zinc-coated) or Galvalume (zinc and aluminum alloy coating), then painted. Galvalume resists corrosion better and is the standard for residential panels. Steel is sold by gauge: 24 and 26 gauge are typical for homes, with lower numbers being thicker and stronger.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Aluminum** doesn't rust, which makes it the choice in coastal salt air. It's lighter and softer than steel and costs more. Less common here, where salt isn't a factor.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Copper and zinc** are premium metals that develop a patina over decades and last well past a century. They're used on accents, porches and high-end custom homes rather than whole roofs on most budgets.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The finish matters as much as the metal.** Residential panels carry a paint system, and there are two tiers. PVDF (sold under names like Kynar 500) is the premium finish: it resists fading and chalking under intense UV for decades. Polyester or SMP finishes cost less and fade faster. At our elevation, the finish is where a cheap metal roof shows its age.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Two Main Types: Standing Seam vs Exposed Fastener",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This is the decision that defines what metal roofing is on your house, and the two systems are very different.",
+      },
+      { type: "heading", level: 3, text: "Standing Seam" },
+      {
+        type: "paragraph",
+        text:
+          "Panels run from ridge to eave with raised vertical seams between them. The panels attach to the deck with concealed clips under the seam. No fastener penetrates the panel surface. The clips let each panel expand and contract freely with temperature, and the raised seams keep water well above the attachment points.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Standing seam is the premium residential system. It costs more because the panels are often roll-formed on site to exact length and the installation is more skilled. In return it has no exposed fasteners to loosen or leak, it handles thermal movement cleanly, and it carries the longest warranties.",
+      },
+      { type: "heading", level: 3, text: "Exposed Fastener" },
+      {
+        type: "paragraph",
+        text:
+          "Panels, often corrugated or ribbed, are screwed directly through the face into the deck or purlins, with a rubber washer under each screw head. It's faster and cheaper to install and it's what's on most agricultural and commercial buildings.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The weakness is the fasteners. There are thousands of them, each with a rubber washer exposed to sun. The washers dry out and the screws back out as the panels expand and contract. On a 20-year-old exposed fastener roof, a maintenance visit often means replacing hundreds of screws. It's a fine system for a shop or barn. On a home, standing seam is worth the difference.",
+      },
+      { type: "heading", level: 2, text: "Other Metal Roofing Styles" },
+      {
+        type: "list",
+        items: [
+          "**Metal shingles and tiles.** Stamped panels that mimic shake, slate or clay tile, installed in courses like conventional shingles. They give a traditional look with metal performance.",
+          "**Corrugated panels.** The classic wavy profile, exposed fastener, common on outbuildings and increasingly on modern-style homes.",
+          "**Stone-coated steel.** Steel panels with a bonded layer of stone granules, designed to look like tile or shake from the street. Popular as a lighter alternative to real tile.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How Long Does Metal Roofing Last?" },
+      {
+        type: "paragraph",
+        text:
+          "Standing seam steel with a PVDF finish realistically lasts 50 to 70 years. Exposed fastener systems run 30 to 45, with fastener maintenance along the way. Copper and zinc go well past 100.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What shortens it: a polyester finish that chalks and fades in 15 years, exposed fastener washers that never get replaced, poor flashing at walls and penetrations, and dissimilar metals in contact (a copper flashing against a steel panel, for instance, corrodes the steel). Scratches through the finish that aren't touched up can rust on galvanized steel, less so on Galvalume.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Properly installed and detailed, metal is a once-in-a-lifetime roof. That's the honest comparison against the 20 to 25 years an architectural shingle roof delivers in this climate, and it changes the math on [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Metal Roofing Handle New Mexico Weather?",
+      },
+      { type: "paragraph", text: "Better than almost anything else." },
+      {
+        type: "paragraph",
+        text:
+          "**UV and heat.** A PVDF-finished metal panel reflects a large share of solar energy, and light colors can qualify as cool roofs. Surface temperature and the cooling load underneath both drop compared with dark shingles. The finish doesn't dry out and shed granules the way asphalt does.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Hail.** Most residential metal panels carry a Class 4 impact rating, the highest available. Hail can dent a thin or soft panel cosmetically, but it rarely compromises the roof. Many insurers discount Class 4 roofs.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Monsoon wind.** Standing seam systems are routinely rated for 140 mph and higher uplift. A 60 to 70 mph downburst that strips 3-tab shingles doesn't move a properly clipped metal panel.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Thermal expansion.** This is where the system choice shows. A 40-degree daily swing moves a 30-foot steel panel measurably. Standing seam clips are designed for it. Exposed fastener screws fight it, and lose over time.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Fire.** Metal is non-combustible and carries a Class A fire rating, which matters in a region with wildfire risk on the edges of the valley.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**What to watch.** Dust buildup in low-slope valleys, and the [roof flashing](/blog/what-is-roof-flashing) at stucco parapets and walls, which is the same weak point it is on every roof.",
+      },
+      { type: "heading", level: 2, text: "Metal Roofing vs Asphalt Shingles" },
+      {
+        type: "paragraph",
+        text:
+          "Side by side, here's how standing seam metal stacks up against [architectural asphalt shingles](/blog/what-is-asphalt-shingle-roofing) in this climate.",
+      },
+      {
+        type: "table",
+        head: ["", "Standing seam metal", "Architectural shingles"],
+        rows: [
+          ["Upfront cost", "Two to three times the price of shingles", "The cheapest roof to install"],
+          ["Realistic lifespan here", "50 to 70 years", "20 to 25 years in Las Cruces sun"],
+          ["Replacements over 60 years", "One roof", "Three roofs"],
+          ["Cooling performance", "Reflects heat, cool-roof finishes available", "Dark shingles absorb it"],
+          ["Wind rating", "140 mph and up", "110 to 130 mph"],
+          ["Hail rating", "Class 4, the highest", "Class 3 to Class 4 by product"],
+          ["Maintenance", "Minimal attention", "Annual inspection and periodic repair"],
+          ["Resale", "A strong selling point", "Neutral"],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Over a 60-year window, a shingle roof gets replaced three times. Metal gets installed once. Add lower cooling bills and possible insurance discounts, and the lifetime cost of metal is often lower, even though the first check is larger. That math is what makes it a sound choice for owners who plan to stay.",
+      },
+      { type: "heading", level: 2, text: "The Myths: Noise, Lightning, Heat and Rust" },
+      {
+        type: "paragraph",
+        text:
+          "**\"Metal roofs are loud in the rain.\"** Over a solid deck with underlayment and attic insulation, a metal roof is no louder than shingles. The barn-roof noise people remember comes from panels screwed to open purlins with nothing underneath.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**\"Metal attracts lightning.\"** It doesn't. Lightning strikes the highest object regardless of material. If a metal roof is struck, it disperses the energy and doesn't burn, which is an advantage over shingles.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**\"Metal roofs make the house hot.\"** The opposite. A reflective metal finish keeps the attic cooler than dark asphalt. The heat concern comes from unfinished bare metal, which isn't used on homes.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**\"Metal rusts.\"** Galvalume steel with a quality paint system is warranted against rust for decades. Rust shows up on scratched galvanized panels or cheap imports, not on properly specified residential metal.",
+      },
+      { type: "heading", level: 2, text: "What Does Metal Roofing Cost?" },
+      {
+        type: "paragraph",
+        text:
+          "Metal is priced per square (100 square feet) and the range is wide: exposed fastener panels at the low end, standing seam in the middle to upper range, and copper or zinc at the top. Expect standing seam to run roughly two to three times the cost of an architectural shingle roof of the same size.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "What drives it: panel type and gauge, finish tier, roof complexity (hips, valleys, dormers and penetrations all add detail work), and whether the old roof is torn off. Labor is a larger share than on shingles because the detail work is more skilled.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Offsets to ask about: homeowner insurance discounts for Class 4 and Class A roofs, lower cooling costs, and the fact that it's the last roof you'll pay for.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-metal-roofing/stucco-home-pitched-roof-dusk.webp",
+        alt:
+          "Single-storey stucco home with a pitched roof and desert landscaping, photographed at dusk",
+        caption:
+          "On a pitched stucco home, the decision usually comes down to the flashing at the walls rather than the panel itself.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Is Metal Roofing Right for a Stucco Home?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Often, yes, and it's becoming common on Las Cruces homes that are ready for a replacement.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The look.** Standing seam in earth tones, dark bronze or weathered copper sits comfortably on Territorial and contemporary Southwest homes, and metal shingles or stone-coated steel can mimic tile on Spanish-style homes at a fraction of the weight.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**The flashing.** Metal roofs meet stucco walls and parapets the same way every roof does, and the flashing has to be integrated with the stucco. This is the detail that decides whether the roof leaks, and it's why a contractor who does both trades matters on a stucco home.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Pueblo-style flat roofs.** Metal isn't the answer there. Flat roofs are membrane and coating territory. Metal belongs on pitched roofs, including the pitched sections of a home that mixes both.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Metal is part of the [specialty roofing](/roofing/specialty-roofing) work Gilbert & Sons installs, and it's worth a conversation on any pitched-roof home facing a [roof replacement](/roofing/roof-replacements) in the next few years.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Metal Roofing" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is metal roofing? Steel, aluminum, copper or zinc panels, installed as standing seam or exposed fastener, that last two to three times longer than shingles and handle desert sun, hail and wind better than almost anything else. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "On a home, choose standing seam with a PVDF finish. Exposed fastener panels belong on shops and barns.",
+          "The upfront cost is higher, but one metal roof replaces three shingle roofs over the same span, with lower cooling costs along the way.",
+          "On a stucco home, the flashing at walls and parapets is what makes or breaks a metal roof. Get it done by a crew that does both.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We install standing seam and metal shingle roofs on homes and commercial buildings, handle the stucco transitions ourselves, and will tell you honestly whether metal, tile or shingle is the right choice for your roof. For a quote on a new [roof installation](/roofing/roof-installations) or to compare options, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll start with a [roof inspection](/roofing/roof-inspections) and a written comparison.",
+      },
+    ],
+  },
+  {
+    slug: "how-to-find-a-roof-leak",
+    title: "How to Find a Roof Leak: Why the Stain Is Never Under the Hole",
+    excerpt:
+      "Start at the stain, trace the water uphill through the attic, then check flashing and parapets above that spot. The entry point is rarely where the drip is.",
+    metaTitle: "How to Find a Roof Leak: Trace It to the Source",
+    metaDescription:
+      "How to find a roof leak: why the stain is never under the hole, how to trace it through the attic, and the top leak sources on stucco homes.",
+    category: "Roofing",
+    tags: [
+      "leaks",
+      "flashing",
+      "parapet",
+      "stucco",
+      "flat roof",
+      "inspection",
+      "monsoon",
+    ],
+    publishedAt: "2026-10-07",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-to-find-a-roof-leak/roofer-sealing-vent-pipe-boot.webp",
+    featuredImageAlt:
+      "Gilbert & Sons roofer kneeling on a shingle roof to seal the base of a vent pipe, with the Organ Mountains behind",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-repairs",
+      "/roofing/roof-inspections",
+      "/roofing/emergency-roofing",
+    ],
+    keywords: [
+      "how to find a roof leak",
+      "roof leak detection",
+      "trace a roof leak attic",
+      "stucco home roof leak",
+      "roof leak repair las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "To find a roof leak, start inside at the stain, trace the water uphill through the attic to where it enters the deck, then check the roof directly above that spot. On a stucco home or a flat-roofed building, check the parapets and roof-to-wall transitions before the open field of the roof, because that's where most leaks here actually begin.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The reason this takes a method rather than a glance is simple: the stain on your ceiling is almost never under the hole in your roof. Water enters, runs along a rafter, follows the underlayment downhill, crosses a ceiling joist and drops where gravity finally wins. The entry point can be ten or twenty feet from the drip.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide walks through how to find a roof leak step by step: how water travels, what to look for inside, how to read the attic, what to check on the roof, the most common sources ranked, the specific places flat roofs and stucco homes leak, how a roofer isolates it with water, and when to stop looking and call.",
+      },
+      { type: "heading", level: 2, text: "Why the Leak Is Never Where the Stain Is" },
+      {
+        type: "paragraph",
+        text:
+          "Water takes the path of least resistance, and on a roof that path is almost always sideways and downhill before it's down.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Rain gets past the roofing at a failed flashing or a cracked tile. It lands on the [underlayment](/blog/what-is-roof-underlayment) and runs down the slope. It hits a lap, a nail or a seam and gets through to the deck. It follows the deck to a rafter, runs along the rafter, and drops onto the insulation. It soaks through the insulation to the drywall, spreads, and finally stains at the lowest point, often at a joint between sheets or at a light fixture.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Every one of those steps moves the water away from the entry. On a flat roof it's worse, because water can travel the full length of the building between the membrane and the deck before it finds a way down. On a stucco home, water entering at a parapet cap can run inside the wall for a story before it shows at a window head.",
+      },
+      {
+        type: "callout",
+        title: "The first rule",
+        text:
+          "The stain is where to start looking, not where to stop.",
+      },
+      { type: "heading", level: 2, text: "Step 1: Start Inside" },
+      {
+        type: "paragraph",
+        text:
+          "Before going anywhere near the attic or the roof, gather evidence from the stain itself.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Map it.** Note the exact location relative to exterior walls, the roof ridge, chimneys and any rooftop equipment. A stain near an exterior wall points at flashing or a parapet. One near the center of a room points at a penetration or a field leak upslope.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Note when it appears.** This is the single most useful diagnostic.",
+      },
+      {
+        type: "list",
+        items: [
+          "*During rain, immediately:* an open hole or failed seam close to the stain.",
+          "*Hours after rain stops:* water is traveling a long way, or ponding somewhere and draining slowly. Common on flat roofs.",
+          "*Only in wind-driven rain:* water is being pushed under laps or past flashing. Points at wall transitions and edges.",
+          "*Only in winter or on cold mornings:* possibly condensation in the attic, not a roof leak at all.",
+          "*After an HVAC service visit or a satellite install:* foot traffic broke a tile or punctured the membrane.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Check the walls.** On a stucco home, look at the inside of exterior walls near the stain for bubbling paint or soft drywall. That's water in the wall, which points at the parapet or roof-to-wall flashing rather than the roof field.",
+      },
+      { type: "heading", level: 2, text: "Step 2: Check the Attic" },
+      {
+        type: "paragraph",
+        text:
+          "If you have attic access, this is where leaks get found. Go during or right after rain if you can, with a bright flashlight.",
+      },
+      { type: "paragraph", text: "**What to look for:**" },
+      {
+        type: "list",
+        items: [
+          "**Wet or stained decking.** Fresh water is dark and shiny. Old leaks leave gray or black rings.",
+          "**Water trails on rafters.** A dark line running down a rafter is a map. Follow it uphill to where it starts.",
+          "**Daylight.** Turn off the flashlight. Any pinpoint of light is a hole.",
+          "**Wet or compressed insulation.** Lift it where the stain is below and look at the deck above.",
+          "**Rusty nail tips or dripping nails.** Often condensation, but a cluster of them under a specific area can mark a leak.",
+          "**Mold or dark staining on the underside of the deck** near valleys, walls and penetrations.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Trace uphill.** Water runs down. Wherever you find it, the entry is above. Follow the trail up the rafter until it stops, then measure that spot from a reference point (the ridge, a vent pipe, the chimney) so you can find the same spot on the roof.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If there's no attic, as on most flat-roofed Pueblo homes and commercial buildings, skip to the roof-specific sections below.",
+      },
+      { type: "heading", level: 2, text: "Step 3: Inspect the Roof Above" },
+      {
+        type: "paragraph",
+        text:
+          "Once you have a spot, look at the roof directly above it and uphill from it. Do this from the ground with binoculars or from a ladder at the eave. Walking a roof while looking for a leak is how homeowners get hurt and how tiles get broken.",
+      },
+      { type: "paragraph", text: "**Check, in order:**" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Wall intersections** nearest the leak: step flashing, counterflashing, kickout at the bottom.",
+          "**Penetrations** uphill: pipe boots, vents, skylights, HVAC lines.",
+          "**Chimney**: flashing on all four sides, cricket behind it, cap and crown.",
+          "**Valleys** that drain toward the leak.",
+          "**The field**: missing, lifted, cracked or curled shingles; cracked, slipped or missing tiles; punctures or open seams on a membrane.",
+          "**Edges**: drip edge, eave closures, rake trim.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most leaks are in the first three items. The field of the roof is the last place to look, not the first.",
+      },
+      { type: "heading", level: 2, text: "The Most Common Roof Leak Sources, Ranked" },
+      {
+        type: "paragraph",
+        text:
+          "From what shows up on repair calls in Las Cruces, roughly in order:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Flashing.** Step flashing, counterflashing and kickout at stucco walls, plus chimney and skylight flashing. The number one source on every roof type. If you're not sure what you're looking at, start with [what roof flashing is](/blog/what-is-roof-flashing).",
+          "**Parapet caps and terminations** on flat roofs. Cracked stucco caps, failed counterflashing, membrane pulling away.",
+          "**Pipe boots and vent collars.** The rubber dries out in UV and splits.",
+          "**Clogged scuppers, canales and drains.** Water backs up, ponds and finds the first weak seam.",
+          "**Cracked, slipped or missing tiles** exposing underlayment that then fails.",
+          "**Failed underlayment** on an older tile roof, with every tile intact.",
+          "**Seam separation** on TPO, PVC or modified bitumen.",
+          "**Missing or lifted shingles** after wind.",
+          "**Skylights**: failed seals at the curb or the glazing.",
+          "**Exposed fasteners** on metal roofs with dried-out washers.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Notice that the actual roofing material doesn't show up until item five. If you're learning how to find a roof leak, that ranking is the most useful thing on this page.",
+      },
+      { type: "heading", level: 2, text: "Finding Leaks on a Flat Roof" },
+      { type: "paragraph", text: "Flat roofs leak differently and the leaks travel farther." },
+      {
+        type: "paragraph",
+        text:
+          "**Start at the drains.** Walk the perimeter and check every scupper and canale for debris. A blocked drain means water ponded, and ponding finds every weak seam within reach.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Look for ponding rings.** Dried water lines on the membrane show where water sat. Leaks are usually inside or at the edge of those rings.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Check the parapets.** Cracked caps, stains on the inside face, membrane pulling away at the top edge, cracked stucco around scuppers. On a Pueblo-style home, the parapet is the first suspect for any leak near an exterior wall, and [parapet repair](/blog/what-is-parapet-repair) is usually the fix.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Walk the seams.** On TPO and PVC, look for lifted edges and probe seams gently. On modified bitumen, look for open laps and blisters.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Check around rooftop equipment.** HVAC curbs, condensate lines and anywhere a technician has walked.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**On a coated roof,** look for cracks at details, thin spots showing the substrate, and areas where the coating has lifted.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Flat roof leaks often need a [roof repair](/roofing/roof-repairs) at the parapet rather than the membrane, which is why calling someone who does both roofing and stucco saves a second visit.",
+      },
+      { type: "heading", level: 2, text: "Finding Leaks on a Stucco Home" },
+      {
+        type: "paragraph",
+        text:
+          "Stucco homes have a category of leak that isn't a roof leak at all, and knowing how to spot it saves a lot of wasted roof repairs.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Look at the stucco below the roofline.** Dark staining, efflorescence (white mineral streaks), bubbling paint or soft spots on a wall directly below where a roof meets it mean water is getting behind the stucco at the transition. The roof may be fine. The flashing where it meets the wall is not.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Check for kickout flashing.** At the bottom of every roof-to-wall intersection there should be a small angled piece diverting water into the gutter. If it's missing, water runs down the wall face behind the stucco. This is one of the most common findings on older homes in the region.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Look at whether stucco runs over the flashing.** If the stucco comes down and covers the top edge of the step flashing instead of stopping above it, water wicks behind the stucco. This is a stucco installation error that shows up as a \"roof leak.\"",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Check window heads below the roofline.** Water entering at a parapet or wall transition often shows up first at the top corners of a window a story below.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "When the water is in the wall, the repair involves opening the [stucco](/stucco), correcting the flashing and rebuilding the wall, not patching the roof.",
+      },
+      { type: "heading", level: 2, text: "The Water Test" },
+      {
+        type: "paragraph",
+        text:
+          "When visual inspection doesn't find it, a roofer isolates the source with a hose. One person is in the attic or inside with a flashlight. The other runs water on the roof, starting at the lowest suspect area and working uphill, one section at a time, several minutes per section. The moment water appears inside, the section being wetted is the source.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-to-find-a-roof-leak/roofers-working-on-tile-roof.webp",
+        alt:
+          "Two roofers in hard hats working along the ridge of a tile roof on a Las Cruces property",
+        caption:
+          "On a tile roof, walking it to hunt for a leak breaks more tiles than it finds leaks. This is the point to hand it over.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "It's methodical, it takes an hour or two, and it works. It's also a job for a professional on a tile roof, where walking breaks tiles, and on a flat roof, where the leak can be far from where it shows and the test has to be sequenced carefully.",
+      },
+      { type: "heading", level: 2, text: "When to Stop Looking and Call Someone" },
+      {
+        type: "list",
+        items: [
+          "**Water is coming in now and more rain is forecast.** That's an [emergency roofing](/roofing/emergency-roofing) call, not a search. Here's [what emergency roof repair involves](/blog/what-is-emergency-roof-repair) and what to do while you wait.",
+          "**Water is near electrical fixtures.** Cut the breaker and call.",
+          "**The ceiling is sagging.** Structural, not diagnostic.",
+          "**You've checked the attic and the roof from the ground and found nothing.** Two honest attempts is enough. The next step is a professional [roof inspection](/roofing/roof-inspections) with a water test.",
+          "**It's a tile roof, a flat roof, or a two-story roof.** The risk of walking it outweighs the benefit of looking yourself.",
+          "**The leak comes back after a repair.** The repair fixed a symptom. The source is elsewhere.",
+        ],
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Finding a Roof Leak" },
+      {
+        type: "paragraph",
+        text:
+          "So, how to find a roof leak? Start at the stain, note when it appears, trace the water uphill in the attic to the entry point, then check flashing, parapets and penetrations above that spot before the roof field. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "The stain is never under the hole. Water travels down rafters, across decks and along walls before it drops.",
+          "Flashing, parapets and pipe boots cause most leaks. The roofing material itself is well down the list.",
+          "On a stucco home, stains on the wall below the roofline mean the leak is at the transition, and the fix is in the stucco and flashing, not the roof.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Finding leaks on stucco and flat-roofed buildings is most of what we do, and because we handle both the roof and the wall, we fix the source instead of the symptom. If you've got a stain you can't trace, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect the roof, the parapets and the wall transitions together.",
+      },
+    ],
+  },
 ];
