@@ -5201,4 +5201,1030 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "how-long-does-a-flat-roof-last",
+    title: "How Long Does a Flat Roof Last? Lifespan by Type in Las Cruces",
+    excerpt:
+      "Most flat roofs last 15 to 30 years, but here the membrane rarely gives out first. Flat roofs in Las Cruces fail at the parapets, the drains and the seams.",
+    metaTitle: "How Long Does a Flat Roof Last? Lifespan by Type",
+    metaDescription:
+      "How long does a flat roof last? See lifespan by membrane type, why flat roofs fail at parapets and drains, and how to add years to yours.",
+    category: "Commercial Roofing",
+    tags: [
+      "flat roof",
+      "lifespan",
+      "tpo",
+      "roof coating",
+      "parapet",
+      "commercial",
+      "maintenance",
+    ],
+    publishedAt: "2026-10-19",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-long-does-a-flat-roof-last/flat-membrane-roof-drains-parapet.webp",
+    featuredImageAlt:
+      "Overhead view of a white flat membrane roof on a commercial building with rooftop units, drains and a parapet edge",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/specialty-roofing",
+      "/roofing/silicone-roof-restoration",
+      "/roofing/roof-maintenance",
+    ],
+    keywords: [
+      "how long does a flat roof last",
+      "flat roof lifespan",
+      "tpo roof lifespan",
+      "flat roof repair or replace",
+      "flat roofing las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Most flat roofs last 15 to 30 years, depending on the membrane, how it was installed and how well it's maintained. In Las Cruces, the membrane itself usually isn't what gives out first. Flat roofs here tend to fail at the parapets, the drains and the seams long before the field of the roof wears through.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's an important distinction, because it changes what you do about it. A 15-year-old flat roof with a sound membrane and a cracked parapet cap doesn't need replacing. It needs a repair at the edge. A 15-year-old roof with open seams across the whole surface is a different conversation.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide answers how long a flat roof lasts by type, explains why flat roofs wear differently from pitched roofs, covers what our climate does to them, lists the signs a flat roof is near the end, and walks through the repair, restore or replace decision.",
+      },
+      { type: "heading", level: 2, text: "How Long Does a Flat Roof Last by Type?" },
+      {
+        type: "paragraph",
+        text:
+          "Realistic ranges for a well-installed, reasonably maintained flat roof in southern New Mexico:",
+      },
+      {
+        type: "table",
+        head: ["Flat roof system", "Typical lifespan", "Notes"],
+        rows: [
+          ["TPO", "20 to 25 years (60 mil), longer for 80 mil", "The white surface handles our sun well, and seam welding quality decides most of its lifespan"],
+          ["PVC", "20 to 30 years", "Similar to TPO with better chemical resistance, which makes it the pick under restaurant exhaust"],
+          ["EPDM", "20 to 25 years", "Durable rubber, but the black surface absorbs heat and its seams are taped rather than welded"],
+          ["Modified bitumen", "15 to 20 years", "Common on older commercial buildings. Holds up to foot traffic, but the asphalt ages under UV unless coated"],
+          ["Built-up (tar and gravel)", "15 to 25 years", "Multiple layers make it forgiving, but it's heavy and leaks are hard to trace through the layers"],
+          ["Spray polyurethane foam", "20 to 30 years or more", "As long as the protective coating on top is renewed on schedule. The foam breaks down quickly if the coating fails"],
+          ["Silicone-coated roofs", "10 to 20 years per application", "The clock resets with each recoat. A sound roof under a maintained coating can keep going for decades"],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The spread inside each range comes down to three things: how well it was installed, how well water drains off it, and whether anyone looks at it between leaks.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Flat Roofs Wear Differently From Pitched Roofs",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A pitched roof sheds water in seconds. A flat roof, which is really a low-slope roof with a quarter inch or so of fall per foot, moves water slowly. That one difference explains most of how a flat roof ages.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Seams carry a constant load.** On a pitched roof, water runs over laps and away. On a flat roof, water sits against seams after every storm. A seam that's 90 percent welded will hold on a slope and leak on a flat roof.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Ponding speeds up wear.** Anywhere water stands for more than 48 hours, the membrane oxidizes faster, debris collects and the deck underneath takes extra load. A roof with ponding areas ages unevenly, with the low spots failing years ahead of the rest.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Foot traffic is part of the design.** Rooftop HVAC units, evaporative coolers, solar arrays and the technicians who service them all live on flat roofs. Every service visit is a chance for a dropped tool or a dragged hose to puncture the membrane.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Every edge is a wall.** Most flat roofs here sit behind parapets, so the perimeter isn't a drip edge, it's a vertical termination where membrane, flashing, stucco and a cap all meet. That makes [parapet repair](/blog/what-is-parapet-repair) one of the most common flat roof services in the region.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How New Mexico Climate Affects Flat Roof Lifespan",
+      },
+      {
+        type: "paragraph",
+        text:
+          "When people ask how long a flat roof lasts in Las Cruces specifically, the honest answer is the middle of the national range, sometimes lower, unless the roof is coated or reflective.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**UV oxidation.** Sun at our elevation breaks down exposed membranes year-round. Asphalt-based roofs (modified bitumen and built-up) dry out, crack and lose granules. Single-ply membranes chalk and thin.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Thermal cycling.** A 40-degree swing between afternoon and night is normal. Every cycle stretches and relaxes the membrane, working at seams, fasteners and the transitions at parapets and curbs. Over a decade, that's thousands of cycles.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Monsoon downbursts.** Summer storms bring 50 to 70 mph winds that lift membrane edges and drive rain sideways into parapet caps and counterflashing. A roof that's sound in May can have a lifted corner by August.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Dust and drainage.** A dry season's worth of dust washes into scuppers and canales in the first big storm. Blocked drains mean ponding, and ponding finds every weak seam within reach.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**What helps.** Dry air means no moss, no algae and very little freeze-thaw damage. A reflective membrane or coating also cuts heat load dramatically, which is why TPO and silicone-coated roofs tend to outlast dark asphalt roofs here.",
+      },
+      { type: "heading", level: 2, text: "What Shortens a Flat Roof's Life" },
+      { type: "paragraph", text: "The biggest factors, roughly in order:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Ponding water** from poor slope, a deflected deck or blocked drains",
+          "**Parapet failures** that let water in at the top of the wall and behind the membrane",
+          "**Clogged scuppers and canales** after dust storms and the first monsoon rains",
+          "**Poor seam welding or adhesion** at installation, which shows up three to five years later",
+          "**Rooftop equipment traffic** without walk pads",
+          "**Skipped maintenance**, where small seam lifts and sealant failures go unaddressed for years",
+        ],
+      },
+      {
+        type: "callout",
+        title: "The pattern behind all six",
+        text:
+          "None of these are about the membrane wearing out. They're about water getting somewhere it shouldn't. That's why two flat roofs of the same type and age can be a decade apart in condition.",
+      },
+      { type: "heading", level: 2, text: "Signs Your Flat Roof Is Near the End" },
+      {
+        type: "list",
+        items: [
+          "**Blisters** across the membrane, especially on modified bitumen and built-up roofs",
+          "**Alligatoring**, a cracked pattern on asphalt-based surfaces that means the material has dried out",
+          "**Open or lifting seams** in multiple areas, not just one spot",
+          "**Soft spots underfoot**, which point to wet insulation or a damaged deck below",
+          "**Membrane shrinkage** pulling away from parapets and curbs",
+          "**Recurring leaks in different locations** after repairs",
+          "**Visible deck sag** or ponding areas that are growing each year",
+          "**Chalking, thinning or exposed scrim** on single-ply membranes",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "One or two of these in one area is a repair. Several of them spread across the roof on a system past 15 years is a sign the roof is near replacement, or at least due for a moisture survey before anything else is decided.",
+      },
+      { type: "heading", level: 2, text: "How to Extend a Flat Roof's Life" },
+      {
+        type: "paragraph",
+        text:
+          "The good news about how long a flat roof lasts is that maintenance moves the number more on flat roofs than on any other roof type.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Inspect twice a year**, before monsoon season and after it. A [roof maintenance plan](/roofing/roof-maintenance) puts this on a schedule.",
+          "**Clear every scupper, canale and drain** in spring and again after the first big storm.",
+          "**Install walk pads** around HVAC units and along service paths.",
+          "**Fix seam lifts and parapet cracks immediately.** On a flat roof, a small opening becomes a large wet area fast because water travels between the membrane and the deck.",
+          "**Coat before the membrane fails.** A silicone coating applied while the membrane is still sound adds 10 to 20 years and resets the clock. See [how long roof coating lasts](/blog/how-long-does-roof-coating-last) for lifespan by coating type.",
+          "**Address ponding at the source.** Clearing drains, adding a drain, or installing tapered insulation in low spots.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-long-does-a-flat-roof-last/coating-applied-to-flat-roof.webp",
+        alt:
+          "Roofer rolling a reflective coating across a commercial flat roof with rooftop HVAC units and a parapet behind",
+        caption:
+          "A coating applied while the membrane is still sound is the cheapest decade a flat roof will ever get.",
+      },
+      { type: "heading", level: 2, text: "Repair, Restore or Replace?" },
+      { type: "paragraph", text: "Three questions decide it." },
+      {
+        type: "paragraph",
+        text:
+          "**Is the insulation dry?** A moisture survey (infrared or nuclear meter) maps any wet areas under the membrane. If wet insulation covers only small areas, those sections are cut out and replaced, and the rest of the roof can be repaired or restored. If it's widespread, roughly a quarter of the roof or more, replacement is usually the honest answer.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Is the damage local or system-wide?** One open seam or a failed parapet termination is a [roof repair](/roofing/roof-repairs). Open seams, blisters and shrinkage across the whole roof point to a system at the end of its life.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Is the deck sound?** If the deck is solid and the insulation is dry, a [silicone roof restoration](/roofing/silicone-roof-restoration) can add decades at a fraction of replacement cost. If the deck is compromised, a [roof replacement](/roofing/roof-replacements) is the fix.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most flat roofs in Las Cruces that are 12 to 20 years old fall into the restore category. That's worth knowing before you get a replacement quote. For a closer look at the most common membrane here, see [what TPO roofing is](/blog/what-is-tpo-roofing).",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Flat Roof Lifespan" },
+      {
+        type: "paragraph",
+        text:
+          "So, how long does a flat roof last? Fifteen to 30 years depending on the type, with TPO, PVC and coated roofs at the longer end in our climate and asphalt-based roofs at the shorter end unless they're coated. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Flat roofs in Las Cruces usually fail at parapets, drains and seams first. Fixing those details is often all a mid-life roof needs.",
+          "Ponding water is the single biggest lifespan killer. Keep drains clear and fix low spots.",
+          "A silicone coating applied while the roof is still sound can push it decades past its expected life. A moisture survey tells you whether yours qualifies.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We repair, restore and replace TPO, modified bitumen, built-up and coated flat roofs, including the [specialty roofing](/roofing/specialty-roofing) systems and stucco parapets most roofers leave to someone else. To find out how much life your flat roof has left, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll inspect it, check for moisture and give you an honest recommendation.",
+      },
+    ],
+  },
+  {
+    slug: "can-you-put-a-new-roof-over-an-old-roof",
+    title: "Can You Put a New Roof Over an Old Roof? Overlay vs Tear-Off",
+    excerpt:
+      "Code usually allows one layer of shingles over one existing layer. But an overlay hides the deck, shortens the new roof's life and costs more at the next replacement.",
+    metaTitle: "Can You Put a New Roof Over an Old Roof? Overlay Guide",
+    metaDescription:
+      "Can you put a new roof over an old roof? Learn what code allows, why tear-off usually wins, and when an overlay or recover makes sense.",
+    category: "Roofing",
+    tags: [
+      "roof replacement",
+      "tear-off",
+      "decking",
+      "flashing",
+      "roof coating",
+      "metal roofing",
+      "warranty",
+    ],
+    publishedAt: "2026-10-19",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/can-you-put-a-new-roof-over-an-old-roof/roof-tear-off-in-progress.webp",
+    featuredImageAlt:
+      "Two roofers stripping the old roof covering from a roof beside a brick chimney, exposing the battens beneath",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-replacements",
+      "/roofing/roof-inspections",
+      "/roofing/specialty-roofing",
+    ],
+    keywords: [
+      "can you put a new roof over an old roof",
+      "roof overlay vs tear off",
+      "roof layover code",
+      "second layer of shingles",
+      "roof replacement las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Yes, sometimes. Building code generally allows one new layer of asphalt shingles over a single existing layer, as long as the old roof is dry, flat and structurally sound. But just because you can doesn't mean you should. For most pitched roofs, a full tear-off is the better investment. The real exceptions are coating a sound flat roof and, in some cases, installing a metal roof over one layer of shingles.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This question usually comes up the moment a homeowner sees two numbers on a quote, one for an overlay and a higher one for a tear-off. The overlay looks like an easy savings. Sometimes it is. More often, it moves the cost down the road and adds to it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what an overlay is, what code allows in practice, the honest case for and against it, the situations where it does make sense, and the questions to ask before agreeing to one.",
+      },
+      { type: "heading", level: 2, text: "What Is a Roof Overlay?" },
+      {
+        type: "paragraph",
+        text:
+          "A roof overlay, also called a layover or reroof, means installing new roofing directly on top of the existing roof without removing it. The old shingles stay in place, new underlayment may or may not go down, and the new shingles are nailed through both layers into the deck.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A tear-off removes everything down to the bare deck: shingles, nails, old underlayment and old flashing. The deck gets inspected and repaired, then the new roof goes on as a complete system.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "On flat roofs, the overlay equivalent is called a recover: a new membrane or a coating goes over the existing roof, sometimes with a cover board in between.",
+      },
+      { type: "heading", level: 2, text: "What Does Building Code Allow?" },
+      {
+        type: "paragraph",
+        text:
+          "So can you put a new roof over an old roof under code? The International Residential Code, which most local codes in New Mexico are based on, allows a recover over existing roofing in limited cases. In practice:",
+      },
+      {
+        type: "list",
+        items: [
+          "**One overlay maximum.** If there are already two layers of shingles, both have to come off.",
+          "**The existing roof must be dry and sound.** An overlay isn't allowed over wet, rotted or deteriorated roofing.",
+          "**No overlay over tile, slate or wood shake.** Those materials have to be removed.",
+          "**Damaged decking has to be addressed**, which is hard to do when you can't see it.",
+          "**Flashing and drip edge requirements still apply** to the new roof.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Local jurisdictions can be stricter, and the permit inspector has the final say. Any contractor proposing an overlay should be able to tell you exactly how it meets code on your roof.",
+      },
+      { type: "heading", level: 2, text: "The Case for an Overlay" },
+      {
+        type: "paragraph",
+        text: "There are real advantages, and it's fair to name them.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lower upfront cost.** No tear-off labor and no disposal fees. Savings typically run in the range of a few thousand dollars on an average home.",
+          "**Faster installation.** Often a day shorter.",
+          "**Less mess and noise.** No debris chute, no full day of tear-off.",
+          "**The old roof adds a layer.** In theory, it's an extra barrier while the new roof is going on.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "For a short-term owner who plans to sell within a few years, or a detached garage or shed, those advantages can tip the decision.",
+      },
+      { type: "heading", level: 2, text: "Why Most Roofers Recommend a Tear-Off" },
+      {
+        type: "paragraph",
+        text: "For a home you plan to stay in, the case against an overlay is stronger.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It hides the deck.** Rot, soft spots and old leak damage stay buried. Nobody sees them until they show up as a sag or a stain years later, and by then the repair is bigger. [Roof decking](/blog/what-is-roof-decking) is the foundation of the whole system, and an overlay means installing a new roof on a foundation nobody looked at.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It adds weight.** A second layer of architectural shingles adds roughly 2 to 4 pounds per square foot across the whole roof. Most framing can carry it, but older homes and long spans may not carry it well.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It shortens the life of the new shingles.** Shingles laid over old shingles don't lie perfectly flat. They follow every curl and bump below. They also run hotter, because the second layer traps heat, and heat is what ages shingles fastest in Las Cruces.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It complicates flashing.** Old flashing often gets reused or covered rather than replaced. Since [flashing](/blog/what-is-roof-flashing) causes more leaks than anything else, this is the detail that most often turns an overlay into a callback.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It can void or limit warranties.** Many shingle manufacturers reduce or deny warranty coverage on overlays, and the best enhanced warranties typically require a full tear-off.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It costs more next time.** When the overlay roof wears out, two layers have to come off instead of one. The savings you got today, you pay back with interest at the next replacement.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It affects resale and insurance.** Home inspectors flag two layers. Some insurers adjust premiums or coverage for overlaid roofs.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This is why a complete [roof replacement](/roofing/roof-replacements) almost always starts with a tear-off. You can see the full sequence in [how roof replacement works](/blog/how-does-roof-replacement-work).",
+      },
+      { type: "heading", level: 2, text: "When an Overlay Does Make Sense" },
+      {
+        type: "paragraph",
+        text:
+          "There are three situations where going over the existing roof is the right call.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Coating a sound flat roof.** This is the most common and most effective form of recover. A silicone or elastomeric coating applied over a dry, structurally sound flat roof seals it under a seamless membrane, adds 10 to 20 years, and avoids tearing off anything. It's a recognized system with a manufacturer warranty, not a shortcut. The key is a moisture survey first. See [what silicone roof restoration is](/blog/what-is-silicone-roof-restoration) for the full process.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Metal over a single layer of shingles.** Some metal roofing systems are designed to go over one layer of existing shingles, typically on battens or with a slip sheet. Metal is light, so weight is less of a concern, and the existing shingles add a small amount of insulation and sound dampening. It still makes sense to inspect the deck first, and the flashing at walls and penetrations still has to be done right. [Metal roofing](/blog/what-is-metal-roofing) covers the system types in detail.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Recover boards on certain flat roofs.** On some commercial flat roofs with a dry, sound existing membrane, a cover board and a new single-ply membrane can go over the top. This depends on the existing system, the insulation condition and the number of existing layers.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/can-you-put-a-new-roof-over-an-old-roof/finished-roofline-eave-detail.webp",
+        alt:
+          "Close view of a finished roof edge and eave against a clear sky",
+        caption:
+          "A roof installed on a clean deck gets its full rated life. An overlay rarely does.",
+      },
+      { type: "heading", level: 2, text: "Overlay vs Tear-Off: Side by Side" },
+      {
+        type: "paragraph",
+        text: "Here's how the two compare on a typical asphalt shingle home.",
+      },
+      {
+        type: "table",
+        head: ["", "Overlay", "Tear-off"],
+        rows: [
+          ["Upfront cost", "Costs less", "Costs more, from labor and disposal"],
+          ["Lifespan of the new roof", "Typically a few years less", "The full expected life"],
+          ["Deck inspection", "Hides the deck", "Exposes every sheet so damage gets repaired"],
+          ["Flashing", "Often reuses old flashing", "Replaces it all"],
+          ["Weight", "Adds a full layer", "Keeps the roof at one layer"],
+          ["Warranty", "May limit or void manufacturer coverage", "Qualifies for full warranties"],
+          ["Next replacement", "Two layers to remove later", "One layer"],
+          ["Resale and inspection", "Gets flagged", "A clean record"],
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Questions to Ask Before You Agree to an Overlay",
+      },
+      {
+        type: "paragraph",
+        text: "If a contractor proposes going over your existing roof, ask:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**How many layers are on the roof now?** If the answer is two, an overlay isn't an option.",
+          "**How do you know the deck is sound?** A walk-on inspection and an attic check are the minimum.",
+          "**Will the flashing be replaced or reused?**",
+          "**What does the shingle manufacturer's warranty say about overlays?** Ask to see it in writing.",
+          "**What's the price difference, exactly?** Compare it with the cost of removing two layers at the next replacement.",
+          "**Does it meet local code and will it be permitted?**",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "A professional [roof inspection](/roofing/roof-inspections) before you decide will answer most of these.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Overlays" },
+      {
+        type: "paragraph",
+        text:
+          "So, can you put a new roof over an old roof? Code usually allows one overlay of shingles over a single dry, sound layer, but for most homes a tear-off is the better value over the life of the roof. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "An overlay saves money today, hides the deck and old flashing, and costs more at the next replacement.",
+          "Coating a sound flat roof is the one recover that's clearly worth it, and it's a full system with a warranty.",
+          "Metal over one layer of shingles can work, but only with a deck inspection and new flashing.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We'll inspect your roof and tell you honestly whether an overlay, a tear-off or a [specialty roofing](/roofing/specialty-roofing) system like coating or metal is the right fit. Call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) and we'll give you a written comparison before you decide.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-roof-decking",
+    title: "What Is Roof Decking? Plywood, OSB and When It Needs Replacing",
+    excerpt:
+      "Decking is the plywood or OSB layer every other part of the roof is nailed to. It is also the line item nobody can price until the old roof comes off.",
+    metaTitle: "What Is Roof Decking? Plywood, OSB and Replacement",
+    metaDescription:
+      "What is roof decking? Compare plywood and OSB, learn what causes rot, the signs of damaged decking, and why roof quotes price it per sheet.",
+    category: "Roofing Materials",
+    tags: [
+      "decking",
+      "materials",
+      "roof replacement",
+      "underlayment",
+      "ventilation",
+      "inspection",
+      "tile roof",
+    ],
+    publishedAt: "2026-10-19",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-roof-decking/osb-sheathing-panels-framing.webp",
+    featuredImageAlt:
+      "House under construction with timber framing and OSB structural sheathing panels, the same panel material used for roof decking",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-replacements",
+      "/roofing/roof-inspections",
+      "/roofing/roof-repairs",
+    ],
+    keywords: [
+      "what is roof decking",
+      "plywood vs osb roof decking",
+      "roof sheathing replacement",
+      "damaged roof decking signs",
+      "roof decking las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Roof decking, also called sheathing, is the layer of plywood or OSB panels fastened across the rafters or trusses. Everything else on the roof is nailed to it: the underlayment, the flashing, and the shingles, tile or metal on top. It's the structural base of the whole roof, and it's the one part you can't see until the old roof comes off.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's why decking is the line item that surprises people on a roof replacement. The quote includes a per-sheet price for \"decking as needed,\" and nobody knows the final number until tear-off day. Understanding what roof decking is, what damages it and how it's priced takes most of the surprise out of it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide covers what decking does, the types and thicknesses, what causes it to fail, the signs of damage from inside and outside the house, why it's priced the way it is, and what's different on flat and tile roofs.",
+      },
+      { type: "heading", level: 2, text: "What Is Roof Decking and What Does It Do?" },
+      { type: "paragraph", text: "Decking does three jobs." },
+      {
+        type: "paragraph",
+        text:
+          "**It's the nailing base.** Every shingle nail, underlayment fastener and flashing screw goes into the deck. If the deck is soft or deteriorated, fasteners don't hold, and roofing materials lift in wind.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It gives the roof its structure.** Rafters and trusses carry the load, and decking ties them together into a rigid plane. It spreads weight from roofing, foot traffic and wind loads across the framing.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**It supports the waterproofing layers.** Underlayment and roofing need a smooth, continuous surface. Gaps, sags and soft spots in the deck telegraph through to the surface and create places for water to collect.",
+      },
+      {
+        type: "callout",
+        title: "What roof decking isn't",
+        text:
+          "Waterproof. It's wood. Its job is to stay dry under the layers above it, and it fails when those layers let water through.",
+      },
+      { type: "heading", level: 2, text: "Types of Roof Decking" },
+      { type: "heading", level: 3, text: "Plywood vs OSB" },
+      {
+        type: "paragraph",
+        text: "Nearly all modern residential roofs use one of these two.",
+      },
+      {
+        type: "table",
+        head: ["", "Plywood", "OSB (oriented strand board)"],
+        rows: [
+          ["Made from", "Thin wood veneers glued in cross-grain layers", "Wood strands compressed with resin in layered patterns"],
+          ["Cost", "Somewhat more per sheet", "Less, and the most common decking on newer homes"],
+          ["Wetting", "Handles brief wetting well and dries without much swelling", "Absorbs water more slowly but swells at the edges, and stays swollen"],
+          ["Nail holding", "Slightly better", "Strong and consistent when kept dry"],
+          ["How it fails", "Usually delaminates in layers", "Edges swell and crumble, and the panel loses strength"],
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Both meet code for roof decking. In a dry climate like ours, either performs well as long as the roof above it does its job. The difference shows up after a long-term leak, where OSB's edge swelling becomes visible as ridges in the roofline.",
+      },
+      { type: "heading", level: 3, text: "Plank Decking" },
+      {
+        type: "paragraph",
+        text:
+          "Older homes, especially those built before the 1970s, often have solid board decking: 1x6 or 1x8 planks laid across the rafters. Some have spaced boards with gaps between them, which was common under wood shake. Spaced plank decking usually needs a layer of plywood or OSB over it before modern shingles can go on.",
+      },
+      { type: "heading", level: 3, text: "Concrete and Steel Decks" },
+      {
+        type: "paragraph",
+        text:
+          "Commercial flat roofs often sit on poured concrete, precast concrete or corrugated steel decks, with rigid insulation on top and the membrane over that. These don't rot, but steel decks can rust where water sits, and insulation above any deck type can saturate.",
+      },
+      { type: "heading", level: 2, text: "How Thick Should Roof Decking Be?" },
+      { type: "paragraph", text: "Typical thicknesses on residential roofs:" },
+      {
+        type: "list",
+        items: [
+          "**7/16 inch OSB or 1/2 inch plywood:** the common minimum for shingle roofs on rafters spaced 24 inches apart",
+          "**5/8 inch:** better for tile, which is far heavier, and for roofs that will see foot traffic or heavier loads",
+          "**3/4 inch:** used on some high-load or long-span applications",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Thicker decking feels more solid underfoot, holds fasteners better and resists sagging between rafters. On a tile roof replacement, upgrading thin decking to 5/8 inch is often worth discussing.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-roof-decking/fasteners-into-roof-deck.webp",
+        alt:
+          "Nail gun resting on a shingled roof slope beside the drip edge, with a stucco wall alongside",
+        caption:
+          "Every fastener on the roof ends up in the deck. If the deck is soft, nothing above it holds in wind.",
+      },
+      { type: "heading", level: 2, text: "What Causes Roof Decking to Fail?" },
+      {
+        type: "paragraph",
+        text:
+          "Decking almost never fails on its own. Something lets water reach it, or keeps moisture against it.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Long-term leaks.** A small leak that runs for years soaks the same area every storm. This is the most common cause.",
+          "**Failed flashing.** Water entering at walls, chimneys and penetrations runs down the deck behind the underlayment.",
+          "**Poor attic ventilation.** Warm, moist air from the house condenses on the underside of the deck in cold weather. Repeated over years, it rots the deck from below even with a perfect roof on top.",
+          "**Ponding on flat roofs.** Standing water finds its way through seams and saturates insulation and decking below.",
+          "**Failed underlayment under tile.** Tile roofs leak with intact tiles when the underlayment beneath gives out, and the deck takes the water.",
+          "**Overlays.** A second layer of shingles laid over damaged decking hides the problem and lets it grow.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most of these trace back to the layers above. [Roof underlayment](/blog/what-is-roof-underlayment) and flashing are what keep the deck dry, and when they fail, the deck is next.",
+      },
+      { type: "heading", level: 2, text: "Signs of Damaged Roof Decking" },
+      {
+        type: "paragraph",
+        text:
+          "You can spot many decking problems before tear-off if you know where to look.",
+      },
+      { type: "paragraph", text: "**From inside the attic:**" },
+      {
+        type: "list",
+        items: [
+          "Dark stains or rings on the underside of the deck",
+          "Soft or spongy spots when you press up on the decking between rafters",
+          "Visible sagging between rafters",
+          "Daylight through gaps",
+          "Mold or mildew on the wood",
+          "Rusted nail tips, especially clustered in one area",
+        ],
+      },
+      { type: "paragraph", text: "**From outside:**" },
+      {
+        type: "list",
+        items: [
+          "A wavy or uneven roofline",
+          "Visible dips or sags in a roof plane",
+          "Shingles that look raised in lines, which can be swollen OSB edges below",
+          "Soft spots underfoot (a roofer's observation, not something to test yourself)",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you're tracing a leak, the attic is where decking damage shows first. [How to find a roof leak](/blog/how-to-find-a-roof-leak) walks through what to look for.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Decking Is Priced Per Sheet in Your Quote",
+      },
+      {
+        type: "paragraph",
+        text:
+          "A good roof replacement quote doesn't give a flat price for decking, and that's a good sign, not a dodge.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Nobody can see the deck through the old roof. A roofer can spot soft areas, check the attic and make an educated estimate, but the real condition only shows after tear-off. So instead of guessing high to protect themselves or guessing low and surprising you later, reputable contractors list a per-sheet price for any decking that needs replacing.",
+      },
+      { type: "paragraph", text: "What to expect and ask for:" },
+      {
+        type: "list",
+        items: [
+          "**A clear per-sheet price** in the written quote, for both labor and material",
+          "**Photos of damaged decking before it's replaced**, so you can see what you're paying for",
+          "**A call or text** if replacement will exceed a set number of sheets",
+          "**An honest estimate range** based on the attic inspection",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "On most re-roofs, a handful of sheets need replacing, usually around old leak points, valleys and penetrations. Widespread replacement usually means a long history of leaks or poor ventilation. This is all part of [how roof replacement works](/blog/how-does-roof-replacement-work), at the deck inspection stage after tear-off.",
+      },
+      { type: "heading", level: 2, text: "Decking on Flat Roofs and Tile Roofs" },
+      {
+        type: "paragraph",
+        text:
+          "**Flat roofs.** On commercial and Pueblo-style flat roofs, wet insulation is often the bigger issue than the deck itself. A moisture survey before any restoration or replacement maps where insulation is saturated. Those areas are cut out, the deck below is checked and repaired, and new insulation goes in. Skipping this step and coating over wet insulation traps the moisture and rots the deck from the top down.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Tile roofs.** Tile adds several times the weight of shingles, so deck thickness and condition matter more. During an underlayment replacement on a [tile roof](/roofing/tile-roofing), the tiles come off, which exposes the deck for inspection and repair before new underlayment goes down. It's the best opportunity in a tile roof's life to fix decking problems.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roof Decking" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is roof decking? The plywood, OSB or plank layer across the rafters that every other part of the roof is fastened to. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Decking fails when water or condensation reaches it, so flashing, underlayment and ventilation are what protect it.",
+          "You can spot many problems from the attic before tear-off: stains, soft spots, sagging and daylight.",
+          "Per-sheet decking pricing in a quote is normal and fair. Ask for photos before any sheet is replaced.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. Every [roof replacement](/roofing/roof-replacements) we do includes a full deck inspection after tear-off, with photos and a per-sheet price agreed in writing up front. If you're seeing stains or sagging, or want an honest estimate before a replacement, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact). We'll start with a [roof inspection](/roofing/roof-inspections) that includes the attic, and if we find damage, we'll scope the [roof repair](/roofing/roof-repairs) or replacement from there.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-stucco-remediation",
+    title: "What Is Stucco Remediation? When Repair Isn't Enough",
+    excerpt:
+      "Remediation removes stucco where water is trapped behind it, repairs the structure, corrects the flashing that caused it and rebuilds the wall. Repair only fixes the surface.",
+    metaTitle: "What Is Stucco Remediation? When Repair Isn't Enough",
+    metaDescription:
+      "What is stucco remediation? Learn how it differs from repair, the signs of moisture behind stucco, how probe testing works and the process.",
+    category: "Stucco",
+    tags: [
+      "stucco",
+      "moisture",
+      "flashing",
+      "parapet",
+      "eifs",
+      "cracks",
+      "inspection",
+    ],
+    publishedAt: "2026-10-19",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/what-is-stucco-remediation/stucco-patches-staining-below-window.webp",
+    featuredImageAlt:
+      "Stucco wall below a window showing pale patch repairs and discolouration, typical signs of moisture behind the finish",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/stucco",
+      "/roofing/roof-inspections",
+      "/roofing/roof-repairs",
+    ],
+    keywords: [
+      "what is stucco remediation",
+      "stucco remediation vs repair",
+      "moisture behind stucco",
+      "stucco probe testing",
+      "stucco remediation las cruces",
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "Stucco remediation is the process of removing stucco from areas where moisture has gotten behind it, repairing the damaged sheathing and framing underneath, installing a proper drainage system, and then re-stuccoing the wall. It's the fix when water is trapped behind the wall, not when there's just a crack in the surface.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most homeowners first hear the term in a home inspection report. A buyer's inspector runs a moisture meter along the walls, finds high readings below a window, and recommends \"further evaluation for possible stucco remediation.\" Suddenly a house that looked fine has a line item nobody planned for.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what stucco remediation is and how it differs from repair, what causes moisture behind stucco in the first place, the signs to watch for, how moisture testing works, the full remediation process, and what to know if you're buying or selling a stucco home in Las Cruces.",
+      },
+      { type: "heading", level: 2, text: "Stucco Remediation vs Stucco Repair" },
+      {
+        type: "paragraph",
+        text: "The difference between stucco remediation and repair is depth.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Stucco repair** fixes the surface. Hairline cracks get sealed, chips and impact damage get patched, and the finish gets blended to match. The wall behind is assumed to be sound, and it usually is.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Stucco remediation** fixes what's behind the surface. It's needed when water has already gotten through the stucco and the weather-resistive barrier, and is damaging the sheathing, framing or insulation. Patching the surface in that situation hides the problem while the wall keeps rotting.",
+      },
+      { type: "paragraph", text: "How to tell which one you need:" },
+      {
+        type: "list",
+        items: [
+          "**Repair:** cracks without staining, no soft spots, normal moisture readings, damage limited to the surface",
+          "**Remediation:** staining, efflorescence, soft or hollow areas, bulging, elevated moisture readings, interior drywall damage, or a musty smell inside near exterior walls",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "When in doubt, testing settles it. A crack can look the same whether the wall behind it is dry or soaked.",
+      },
+      { type: "heading", level: 2, text: "What Causes Moisture Behind Stucco?" },
+      {
+        type: "paragraph",
+        text:
+          "Stucco is meant to get wet and dry out. Traditional three-coat stucco is porous by design, and the system relies on a drainage plane behind it to carry away any water that soaks through. Remediation becomes necessary when that system is missing, blocked or bypassed.",
+      },
+      { type: "paragraph", text: "The most common causes:" },
+      {
+        type: "list",
+        items: [
+          "**Missing or buried weep screed.** The metal strip at the base of the wall lets water drain out. When it's missing, or buried under soil, pavers or a later stucco coat, water has nowhere to go.",
+          "**Failed window and door flashing.** Water enters at the corners of openings and runs down inside the wall. This is the single most common source.",
+          "**Stucco run over roof flashing.** Where a roof meets a stucco wall, plaster applied over the top edge of the flashing wicks water behind the system.",
+          "**Missing kickout flashing.** At the bottom of a roof-to-wall intersection, water runs down the wall face and behind the stucco.",
+          "**Parapet cap failure.** On flat-roofed homes, a cracked stucco cap lets water into the top of the wall, where it travels down inside.",
+          "**Sprinklers aimed at walls.** Repeated soaking at the base is a common residential cause.",
+          "**Barrier-type EIFS.** Older synthetic stucco systems installed without a drainage plane trap any water that gets in.",
+          "**Poor original installation.** Thin coats, no drainage plane, or skipped expansion joints.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Several of these are roofing details as much as stucco details, which is why [parapet repair](/blog/what-is-parapet-repair) and [flashing](/blog/what-is-roof-flashing) correction are often part of a remediation job.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-stucco-remediation/water-staining-below-roofline-stucco.webp",
+        alt:
+          "Dark water staining running down a stucco wall below the roofline and around a canale on a Las Cruces home",
+        caption:
+          "Staining that runs down from the roofline points at the transition above it, not at the stucco it shows up on.",
+      },
+      { type: "heading", level: 2, text: "Signs You Might Need Stucco Remediation" },
+      {
+        type: "list",
+        items: [
+          "**Staining or dark streaks**, especially below windows, at corners of openings and below roof lines",
+          "**Efflorescence**, white mineral deposits on the surface showing moisture is moving through the wall",
+          "**Soft or spongy spots** when you press on the stucco",
+          "**Hollow sound** when you tap the wall",
+          "**Bulging or bowing** sections",
+          "**Cracks with staining** around them, rather than clean hairline cracks",
+          "**Interior damage**: swollen baseboards, bubbling paint or soft drywall on exterior walls",
+          "**Musty odors** inside near exterior walls",
+          "**Peeling or blistering paint** on the stucco surface",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Clean hairline cracks with no staining are normal and are a repair item. See [how long stucco lasts](/blog/how-long-does-stucco-last) for what normal aging looks like.",
+      },
+      { type: "heading", level: 2, text: "How Stucco Moisture Testing Works" },
+      {
+        type: "paragraph",
+        text:
+          "You can't see moisture behind stucco, so remediation decisions are based on testing.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Visual inspection.** An inspector walks the exterior and notes staining, cracks, efflorescence, missing weep screed, flashing details at windows and roof lines, and grading at the base of the walls. This identifies where to test.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Non-invasive scanning.** A surface moisture meter or infrared camera can flag areas worth a closer look, but readings through stucco aren't definitive.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Probe testing.** This is the standard. Small holes, about a quarter inch, are drilled through the stucco at targeted locations, typically below window corners, at roof-to-wall intersections, near the base of walls and at known trouble spots. A moisture probe reads the condition of the sheathing behind. The probe also gives a sense of whether the wood is firm or soft. Holes are sealed with a matching sealant afterward.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Reading the results.** Readings are compared against dry baseline readings from the same wall. Elevated readings in a cluster, particularly with soft sheathing, map the area that needs remediation. Normal readings across the wall mean surface repair is enough.",
+      },
+      {
+        type: "callout",
+        title: "The report is the scope",
+        text:
+          "Good remediation is targeted at the areas the testing identified, not the whole house by default.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Stucco Remediation Process Step by Step",
+      },
+      {
+        type: "paragraph",
+        text: "Here's what stucco remediation involves on a typical job.",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Testing and mapping.** Probe testing defines the affected areas and their boundaries.",
+          "**Removal.** Stucco and lath are cut out and removed from the affected sections, extending past the damage into dry wall area so the repair ties into sound material.",
+          "**Sheathing and framing repair.** Wet or rotted sheathing is replaced. Framing is inspected, and any damaged studs or plates are repaired or replaced. The wall cavity is allowed to dry, and insulation is replaced where it's wet.",
+          "**New weather-resistive barrier and drainage plane.** Two layers of building paper or a drainage wrap go on, properly lapped and integrated with the surrounding barrier.",
+          "**Flashing correction.** Window and door flashing, roof-to-wall step flashing, kickout flashing and parapet terminations are corrected. This is the step that keeps the problem from coming back.",
+          "**New lath, weep screed and accessories.** Metal lath is installed with proper furring, and weep screed, casing beads and expansion joints are placed where they belong.",
+          "**Three-coat stucco and finish matching.** Scratch, brown and finish coats are applied with full cure times, and the finish texture and color are matched to the rest of the house. See [how stucco is applied](/blog/how-is-stucco-applied) for each coat in detail.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "The wall comes out of remediation better than it went in, because the details that caused the problem are corrected rather than recreated.",
+      },
+      { type: "heading", level: 2, text: "Partial vs Full Remediation" },
+      {
+        type: "paragraph",
+        text:
+          "**Partial remediation** addresses specific areas, such as below a few windows, one roof-to-wall intersection, or one elevation. This is the most common outcome when testing is done early, and it's far less expensive.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Full remediation** strips the entire house to the sheathing and starts over. It's needed when moisture damage is widespread, usually because of a system-wide installation flaw such as no drainage plane anywhere, or barrier EIFS on every wall.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The deciding factor is the testing map. Clusters of high readings in a few areas point to partial. High readings everywhere point to full.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Does New Mexico's Climate Make Remediation Less Common?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Yes, but not rare. Our dry air means stucco that gets wet dries faster than it would in humid regions, and we see far less of the widespread rot that drove stucco remediation programs in the East and Southeast.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "But the causes are still here. Monsoon rain arrives hard and sideways and finds every flashing gap at once. Sprinklers aimed at walls soak the same spot daily. Parapets on flat-roofed homes channel water straight into the top of the wall. And a lot of stucco in the region was installed decades ago, before current drainage plane requirements.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "The result is that remediation in Las Cruces tends to be targeted rather than whole-house: below windows, at parapets, at roof-to-wall transitions and along the base of walls.",
+      },
+      { type: "heading", level: 2, text: "Remediation and Buying or Selling a Home" },
+      {
+        type: "paragraph",
+        text:
+          "If you're **selling**, a pre-listing stucco inspection lets you find and fix problems on your own timeline rather than negotiating them under a buyer's deadline. A clean test report is also a selling point.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you're **buying**, a standard home inspection notes visible stucco issues but rarely includes probe testing. If the report flags staining, soft spots or elevated readings, ask for a stucco-specific inspection before closing. The cost of testing is small compared with the cost of finding damage after you own the house.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "In either case, the inspection report should identify test locations, readings and recommended scope. Vague recommendations like \"possible moisture intrusion\" need a follow-up test before anyone can price the work.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Stucco Remediation" },
+      {
+        type: "paragraph",
+        text:
+          "So, what is stucco remediation? Removing stucco where water is trapped behind it, repairing the damaged structure, installing a proper drainage plane, correcting the flashing that caused it, and re-stuccoing. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Repair fixes the surface. Remediation fixes what's behind it. Testing tells you which one you need.",
+          "Most moisture behind stucco comes from flashing at windows, roofs and parapets, plus missing weep screed. The fix has to correct those, not just replace the wet wood.",
+          "In Las Cruces, remediation is usually targeted to specific areas, especially when problems are caught early.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed, insured and bonded contractor serving Las Cruces and Doña Ana County since 2010. We handle [stucco](/stucco) remediation from start to finish, including the roof-to-wall flashing and parapet details that most stucco-only crews can't correct. If an inspection flagged moisture or you're seeing staining or soft spots, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact). We'll start with a [roof and exterior inspection](/roofing/roof-inspections), and if the source is at the roof line, we'll handle that [roof repair](/roofing/roof-repairs) as part of the same job.",
+      },
+    ],
+  },
 ];
