@@ -85,12 +85,34 @@ export default async function BlogArticlePage({ params }: PageProps<"/blog/[slug
     ...(post.tags.length > 0 ? { keywords: post.tags.join(", ") } : {}),
   };
 
+  // Emitted only when the article actually has a visible FAQ section, so the
+  // structured data never claims Q&A that isn't on the page.
+  const faqJsonLd =
+    post.faqs && post.faqs.length > 0
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          url: `${baseUrl}/blog/${post.slug}`,
+          mainEntity: post.faqs.map((faq) => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: { "@type": "Answer", text: faq.answer },
+          })),
+        }
+      : null;
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       <article>
         <section className="bg-brand-dark pt-[92px] md:pt-[132px]">

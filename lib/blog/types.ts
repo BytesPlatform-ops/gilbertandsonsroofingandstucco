@@ -1,3 +1,5 @@
+import type { FAQItem } from "@/components/shared/FAQAccordion";
+
 /**
  * Blog content model.
  *
@@ -91,6 +93,12 @@ export type BlogPost = {
    * so the generic estimate box is not rendered a second time. Defaults true.
    */
   showEstimateCta?: boolean;
+  /**
+   * Q&A pairs for FAQPage structured data. These must mirror the article's own
+   * visible FAQ section word for word — the body copy is what readers see, this
+   * is what search engines parse. Omit on posts without an FAQ section.
+   */
+  faqs?: FAQItem[];
   content: ContentBlock[];
 };
 

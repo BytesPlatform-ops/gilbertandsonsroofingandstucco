@@ -6227,4 +6227,1606 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "different-types-of-roofing-materials",
+    title: "Different Types of Roofing Materials: A Complete Guide for Las Cruces Homes",
+    excerpt:
+      "Shingle, clay tile, concrete tile, metal and slate for pitched roofs; TPO, PVC, modified bitumen, foam and coatings for flat. Here is how each performs in our climate.",
+    metaTitle: "Different Types of Roofing Materials: Full Guide",
+    metaDescription:
+      "Different types of roofing materials compared: shingle, tile, metal and flat roof membranes, with lifespan, cost and how each handles heat.",
+    category: "Roofing Materials",
+    tags: [
+      "materials",
+      "lifespan",
+      "tile roof",
+      "metal roofing",
+      "asphalt shingle",
+      "flat roof",
+      "tpo",
+    ],
+    publishedAt: "2026-10-22",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/different-types-of-roofing-materials/concrete-tile-roof-overhead.webp",
+    featuredImageAlt:
+      "Overhead view of a worker in a safety harness on a grey concrete tile roof, showing the interlocking tile profile",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing",
+      "/roofing/tile-roofing",
+      "/roofing/specialty-roofing",
+    ],
+    keywords: [
+      "different types of roofing materials",
+      "roofing materials compared",
+      "best roofing material",
+      "roof material lifespan",
+      "roofing materials las cruces",
+    ],
+    faqs: [
+      {
+        question: "What is the most common roofing material in the US?",
+        answer:
+          "Asphalt shingles. Roughly seven in ten American homes have them, because they're affordable, easy to install and widely available. In Las Cruces they're most common on newer subdivision homes.",
+      },
+      {
+        question: "Which roofing material lasts the longest?",
+        answer:
+          "Natural slate lasts longest, often 75 to 200 years. Among common materials in southern New Mexico, clay tile (50 to 100+ years) and standing seam metal (50 to 70 years) last longest.",
+      },
+      {
+        question: "What is the cheapest roofing material?",
+        answer:
+          "3-tab asphalt shingles have the lowest upfront cost, but they also have the shortest lifespan in hot climates. Architectural shingles cost a little more and last noticeably longer.",
+      },
+      {
+        question: "What roofing material is best for flat roofs?",
+        answer:
+          "In Las Cruces, white TPO or PVC for new flat roofs, and a silicone coating over an existing sound flat roof. Both reflect sun and handle heat better than dark asphalt-based membranes.",
+      },
+      {
+        question: "Is tile too heavy for my house?",
+        answer:
+          "It depends on the framing. Tile weighs roughly 6 to 12 pounds per square foot, compared with 2 to 4 for shingles. Homes built for tile can carry it. Homes built for shingles often need an engineering review before switching.",
+      },
+      {
+        question: "Can I put tile on a roof that had shingles?",
+        answer:
+          "Yes, if the framing and decking can support the added weight. A roofer will check rafter size, spacing and deck thickness, and may recommend reinforcement or an engineer's review.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "The main types of roofing materials are asphalt shingles, clay tile, concrete tile, metal, slate and wood shake for pitched roofs, and TPO, PVC, EPDM, modified bitumen, built-up roofing, spray foam and silicone coatings for flat roofs. They differ most in lifespan, cost, weight and how well they handle heat, UV and storms.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "That's the short list. Choosing between them is harder, because the right answer depends on your roof's pitch, your home's structure, your budget, and the climate it has to survive. In Las Cruces and the rest of Doña Ana County, that climate means intense sun at around 4,000 feet, summer highs near 95°F, freezing winter nights, and monsoon storms that bring most of the year's 9 to 10 inches of rain in a few hard months.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide to the different types of roofing materials walks through every common option, how long each lasts, what it costs relative to the others, and how it performs on homes and commercial buildings across southern New Mexico.",
+      },
+      { type: "heading", level: 2, text: "Quick Facts: Roofing Materials at a Glance" },
+      {
+        type: "list",
+        items: [
+          "**Asphalt shingles:** 15 to 25 years in Las Cruces sun, lowest upfront cost, the most common roof in the US.",
+          "**Clay tile:** 50 to 100+ years, heavy, excellent in heat; underlayment beneath needs replacing at 20 to 30 years.",
+          "**Concrete tile:** 40 to 75 years, heavier than clay, less expensive, color can fade.",
+          "**Metal (standing seam):** 50 to 70 years, light, reflective, Class 4 hail rating on most residential panels.",
+          "**TPO and PVC (flat roofs):** 20 to 30 years, white and reflective, heat-welded seams.",
+          "**Modified bitumen and built-up (flat roofs):** 15 to 25 years, durable but asphalt-based and UV-sensitive unless coated.",
+          "**Silicone coating (flat roofs):** 10 to 20 years per application, renewable without tear-off.",
+        ],
+      },
+      { type: "heading", level: 2, text: "What Are the Main Types of Roofing Materials?" },
+      {
+        type: "paragraph",
+        text:
+          "The different types of roofing materials fall into two groups based on roof slope.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Pitched roof materials** shed water by overlapping and gravity. They need a slope of roughly 3:12 or steeper (tile and shingles have specific minimums). This group includes asphalt shingles, clay tile, concrete tile, metal, slate, synthetic slate and wood shake.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Flat and low-slope roof materials** form a continuous waterproof membrane, because water drains slowly and sits against seams. This group includes TPO, PVC, EPDM, modified bitumen, built-up roofing, spray polyurethane foam, and liquid-applied coatings like silicone.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most homes in Las Cruces use one group or the other. Some, especially Territorial and newer Southwest-style homes, use both: a flat roof behind parapets on the main body of the house and pitched tile or metal over a porch or addition.",
+      },
+      { type: "heading", level: 2, text: "Pitched Roof Materials" },
+      { type: "heading", level: 3, text: "Asphalt Shingles" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** a fiberglass mat coated in asphalt and topped with ceramic granules. Sold as 3-tab (single layer, flat look), architectural (laminated, dimensional look) and premium or designer (thicker, mimics slate or shake).",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 3-tab 15 to 20 years; architectural 20 to 25 years in Las Cruces (rated for 25 to 30 nationally); premium 25 to 40 years.",
+          "**Cost:** the lowest upfront cost of any pitched roof.",
+          "**Weight:** light, around 2 to 4 pounds per square foot.",
+          "**Pros:** affordable, widely available, quick to install and repair, many colors.",
+          "**Cons:** shortest lifespan in intense UV, granule loss, curling and brittleness in heat, lower wind ratings on 3-tab.",
+          "**In Las Cruces:** the default on newer subdivision homes. Architectural shingles have largely replaced 3-tab because they handle monsoon wind better.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "More detail: [what asphalt shingle roofing is](/blog/what-is-asphalt-shingle-roofing).",
+      },
+      {
+        type: "image",
+        src: "/images/blog/different-types-of-roofing-materials/asphalt-shingle-roof-vents.webp",
+        alt:
+          "Brown architectural asphalt shingle roof with vent pipes, overlooking desert terrain and distant mountains",
+        caption:
+          "Architectural asphalt shingles on a Las Cruces home. The most common roof here, and the shortest-lived under this much sun.",
+      },
+      { type: "heading", level: 3, text: "Clay Tile" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** fired clay formed into barrel (S-shaped), flat or interlocking profiles. The color is baked through the material.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 50 to 100+ years for the tiles. The underlayment beneath lasts 20 to 30 years.",
+          "**Cost:** high upfront, among the most expensive pitched options.",
+          "**Weight:** heavy, roughly 6 to 12 pounds per square foot depending on profile.",
+          "**Pros:** near-immune to UV, doesn't fade, non-combustible, excellent thermal mass and natural ventilation under each tile.",
+          "**Cons:** weight requires adequate framing, tiles crack under foot traffic, underlayment replacement needed mid-life.",
+          "**In Las Cruces:** the classic choice on Spanish and Mediterranean-style homes, common in Mesilla and older Las Cruces neighborhoods.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Concrete Tile" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** sand, cement and water molded into tile shapes, colored on the surface or throughout.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 40 to 75 years for the tiles; same underlayment caveat as clay.",
+          "**Cost:** less than clay, more than shingles.",
+          "**Weight:** heavier than clay, often 9 to 12 pounds per square foot.",
+          "**Pros:** durable, fire resistant, wide range of profiles and colors, good heat performance.",
+          "**Cons:** surface color fades after 15 to 20 years, slightly more porous than clay, heavy.",
+          "**In Las Cruces:** common on newer homes that want a tile look at a lower price.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "More detail: [how long tile roofs last](/blog/how-long-do-tile-roofs-last).",
+      },
+      { type: "heading", level: 3, text: "Metal Roofing" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** steel, aluminum, copper or zinc formed into panels or shingles. The main residential types are standing seam (concealed clips, raised seams) and exposed fastener (screwed through the panel face). Stone-coated steel mimics tile or shake.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** standing seam 50 to 70 years; exposed fastener 30 to 45 with fastener maintenance; copper and zinc 100+.",
+          "**Cost:** roughly 2 to 3 times architectural shingles for standing seam.",
+          "**Weight:** very light, around 1 to 1.5 pounds per square foot.",
+          "**Pros:** long life, reflective finishes, Class 4 hail and high wind ratings, Class A fire rating.",
+          "**Cons:** higher upfront cost, skilled installation, cheaper finishes fade.",
+          "**In Las Cruces:** growing fast on Territorial, modern and rural homes, especially around Hatch and Deming where wind exposure is higher.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "More detail: [what metal roofing is](/blog/what-is-metal-roofing).",
+      },
+      { type: "heading", level: 3, text: "Slate and Synthetic Slate" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** natural quarried stone split into thin shingles, or a polymer or rubber composite made to look like slate.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** natural slate 75 to 200 years; synthetic 40 to 50.",
+          "**Cost:** natural slate is among the most expensive roofs available.",
+          "**Weight:** natural slate is very heavy; synthetic is light.",
+          "**Pros:** natural slate is nearly permanent and fireproof; synthetic gives the look without the weight.",
+          "**Cons:** natural slate needs specialized installers and strong framing.",
+          "**In Las Cruces:** rare. Synthetic slate shows up occasionally on custom homes.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Wood Shake and Shingles" },
+      { type: "paragraph", text: "**What it is:** split or sawn cedar or redwood." },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 20 to 40 years with maintenance.",
+          "**Pros:** natural look.",
+          "**Cons:** fire risk, cracking and splitting in dry heat, high maintenance.",
+          "**In Las Cruces:** very rare, and generally a poor fit for the dry climate and wildfire risk on the edges of the valley.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Flat and Low-Slope Roof Materials" },
+      { type: "heading", level: 3, text: "TPO" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** a single-ply thermoplastic membrane, usually white, with heat-welded seams.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 20 to 25 years for 60 mil; longer for 80 mil.",
+          "**Pros:** reflective, affordable for its performance, welded seams.",
+          "**Cons:** puncture risk, seam quality depends on the installer.",
+          "**In Las Cruces:** the most common membrane on new commercial and residential flat roofs. Details in [what TPO roofing is](/blog/what-is-tpo-roofing).",
+        ],
+      },
+      { type: "heading", level: 3, text: "PVC" },
+      {
+        type: "paragraph",
+        text: "**What it is:** a single-ply thermoplastic membrane similar to TPO.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 20 to 30 years.",
+          "**Pros:** excellent chemical and grease resistance, welded seams.",
+          "**Cons:** costs more than TPO.",
+          "**In Las Cruces:** used on restaurants and buildings with rooftop exhaust.",
+        ],
+      },
+      { type: "heading", level: 3, text: "EPDM" },
+      { type: "paragraph", text: "**What it is:** a black synthetic rubber membrane." },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 20 to 25 years.",
+          "**Pros:** flexible, proven, often affordable.",
+          "**Cons:** dark surface absorbs heat, seams are taped or glued rather than welded.",
+          "**In Las Cruces:** less common because of heat absorption.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Modified Bitumen" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** asphalt modified with rubber or plastic, applied in rolls by torch, cold adhesive or self-adhesion, often with a granulated cap sheet.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 15 to 20 years uncoated.",
+          "**Pros:** tough, handles foot traffic, multiple layers.",
+          "**Cons:** asphalt ages under UV, dark surfaces absorb heat unless coated.",
+          "**In Las Cruces:** common on older commercial buildings and Pueblo-style homes, and a strong candidate for coating.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Built-Up Roofing (Tar and Gravel)" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** alternating layers of asphalt and reinforcing felt, topped with gravel.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 15 to 25 years.",
+          "**Pros:** redundant layers, durable surface.",
+          "**Cons:** heavy, leaks are hard to trace, gravel complicates repairs.",
+          "**In Las Cruces:** found on older flat roofs, often replaced or coated today.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Spray Polyurethane Foam" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** liquid foam sprayed onto the roof deck, expanding into a seamless insulating layer, then coated for UV protection.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** 20 to 30+ years if the topcoat is renewed on schedule.",
+          "**Pros:** seamless, adds insulation, can build slope to fix ponding.",
+          "**Cons:** foam degrades quickly if the coating fails.",
+        ],
+      },
+      { type: "heading", level: 3, text: "Silicone and Elastomeric Coatings" },
+      {
+        type: "paragraph",
+        text:
+          "**What it is:** a liquid-applied membrane rolled or sprayed over an existing sound flat roof.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan:** silicone 10 to 20 years per application; acrylic 5 to 10.",
+          "**Pros:** seamless, reflective, renewable by recoating, no tear-off.",
+          "**Cons:** only works over a dry, structurally sound roof.",
+          "**In Las Cruces:** one of the most cost-effective ways to extend a flat roof. See [what silicone roof restoration is](/blog/what-is-silicone-roof-restoration).",
+        ],
+      },
+      { type: "heading", level: 2, text: "Which Roofing Materials Last the Longest?" },
+      {
+        type: "paragraph",
+        text:
+          "Ranked by realistic lifespan in a hot, high-UV climate like Las Cruces:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Natural slate:** 75 to 200 years",
+          "**Clay tile:** 50 to 100+ years (with underlayment replaced mid-life)",
+          "**Standing seam metal:** 50 to 70 years",
+          "**Concrete tile:** 40 to 75 years",
+          "**Synthetic slate:** 40 to 50 years",
+          "**Exposed fastener metal:** 30 to 45 years",
+          "**Spray foam (maintained):** 20 to 30+ years",
+          "**PVC and TPO:** 20 to 30 years",
+          "**Architectural shingles:** 20 to 25 years",
+          "**Modified bitumen and built-up:** 15 to 25 years",
+          "**3-tab shingles:** 15 to 20 years",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "For flat roofs specifically, see [how long a flat roof lasts](/blog/how-long-does-a-flat-roof-last) by type.",
+      },
+      { type: "heading", level: 2, text: "Which Roofing Materials Are Most Affordable?" },
+      {
+        type: "paragraph",
+        text: "Ranked from lowest to highest upfront cost for a typical home:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "3-tab asphalt shingles",
+          "Architectural asphalt shingles",
+          "Silicone coating over an existing flat roof",
+          "Modified bitumen and built-up",
+          "TPO and EPDM",
+          "PVC",
+          "Exposed fastener metal",
+          "Concrete tile",
+          "Standing seam metal",
+          "Clay tile",
+          "Natural slate",
+        ],
+      },
+      {
+        type: "callout",
+        title: "Upfront cost isn't lifetime cost",
+        text:
+          "Over 60 years, a home might need three asphalt shingle roofs and only one metal or clay tile roof. When owners plan to stay, the higher-priced materials often cost less per year of service.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Roofing Materials Are Most Common in Las Cruces and Southern New Mexico?",
+      },
+      { type: "paragraph", text: "The building styles here drive the material choices." },
+      {
+        type: "list",
+        items: [
+          "**Pueblo Revival and adobe-style homes:** flat roofs behind parapets, usually TPO, modified bitumen, built-up or a coated roof, with canales draining through the parapet walls.",
+          "**Territorial-style homes:** flat main roofs with pitched metal or tile over porches.",
+          "**Spanish and Mediterranean-style homes:** clay or concrete tile.",
+          "**Newer subdivisions in Las Cruces, Anthony and El Paso:** architectural asphalt shingles, with concrete tile on higher-end builds.",
+          "**Rural homes in Hatch, Deming and the surrounding valley:** metal roofing is increasingly common for its wind and hail performance.",
+          "**Commercial buildings:** TPO, modified bitumen, built-up and silicone-coated flat roofs.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How Do You Choose the Right Roofing Material?" },
+      { type: "paragraph", text: "Six factors decide it:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Roof pitch.** Flat and low-slope roofs need membranes or coatings. Shingles and tile need minimum slopes.",
+          "**Structure and weight capacity.** Tile is several times heavier than shingles or metal. Switching to tile often requires an engineering check.",
+          "**Budget, upfront and lifetime.** Compare cost per year of expected life, not just the first check.",
+          "**Climate.** In Las Cruces, prioritize UV resistance, reflectivity, wind ratings and hail ratings.",
+          "**Architectural and HOA rules.** Some HOAs restrict materials and colors. The historic district in Mesilla has design rules, so check with the town before changing a roof's look there.",
+          "**How long you'll own the home.** Short horizons favor lower upfront cost. Long horizons favor tile and metal.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Can You Switch to a Different Roofing Material?" },
+      { type: "paragraph", text: "Usually, with planning." },
+      {
+        type: "list",
+        items: [
+          "**Shingles to metal:** straightforward. Metal is lighter, and some systems can go over one layer of shingles.",
+          "**Shingles to tile:** possible, but tile weighs far more. Framing and [roof decking](/blog/what-is-roof-decking) may need to be upgraded, and an engineer may need to sign off.",
+          "**Tile to shingles or metal:** reduces weight, so structure isn't a concern, but the look changes significantly.",
+          "**Flat roof membrane to coating:** often the best option for an aging flat roof that's still sound.",
+          "**Flat roof to pitched:** a major structural project, rarely done.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "What is the most common roofing material in the US?" },
+      {
+        type: "paragraph",
+        text:
+          "Asphalt shingles. Roughly seven in ten American homes have them, because they're affordable, easy to install and widely available. In Las Cruces they're most common on newer subdivision homes.",
+      },
+      { type: "heading", level: 3, text: "Which roofing material lasts the longest?" },
+      {
+        type: "paragraph",
+        text:
+          "Natural slate lasts longest, often 75 to 200 years. Among common materials in southern New Mexico, clay tile (50 to 100+ years) and standing seam metal (50 to 70 years) last longest.",
+      },
+      { type: "heading", level: 3, text: "What is the cheapest roofing material?" },
+      {
+        type: "paragraph",
+        text:
+          "3-tab asphalt shingles have the lowest upfront cost, but they also have the shortest lifespan in hot climates. Architectural shingles cost a little more and last noticeably longer.",
+      },
+      { type: "heading", level: 3, text: "What roofing material is best for flat roofs?" },
+      {
+        type: "paragraph",
+        text:
+          "In Las Cruces, white TPO or PVC for new flat roofs, and a silicone coating over an existing sound flat roof. Both reflect sun and handle heat better than dark asphalt-based membranes.",
+      },
+      { type: "heading", level: 3, text: "Is tile too heavy for my house?" },
+      {
+        type: "paragraph",
+        text:
+          "It depends on the framing. Tile weighs roughly 6 to 12 pounds per square foot, compared with 2 to 4 for shingles. Homes built for tile can carry it. Homes built for shingles often need an engineering review before switching.",
+      },
+      { type: "heading", level: 3, text: "Can I put tile on a roof that had shingles?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes, if the framing and decking can support the added weight. A roofer will check rafter size, spacing and deck thickness, and may recommend reinforcement or an engineer's review.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roofing Materials" },
+      {
+        type: "paragraph",
+        text:
+          "There are more than a dozen different types of roofing materials, but in Las Cruces the real choices come down to a handful. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "For pitched roofs, architectural shingles are the budget choice, while clay tile and standing seam metal are the long-life choices.",
+          "For flat roofs, white TPO and silicone coatings handle our heat and UV best.",
+          "Compare cost per year of service, not upfront price, and confirm your structure can carry the material you want.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We install and repair shingle, [tile](/roofing/tile-roofing), metal and flat roof systems, plus [silicone roof restoration](/roofing/silicone-roof-restoration) and other [specialty roofing](/roofing/specialty-roofing). To compare materials for your home or building, see our [roofing services](/roofing), call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) for a [roof installation](/roofing/roof-installations) estimate.",
+      },
+    ],
+  },
+  {
+    slug: "best-roofing-material-for-hot-climates",
+    title: "What Is the Best Roofing Material for Hot Climates? A Las Cruces Guide",
+    excerpt:
+      "Clay tile and reflective standing seam metal for pitched roofs, white TPO or a silicone coating for flat. Here is how each handles 4,000-foot sun, UV and monsoon storms.",
+    metaTitle: "Best Roofing Material for Hot Climates | Las Cruces",
+    metaDescription:
+      "What is the best roofing material for hot climates? See how tile, metal, shingles and flat roofs handle Las Cruces heat, UV and storms.",
+    category: "Roofing Materials",
+    tags: [
+      "materials",
+      "cool roof",
+      "tile roof",
+      "metal roofing",
+      "tpo",
+      "roof coating",
+      "ventilation",
+    ],
+    publishedAt: "2026-10-22",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/best-roofing-material-for-hot-climates/tile-roof-home-desert-sun.webp",
+    featuredImageAlt:
+      "Single-storey stucco home with a concrete tile roof and desert landscaping under strong afternoon sun",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/tile-roofing",
+      "/roofing/specialty-roofing",
+      "/roofing/silicone-roof-restoration",
+    ],
+    keywords: [
+      "best roofing material for hot climates",
+      "cool roof las cruces",
+      "best roof for desert heat",
+      "reflective roofing material",
+      "hot climate roofing new mexico",
+    ],
+    faqs: [
+      {
+        question: "What is the coolest roofing material?",
+        answer:
+          "White TPO, white silicone coatings and reflective metal finishes stay coolest at the surface. Clay tile also keeps attics cool through thermal mass and airflow beneath each tile.",
+      },
+      {
+        question: "Does a metal roof make a house hotter?",
+        answer:
+          "No. A reflective or light-colored metal roof usually keeps the attic cooler than dark asphalt shingles. The heat concern comes from unfinished bare metal, which isn't used on homes.",
+      },
+      {
+        question: "What color roof is best for hot weather?",
+        answer:
+          "Light colors such as white, light gray and tan reflect the most heat. Cool-roof rated products in any color are designed to reflect more sunlight than standard finishes.",
+      },
+      {
+        question: "How long do shingles last in New Mexico?",
+        answer:
+          "Architectural shingles typically last 20 to 25 years in Las Cruces, and 3-tab shingles 15 to 20 years. Intense UV and daily temperature swings shorten their life compared with milder climates.",
+      },
+      {
+        question: "Is tile worth the cost in a hot climate?",
+        answer:
+          "For owners who plan to stay long-term, usually yes. Clay tile can last 50 to 100+ years and handles heat exceptionally well, so its cost per year of service is often lower than shingles.",
+      },
+      {
+        question: "What is the best flat roof for desert heat?",
+        answer:
+          "White TPO or PVC for a new flat roof, or a silicone coating over an existing sound flat roof. Both reflect sunlight and resist UV much better than dark asphalt-based membranes.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "The best roofing material for hot climates is clay tile or standing seam metal with a reflective finish for pitched roofs, and white TPO or a silicone-coated roof for flat roofs. These hold up best to intense UV, high surface temperatures and daily heat swings. Asphalt shingles work in hot climates but have the shortest lifespan.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "In Las Cruces, \"hot climate\" means more than summer temperatures. The city sits around 4,000 feet, so the sun is stronger than at sea level. Summer highs run near 95°F, roof surfaces climb far above that, and nights can drop 30 to 40 degrees. The same summer brings monsoon downbursts and occasional hail. The best roof here has to handle heat, UV, thermal cycling, wind and impact all at once.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what heat does to a roof, what makes a material good for hot climates, the best options ranked, and which one fits each type of home in southern New Mexico.",
+      },
+      { type: "heading", level: 2, text: "Quick Facts: Roofing for Hot Climates" },
+      {
+        type: "list",
+        items: [
+          "**Best pitched roof materials for heat:** clay tile, standing seam metal (light or reflective finish), concrete tile.",
+          "**Best flat roof options for heat:** white TPO or PVC, silicone-coated roofs.",
+          "**Shortest-lived in heat:** asphalt shingles, especially dark 3-tab.",
+          "**Realistic lifespans in Las Cruces:** clay tile 50 to 100+ years, standing seam metal 50 to 70, concrete tile 40 to 75, TPO 20 to 25, architectural shingles 20 to 25.",
+          "**Biggest heat factors besides material:** roof color, attic ventilation and underlayment quality.",
+        ],
+      },
+      { type: "heading", level: 2, text: "What Does Heat Actually Do to a Roof?" },
+      { type: "paragraph", text: "Heat damages roofs in four ways." },
+      {
+        type: "paragraph",
+        text:
+          "**UV breakdown.** Ultraviolet light breaks the chemical bonds in asphalt, plastics and paint finishes. At our elevation, UV exposure is stronger than in most of the country. Asphalt shingles lose the oils that keep them flexible, their granules loosen, and the shingle turns brittle. Membranes chalk and thin. Paint finishes fade.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Surface temperature.** A dark roof in July can reach temperatures far above the air temperature. That heat moves into the attic and the building below, raising cooling costs, and it bakes roofing materials from above.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Thermal cycling.** Las Cruces commonly swings 30 to 40 degrees between afternoon and night. Every swing expands and contracts the roof, loosening fasteners, stressing seams and cracking rigid materials over time. Thousands of these cycles add up.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Attic heat from below.** Without good ventilation, heat builds up under the roof deck and cooks shingles and underlayment from underneath. This is why two identical roofs on neighboring homes can age at very different rates. [Roof underlayment](/blog/what-is-roof-underlayment) takes much of this abuse.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Makes a Roofing Material Good for Hot Climates?",
+      },
+      { type: "paragraph", text: "Six qualities matter most:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**UV resistance.** The material or its finish shouldn't break down, chalk or fade under constant sun.",
+          "**Reflectivity.** Light-colored and reflective surfaces stay cooler and lower cooling costs.",
+          "**Thermal mass and airflow.** Tile absorbs heat slowly and lets air move beneath it, which reduces heat transfer into the attic.",
+          "**Tolerance for expansion and contraction.** Materials need to move with daily temperature swings without cracking, loosening or splitting at seams.",
+          "**Compatibility with good ventilation.** The system should allow balanced attic intake and exhaust.",
+          "**Wind and hail ratings.** In southern New Mexico, the hottest months are also monsoon months.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Best Roofing Materials for Hot Climates, Ranked",
+      },
+      { type: "heading", level: 3, text: "1. Clay Tile" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** clay is fired at high temperatures, so UV doesn't break it down and its color doesn't fade. Barrel tiles create an air gap that lets heat escape before it reaches the deck, and the tile's thermal mass slows heat transfer.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 50 to 100+ years for the tiles.",
+          "**Limits:** heavy, higher cost, tiles crack under foot traffic, and underlayment beneath needs replacing at 20 to 30 years.",
+          "**Best for:** Spanish, Mediterranean and Southwest-style homes built to carry tile. More on [how long tile roofs last](/blog/how-long-do-tile-roofs-last).",
+        ],
+      },
+      { type: "heading", level: 3, text: "2. Standing Seam Metal With a PVDF Finish" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** a light-colored or reflective metal panel reflects a large share of the sun's energy. PVDF (Kynar) finishes resist fading for decades. Concealed clip systems let panels expand and contract freely with daily temperature swings.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 50 to 70 years.",
+          "**Limits:** higher upfront cost, skilled installation required, cheaper polyester finishes fade.",
+          "**Best for:** Territorial, modern and rural homes, and any home where long life and wind resistance matter. See [what metal roofing is](/blog/what-is-metal-roofing) for panel types.",
+        ],
+      },
+      { type: "heading", level: 3, text: "3. Concrete Tile" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** similar heat performance to clay, with thermal mass and airflow beneath.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 40 to 75 years.",
+          "**Limits:** surface color fades in 15 to 20 years, heavier than clay.",
+          "**Best for:** homes wanting a tile look at a lower cost than clay.",
+        ],
+      },
+      { type: "heading", level: 3, text: "4. White TPO or PVC (Flat Roofs)" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** white single-ply membranes reflect sun and run far cooler than black membranes or asphalt. Heat-welded seams handle thermal movement well.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 20 to 25 years for 60 mil TPO, longer for 80 mil and PVC.",
+          "**Limits:** seam quality depends on the installer, puncture risk from foot traffic.",
+          "**Best for:** new flat roofs on commercial buildings and Pueblo-style homes. Details in [what TPO roofing is](/blog/what-is-tpo-roofing).",
+        ],
+      },
+      { type: "heading", level: 3, text: "5. Silicone-Coated Flat Roofs" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** silicone is among the most UV-stable roof coatings available, stays reflective, and handles ponding water. It goes over an existing sound roof without tear-off.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 10 to 20 years per application, renewable by recoating.",
+          "**Limits:** only works on a dry, structurally sound roof.",
+          "**Best for:** aging flat roofs that are still sound.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/best-roofing-material-for-hot-climates/reflective-coating-flat-roof.webp",
+        alt:
+          "Roofer applying a white reflective coating across a commercial flat roof with rooftop HVAC units behind",
+        caption:
+          "A white reflective coating is the cheapest way to turn an existing flat roof into a cool roof.",
+      },
+      { type: "heading", level: 3, text: "6. Architectural Asphalt Shingles in Light Colors" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** affordable and widely available. Light colors and good ventilation reduce heat damage.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 20 to 25 years.",
+          "**Limits:** shortest life of the good options, granule loss and curling in UV.",
+          "**Best for:** budget-driven projects and subdivision homes where shingles are standard.",
+        ],
+      },
+      { type: "heading", level: 3, text: "7. Spray Foam With a Reflective Coating" },
+      {
+        type: "paragraph",
+        text:
+          "**Why it works:** adds insulation and creates a seamless surface that can be built up to improve drainage. The coating reflects heat.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Lifespan here:** 20 to 30+ years if the coating is renewed.",
+          "**Limits:** foam breaks down quickly if the coating is neglected.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Is Metal or Tile Better for Desert Heat?" },
+      { type: "paragraph", text: "Both are excellent. The better choice depends on the home." },
+      {
+        type: "list",
+        items: [
+          "**Heat performance:** both are top tier. Tile wins on thermal mass and airflow. Reflective metal wins on surface reflectivity.",
+          "**Lifespan:** clay tile can outlast metal, but its underlayment needs replacing mid-life. Standing seam metal runs 50 to 70 years with little maintenance.",
+          "**Weight:** tile is heavy and may need structural upgrades. Metal is very light.",
+          "**Wind:** standing seam metal is typically rated for 140 mph and up. Tile performs well when properly fastened but can lift if under-fastened.",
+          "**Hail:** most residential metal carries a Class 4 rating. Tile can crack under large hail.",
+          "**Look:** tile suits Spanish and Mediterranean homes. Metal suits Territorial, modern and rural homes.",
+          "**Cost:** both are premium. Clay tile is usually the highest.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Are Asphalt Shingles a Bad Choice in Hot Climates?" },
+      {
+        type: "paragraph",
+        text:
+          "No, but they're the shortest-lived choice. Architectural shingles rated for 30 years usually deliver 20 to 25 in Las Cruces. You can get more out of them by choosing:",
+      },
+      {
+        type: "list",
+        items: [
+          "Lighter colors that run cooler",
+          "Architectural or premium shingles over 3-tab",
+          "Class 4 impact-rated shingles for hail",
+          "Balanced attic ventilation",
+          "Quality synthetic underlayment",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "For a budget-conscious owner, a well-installed shingle roof is a reasonable choice. Just plan for a shorter replacement cycle. See [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced) by material.",
+      },
+      { type: "heading", level: 2, text: "Does Roof Color Really Matter?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. Dark roofs absorb more solar energy and run significantly hotter at the surface than light or reflective roofs. That affects both cooling bills and how fast the roofing material ages.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Light colors** (white, tan, light gray) reflect more heat.",
+          "**Cool-roof rated products** are tested for solar reflectance and thermal emittance and are available in shingles, tile, metal and coatings.",
+          "**Dark colors** can still be practical in metal, which comes in reflective dark finishes, but dark asphalt shingles run hottest.",
+        ],
+      },
+      { type: "heading", level: 2, text: "What About Monsoon Wind and Hail?" },
+      {
+        type: "paragraph",
+        text:
+          "In southern New Mexico, the best roof for heat also has to handle the storms that arrive in the same months.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Wind:** monsoon downbursts often reach 50 to 70 mph in the Mesilla Valley. Standing seam metal (140+ mph ratings) and architectural shingles (110 to 130 mph) handle this. Older 3-tab shingles are near their limit.",
+          "**Hail:** Class 4 rated metal and shingles resist hail best. Tile can crack under large hail.",
+          "**Sideways rain:** every material depends on proper [roof flashing](/blog/what-is-roof-flashing) at walls and parapets.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Roofing Material Is Best for My Type of Home?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Pueblo Revival and adobe-style homes in Las Cruces and Mesilla:** white TPO or a silicone-coated roof behind the parapets.",
+          "**Territorial-style homes:** a coated or TPO flat roof on the main body, with standing seam metal on pitched porches.",
+          "**Spanish and Mediterranean homes:** clay tile, or concrete tile on a tighter budget.",
+          "**Newer subdivision homes in Las Cruces, Anthony and El Paso:** light-colored architectural shingles, or standing seam metal for a longer-life upgrade.",
+          "**Rural homes in Hatch, Deming and the surrounding valley:** standing seam metal for its wind and hail performance.",
+          "**Commercial buildings:** white TPO, PVC, or a silicone restoration of the existing roof.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "For a side-by-side of every material, see [different types of roofing materials](/blog/different-types-of-roofing-materials).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Else Keeps a Roof Cool Besides the Material?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Attic ventilation.** Balanced intake at the eaves and exhaust at the ridge removes trapped heat.",
+          "**Quality underlayment.** Synthetic underlayment tolerates heat far better than felt.",
+          "**Radiant barriers.** Foil layers under the deck reflect heat back out.",
+          "**Insulation.** Keeps attic heat out of the living space.",
+          "**Light-colored or reflective finishes.** On any material that offers them.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "What is the coolest roofing material?" },
+      {
+        type: "paragraph",
+        text:
+          "White TPO, white silicone coatings and reflective metal finishes stay coolest at the surface. Clay tile also keeps attics cool through thermal mass and airflow beneath each tile.",
+      },
+      { type: "heading", level: 3, text: "Does a metal roof make a house hotter?" },
+      {
+        type: "paragraph",
+        text:
+          "No. A reflective or light-colored metal roof usually keeps the attic cooler than dark asphalt shingles. The heat concern comes from unfinished bare metal, which isn't used on homes.",
+      },
+      { type: "heading", level: 3, text: "What color roof is best for hot weather?" },
+      {
+        type: "paragraph",
+        text:
+          "Light colors such as white, light gray and tan reflect the most heat. Cool-roof rated products in any color are designed to reflect more sunlight than standard finishes.",
+      },
+      { type: "heading", level: 3, text: "How long do shingles last in New Mexico?" },
+      {
+        type: "paragraph",
+        text:
+          "Architectural shingles typically last 20 to 25 years in Las Cruces, and 3-tab shingles 15 to 20 years. Intense UV and daily temperature swings shorten their life compared with milder climates.",
+      },
+      { type: "heading", level: 3, text: "Is tile worth the cost in a hot climate?" },
+      {
+        type: "paragraph",
+        text:
+          "For owners who plan to stay long-term, usually yes. Clay tile can last 50 to 100+ years and handles heat exceptionally well, so its cost per year of service is often lower than shingles.",
+      },
+      { type: "heading", level: 3, text: "What is the best flat roof for desert heat?" },
+      {
+        type: "paragraph",
+        text:
+          "White TPO or PVC for a new flat roof, or a silicone coating over an existing sound flat roof. Both reflect sunlight and resist UV much better than dark asphalt-based membranes.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Roofing for Hot Climates" },
+      {
+        type: "paragraph",
+        text:
+          "The best roofing material for hot climates is the one that resists UV, reflects heat and moves with daily temperature swings without failing. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "For pitched roofs, clay tile and standing seam metal with a reflective finish are the strongest choices in Las Cruces.",
+          "For flat roofs, white TPO or a silicone coating outperform dark asphalt membranes.",
+          "Color, ventilation and underlayment matter almost as much as the material.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We install [tile roofing](/roofing/tile-roofing), metal and other [specialty roofing](/roofing/specialty-roofing), white TPO, and [silicone roof restoration](/roofing/silicone-roof-restoration) for flat roofs. To find the right roof for your home and our climate, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) for a [roof installation](/roofing/roof-installations) estimate.",
+      },
+    ],
+  },
+  {
+    slug: "best-time-to-replace-a-roof",
+    title: "When Is the Best Time to Replace a Roof in Las Cruces?",
+    excerpt:
+      "Fall and spring are the best windows here. Summer brings heat and monsoon storms, and winter is workable in a way it is not in colder states.",
+    metaTitle: "Best Time to Replace a Roof in Las Cruces, NM",
+    metaDescription:
+      "When is the best time to replace a roof? See why fall and spring work best in Las Cruces, what summer heat does, and whether winter works.",
+    category: "Roofing",
+    tags: [
+      "roof replacement",
+      "monsoon",
+      "homeowner guide",
+      "roof coating",
+      "tile roof",
+      "inspection",
+    ],
+    publishedAt: "2026-10-22",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/best-time-to-replace-a-roof/crew-installing-new-roof.webp",
+    featuredImageAlt:
+      "Two roofers in hard hats working along the ridge of a roof during a replacement on a clear day",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-replacements",
+      "/roofing/roof-inspections",
+      "/roofing/emergency-roofing",
+    ],
+    keywords: [
+      "best time to replace a roof",
+      "roof replacement season las cruces",
+      "winter roof replacement new mexico",
+      "monsoon season roofing",
+      "roof replacement scheduling",
+    ],
+    faqs: [
+      {
+        question: "What month is best to replace a roof in Las Cruces?",
+        answer:
+          "October and November are typically the best months. Monsoon season is over, temperatures are mild and rain is rare. April and May are also excellent, apart from windy days.",
+      },
+      {
+        question: "Can a roof be replaced in the rain?",
+        answer:
+          "No. Crews don't tear off or install roofing during rain. They watch the forecast, only remove what they can dry in the same day, and cover exposed areas before any storm.",
+      },
+      {
+        question: "What temperature is too cold to install shingles?",
+        answer:
+          "Asphalt shingles can be installed in cool weather, but their adhesive strips seal best above roughly 40 to 45°F. In colder conditions, crews hand-seal shingles or rely on the next warm, sunny days to activate the seal.",
+      },
+      {
+        question: "Is it cheaper to replace a roof in winter?",
+        answer:
+          "Not usually by much. Material prices follow national trends. Winter can offer more flexible scheduling, and in Las Cruces most winter days are workable.",
+      },
+      {
+        question: "How long does a roof replacement take?",
+        answer:
+          "Most shingle roofs take 1 to 3 days on site. Tile roofs and large flat roofs take longer. The full process, from estimate to cleanup, is typically 1 to 3 weeks.",
+      },
+      {
+        question: "Should I replace my roof before selling my home?",
+        answer:
+          "If the roof is failing, leaking or near the end of its life, replacing it usually helps the sale, since inspectors and lenders will flag it. If it's sound, a roof inspection and documentation may be enough.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "In Las Cruces, the best time to replace a roof is fall, from October through early December, or spring, from March through May. Temperatures are mild, rain is rare and crews have better availability. June through September is the hardest window because of extreme heat and monsoon storms. Winter replacement is possible here on most days.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most national advice about the best time to replace a roof is written for places with cold, snowy winters and mild summers. Southern New Mexico is the reverse. Our winters are short and mild by comparison, January lows sit just below freezing, and the real obstacle is summer: highs near 95°F, roof surfaces far hotter than that, and a monsoon season that brings much of the year's 9 to 10 inches of rain between July and September.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide covers each season for roofing in Las Cruces, why fall wins, whether winter and summer work, how the season affects cost, and when you shouldn't wait at all.",
+      },
+      { type: "heading", level: 2, text: "Quick Facts: Roof Replacement Timing in Las Cruces" },
+      {
+        type: "list",
+        items: [
+          "**Best months:** October, November and early December; March, April and May.",
+          "**Hardest months:** June through September (heat and monsoon storms).",
+          "**Winter:** workable on most days; asphalt shingles seal best above roughly 40 to 45°F.",
+          "**Typical on-site time:** 1 to 3 days for most shingle roofs, longer for tile and large flat roofs.",
+          "**Lead time:** usually 1 to 3 weeks from estimate to crew date, longer after a major storm.",
+          "**Don't wait if:** you have active leaks, storm damage, a sagging deck, or a home sale coming up.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Is the Best Season to Replace a Roof in Southern New Mexico?",
+      },
+      { type: "heading", level: 3, text: "Fall: The Best Overall" },
+      {
+        type: "paragraph",
+        text:
+          "Fall is the best time to replace a roof in Las Cruces. Monsoon season is over, October highs are typically around 80°F, and rain is rare. Shingles go down at temperatures where they're flexible enough to install cleanly and warm enough to seal. The new roof is in place before winter freeze-thaw nights and well ahead of next summer's heat and storms.",
+      },
+      { type: "heading", level: 3, text: "Spring: Strong, With One Catch" },
+      {
+        type: "paragraph",
+        text:
+          "March through May offers mild temperatures and very little rain, which makes it another excellent window. The catch is wind. Spring dust storms and gusty afternoons are common across the Mesilla Valley and especially in open areas around Hatch and Deming. Crews work around high-wind days, since loose materials and fresh shingles don't mix with 40 mph gusts.",
+      },
+      { type: "heading", level: 3, text: "Summer: The Hardest Window" },
+      {
+        type: "paragraph",
+        text: "June through September is the most difficult time to replace a roof here.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Heat:** roof surfaces in July get far hotter than the air temperature. Asphalt shingles soften and scuff easily under foot traffic, and crews have to start before dawn and stop early.",
+          "**Monsoon storms:** from July through September, afternoon storms can build quickly, with 50 to 70 mph downbursts and heavy rain. A roof that's torn off has to be dried in before every storm.",
+          "**Demand:** storm damage drives a spike in repair calls, which tightens schedules.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Summer replacement is still done, especially when damage forces it. It just takes more planning.",
+      },
+      { type: "heading", level: 3, text: "Winter: Workable in Las Cruces" },
+      {
+        type: "paragraph",
+        text:
+          "Unlike in northern states, winter roofing is practical here on most days. January highs are often near 60°F even when nights dip below freezing. The considerations:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Cold mornings.** Crews start later so materials warm up.",
+          "**Shingle sealing.** Asphalt shingles have adhesive strips that seal with sun and warmth. Below about 40 to 45°F they may not seal right away. They typically seal on the first warm, sunny days, and crews can hand-seal shingles in colder conditions.",
+          "**Occasional storms.** Winter rain and the rare snow event are short, and crews schedule around them.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Tile and metal are less temperature-sensitive than shingles, which makes them easier to install in winter.",
+      },
+      { type: "heading", level: 2, text: "Why Is Fall the Best Time to Replace a Roof?" },
+      { type: "paragraph", text: "Four reasons:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Mild temperatures.** Materials install cleanly and shingles seal well.",
+          "**The driest stretch after monsoon.** Rain risk is low, so the roof doesn't sit exposed during a storm.",
+          "**Ready for winter.** The new roof is sealed before freeze-thaw nights start working on any weak spots.",
+          "**Ready for summer.** You're two full seasons ahead of next year's heat and monsoon storms.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Fall is also when monsoon damage becomes obvious. Owners who found leaks or missing shingles during the summer can schedule a planned replacement rather than an emergency one.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/best-time-to-replace-a-roof/completed-roof-aerial.webp",
+        alt:
+          "Overhead drone view of a completed shingle roof on a single-storey home with a clear driveway",
+        caption:
+          "A replacement finished in October is sealed before the first freeze and two seasons ahead of the next monsoon.",
+      },
+      { type: "heading", level: 2, text: "Can You Replace a Roof in Winter in Las Cruces?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. Winter roof replacement in Las Cruces is far more practical than in colder parts of the country. Most winter days warm up enough for normal work. The main adjustments are later start times on cold mornings and making sure shingles seal properly, either naturally on the next warm days or by hand-sealing. Tile, metal and most flat roof systems are less affected by cooler temperatures.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Should You Avoid Replacing a Roof During Monsoon Season?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "When you have a choice, yes. July through September brings a real chance of afternoon storms most days. A good crew handles it by tearing off only what it can dry in the same day, watching the radar, and keeping tarps and underlayment ready. But the risk of an exposed deck during a downburst is higher than at any other time of year.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "When you don't have a choice, such as after storm damage or with active leaks, waiting is the bigger risk. An [emergency roof repair](/blog/what-is-emergency-roof-repair) can stabilize the roof until a planned replacement makes sense.",
+      },
+      { type: "heading", level: 2, text: "Does the Season Affect Roof Replacement Cost?" },
+      {
+        type: "paragraph",
+        text:
+          "Season affects scheduling and availability more than price, but it can still matter.",
+      },
+      {
+        type: "list",
+        items: [
+          "**After major storms,** demand spikes and schedules fill up. Insurance-driven work can push lead times out by weeks.",
+          "**During the busy fall and spring windows,** booking early gets you your preferred dates.",
+          "**Material prices** follow national trends more than local seasons.",
+          "**Waiting for a perfect season** can cost more than it saves if the roof keeps leaking and damages the deck, insulation or ceilings.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Does the Best Time Depend on the Roofing Material?",
+      },
+      { type: "paragraph", text: "Yes." },
+      {
+        type: "list",
+        items: [
+          "**Asphalt shingles:** the most temperature-sensitive. Ideal in mild weather; summer heat makes them scuff and winter cold slows sealing.",
+          "**Clay and concrete tile:** much less sensitive to temperature. The main concern is keeping the deck dry while underlayment is exposed.",
+          "**Metal:** installs well in almost any dry weather.",
+          "**TPO and other flat membranes:** need dry conditions. Adhesives and welding equipment have temperature ranges, but our climate allows most of the year.",
+          "**Silicone and other coatings:** need a dry roof and moderate temperatures. Spring and fall are ideal, and coatings shouldn't go down right before a storm.",
+        ],
+      },
+      { type: "heading", level: 2, text: "When Should You NOT Wait for the Perfect Season?" },
+      { type: "paragraph", text: "Don't wait if:" },
+      {
+        type: "list",
+        items: [
+          "**You have active leaks.** Every storm adds damage to the deck, insulation and ceilings.",
+          "**There's storm damage.** Missing shingles, lifted tiles or torn membrane need attention now. Insurance claims also have timelines.",
+          "**The deck is sagging or soft.** That's a structural issue. See [what roof decking is](/blog/what-is-roof-decking) for the warning signs.",
+          "**You're selling the home.** Buyers, inspectors and lenders will flag a failing roof regardless of the season.",
+          "**The roof is well past its expected life** and repairs are becoming frequent.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you're weighing a cheaper shortcut instead, read [can you put a new roof over an old roof](/blog/can-you-put-a-new-roof-over-an-old-roof) before deciding.",
+      },
+      {
+        type: "callout",
+        title: "The short version",
+        text:
+          "The best time to replace a roof is fall or spring, but the right time is when the roof needs it.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Far Ahead Should You Schedule a Roof Replacement?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Plan on 1 to 3 weeks from estimate to crew date in normal conditions, and longer after a major storm or during the busiest fall weeks. That window covers:",
+      },
+      {
+        type: "list",
+        items: [
+          "An inspection and written estimate",
+          "Choosing materials and colors",
+          "Ordering materials, which is fast for shingles and can take longer for specialty tile or metal",
+          "Pulling the permit",
+          "Scheduling the crew around the weather",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you want your roof done in October or November, contacting a roofer in August or September gets you the best choice of dates. For what happens on the day itself, see [how roof replacement works](/blog/how-does-roof-replacement-work).",
+      },
+      { type: "heading", level: 2, text: "How Do You Know It's Time to Replace, Not Repair?" },
+      {
+        type: "paragraph",
+        text: "The season only matters once you know the roof needs replacing. The signs:",
+      },
+      {
+        type: "list",
+        items: [
+          "The roof is near or past its expected lifespan",
+          "Repairs are needed more than once a year, in different places",
+          "Damage covers roughly 30% or more of the roof",
+          "Widespread curling, granule loss, cracked tiles or open seams",
+          "Soft or sagging decking",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "[How often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced) covers expected lifespans by material, and a [roof inspection](/roofing/roof-inspections) will tell you where yours stands.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "What month is best to replace a roof in Las Cruces?" },
+      {
+        type: "paragraph",
+        text:
+          "October and November are typically the best months. Monsoon season is over, temperatures are mild and rain is rare. April and May are also excellent, apart from windy days.",
+      },
+      { type: "heading", level: 3, text: "Can a roof be replaced in the rain?" },
+      {
+        type: "paragraph",
+        text:
+          "No. Crews don't tear off or install roofing during rain. They watch the forecast, only remove what they can dry in the same day, and cover exposed areas before any storm.",
+      },
+      { type: "heading", level: 3, text: "What temperature is too cold to install shingles?" },
+      {
+        type: "paragraph",
+        text:
+          "Asphalt shingles can be installed in cool weather, but their adhesive strips seal best above roughly 40 to 45°F. In colder conditions, crews hand-seal shingles or rely on the next warm, sunny days to activate the seal.",
+      },
+      { type: "heading", level: 3, text: "Is it cheaper to replace a roof in winter?" },
+      {
+        type: "paragraph",
+        text:
+          "Not usually by much. Material prices follow national trends. Winter can offer more flexible scheduling, and in Las Cruces most winter days are workable.",
+      },
+      { type: "heading", level: 3, text: "How long does a roof replacement take?" },
+      {
+        type: "paragraph",
+        text:
+          "Most shingle roofs take 1 to 3 days on site. Tile roofs and large flat roofs take longer. The full process, from estimate to cleanup, is typically 1 to 3 weeks.",
+      },
+      { type: "heading", level: 3, text: "Should I replace my roof before selling my home?" },
+      {
+        type: "paragraph",
+        text:
+          "If the roof is failing, leaking or near the end of its life, replacing it usually helps the sale, since inspectors and lenders will flag it. If it's sound, a [roof inspection](/roofing/roof-inspections) and documentation may be enough.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on When to Replace a Roof" },
+      {
+        type: "paragraph",
+        text:
+          "The best time to replace a roof in Las Cruces is fall or spring, and winter is workable here in a way it isn't in colder states. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "October and November are the best months: mild, dry and ahead of both winter and next summer.",
+          "Avoid monsoon season when you can, but never delay a replacement the roof needs because of the season.",
+          "Book a few weeks ahead to get the dates you want, especially for fall.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We schedule [roof replacements](/roofing/roof-replacements) year-round around the weather, handle [emergency roofing](/roofing/emergency-roofing) when storms don't wait, and offer [silicone roof restoration](/roofing/silicone-roof-restoration) for flat roofs that don't need a full replacement. To book a fall or spring replacement, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact).",
+      },
+    ],
+  },
+  {
+    slug: "how-to-prepare-your-roof-for-winter",
+    title: "How to Prepare Your Roof for Winter in Las Cruces: A Practical Checklist",
+    excerpt:
+      "Winter here is mild, but freeze-thaw nights turn every crack monsoon season left behind into a leak. A 12-step checklist for late October and November.",
+    metaTitle: "How to Prepare Your Roof for Winter in Las Cruces",
+    metaDescription:
+      "How to prepare your roof for winter in Las Cruces: a 12-step checklist for flashing, parapets, drains, tile and stucco.",
+    category: "Roof Maintenance",
+    tags: [
+      "maintenance",
+      "inspection",
+      "flashing",
+      "parapet",
+      "stucco",
+      "tile roof",
+      "flat roof",
+      "ventilation",
+    ],
+    publishedAt: "2026-10-22",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage:
+      "/images/blog/how-to-prepare-your-roof-for-winter/gutter-and-roof-wall-check.webp",
+    featuredImageAlt:
+      "Close view of a shingle roof meeting a stucco wall above a gutter, with the step and kickout flashing visible",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-maintenance",
+      "/roofing/roof-inspections",
+      "/roofing/roof-repairs",
+    ],
+    keywords: [
+      "how to prepare your roof for winter",
+      "winterize roof las cruces",
+      "fall roof maintenance checklist",
+      "freeze thaw roof damage",
+      "winter roof prep new mexico",
+    ],
+    faqs: [
+      {
+        question: "When should I winterize my roof in Las Cruces?",
+        answer:
+          "Late October through November. Monsoon damage is visible by then, temperatures are good for repairs, and the roof is sealed before the first hard freezes.",
+      },
+      {
+        question: "Does it freeze enough in Las Cruces to damage a roof?",
+        answer:
+          "Yes. January lows regularly drop below freezing. Repeated freeze-thaw cycles widen existing cracks in stucco, parapet caps, tile and sealant, so small openings turn into leaks.",
+      },
+      {
+        question: "Can snow damage a flat roof?",
+        answer:
+          "Las Cruces averages only about 2 inches of snow a year, so snow load is rarely a concern. The bigger risk is melting snow backing up behind blocked scuppers and canales and finding weak seams.",
+      },
+      {
+        question: "Why does my roof leak only on cold mornings?",
+        answer:
+          "That's often condensation, not a roof leak. Warm, moist indoor air condenses on the cold underside of the roof deck. Better attic ventilation and insulation usually solve it.",
+      },
+      {
+        question: "Should I seal stucco cracks before winter?",
+        answer:
+          "Yes. Seal hairline cracks before the first hard freeze so water can't get in and freeze. Wider or diagonal cracks, or cracks with staining, should be checked by a professional.",
+      },
+      {
+        question: "How much does a fall roof inspection cost?",
+        answer:
+          "Many roofers, including Gilbert & Sons, provide a free inspection with an estimate. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text:
+          "To prepare your roof for winter in Las Cruces, clear gutters, scuppers and canales; check and seal flashing and parapet caps; replace cracked tiles or missing shingles; seal stucco cracks before freezing nights; and check attic ventilation to prevent condensation. Late October through November is the right time to do it.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Most advice on how to prepare your roof for winter is written for places with heavy snow and ice dams. Las Cruces is different. Winters here are mild by comparison, with January highs often near 60°F and only about 2 inches of snow in an average year. But January lows regularly drop below freezing, and those freeze-thaw nights do real damage to any roof or stucco wall that already has a small opening. Add the cracks, lifted shingles and clogged drains left behind by monsoon season, and fall is the moment to close everything up.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "This guide explains what winter does to roofs in southern New Mexico, gives a 12-step checklist, covers flat roofs, tile roofs and stucco walls separately, and shows which jobs are safe to do yourself.",
+      },
+      { type: "heading", level: 2, text: "Quick Facts: Winter Roof Prep in Las Cruces" },
+      {
+        type: "list",
+        items: [
+          "**When:** late October through November, after monsoon season and before the first hard freeze.",
+          "**Main winter risk:** freeze-thaw cycles widening cracks in stucco, parapet caps, tile and sealant.",
+          "**Second risk:** attic condensation on cold nights, which can rot decking from below.",
+          "**Flat roof priority:** clear scuppers and canales, since dust and debris from summer storms block them.",
+          "**Snow:** about 2 inches a year on average; rarely a load issue, but it can sit on flat roofs and parapets.",
+          "**Professional help:** recommended for anything that requires walking a tile, steep or two-story roof.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Does Winter Do to Roofs in Southern New Mexico?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Freeze-thaw cycles.** Water gets into a hairline crack during the day, freezes at night and expands, then thaws and works deeper the next day. Repeated over a winter, this widens cracks in stucco walls, parapet caps, concrete tile, mortar and sealant joints. A crack that let in a little water in September can let in a lot by February.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Cold-night condensation.** When warm, moist air from inside the house reaches the cold underside of the roof deck, it condenses. Without good attic ventilation, that moisture soaks into the decking and insulation night after night. It can show up as a ceiling stain on a cold morning with no rain at all.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Occasional snow and ice.** Las Cruces averages only a couple of inches of snow a year, but when it falls it can sit on flat roofs and against parapets, then melt and refreeze. Water backs up behind blocked canales and finds weak seams.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Winter wind.** Cold fronts bring gusty days that can lift already-loose shingles and tiles.",
+      },
+      {
+        type: "paragraph",
+        text:
+          "**Leftover monsoon damage.** Summer downbursts lift shingles, crack tiles, loosen flashing and fill drains with debris. Winter finds every one of those weak spots.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Do Roofs in Las Cruces Really Need Winter Preparation?",
+      },
+      {
+        type: "paragraph",
+        text:
+          "Yes, but for different reasons than in colder states. A sound roof will handle a Las Cruces winter easily. The problem is roofs that aren't fully sound after summer. Freeze-thaw is what turns a small crack into a leak and a hairline stucco crack into water behind the wall. An hour or two of preparation in the fall prevents most winter roof calls.",
+      },
+      { type: "heading", level: 2, text: "Your Winter Roof Checklist" },
+      {
+        type: "paragraph",
+        text:
+          "Each item is marked **DIY** (safe for most homeowners from the ground or a ladder) or **Pro** (best left to a roofer).",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Clear gutters and downspouts. (DIY from a ladder)** Remove leaves, dust and debris so water drains away from the house.",
+          "**Clear scuppers, canales and roof drains. (Pro on most roofs)** On flat roofs, this is the most important winter task. Blocked drains cause ponding, and ponding water that freezes and thaws finds every weak seam.",
+          "**Remove debris from flat roofs and behind rooftop equipment. (Pro)** Leaves and dust collect behind HVAC units and evaporative coolers and hold moisture against the membrane.",
+          "**Inspect and seal flashing. (Pro)** Check flashing at walls, chimneys, vents and skylights for lifted metal and cracked sealant. Flashing is where most leaks start. See [what roof flashing is](/blog/what-is-roof-flashing).",
+          "**Check parapet caps and seal cracks. (Pro)** Cracked parapet caps let water into the top of the wall, where freezing makes it worse. More in [what parapet repair is](/blog/what-is-parapet-repair).",
+          "**Replace cracked or slipped tiles and missing shingles. (Pro)** Every gap exposes underlayment to water and freeze-thaw.",
+          "**Reseal pipe boots and vent collars. (Pro)** Rubber collars dry out and crack after a summer of sun.",
+          "**Seal stucco cracks below the roofline. (DIY for hairline cracks; Pro for wider ones)** Seal hairline cracks with an elastomeric sealant before the first hard freeze. Wider or diagonal cracks, or any with staining, need a professional look. See [how long stucco lasts](/blog/how-long-does-stucco-last) for the warning signs.",
+          "**Check attic ventilation and insulation. (DIY to look; Pro to fix)** Make sure soffit and ridge vents aren't blocked by insulation or debris. Look for frost, damp insulation or stains on the underside of the deck on cold mornings.",
+          "**Trim overhanging branches. (DIY or arborist)** Branches scrape roofing in winter wind and drop debris into valleys and gutters.",
+          "**Check flat roof coatings. (Pro)** Look for cracks, thin spots or peeling at seams and parapets on silicone or elastomeric coatings.",
+          "**Turn sprinklers away from walls. (DIY)** Sprinklers hitting stucco walls keep the base wet, and freezing water at the base causes cracking and damage.",
+        ],
+      },
+      {
+        type: "callout",
+        title: "Bonus step: get a professional inspection",
+        text:
+          "If monsoon storms hit your area this summer, or your roof is more than 10 years old, a fall [roof inspection](/roofing/roof-inspections) catches problems while they're still small. Here's [what a roof inspection includes](/blog/what-does-a-roof-inspection-include).",
+      },
+      { type: "heading", level: 2, text: "How to Prepare a Flat Roof for Winter" },
+      {
+        type: "paragraph",
+        text:
+          "Flat roofs on Pueblo-style homes and commercial buildings need the most attention before winter.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Clear every scupper and canale.** Summer storms wash months of dust into them.",
+          "**Look for ponding areas.** Water that stays more than 48 hours after rain marks a low spot. In winter, ponded water can freeze and thaw repeatedly.",
+          "**Check seams and membrane edges** for lifting, especially at parapets and curbs.",
+          "**Inspect parapet caps and counterflashing.** The top of the parapet is where most flat roof leaks start.",
+          "**Check coating condition** on silicone or elastomeric roofs.",
+          "**Know what light snow does.** A couple of inches of snow on a flat roof isn't a structural concern, but it holds moisture against the membrane and parapets as it melts.",
+        ],
+      },
+      { type: "heading", level: 2, text: "How to Prepare a Tile Roof for Winter" },
+      {
+        type: "list",
+        items: [
+          "**Look for cracked, chipped or slipped tiles** from the ground with binoculars. Don't walk a tile roof, since tiles break underfoot.",
+          "**Check valleys and behind chimneys for debris.**",
+          "**Look for exposed underlayment** at eaves and wherever tiles have shifted.",
+          "**Watch for ceiling stains with no visible tile damage.** That usually means the [underlayment](/blog/what-is-roof-underlayment) beneath has failed.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Concrete tile is more porous than clay and more affected by freeze-thaw, so cracked concrete tiles are worth replacing before winter.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/how-to-prepare-your-roof-for-winter/roofer-checking-tile-eave.webp",
+        alt:
+          "Roofer in a safety harness on a ladder checking the tile eave of a stucco building",
+        caption:
+          "Anything that needs a ladder or a walk on tile is the part to hand over. Tiles break underfoot and falls are the most common serious roof injury.",
+      },
+      { type: "heading", level: 2, text: "How to Protect Stucco Walls Before Winter" },
+      {
+        type: "paragraph",
+        text:
+          "Stucco and roofs work as one system on most Las Cruces homes, and freeze-thaw targets stucco cracks first.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Seal hairline cracks** with a quality elastomeric sealant.",
+          "**Look for staining, efflorescence or soft spots,** especially below windows and roof lines. These mean water is already behind the stucco.",
+          "**Make sure the weep screed at the base of the wall is clear** of soil, mulch and pavers so water can drain out.",
+          "**Turn sprinklers away from walls.**",
+          "**Check where roofs meet stucco walls** for missing kickout flashing and stucco covering the flashing.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Can You Do Yourself, and What Should a Roofer Handle?",
+      },
+      { type: "paragraph", text: "**Safe for most homeowners:**" },
+      {
+        type: "list",
+        items: [
+          "Clearing gutters from a stable ladder",
+          "Looking over the roof from the ground with binoculars",
+          "Sealing hairline stucco cracks at ground level",
+          "Checking the attic for stains, frost and blocked vents",
+          "Turning sprinklers away from walls",
+          "Trimming small branches from the ground",
+        ],
+      },
+      { type: "paragraph", text: "**Best left to a roofer:**" },
+      {
+        type: "list",
+        items: [
+          "Walking any tile, steep or two-story roof",
+          "Flashing, parapet and pipe boot repairs",
+          "Replacing tiles or shingles",
+          "Clearing scuppers and canales on flat roofs behind parapets",
+          "Coating repairs",
+          "Any work in wind, cold mornings or wet conditions",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "Falls from roofs are among the most common serious home injuries. When in doubt, look from the ground and call for help.",
+      },
+      { type: "heading", level: 2, text: "When Should You Prepare Your Roof for Winter?" },
+      {
+        type: "paragraph",
+        text:
+          "If you're wondering when to prepare your roof for winter, late October through November is ideal in Las Cruces. By then, monsoon damage is visible, temperatures are mild enough for sealants and repairs to cure properly, and you're ahead of the first hard freezes. A [roof maintenance plan](/blog/what-is-a-roof-maintenance-plan) puts this fall check on a schedule every year.",
+      },
+      { type: "heading", level: 2, text: "What Are the Warning Signs of Winter Roof Damage?" },
+      { type: "paragraph", text: "Watch for these through the winter:" },
+      {
+        type: "list",
+        items: [
+          "**Ceiling stains after cold nights,** even with no rain, which point to condensation",
+          "**New stains after snow or rain** near exterior walls or chimneys",
+          "**Icicles or ice at canales and scuppers,** which show water is backing up",
+          "**New or wider stucco cracks,** especially near the roofline",
+          "**Frost or damp insulation in the attic**",
+          "**Granules or tile pieces on the ground**",
+        ],
+      },
+      {
+        type: "paragraph",
+        text:
+          "If you notice any of these, a [roof repair](/roofing/roof-repairs) now is far cheaper than one after a full winter of freeze-thaw.",
+      },
+      { type: "heading", level: 2, text: "Frequently Asked Questions" },
+      { type: "heading", level: 3, text: "When should I winterize my roof in Las Cruces?" },
+      {
+        type: "paragraph",
+        text:
+          "Late October through November. Monsoon damage is visible by then, temperatures are good for repairs, and the roof is sealed before the first hard freezes.",
+      },
+      { type: "heading", level: 3, text: "Does it freeze enough in Las Cruces to damage a roof?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. January lows regularly drop below freezing. Repeated freeze-thaw cycles widen existing cracks in stucco, parapet caps, tile and sealant, so small openings turn into leaks.",
+      },
+      { type: "heading", level: 3, text: "Can snow damage a flat roof?" },
+      {
+        type: "paragraph",
+        text:
+          "Las Cruces averages only about 2 inches of snow a year, so snow load is rarely a concern. The bigger risk is melting snow backing up behind blocked scuppers and canales and finding weak seams.",
+      },
+      { type: "heading", level: 3, text: "Why does my roof leak only on cold mornings?" },
+      {
+        type: "paragraph",
+        text:
+          "That's often condensation, not a roof leak. Warm, moist indoor air condenses on the cold underside of the roof deck. Better attic ventilation and insulation usually solve it.",
+      },
+      { type: "heading", level: 3, text: "Should I seal stucco cracks before winter?" },
+      {
+        type: "paragraph",
+        text:
+          "Yes. Seal hairline cracks before the first hard freeze so water can't get in and freeze. Wider or diagonal cracks, or cracks with staining, should be checked by a professional.",
+      },
+      { type: "heading", level: 3, text: "How much does a fall roof inspection cost?" },
+      {
+        type: "paragraph",
+        text:
+          "Many roofers, including Gilbert & Sons, provide a free inspection with an estimate. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
+      },
+      { type: "heading", level: 2, text: "The Bottom Line on Winter Roof Prep" },
+      {
+        type: "paragraph",
+        text:
+          "Learning how to prepare your roof for winter in Las Cruces is mostly about closing up what summer opened. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Clear drains, seal flashing and parapet caps, and replace broken tiles or shingles before the first freeze.",
+          "Seal stucco cracks and turn sprinklers away from walls, since freeze-thaw targets stucco first.",
+          "Check attic ventilation to prevent cold-night condensation, and leave roof walking to a professional.",
+        ],
+      },
+      { type: "heading", level: 2, text: "Contact Gilbert & Sons Roofing and Stucco" },
+      {
+        type: "paragraph",
+        text:
+          "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. Our fall [roof maintenance](/roofing/roof-maintenance) visits cover every item on this checklist, including the parapets, canales and [stucco](/stucco) transitions most roofers skip. To get your roof ready before the first freeze, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact).",
+      },
+    ],
+  },
 ];
