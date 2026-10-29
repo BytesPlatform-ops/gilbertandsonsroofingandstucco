@@ -73,7 +73,7 @@ const roofingStories: StoryMediaItem[] = [
 export const metadata: Metadata = {
   title: { absolute: "Roofing Contractor Las Cruces, NM | Gilbert & Sons Roofing" },
   description:
-    "Licensed roofing contractor in Las Cruces, NM since 2010. Roof repair, replacement, installation, TPO, tile, metal and silicone coatings. Free estimates.",
+    "Licensed roofing contractor in Las Cruces, NM since 2010. Roof repair, replacement, installation, TPO, tile, metal and silicone coatings. Request a quote.",
   alternates: { canonical: "/roofing" },
 };
 

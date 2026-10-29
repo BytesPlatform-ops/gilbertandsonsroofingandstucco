@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     template: "%s | Gilbert & Sons Roofing and Stucco",
   },
   description:
-    "Residential and commercial roofing and stucco in Las Cruces, New Mexico. Licensed, insured and bonded since 2010. Call 575-649-2316 for a free estimate.",
+    "Residential and commercial roofing and stucco in Las Cruces, New Mexico. Licensed, insured and bonded since 2010. Call 575-649-2316 to request a quote.",
   verification: {
     google: "QhYfMWB1vDHBWOOTu82MDVSFlRmgf0he_6WjceCjNLY",
   },

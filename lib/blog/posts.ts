@@ -3385,12 +3385,12 @@ export const blogPosts: BlogPost[] = [
       {
         type: "paragraph",
         text:
-          "Nationally, a standalone roof inspection typically runs $120 to $400, with drone-assisted or infrared moisture inspections at the higher end. Many roofing contractors, including Gilbert & Sons, provide the inspection free when it's part of a repair or replacement estimate.",
+          "Nationally, a standalone roof inspection typically runs $120 to $400, with drone-assisted or infrared moisture inspections at the higher end. Many roofing contractors, including Gilbert & Sons, include the inspection as part of a repair or replacement quote.",
       },
       {
         type: "paragraph",
         text:
-          "There's a distinction worth knowing. A free contractor inspection is tied to a quote. An independent paid inspection produces a report with no sales attached, which is useful for real estate transactions or insurance disputes. Both have their place.",
+          "There's a distinction worth knowing. A contractor inspection is tied to a quote. An independent paid inspection produces a report with no sales attached, which is useful for real estate transactions or insurance disputes. Both have their place.",
       },
       { type: "heading", level: 2, text: "What's in the Roof Inspection Report?" },
       { type: "paragraph", text: "A good report includes:" },
@@ -7554,7 +7554,7 @@ export const blogPosts: BlogPost[] = [
       {
         question: "How much does a fall roof inspection cost?",
         answer:
-          "Many roofers, including Gilbert & Sons, provide a free inspection with an estimate. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
+          "Many roofers, including Gilbert & Sons, include an inspection when you request a quote. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
       },
     ],
     content: [
@@ -7804,7 +7804,7 @@ export const blogPosts: BlogPost[] = [
       {
         type: "paragraph",
         text:
-          "Many roofers, including Gilbert & Sons, provide a free inspection with an estimate. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
+          "Many roofers, including Gilbert & Sons, include an inspection when you request a quote. Standalone inspections nationally run roughly $120 to $400, depending on the roof and the report.",
       },
       { type: "heading", level: 2, text: "The Bottom Line on Winter Roof Prep" },
       {

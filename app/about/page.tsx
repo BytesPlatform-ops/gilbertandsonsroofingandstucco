@@ -182,7 +182,7 @@ export default function AboutPage() {
             </h2>
             <p className="body-large text-text-on-dark-secondary mt-6 max-w-lg">
               Tell us what&rsquo;s going on and we&rsquo;ll take it from there, no
-              pressure, just a straight answer and a free written estimate.
+              pressure, just a straight answer and a clear written quote.
             </p>
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <EstimateButton variant="primary" showArrow>
