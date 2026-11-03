@@ -7829,4 +7829,1911 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-causes-stucco-cracks",
+    title: "What Causes Stucco Cracks? 8 Causes and When to Worry",
+    excerpt: "Stucco is a rigid shell on a building that moves, so some cracking is built in. The eight causes, what each crack type means, and when a crack is telling you water is behind the wall.",
+    metaTitle: "What Causes Stucco Cracks? Causes and When to Worry",
+    metaDescription: "What causes stucco cracks? Learn the main causes, how to tell cosmetic cracks from structural ones, and what to do before winter.",
+    category: "Stucco",
+    tags: [
+      "stucco",
+      "stucco cracks",
+      "stucco repair",
+      "moisture",
+      "freeze-thaw",
+      "parapet",
+      "maintenance",
+    ],
+    publishedAt: "2026-11-03",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-causes-stucco-cracks/stucco-wall-with-repair-patch.webp",
+    featuredImageAlt: "Stucco exterior at a home's entry, with a pale repair patch on the wall below the window",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: ["/stucco", "/roofing/roof-inspections", "/roofing/roof-repairs"],
+    keywords: [
+      "what causes stucco cracks",
+      "stucco cracks las cruces",
+      "hairline cracks in stucco",
+      "when to worry about stucco cracks",
+      "stucco crack repair new mexico",
+    ],
+    faqs: [
+      {
+        question: "Are hairline cracks in stucco normal?",
+        answer: "Yes. Hairline cracks under about 1/16 inch are common on stucco of any age and are usually caused by shrinkage or minor thermal movement. They're worth sealing before winter but aren't a sign of failure on their own.",
+      },
+      {
+        question: "How wide does a stucco crack have to be to worry?",
+        answer: "Cracks 1/8 inch or wider deserve a professional look, as does any crack that's growing, diagonal from a corner, stained, or near soft or hollow stucco.",
+      },
+      {
+        question: "Can I fix stucco cracks myself?",
+        answer: "Hairline cracks can be sealed by most homeowners with an exterior elastomeric sealant. Wider cracks, structural cracks and anything with staining or soft spots should be handled by a stucco contractor, because the cause needs fixing too.",
+      },
+      {
+        question: "Why does my new stucco have cracks?",
+        answer: "Most cracks in new stucco are shrinkage cracks from curing, especially if the stucco dried quickly in hot weather. They're usually cosmetic. Widespread or wide cracks in new stucco can point to thin coats, a rushed cure or missing control joints.",
+      },
+      {
+        question: "Do stucco cracks mean foundation problems?",
+        answer: "Not usually. Most cracks are caused by shrinkage and thermal movement. Wide diagonal cracks from corners, stair-step cracks on block walls, and cracks paired with sticking doors or interior drywall cracks can point to foundation movement.",
+      },
+      {
+        question: "Should I seal stucco cracks before winter?",
+        answer: "Yes. Sealing cracks before the first hard freeze keeps water out of them, which stops freeze-thaw from widening them. In Las Cruces, late October through November is the right time.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "Stucco cracks are caused by shrinkage as the stucco cures, the building settling, daily heating and cooling, water getting into the wall (especially when it freezes), missing control joints, impact, and poor installation. Most hairline cracks are cosmetic. Cracks that are wide, diagonal, growing or stained point to movement or moisture and need a closer look.",
+      },
+      {
+        type: "paragraph",
+        text: "Almost every stucco home in Las Cruces has a few cracks, and most owners have wondered at some point whether theirs are a problem. The honest answer is that stucco is a rigid cement shell wrapped around a building that moves. It's going to crack somewhere. The question is whether a given crack is the normal kind or the kind that's letting water behind the wall.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide explains what causes stucco cracks, what each type of crack means, when to worry, why cracks get worse in winter here, and how they're repaired and prevented.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Stucco Cracks",
+      },
+      {
+        type: "list",
+        items: [
+          "**Hairline cracks:** under about 1/16 inch wide. Usually cosmetic and common on stucco of any age.",
+          "**Cracks 1/8 inch or wider:** need a professional look, especially if they're growing.",
+          "**Diagonal cracks from window and door corners:** usually point to building movement or missing control joints.",
+          "**Cracks with staining, bulging or soft spots:** mean water is involved.",
+          "**Freeze-thaw season in Las Cruces:** roughly November through February, when January lows drop below freezing.",
+          "**Best time to seal cracks:** before the first hard freeze.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Does Stucco Crack?",
+      },
+      {
+        type: "paragraph",
+        text: "Stucco cracks because it's rigid and the things around it aren't. Traditional stucco is Portland cement, sand, lime and water, applied in three coats about 7/8 of an inch thick. Once cured, it's essentially a thin layer of concrete. Concrete is very strong when you squeeze it and weak when you stretch or bend it.",
+      },
+      {
+        type: "paragraph",
+        text: "The building underneath is always moving a little. Framing expands and contracts with temperature and humidity. Foundations settle. Walls flex in wind. Every one of those movements tries to stretch or bend the stucco, and when the stress exceeds what the stucco can take, it cracks along the weakest line.",
+      },
+      {
+        type: "paragraph",
+        text: "That's why understanding what causes stucco cracks starts with understanding that some cracking is built into the material. Good installation doesn't eliminate cracks. It controls where they happen and keeps them small.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The 8 Most Common Causes of Stucco Cracks",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "1. Shrinkage During Curing",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** stucco loses water as it cures and shrinks slightly. If a coat dries too fast, which is easy in Las Cruces heat and low humidity, it shrinks unevenly and cracks.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** fine hairline cracks, often in a random spiderweb or map pattern, usually appearing within the first year.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** Rarely. Shrinkage cracks are surface cracks. Seal them and refinish if they bother you.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "2. Settlement and Foundation Movement",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** new homes settle in their first few years, and older homes can move with soil changes. Parts of the Mesilla Valley have clay soils that swell when wet and shrink when dry, which moves foundations seasonally.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** cracks running diagonally from window and door corners, stair-step cracks on block walls, or vertical cracks near the corners of the house.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** If the cracks are wide, growing, or paired with sticking doors and windows or interior drywall cracks, yes. A small, stable settlement crack in a house that's done settling is usually just a repair item.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "3. Thermal Expansion and Contraction",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** Las Cruces commonly swings 30 to 40 degrees between afternoon and night. The stucco and the framing behind it expand in heat and contract in cold at different rates, every single day.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** long vertical or horizontal cracks, often on sun-facing walls, and cracks at the junction between stucco and other materials.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** Usually not, but these cracks open and close with the seasons, so they keep letting a little water in until they're sealed with a flexible sealant.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "4. Moisture Intrusion and Freeze-Thaw",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** water gets into an existing crack, freezes overnight, expands, and pushes the crack wider. It thaws during the day and the cycle repeats. Water behind the stucco can also corrode metal lath and swell wood sheathing, which pushes the stucco outward.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** cracks that grow over a winter, cracks with dark staining or white efflorescence, bulging sections, and cracks below windows, parapets and roof lines.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** Yes. Moisture-related cracking is the one that leads to rot behind the wall.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "5. Missing or Poorly Placed Control Joints",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** control joints (sometimes called expansion joints) are deliberate breaks in the stucco that give the wall a planned place to move. Without them, or with too few, the stucco cracks wherever the stress collects.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** long, straight cracks across large wall areas, and diagonal cracks radiating from the corners of openings.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** It's not urgent on its own, but the cracks will keep coming back after patching until the joints are addressed.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "6. Thin Coats, a Bad Mix or a Rushed Cure",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** stucco applied too thin, mixed with the wrong ratios, or finished before the base coats were properly cured has less strength and more shrinkage. A brown coat needs about seven days of cure before the finish coat goes on.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** widespread cracking across many walls, hollow-sounding stucco, and cracks that show up early in the home's life.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** It depends on extent. Widespread installation problems sometimes mean larger sections need rebuilding.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "7. Framing and Lath Movement",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** on framed walls, the stucco is attached to metal lath fastened to the framing. Lath that's poorly fastened, wood that shrinks as it dries, and seams in the sheathing all create stress lines.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** cracks that line up with framing members, sheathing seams or floor lines on two-story homes.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** Usually a repair item, unless the crack is wide or the lath has come loose.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "8. Impact Damage",
+      },
+      {
+        type: "paragraph",
+        text: "**What happens:** a ball, a ladder, a car door, a lawn mower or a hailstone hits the wall.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** a localized crack or star pattern, sometimes with a dent or missing chunk.",
+      },
+      {
+        type: "paragraph",
+        text: "**Should you worry?** Patch it before water gets in. The damage itself is local.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Do Different Stucco Cracks Mean?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Hairline (under 1/16 inch):** usually shrinkage or minor thermal movement. Cosmetic.",
+          "**Spider or map cracks:** shrinkage during curing. Cosmetic in most cases.",
+          "**Vertical cracks:** thermal movement or framing seams. Usually minor.",
+          "**Horizontal cracks:** can follow floor lines or lath seams. Long horizontal cracks on block walls deserve a look.",
+          "**Diagonal cracks from window and door corners:** building movement or missing control joints. Watch for growth.",
+          "**Stair-step cracks on block walls:** cracks following mortar joints usually mean settlement.",
+          "**Wide cracks (1/8 inch or more):** need a professional evaluation.",
+          "**Cracks with staining, efflorescence, bulging or soft spots:** water is behind the stucco. This is the most important category.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Are Stucco Cracks Normal?",
+      },
+      {
+        type: "paragraph",
+        text: "Hairline cracks are normal. Nearly every stucco wall develops some within the first few years, and they don't mean the stucco is failing. What's not normal is cracks that are wide, growing, stained, or paired with soft or hollow areas. Those mean either the building is moving more than it should or water is getting in.",
+      },
+      {
+        type: "paragraph",
+        text: "For what normal aging looks like over the full life of a wall, see [how long stucco lasts](/blog/how-long-does-stucco-last).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "When Should You Worry About a Stucco Crack?",
+      },
+      {
+        type: "paragraph",
+        text: "Call for a professional look if any of these are true:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Width:** 1/8 inch or wider.",
+          "**Growth:** the crack is getting longer or wider over a few months. Mark the ends with a pencil and date them to track it.",
+          "**Direction:** diagonal cracks from corners or stair-step cracks on block walls.",
+          "**Staining:** dark streaks or white mineral deposits around the crack.",
+          "**Soft or hollow spots:** the stucco gives when pressed or sounds hollow when tapped.",
+          "**Bulging:** the wall surface is pushing outward.",
+          "**Interior symptoms:** drywall cracks, bubbling paint or musty smells on the inside of the same wall.",
+          "**Doors and windows:** sticking or out of square on the same wall.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Do Stucco Cracks Get Worse in Winter?",
+      },
+      {
+        type: "paragraph",
+        text: "Freeze-thaw. Las Cruces January lows regularly fall below freezing, while afternoons are often near 60°F. Water that soaks into a crack during the day freezes at night and expands, forcing the crack wider. It thaws, more water gets in, and it happens again. A hairline crack in October can be a real opening by February.",
+      },
+      {
+        type: "paragraph",
+        text: "That's why sealing cracks in the fall matters so much here. The winter checklist in [how to prepare your roof for winter](/blog/how-to-prepare-your-roof-for-winter) includes stucco for exactly this reason.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Do Stucco Cracks Cause Leaks?",
+      },
+      {
+        type: "paragraph",
+        text: "They can. Stucco is designed to get a little wet and dry out, with a drainage layer behind it to carry water away. A crack lets more water in than the system expects, and if the drainage layer, flashing or weep screed isn't working, that water sits against the sheathing and framing.",
+      },
+      {
+        type: "paragraph",
+        text: "The most common leak points are cracks below windows, at roof-to-wall transitions, and at the tops of parapets on flat-roofed homes. A cracked parapet cap is one of the most common sources of \"roof leaks\" in Las Cruces that turn out to be wall leaks. See [what parapet repair is](/blog/what-is-parapet-repair).",
+      },
+      {
+        type: "paragraph",
+        text: "When water has already damaged the wall behind the stucco, the fix goes beyond crack repair. That's [stucco remediation](/blog/what-is-stucco-remediation).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Are Stucco Cracks Repaired?",
+      },
+      { type: "paragraph", text: "The repair depends on the cause." },
+      {
+        type: "list",
+        items: [
+          "**Hairline cracks:** cleaned out and filled with a flexible elastomeric sealant or patching compound, then refinished or painted to blend. Some owners recoat the wall with elastomeric paint, which bridges fine cracks.",
+          "**Wider cracks:** routed open into a V, filled with a stucco patching material, and the finish texture rebuilt and blended.",
+          "**Structural or recurring cracks:** the stucco is cut out along the crack, the lath and backing are inspected and repaired, and the section is rebuilt in scratch, brown and finish coats. If movement is ongoing, a control joint may be added.",
+          "**Cracks with moisture damage:** testing first, then remediation of the damaged area.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-causes-stucco-cracks/patched-stucco-wall-ladder.webp",
+        alt: "Two freshly patched areas on a stucco wall, with a ladder leaning against the eave above",
+        caption: "Fresh patches always read lighter than the surrounding wall until they cure and are refinished. Matching the existing texture and color is the hardest part of any stucco crack repair.",
+      },
+      {
+        type: "paragraph",
+        text: "Texture matching is the hardest part of any stucco repair to get right. The finish has to match the surrounding wall in pattern and color, or the patch will always show. For how each coat goes on, see [how stucco is applied](/blog/how-is-stucco-applied).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Can You Prevent Stucco Cracks?",
+      },
+      {
+        type: "paragraph",
+        text: "You can't prevent every crack, but you can prevent most of the serious ones.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Proper control joints** at the right spacing and at the corners of openings.",
+          "**Full cure times** between coats, with moist curing in hot, dry weather.",
+          "**Correct coat thickness** and a proper mix.",
+          "**Working drainage:** weep screed at the base of walls kept clear of soil and pavers.",
+          "**Good flashing** at windows, doors, roof-to-wall transitions and parapets.",
+          "**Sprinklers aimed away from walls.**",
+          "**Sealing small cracks early,** before freeze-thaw season.",
+          "**Annual inspection** of walls, parapets and roof transitions.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Stucco Cracks in Las Cruces: What's Different Here?",
+      },
+      {
+        type: "paragraph",
+        text: "A few local conditions shape what causes stucco cracks in southern New Mexico:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Big daily temperature swings** drive thermal cracking year-round.",
+          "**Low humidity and intense sun** make it easy for new stucco to dry too fast and shrink-crack if crews don't moist-cure it.",
+          "**Clay soils** in parts of the Mesilla Valley and around Las Cruces swell and shrink with moisture, moving foundations.",
+          "**Monsoon rain** drives water sideways into cracks from July through September.",
+          "**Winter freeze-thaw** widens whatever the summer opened.",
+          "**Flat roofs with parapets** on Pueblo and Territorial homes put stucco right at the top of the wall, where cracks let water straight in.",
+          "**Older block homes** around Las Cruces, Mesilla and Anthony often show stair-step settlement cracks.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Are hairline cracks in stucco normal?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes. Hairline cracks under about 1/16 inch are common on stucco of any age and are usually caused by shrinkage or minor thermal movement. They're worth sealing before winter but aren't a sign of failure on their own.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How wide does a stucco crack have to be to worry?",
+      },
+      {
+        type: "paragraph",
+        text: "Cracks 1/8 inch or wider deserve a professional look, as does any crack that's growing, diagonal from a corner, stained, or near soft or hollow stucco.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can I fix stucco cracks myself?",
+      },
+      {
+        type: "paragraph",
+        text: "Hairline cracks can be sealed by most homeowners with an exterior elastomeric sealant. Wider cracks, structural cracks and anything with staining or soft spots should be handled by a stucco contractor, because the cause needs fixing too.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Why does my new stucco have cracks?",
+      },
+      {
+        type: "paragraph",
+        text: "Most cracks in new stucco are shrinkage cracks from curing, especially if the stucco dried quickly in hot weather. They're usually cosmetic. Widespread or wide cracks in new stucco can point to thin coats, a rushed cure or missing control joints.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Do stucco cracks mean foundation problems?",
+      },
+      {
+        type: "paragraph",
+        text: "Not usually. Most cracks are caused by shrinkage and thermal movement. Wide diagonal cracks from corners, stair-step cracks on block walls, and cracks paired with sticking doors or interior drywall cracks can point to foundation movement.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Should I seal stucco cracks before winter?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes. Sealing cracks before the first hard freeze keeps water out of them, which stops freeze-thaw from widening them. In Las Cruces, late October through November is the right time.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Stucco Cracks",
+      },
+      {
+        type: "paragraph",
+        text: "So, what causes stucco cracks? A rigid cement shell on a building that moves, plus heat, cold, water and sometimes installation shortcuts. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Hairline cracks are normal. Wide, growing, diagonal or stained cracks are not.",
+          "Water is what turns a crack into damage. Seal cracks before freeze-thaw season and fix flashing and parapets where water enters.",
+          "Repair the cause, not just the crack. Recurring cracks mean something behind the stucco still needs attention.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We repair [stucco](/stucco) cracks of every kind, match existing textures, and fix the parapet and roof-to-wall details where most stucco water damage starts. If a crack is wide, growing or stained, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact). We'll start with a [roof and exterior inspection](/roofing/roof-inspections), and if water is coming in at the roof line, we'll handle the [roof repair](/roofing/roof-repairs) in the same visit.",
+      },
+    ],
+  },
+  {
+    slug: "most-common-roof-problems",
+    title: "The Most Common Roof Problems in Las Cruces (and What Causes Them)",
+    excerpt: "Twelve problems ranked by how often they show up on roofs here, from flashing and parapets to ponding and pipe boots, with what causes each one and how urgent it is.",
+    metaTitle: "Most Common Roof Problems in Las Cruces Homes",
+    metaDescription: "The most common roof problems in Las Cruces, ranked: leaks, flashing, parapets, ponding, wind and heat damage, with causes and fixes.",
+    category: "Roofing",
+    tags: [
+      "roof repair",
+      "roof leaks",
+      "flashing",
+      "parapet",
+      "flat roof",
+      "tile roof",
+      "storm damage",
+      "maintenance",
+    ],
+    publishedAt: "2026-11-03",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/most-common-roof-problems/tile-roof-repair-in-progress.webp",
+    featuredImageAlt: "Worker standing on a concrete tile roof during a repair, with a tarp and debris bags behind",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-repairs",
+      "/roofing/roof-inspections",
+      "/roofing/emergency-roofing",
+    ],
+    keywords: [
+      "most common roof problems",
+      "roof problems las cruces",
+      "common roof leaks",
+      "flat roof problems new mexico",
+      "roof repair or replace",
+    ],
+    faqs: [
+      {
+        question: "What is the most common cause of roof leaks?",
+        answer: "Failed flashing is the most common cause of roof leaks, followed by parapet failures on flat roofs and cracked pipe boots. The roofing material itself is less often the source than the transitions and penetrations.",
+      },
+      {
+        question: "What roof problems are covered by insurance?",
+        answer: "Sudden damage from wind, hail or falling debris is typically covered under a standard homeowner policy. Wear and tear, age and lack of maintenance usually aren't. Coverage varies by policy, so check yours.",
+      },
+      {
+        question: "How do I know if my roof has a problem without going up?",
+        answer: "Check from the ground with binoculars for missing or lifted shingles, cracked tiles and lifted flashing. Inside, look for ceiling stains and check the attic for damp spots, daylight or stains on the underside of the deck.",
+      },
+      {
+        question: "Why does my roof leak only when it rains hard?",
+        answer: "Leaks that appear only in heavy or wind-driven rain usually come from flashing, parapets or laps where sideways rain gets past the roofing. Light rain runs off normally, but hard rain finds the weak spot.",
+      },
+      {
+        question: "How often should a roof be inspected for problems?",
+        answer: "Twice a year in Las Cruces, before and after monsoon season, and after any significant storm. Roofs over 10 years old benefit most from regular inspections.",
+      },
+      {
+        question: "Is it worth repairing an old roof?",
+        answer: "If the damage is limited and the rest of the roof is sound, yes. If the roof is near the end of its expected life and problems are spread across it, replacement usually makes more financial sense.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "The most common roof problems in Las Cruces are leaks at flashing and parapets, clogged drains and ponding on flat roofs, wind-lifted shingles and tiles, UV and heat damage, failed pipe boots, cracked tiles over aging underlayment, and poor attic ventilation. Most start small and are inexpensive to fix if they're caught early.",
+      },
+      {
+        type: "paragraph",
+        text: "Roofs in southern New Mexico face an unusual combination. Intense sun at around 4,000 feet, summer highs near 95°F, 30 to 40 degree daily temperature swings, monsoon downbursts from July through September, and freezing winter nights all work on the same roof. Add the flat roofs, parapets and stucco walls common on Pueblo and Territorial homes, and the list of what goes wrong here looks different from most national guides.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide ranks the most common roof problems on Las Cruces homes and buildings, explains what causes each one, what it looks like and how it's fixed, and helps you tell which ones can wait and which can't.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Roof Problems in Las Cruces",
+      },
+      {
+        type: "list",
+        items: [
+          "**Top three leak sources:** flashing, parapets, and pipe boots. The roofing material itself is usually further down the list.",
+          "**Most common flat roof problem:** clogged scuppers and canales causing ponding.",
+          "**Most common pitched roof problem:** UV and heat aging shingles, and wind lifting shingles and tiles.",
+          "**Seasonal pattern:** wind and storm damage after monsoon season; freeze-thaw cracking after winter.",
+          "**Repair or replace rule of thumb:** when damage covers roughly 30% or more of the roof, replacement usually makes more sense.",
+          "**Best prevention:** inspections twice a year, before and after monsoon season.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Are the Most Common Roof Problems?",
+      },
+      {
+        type: "paragraph",
+        text: "Ranked roughly by how often they show up on Las Cruces roofs:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Roof leaks",
+          "Damaged or failed flashing",
+          "Parapet cap and termination failure",
+          "Ponding water and clogged scuppers and canales",
+          "Wind damage",
+          "UV and heat damage",
+          "Cracked tiles and failed underlayment",
+          "Pipe boot and vent collar failure",
+          "Poor attic ventilation",
+          "Hail damage",
+          "Damaged or rotting roof decking",
+          "Installation mistakes",
+        ],
+      },
+      { type: "paragraph", text: "Here's what each one involves." },
+      {
+        type: "heading",
+        level: 3,
+        text: "1. Roof Leaks",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** water getting through the roof into the attic, walls or living space. A leak is usually a symptom of one of the other problems on this list.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** failed flashing, parapets, pipe boots, missing shingles, cracked tiles, open seams, or ponding water.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** ceiling stains, drips, wet insulation, bubbling paint near exterior walls.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** finding the real source, which is rarely directly above the stain, then repairing it.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix now. Every storm adds damage. See [how to find a roof leak](/blog/how-to-find-a-roof-leak).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "2. Damaged or Failed Flashing",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** the metal or membrane that seals transitions where the roof meets walls, chimneys, vents and skylights.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** thermal movement loosening fasteners, sealant drying out in UV, stucco applied over flashing, missing kickout flashing, rust.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** stains along exterior walls, rust streaks, lifted metal, cracked sealant, stucco staining below a roofline.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** resealing if the metal is sound, replacement and reintegration with the stucco if it isn't.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix soon. Flashing is the number one leak source on most roofs. See [what roof flashing is](/blog/what-is-roof-flashing).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "3. Parapet Cap and Termination Failure",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** failure at the short wall around a flat roof, where the cap, the stucco, the flashing and the roof membrane all meet.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** cracked stucco caps absorbing water, counterflashing pulling away, the membrane separating from the wall, and cracks around scuppers.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** stains on the inside face of the parapet, ceiling stains near exterior walls, cracks along the top of the wall.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** cap repair or metal coping, reflashing the membrane termination, and stucco repair, done together.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix soon, ideally before winter. See [what parapet repair is](/blog/what-is-parapet-repair).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "4. Ponding Water and Clogged Scuppers and Canales",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** water standing on a flat roof for more than 48 hours after rain.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** dust and debris blocking scuppers and canales, low spots from settled insulation or a sagging deck, inadequate slope.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** standing water, dried water rings, debris collected in low areas, leaks near the ponding area.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** clearing drains, adding drains, or building up low spots with tapered insulation.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix soon. Ponding ages a flat roof years ahead of schedule.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "5. Wind Damage",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** shingles lifted, creased or torn off; tiles slipped or blown off; membrane edges peeled back.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** monsoon downbursts of 50 to 70 mph, spring wind storms, and under-fastened materials. Older 3-tab shingles are most vulnerable.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** missing shingles, shingles or tile pieces in the yard, lifted membrane corners.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** replacing damaged pieces and resecuring the surrounding area.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix now if the underlayment or deck is exposed; otherwise soon.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/most-common-roof-problems/aerial-view-house-roof.webp",
+        alt: "Overhead view of a home with an asphalt shingle roof and an attached low-slope section with roof penetrations",
+        caption: "Most Las Cruces homes combine a pitched shingle or tile roof with a low-slope section, so a single house can have both sets of problems at once.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "6. UV and Heat Damage",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** sun and heat breaking down roofing materials over time.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** intense UV at our elevation, high surface temperatures, and daily thermal cycling.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** granule loss and bald spots on shingles, curling and cracking, chalking and thinning on membranes and coatings, faded finishes.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** on a mid-life flat roof, a reflective coating. On shingles, repair of the worst areas or replacement if the damage is widespread.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** monitor. This is wear, not an emergency, but it decides when the roof needs replacing.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "7. Cracked Tiles and Failed Underlayment",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** broken or slipped clay or concrete tiles, and the underlayment beneath them wearing out.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** foot traffic, wind, hail, and underlayment that lasts 20 to 30 years while the tiles last 50 or more.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** cracked or missing tiles, or leaks on a tile roof where every tile looks intact.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** tile replacement, or lifting the tiles and replacing the underlayment beneath them.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix soon. See [what roof underlayment is](/blog/what-is-roof-underlayment).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "8. Pipe Boot and Vent Collar Failure",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** the rubber collars sealing plumbing vents and other pipes cracking and splitting.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** UV dries out and cracks the rubber, often in 10 years or less here.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** stains on the ceiling below a bathroom or kitchen vent.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** replacing the boot. It's one of the simplest and cheapest repairs on a roof.",
+      },
+      { type: "paragraph", text: "**Urgency:** fix soon." },
+      {
+        type: "heading",
+        level: 3,
+        text: "9. Poor Attic Ventilation",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** too little airflow through the attic, or unbalanced intake and exhaust.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** blocked soffit vents, too few vents, or mixed exhaust types that short-circuit airflow.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** hot upper rooms, high cooling bills, curling shingles, and frost or damp insulation in the attic on cold mornings.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** adding or rebalancing intake and exhaust vents, usually during a repair or replacement.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** monitor, then fix at the next opportunity. It shortens roof life quietly. See [what roof ventilation is](/blog/what-is-roof-ventilation).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "10. Hail Damage",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** impact damage from hailstones.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** occasional hail during monsoon storms.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** dark bruises or granule loss on shingles, cracked tiles, dents in metal, punctures in membranes.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** repair or replacement depending on extent, often through an insurance claim.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** inspect soon after any hail. Damage isn't always visible from the ground.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "11. Damaged or Rotting Roof Decking",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** the plywood or OSB under the roof weakening from water or condensation.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** long-term leaks, failed flashing, poor ventilation, and ponding on flat roofs.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** sagging, a wavy roofline, soft spots, and stains on the underside of the deck in the attic.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** replacing damaged sheets, usually during a re-roof.",
+      },
+      {
+        type: "paragraph",
+        text: "**Urgency:** fix now if there's sagging. See [what roof decking is](/blog/what-is-roof-decking).",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "12. Installation Mistakes",
+      },
+      {
+        type: "paragraph",
+        text: "**What it is:** problems built in on day one.",
+      },
+      {
+        type: "paragraph",
+        text: "**What causes it:** improper nailing, reused flashing, missing starter strips, poorly welded seams, stucco run over flashing, and inadequate ventilation.",
+      },
+      {
+        type: "paragraph",
+        text: "**What it looks like:** problems appearing on a relatively new roof, or repeat leaks in the same spot.",
+      },
+      {
+        type: "paragraph",
+        text: "**The fix:** correcting the detail properly, which sometimes means redoing a section.",
+      },
+      { type: "paragraph", text: "**Urgency:** depends on the defect." },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Roof Problems Are Most Common on Flat Roofs?",
+      },
+      {
+        type: "paragraph",
+        text: "Flat roofs on Pueblo-style homes and commercial buildings across Las Cruces most often have:",
+      },
+      {
+        type: "list",
+        items: [
+          "Ponding water from clogged scuppers and canales or low spots",
+          "Parapet cap and termination failures",
+          "Open or lifting seams on TPO, PVC and modified bitumen",
+          "Blisters and alligatoring on asphalt-based roofs",
+          "Punctures around HVAC units from service traffic",
+          "Chalking and thinning of coatings",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For lifespan by flat roof type, see [how long a flat roof lasts](/blog/how-long-does-a-flat-roof-last).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Roof Problems Are Most Common on Tile and Shingle Roofs?",
+      },
+      {
+        type: "paragraph",
+        text: "**Shingle roofs:** granule loss, curling, wind-lifted or missing shingles, failed flashing at stucco walls, pipe boot failure, and poor ventilation.",
+      },
+      {
+        type: "paragraph",
+        text: "**Tile roofs:** cracked or slipped tiles, debris in valleys, failed underlayment beneath intact tiles, and flashing at walls and chimneys.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Roof Problems Show Up After Monsoon Season?",
+      },
+      {
+        type: "paragraph",
+        text: "From late summer into fall: wind-lifted shingles and tiles, peeled membrane edges, clogged scuppers and canales, leaks at flashing and parapets from sideways rain, and occasional hail damage.",
+      },
+      {
+        type: "paragraph",
+        text: "After winter, the pattern shifts to cracks widened by freeze-thaw in parapet caps, stucco, tile and sealant, plus condensation damage in poorly ventilated attics. For why those cracks widen, see [what causes stucco cracks](/blog/what-causes-stucco-cracks).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Problems Can Wait and Which Can't?",
+      },
+      { type: "paragraph", text: "**Fix now:**" },
+      {
+        type: "list",
+        items: [
+          "Active leaks",
+          "Exposed underlayment or deck from missing shingles or tiles",
+          "Sagging or soft decking",
+          "Water near electrical fixtures",
+        ],
+      },
+      { type: "paragraph", text: "**Fix soon (within weeks):**" },
+      {
+        type: "list",
+        items: [
+          "Damaged flashing",
+          "Parapet cracks",
+          "Clogged drains and ponding",
+          "Cracked tiles",
+          "Failed pipe boots",
+        ],
+      },
+      { type: "paragraph", text: "**Monitor and plan:**" },
+      {
+        type: "list",
+        items: [
+          "General UV wear and granule loss",
+          "Minor chalking on coatings",
+          "Ventilation improvements at the next re-roof",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do You Know If It's a Repair or a Replacement?",
+      },
+      { type: "paragraph", text: "Four questions settle it:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**How old is the roof** compared with its expected life?",
+          "**How widespread is the damage?** When repairs would cover roughly 30% or more of the roof, replacement usually costs less over time.",
+          "**How often has it been repaired?** Repeat repairs in different spots mean the system is wearing out.",
+          "**Is the decking sound?** Widespread deck damage points to replacement.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For expected lifespans by material, see [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do You Prevent Most Roof Problems?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Inspect twice a year,** in spring before monsoon season and in fall after it.",
+          "**Keep drains, scuppers, canales and gutters clear.**",
+          "**Fix small problems immediately.** Most major roof failures started as something small.",
+          "**Make sure the attic is ventilated** and insulated properly.",
+          "**Keep foot traffic off tile roofs** and use walk pads on flat roofs around equipment.",
+          "**Coat aging flat roofs** before the membrane fails.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "A [roof maintenance plan](/roofing/roof-maintenance) puts all of this on a schedule.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What is the most common cause of roof leaks?",
+      },
+      {
+        type: "paragraph",
+        text: "Failed flashing is the most common cause of roof leaks, followed by parapet failures on flat roofs and cracked pipe boots. The roofing material itself is less often the source than the transitions and penetrations.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What roof problems are covered by insurance?",
+      },
+      {
+        type: "paragraph",
+        text: "Sudden damage from wind, hail or falling debris is typically covered under a standard homeowner policy. Wear and tear, age and lack of maintenance usually aren't. Coverage varies by policy, so check yours.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How do I know if my roof has a problem without going up?",
+      },
+      {
+        type: "paragraph",
+        text: "Check from the ground with binoculars for missing or lifted shingles, cracked tiles and lifted flashing. Inside, look for ceiling stains and check the attic for damp spots, daylight or stains on the underside of the deck.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Why does my roof leak only when it rains hard?",
+      },
+      {
+        type: "paragraph",
+        text: "Leaks that appear only in heavy or wind-driven rain usually come from flashing, parapets or laps where sideways rain gets past the roofing. Light rain runs off normally, but hard rain finds the weak spot.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How often should a roof be inspected for problems?",
+      },
+      {
+        type: "paragraph",
+        text: "Twice a year in Las Cruces, before and after monsoon season, and after any significant storm. Roofs over 10 years old benefit most from regular inspections.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Is it worth repairing an old roof?",
+      },
+      {
+        type: "paragraph",
+        text: "If the damage is limited and the rest of the roof is sound, yes. If the roof is near the end of its expected life and problems are spread across it, replacement usually makes more financial sense.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Common Roof Problems",
+      },
+      {
+        type: "paragraph",
+        text: "The most common roof problems in Las Cruces start at the edges and transitions, not in the middle of the roof. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Flashing, parapets and pipe boots cause most leaks. Check those first.",
+          "Flat roofs fail at drains and parapets; pitched roofs fail from sun, wind and aging underlayment.",
+          "Catching problems early, before and after monsoon season, keeps most repairs small.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We handle every problem on this list, from [roof repairs](/roofing/roof-repairs) and [emergency roofing](/roofing/emergency-roofing) to parapet and stucco work. If you've spotted any of these problems, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact). We'll start with a [roof inspection](/roofing/roof-inspections) and give you an honest repair-or-replace recommendation. If you're not sure whether it's urgent, see [what emergency roof repair is](/blog/what-is-emergency-roof-repair).",
+      },
+    ],
+  },
+  {
+    slug: "what-is-a-roof-certification",
+    title: "What Is a Roof Certification? A Guide for Las Cruces Buyers and Sellers",
+    excerpt: "A roofer's written statement that a roof is sound and good for another 2 to 5 years. What it includes, who asks for one, and what happens when a roof doesn't pass.",
+    metaTitle: "What Is a Roof Certification? Home Sale Guide",
+    metaDescription: "What is a roof certification? Learn who needs one, what the roofer checks, how long it lasts and how it differs from a roof warranty.",
+    category: "Homeowner Guides",
+    tags: [
+      "roof certification",
+      "roof inspection",
+      "home sale",
+      "tile roof",
+      "flat roof",
+      "insurance",
+    ],
+    publishedAt: "2026-11-03",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-a-roof-certification/stucco-home-exterior-roof.webp",
+    featuredImageAlt: "Single-story stucco home seen from the street, with tile accents along the roofline",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-inspections",
+      "/roofing/roof-repairs",
+      "/roofing/roof-replacements",
+    ],
+    keywords: [
+      "what is a roof certification",
+      "roof certification las cruces",
+      "roof certification for home sale",
+      "roof certification vs inspection",
+      "how long does a roof certification last",
+    ],
+    faqs: [
+      {
+        question: "Is a roof certification required to sell a house?",
+        answer: "No law requires one to sell a home in New Mexico, but buyers, lenders, appraisers and insurers often ask for one, especially on older roofs. In practice, it's frequently required by one of the parties to the sale.",
+      },
+      {
+        question: "Does a roof certification guarantee no leaks?",
+        answer: "No. It certifies that the roof was in good condition and expected to last a stated period at the time of inspection. New storm damage after that date and normal wear are usually excluded.",
+      },
+      {
+        question: "Can a home inspector certify a roof?",
+        answer: "Home inspectors note the roof's visible condition, but a roof certification is typically issued by a licensed roofing contractor who walks the roof and can make required repairs.",
+      },
+      {
+        question: "How long does it take to get a roof certification?",
+        answer: "The inspection usually takes one to two hours, and the certification can be issued within a few days if no repairs are needed. Allow a week or more if repairs are required.",
+      },
+      {
+        question: "Can an old roof be certified?",
+        answer: "Yes, if it's in good condition and has remaining life, though usually for a shorter period. A roof near or past the end of its expected life may not be certifiable without repairs or replacement.",
+      },
+      {
+        question: "What if the roof leaks after it's certified?",
+        answer: "It depends on the cause and the certification's terms. Problems from defects the roofer should have found may be covered. New storm damage is usually an insurance matter, not a certification matter.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "A roof certification is a written statement from a licensed roofing contractor that a roof is free of active leaks and visible defects and is expected to last a stated number of years, usually 2 to 5. Buyers, sellers, lenders and insurers request one during home sales and refinancing to confirm the roof's condition.",
+      },
+      {
+        type: "paragraph",
+        text: "Most people first hear about roof certifications in the middle of a home sale. A buyer's agent asks for one, an appraiser flags the roof's remaining life, or an insurer won't write a policy on an older roof without one. Suddenly the seller needs a document they've never heard of, usually on a deadline.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide answers the question \"what is a roof certification?\" in plain terms, then covers what it includes, who needs one, how long it lasts, how it differs from an inspection and a warranty, what happens if the roof doesn't pass, and how it works on tile and flat roofs here in southern New Mexico.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Roof Certifications",
+      },
+      {
+        type: "list",
+        items: [
+          "**What it is:** a roofer's written statement of the roof's condition and expected remaining life.",
+          "**Typical certification period:** 2 to 5 years, depending on the roof's age and condition.",
+          "**Who asks for one:** buyers, sellers, lenders, appraisers and insurers.",
+          "**What comes first:** a full roof inspection.",
+          "**If the roof has problems:** repairs are usually required before the certification is issued.",
+          "**What it isn't:** a warranty or a guarantee against all future leaks.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Does a Roof Certification Include?",
+      },
+      {
+        type: "paragraph",
+        text: "If you're asking \"what is a roof certification\" in practical terms, it's usually a one- or two-page document. It typically includes:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Property address** and the date of the inspection",
+          "**Roof type and material** (shingle, tile, metal, TPO, coated flat roof)",
+          "**Estimated roof age**",
+          "**Condition found** during the inspection",
+          "**Repairs completed** before certifying, if any",
+          "**Estimated remaining useful life**",
+          "**Certification period,** such as 2, 3 or 5 years",
+          "**Roofer's name, license number and signature**",
+          "**Conditions or exclusions,** such as storm damage after the date of certification",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Some certifications include photos. Lenders and insurers sometimes have their own form the roofer has to fill out.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Who Needs a Roof Certification?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Sellers** use one to show buyers the roof is sound and head off negotiations over it.",
+          "**Buyers** request one to confirm what a general home inspection could only partly see.",
+          "**Lenders and appraisers** may require one when the roof looks worn. FHA and VA appraisals check that the roof has remaining useful life, and an appraiser can call for a roofer's certification if it's in question.",
+          "**Insurers** sometimes require one to write or renew a policy on an older roof.",
+          "**Commercial buyers and lenders** often require one on flat roofs as part of due diligence.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "A roof certification isn't legally required to sell a home in New Mexico, but it's often required in practice by one of the parties above.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Does the Roofer Check for a Certification?",
+      },
+      {
+        type: "paragraph",
+        text: "A certification starts with a full roof inspection. The roofer checks:",
+      },
+      {
+        type: "list",
+        items: [
+          "The roofing material for wear, damage and remaining life",
+          "Flashing at walls, chimneys, vents and skylights",
+          "Pipe boots and penetrations",
+          "Valleys, edges and drip edge",
+          "Drainage, including gutters, scuppers and canales",
+          "Parapets and roof-to-wall transitions on stucco homes",
+          "The attic, if accessible, for stains, daylight and ventilation",
+          "Signs of past leaks and repairs",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For the full checklist, see [what a roof inspection includes](/blog/what-does-a-roof-inspection-include).",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-a-roof-certification/roof-to-wall-transition-detail.webp",
+        alt: "Close view of an asphalt shingle roof meeting a stucco wall at a roof-to-wall transition",
+        caption: "On most Las Cruces homes the roof-to-wall transition decides whether the roof keeps water out, so it gets a close look before anything is certified.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Long Does a Roof Certification Last?",
+      },
+      {
+        type: "paragraph",
+        text: "Most roof certifications last 2 to 5 years. The period the roofer will certify depends on:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Roof age compared with its expected life.** A five-year-old architectural shingle roof may be certified for 5 years. A 20-year-old one may only qualify for 2, or not at all.",
+          "**Material.** Tile and metal roofs often qualify for longer periods than shingles of the same age.",
+          "**Condition.** Wear, previous repairs and drainage issues shorten the period.",
+          "**What the requesting party needs.** Some lenders and insurers specify a minimum number of years.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For expected lifespans by material, see [how often a roof should be replaced](/blog/how-often-should-a-roof-be-replaced).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What's the Difference Between a Roof Certification, an Inspection and a Warranty?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Roof inspection:** an assessment of the roof's current condition, with findings and recommendations. It describes the roof but doesn't promise anything about it.",
+          "**Roof certification:** a roofer's written statement, based on an inspection, that the roof is in good condition and expected to last a stated number of years. It certifies condition at a point in time.",
+          "**Roof warranty:** a promise to repair or replace covered defects for a period. Manufacturer warranties cover materials, and workmanship warranties cover installation.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "A certification sits between the two. It's more than a report, but it isn't a guarantee that the roof will never leak, especially after new storm damage.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Happens If a Roof Doesn't Pass?",
+      },
+      { type: "paragraph", text: "There are three usual paths:" },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**Repair, then certify.** Most roofs that don't pass need specific repairs, such as resealing flashing, replacing a pipe boot, fixing a parapet cap or replacing cracked tiles. Once repairs are done, the roofer issues the certification.",
+          "**Replace the roof.** If the roof is at the end of its life or the damage is widespread, it may not be certifiable at all. The new roof then comes with its own warranties.",
+          "**Negotiate.** In a sale, the buyer and seller may agree on a price reduction or a repair credit instead.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Being honest early helps. Finding out a roof won't certify a week before closing is far harder than finding out before listing. For the problems most likely to come up, see [the most common roof problems](/blog/most-common-roof-problems).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Who Pays for a Roof Certification, Buyer or Seller?",
+      },
+      {
+        type: "paragraph",
+        text: "It's negotiable. Sellers often pay when they get one before listing to make the home more attractive. Buyers often pay when it's part of their due diligence. When a lender requires one, the cost is usually negotiated as part of the deal. Any required repairs are a separate negotiation.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Much Does a Roof Certification Cost?",
+      },
+      {
+        type: "paragraph",
+        text: "The inspection and certification together usually cost a few hundred dollars for a typical home, more for large, steep, tile or commercial roofs. What changes the price:",
+      },
+      {
+        type: "list",
+        items: [
+          "Roof size, height and pitch",
+          "Material (tile and flat roofs take longer to inspect properly)",
+          "Whether a moisture survey is needed on a flat roof",
+          "Any repairs required before certifying",
+        ],
+      },
+      { type: "paragraph", text: "Repairs are priced separately." },
+      {
+        type: "heading",
+        level: 2,
+        text: "When Should You Get a Roof Certification in a Home Sale?",
+      },
+      {
+        type: "paragraph",
+        text: "**Sellers:** before listing. You'll have time to make repairs on your own schedule, and a certification in hand answers the roof question before a buyer asks it.",
+      },
+      {
+        type: "paragraph",
+        text: "**Buyers:** during the option or inspection period, as soon as the general home inspection flags the roof or the lender or insurer asks.",
+      },
+      {
+        type: "paragraph",
+        text: "Either way, allow at least a week for the inspection, any repairs and the paperwork. Weather can stretch that during monsoon season.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Roof Certifications for Tile and Flat Roofs",
+      },
+      {
+        type: "paragraph",
+        text: "Certification on the roof types common in Las Cruces needs a closer look than a quick walk.",
+      },
+      {
+        type: "paragraph",
+        text: "**Tile roofs.** The tiles can look perfect while the underlayment beneath them is worn out. A proper certification includes lifting a few tiles to check the underlayment. A tile roof past 20 years may need underlayment replacement before it can be certified. See [how long tile roofs last](/blog/how-long-do-tile-roofs-last).",
+      },
+      {
+        type: "paragraph",
+        text: "**Flat roofs.** Pueblo-style homes and commercial buildings need the parapets, scuppers, canales and seams checked carefully, and older flat roofs may need a moisture survey to confirm the insulation is dry.",
+      },
+      {
+        type: "paragraph",
+        text: "**Stucco transitions.** On most Las Cruces homes, the roof-to-wall flashing and parapet caps are part of whether the roof keeps water out, so they're part of the certification too.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Is a roof certification required to sell a house?",
+      },
+      {
+        type: "paragraph",
+        text: "No law requires one to sell a home in New Mexico, but buyers, lenders, appraisers and insurers often ask for one, especially on older roofs. In practice, it's frequently required by one of the parties to the sale.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Does a roof certification guarantee no leaks?",
+      },
+      {
+        type: "paragraph",
+        text: "No. It certifies that the roof was in good condition and expected to last a stated period at the time of inspection. New storm damage after that date and normal wear are usually excluded.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can a home inspector certify a roof?",
+      },
+      {
+        type: "paragraph",
+        text: "Home inspectors note the roof's visible condition, but a roof certification is typically issued by a licensed roofing contractor who walks the roof and can make required repairs.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How long does it take to get a roof certification?",
+      },
+      {
+        type: "paragraph",
+        text: "The inspection usually takes one to two hours, and the certification can be issued within a few days if no repairs are needed. Allow a week or more if repairs are required.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can an old roof be certified?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes, if it's in good condition and has remaining life, though usually for a shorter period. A roof near or past the end of its expected life may not be certifiable without repairs or replacement.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What if the roof leaks after it's certified?",
+      },
+      {
+        type: "paragraph",
+        text: "It depends on the cause and the certification's terms. Problems from defects the roofer should have found may be covered. New storm damage is usually an insurance matter, not a certification matter.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Roof Certifications",
+      },
+      {
+        type: "paragraph",
+        text: "So, what is a roof certification? A licensed roofer's written statement that a roof is sound and expected to last a set number of years, usually 2 to 5. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "It's based on a full inspection, and repairs are often needed before it's issued.",
+          "It's not a warranty. It certifies condition at a point in time.",
+          "Sellers should get one before listing; buyers should request one as soon as the roof is in question.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. We provide [roof inspections](/roofing/roof-inspections) and certifications for home sales, refinancing and insurance, including tile underlayment checks and flat roof parapets, and we can handle any [roof repairs](/roofing/roof-repairs) needed to certify. If the roof needs more than repairs, see [the best time to replace a roof](/blog/best-time-to-replace-a-roof) and our [roof replacement](/roofing/roof-replacements) service. Call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact).",
+      },
+    ],
+  },
+  {
+    slug: "what-is-roof-ventilation",
+    title: "What Is Roof Ventilation? How Attic Airflow Protects Your Roof",
+    excerpt: "Intake low, exhaust high, and a steady current of air under the deck. How attic ventilation works, the vent types, and why it matters in both Las Cruces summers and winters.",
+    metaTitle: "What Is Roof Ventilation? How Attic Airflow Works",
+    metaDescription: "What is roof ventilation? Learn how intake and exhaust vents work, the main types, and why airflow matters in Las Cruces heat and cold.",
+    category: "Roofing",
+    tags: [
+      "ventilation",
+      "attic",
+      "shingles",
+      "roof decking",
+      "energy efficiency",
+      "roof replacement",
+    ],
+    publishedAt: "2026-11-03",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-roof-ventilation/roof-vents-on-shingle-roof.webp",
+    featuredImageAlt: "Two plumbing vent pipes and a low-profile box vent on an asphalt shingle roof",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-installations",
+      "/roofing/roof-replacements",
+      "/roofing/roof-inspections",
+    ],
+    keywords: [
+      "what is roof ventilation",
+      "attic ventilation las cruces",
+      "ridge vent vs box vent",
+      "balanced roof ventilation",
+      "signs of poor attic ventilation",
+    ],
+    faqs: [
+      {
+        question: "What is the best type of roof vent?",
+        answer: "For most pitched roofs, a continuous ridge vent paired with soffit intake vents is considered the most effective passive system. Roofs without a usable ridge may use box vents with soffit intake instead.",
+      },
+      {
+        question: "Do I need ridge vents and soffit vents?",
+        answer: "Most vented attics need both: soffit vents for intake and a ridge vent or other exhaust at the top. Without intake, exhaust vents can't move air properly.",
+      },
+      {
+        question: "Can poor ventilation void a shingle warranty?",
+        answer: "Yes. Most shingle manufacturers require ventilation that meets their guidelines, and inadequate ventilation can reduce or void warranty coverage.",
+      },
+      {
+        question: "Why is my attic wet in winter?",
+        answer: "Usually condensation. Warm, moist air from the house rises into the attic and condenses on the cold roof deck. Better ventilation and sealing air leaks from the house into the attic usually fix it.",
+      },
+      {
+        question: "Do power attic fans help?",
+        answer: "Sometimes. They can remove heat effectively, but without enough intake they pull conditioned air from the house. Passive ridge and soffit ventilation is usually the better first choice.",
+      },
+      {
+        question: "Does a flat roof need vents?",
+        answer: "Many flat roofs are designed as unvented assemblies with insulation above or within the roof, so they don't use traditional attic vents. Whether yours needs ventilation depends on how it was built.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "Roof ventilation is a system of intake vents low on the roof and exhaust vents near the peak that lets air move through the attic. It removes heat in summer and moisture in winter. Balanced ventilation protects shingles, underlayment and decking, lowers cooling costs, and is required by most shingle manufacturer warranties.",
+      },
+      {
+        type: "paragraph",
+        text: "Ventilation is the part of a roof most homeowners never think about. You can't see it from the street, it doesn't leak on its own, and it rarely shows up in a quote as more than a line item. But it quietly decides how long the rest of the roof lasts. In Las Cruces, where summer roof surfaces get far hotter than the air and January nights drop below freezing, it matters in both directions.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide answers \"what is roof ventilation?\" and then explains how it works, the types of vents, what balanced ventilation means, the signs of poor airflow, and how it works on the flat roofs and Pueblo-style homes common here.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Roof Ventilation",
+      },
+      {
+        type: "list",
+        items: [
+          "**How it works:** cool air enters low at the eaves (intake), warm air leaves high at the ridge (exhaust).",
+          "**Common code requirement:** 1 square foot of net free vent area per 150 square feet of attic floor, or 1 per 300 with balanced intake and exhaust and certain conditions.",
+          "**Balanced ventilation:** roughly equal intake and exhaust, with intake equal to or greater than exhaust.",
+          "**Main intake vents:** soffit vents, continuous strip vents, drip edge vents.",
+          "**Main exhaust vents:** ridge vents, box vents, turbines, gable vents, powered fans.",
+          "**Signs of poor ventilation:** hot upper rooms, high cooling bills, curling shingles, attic frost or damp insulation on cold mornings.",
+          "**Flat roofs and cathedral ceilings:** often designed as unvented assemblies with insulation above or within the roof.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Roof Ventilation Work?",
+      },
+      {
+        type: "paragraph",
+        text: "Roof ventilation works on two forces: heat rising and wind.",
+      },
+      {
+        type: "paragraph",
+        text: "Warm air rises. As the attic heats up, warm air collects near the peak. Exhaust vents at or near the ridge let it escape. As it leaves, it pulls cooler outside air in through intake vents low on the roof, usually in the soffits under the eaves. This is called the stack effect.",
+      },
+      {
+        type: "paragraph",
+        text: "Wind helps. Wind blowing across a ridge vent creates low pressure that draws air out, while wind against the eaves pushes air in.",
+      },
+      {
+        type: "paragraph",
+        text: "The result is a steady current of air along the underside of the roof deck, from eave to ridge. That airflow carries away heat in summer and moisture in winter before either can damage the roof.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Does Roof Ventilation Matter?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Summer heat.** Without ventilation, attic temperatures climb far above outdoor temperatures. That heat bakes shingles and underlayment from below and moves into the living space.",
+          "**Winter condensation.** Warm, moist air from inside the house rises into the attic. When it meets the cold underside of the roof deck on a freezing night, it condenses. Without airflow, that moisture soaks into the decking and insulation.",
+          "**Shingle life.** Overheated attics age [asphalt shingles](/blog/what-is-asphalt-shingle-roofing) faster, causing curling and premature granule loss.",
+          "**Decking protection.** Repeated condensation rots plywood and OSB from underneath. See [what roof decking is](/blog/what-is-roof-decking).",
+          "**Energy bills.** A cooler attic means less heat moving into the house and less work for the air conditioner.",
+          "**Warranties.** Most shingle manufacturers require proper ventilation, and inadequate ventilation can reduce or void coverage.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Types of Roof Vents",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Intake Vents",
+      },
+      {
+        type: "paragraph",
+        text: "Intake vents let fresh air into the attic at the lowest point.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Soffit vents:** vented panels or individual vents in the soffit under the eaves. The most common and effective intake.",
+          "**Continuous strip vents:** a long vent strip running along the soffit for even airflow.",
+          "**Drip edge or fascia vents:** for roofs with little or no soffit, these bring air in at the roof edge.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Exhaust Vents",
+      },
+      {
+        type: "paragraph",
+        text: "Exhaust vents let warm, moist air out at the highest point.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Ridge vents:** a continuous vent along the roof peak, covered by ridge cap shingles. Considered the most effective passive exhaust because it runs the full length of the roof.",
+          "**Box vents (static or louver vents):** square vents near the ridge. Common on roofs without a usable ridge line, such as hip roofs.",
+          "**Turbine vents:** spinning vents that use wind to pull air out.",
+          "**Gable vents:** louvered vents in the gable walls at each end of the attic.",
+          "**Powered attic fans:** electric or solar fans that actively pull air out. Useful in some cases, but they can cause problems if intake is inadequate.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-roof-ventilation/hip-roof-overhead-view.webp",
+        alt: "Overhead view of a hip-style asphalt shingle roof on a stucco home, with a vent pipe near the ridge",
+        caption: "A hip roof has very little ridge line to work with, which is why roofs like this one usually use box vents near the top instead of a continuous ridge vent.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Is Balanced Ventilation?",
+      },
+      {
+        type: "paragraph",
+        text: "Balanced ventilation means the attic has roughly as much intake as exhaust, with intake equal to or slightly greater than exhaust. When intake is short, exhaust vents pull air from wherever they can, including from the house below, which wastes conditioned air and can pull moisture into the attic.",
+      },
+      { type: "paragraph", text: "Two common mistakes break the balance:" },
+      {
+        type: "list",
+        items: [
+          "**Blocked intake.** Insulation stuffed into the soffits or painted-over soffit vents cut off intake completely.",
+          "**Mixed exhaust types.** Combining a ridge vent with box vents or a gable vent can short-circuit airflow. Air enters one exhaust and leaves through another near the top of the attic, and the lower attic never ventilates. The general rule is to use one type of exhaust per attic space.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Much Ventilation Does a Roof Need?",
+      },
+      { type: "paragraph", text: "The common building code standard is:" },
+      {
+        type: "list",
+        items: [
+          "**1 square foot of net free vent area for every 150 square feet of attic floor**, or",
+          "**1 square foot for every 300 square feet** when intake and exhaust are balanced and certain other conditions are met.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "\"Net free vent area\" is the actual open area of the vent, not its outer size. Vent manufacturers list it on each product. For a 1,500 square foot attic at the 1:300 ratio, that's about 5 square feet of total vent area, split roughly evenly between intake and exhaust.",
+      },
+      {
+        type: "paragraph",
+        text: "A roofer calculates this during a replacement. If your roof was installed before current standards, it may not meet them.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Are the Signs of Poor Roof Ventilation?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Hot upper rooms** in summer that the air conditioner struggles to cool",
+          "**High cooling bills** compared with similar homes",
+          "**Curling, blistering or prematurely aging shingles**",
+          "**Frost on the underside of the roof deck** on cold mornings",
+          "**Damp or compressed insulation**",
+          "**Rusty nail tips** poking through the deck in the attic",
+          "**Mold or dark staining** on rafters and decking",
+          "**Ceiling stains after cold nights** with no rain, which usually means condensation",
+          "**Ice or water dripping at the eaves** on winter mornings",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Ventilation Work in Las Cruces Heat?",
+      },
+      {
+        type: "paragraph",
+        text: "Summer is when ventilation matters most here. Las Cruces averages summer highs near 95°F with intense sun at around 4,000 feet, and an unvented or poorly vented attic can run far hotter than that.",
+      },
+      { type: "paragraph", text: "That heat:" },
+      {
+        type: "list",
+        items: [
+          "Bakes asphalt shingles from below, shortening their life",
+          "Breaks down [underlayment](/blog/what-is-roof-underlayment), especially older felt",
+          "Pushes heat into the ceilings and upper rooms",
+          "Makes the air conditioner run longer",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Good ventilation won't make an attic as cool as the outdoors, but it removes much of the trapped heat. For more on how roofs handle heat here, see [the best roofing material for hot climates](/blog/best-roofing-material-for-hot-climates).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Ventilation Prevent Winter Condensation?",
+      },
+      {
+        type: "paragraph",
+        text: "Winter is the other half of the job. Even in a mild climate, January lows in Las Cruces regularly fall below freezing. On those nights, the roof deck gets cold. Warm, humid air from cooking, showers and breathing rises into the attic through ceiling gaps, light fixtures and attic hatches. When it hits the cold deck, it condenses.",
+      },
+      {
+        type: "paragraph",
+        text: "Ventilation carries that moist air out before it condenses. Without it, the moisture builds up night after night, soaking insulation, rusting nails and eventually rotting the deck. It's one reason some homeowners see ceiling stains on cold mornings with no rain at all. The fall checklist in [how to prepare your roof for winter](/blog/how-to-prepare-your-roof-for-winter) includes a ventilation check for this reason.",
+      },
+      {
+        type: "paragraph",
+        text: "Sealing air leaks from the house into the attic helps as much as ventilation does.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Do Flat Roofs and Pueblo-Style Homes Need Ventilation?",
+      },
+      {
+        type: "paragraph",
+        text: "Often they're designed differently. Many flat roofs on Pueblo-style homes and commercial buildings in Las Cruces have little or no attic space. Instead, insulation sits above the roof deck, under the membrane, or the roof is built as an unvented assembly with insulation in contact with the deck.",
+      },
+      {
+        type: "paragraph",
+        text: "These designs control heat and moisture with insulation and air sealing rather than airflow. They work well when designed correctly. Problems show up when a roof is partly vented and partly not, or when insulation gets wet from a leak and traps moisture against the deck.",
+      },
+      {
+        type: "paragraph",
+        text: "Cathedral ceilings and vaulted rooms under pitched roofs are similar. Some are vented with a channel between the insulation and the deck, and some are unvented by design.",
+      },
+      {
+        type: "paragraph",
+        text: "If you have a flat roof and aren't sure how it's built, a roofer can tell you during an inspection. For how flat roofs age, see [how long a flat roof lasts](/blog/how-long-does-a-flat-roof-last).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Can You Have Too Much Ventilation?",
+      },
+      { type: "paragraph", text: "Yes, in a few ways." },
+      {
+        type: "list",
+        items: [
+          "**Too much exhaust and not enough intake** pulls conditioned air from the house.",
+          "**Mixed exhaust types** short-circuit airflow, so more vents can actually mean worse ventilation.",
+          "**Powered fans without enough intake** can depressurize the attic and pull air from the house.",
+          "**Poorly placed vents** can let wind-driven rain or dust in during monsoon and spring storms.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "More is not automatically better. Balanced and correctly placed is better.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "When Should Roof Ventilation Be Fixed?",
+      },
+      {
+        type: "list",
+        items: [
+          "**During a roof replacement.** This is the best time, because the deck is exposed and ridge vents and intake can be added cleanly. See [how roof replacement works](/blog/how-does-roof-replacement-work).",
+          "**When signs of poor ventilation appear,** such as attic frost, damp insulation or curling shingles on a young roof.",
+          "**When adding insulation,** to make sure soffit vents stay clear.",
+          "**After a home addition** changes the attic layout.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Poor ventilation also sits on the list of [the most common roof problems](/blog/most-common-roof-problems) here, because it shortens roof life quietly rather than showing up as a leak.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What is the best type of roof vent?",
+      },
+      {
+        type: "paragraph",
+        text: "For most pitched roofs, a continuous ridge vent paired with soffit intake vents is considered the most effective passive system. Roofs without a usable ridge may use box vents with soffit intake instead.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Do I need ridge vents and soffit vents?",
+      },
+      {
+        type: "paragraph",
+        text: "Most vented attics need both: soffit vents for intake and a ridge vent or other exhaust at the top. Without intake, exhaust vents can't move air properly.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can poor ventilation void a shingle warranty?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes. Most shingle manufacturers require ventilation that meets their guidelines, and inadequate ventilation can reduce or void warranty coverage.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Why is my attic wet in winter?",
+      },
+      {
+        type: "paragraph",
+        text: "Usually condensation. Warm, moist air from the house rises into the attic and condenses on the cold roof deck. Better ventilation and sealing air leaks from the house into the attic usually fix it.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Do power attic fans help?",
+      },
+      {
+        type: "paragraph",
+        text: "Sometimes. They can remove heat effectively, but without enough intake they pull conditioned air from the house. Passive ridge and soffit ventilation is usually the better first choice.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Does a flat roof need vents?",
+      },
+      {
+        type: "paragraph",
+        text: "Many flat roofs are designed as unvented assemblies with insulation above or within the roof, so they don't use traditional attic vents. Whether yours needs ventilation depends on how it was built.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Roof Ventilation",
+      },
+      {
+        type: "paragraph",
+        text: "So, what is roof ventilation? It's intake low and exhaust high, moving air along the underside of the roof to carry out heat and moisture. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Balanced ventilation, with soffit intake and ridge exhaust, protects shingles, underlayment and decking and keeps warranties valid.",
+          "In Las Cruces it works both ways: removing summer heat and preventing winter condensation.",
+          "More vents aren't always better. Balance and correct placement matter most, and a re-roof is the best time to fix it.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving Doña Ana County and southern New Mexico since 2010, including Mesilla, Hatch, Anthony, Deming and El Paso. Every [roof installation](/roofing/roof-installations) and [roof replacement](/roofing/roof-replacements) we do includes a ventilation check and balanced intake and exhaust. If you're seeing attic frost, damp insulation or a hot upstairs, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) for a [roof inspection](/roofing/roof-inspections) that includes the attic.",
+      },
+    ],
+  },
 ];
