@@ -9736,4 +9736,1488 @@ export const blogPosts: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: "what-is-ponding-water-on-a-flat-roof",
+    title: "What Is Ponding Water on a Flat Roof? Causes, Damage and Fixes",
+    excerpt: "If water is still on the roof two days after a storm, that's ponding. What causes it, the damage it does to membranes and decking, and the fixes that actually last.",
+    metaTitle: "What Is Ponding Water on a Flat Roof? Causes & Fixes",
+    metaDescription: "What is ponding water on a flat roof? Learn the 48-hour rule, what causes it, the damage it does and how to fix drainage in Las Cruces.",
+    category: "Commercial Roofing",
+    tags: [
+      "flat roof",
+      "ponding water",
+      "drainage",
+      "parapet",
+      "canales",
+      "roof coating",
+      "TPO",
+      "maintenance",
+    ],
+    publishedAt: "2026-11-11",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-ponding-water-on-a-flat-roof/white-flat-roof-solar-aerial.webp",
+    featuredImageAlt: "Aerial view of a white flat commercial roof with rows of tilted solar panels on ballast racks and parapet walls around the edge",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/silicone-roof-restoration",
+      "/roofing/roof-repairs",
+      "/roofing/roof-inspections",
+    ],
+    keywords: [
+      "what is ponding water on a flat roof",
+      "ponding water flat roof las cruces",
+      "flat roof drainage problems",
+      "48 hour rule roof ponding",
+      "how to fix ponding on a flat roof",
+    ],
+    faqs: [
+      {
+        question: "How long can water sit on a flat roof?",
+        answer: "The industry standard is 48 hours. Water that drains or evaporates within 48 hours of rain is normal, while water that stays longer is considered ponding.",
+      },
+      {
+        question: "Is ponding water on a flat roof dangerous?",
+        answer: "It can be. Over time it causes leaks, membrane wear and deck damage, and large ponds add significant weight that can make a deck sag further.",
+      },
+      {
+        question: "Does ponding water void a roof warranty?",
+        answer: "It can. Many manufacturer warranties exclude damage from ponding water, so check your warranty terms and fix drainage problems early.",
+      },
+      {
+        question: "Will a roof coating fix ponding water?",
+        answer: "A coating doesn't fix the cause. Silicone coatings tolerate ponding better than acrylics, but drainage problems still need to be corrected with slope, crickets or added outlets.",
+      },
+      {
+        question: "Can I remove ponding water myself?",
+        answer: "Pushing water toward a drain with a soft broom is generally safe, but avoid sharp tools that can puncture the membrane. Long-term fixes need a roofer.",
+      },
+      {
+        question: "How much does it cost to fix ponding on a flat roof?",
+        answer: "It depends on the cause. Clearing a clogged scupper is minor, while adding drains or tapered insulation is a larger project, often done during replacement.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "Ponding water is standing water that stays on a flat or low-slope roof for more than 48 hours after rain stops. It usually comes from a sagging deck, clogged scuppers or canales, or low spots in the roof. Ponding speeds up membrane breakdown, strains seams, adds weight to the structure and can void a roof warranty.",
+      },
+      {
+        type: "paragraph",
+        text: "Every flat roof holds a little water for a few hours after a storm. That's normal. The problem starts when the water is still there two days later, and again after the next storm, and the next. Over a few monsoon seasons, those puddles wear through coatings, open seams and find their way into the building.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide answers \"what is ponding water on a flat roof?\" and then covers what causes it, the damage it does, how different roof systems handle it, why it's so common on Las Cruces flat roofs, how to check your own roof, and how it gets fixed.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Ponding Water on Flat Roofs",
+      },
+      {
+        type: "list",
+        items: [
+          "**Definition:** water that remains on a roof 48 hours after rain ends, under normal drying conditions.",
+          "**Common causes:** deck deflection, clogged drains, scuppers and canales, compressed insulation, low spots from past repairs.",
+          "**Main risks:** seam failure, accelerated membrane and coating wear, leaks, deck rot, added structural weight.",
+          "**Weight:** one inch of water over 100 square feet weighs a little over 500 pounds.",
+          "**Warning signs:** dried water rings, dirt or algae lines, cracked coating in the same spots, leaks after storms.",
+          "**Typical fixes:** clearing drains, tapered insulation, crickets, added scuppers, or re-sloping during replacement.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Counts as Ponding Water, and What Is Normal Drying?",
+      },
+      {
+        type: "paragraph",
+        text: "The roofing industry generally uses the 48-hour rule. If water is gone within 48 hours of the rain stopping, the roof is draining as designed. If it's still there after 48 hours in normal weather, that's ponding.",
+      },
+      { type: "paragraph", text: "A few points help tell the difference:" },
+      {
+        type: "list",
+        items: [
+          "**Shallow film that evaporates in a day:** normal.",
+          "**Puddles that shrink slowly but last two or more days:** ponding.",
+          "**The same puddle in the same spot after every storm:** ponding with a structural or drainage cause.",
+          "**Water standing behind a parapet or at a scupper:** a drainage blockage, which can turn into ponding fast.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "In Las Cruces, the sun and dry air usually clear a flat roof quickly. So water that lasts two days here is a stronger warning sign than it would be in a humid climate.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Causes Ponding Water on a Flat Roof?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Deck deflection.** Older wood or steel decks sag between supports over time, especially under heavy rooftop units. The sag creates a shallow bowl that holds water.",
+          "**Clogged drains, scuppers and canales.** Dust, leaves, gravel and nests block the outlets. Water backs up across the roof.",
+          "**Not enough slope.** \"Flat\" roofs are supposed to slope about a quarter inch per foot toward drains. Many older roofs were built with less.",
+          "**Compressed or wet insulation.** Foot traffic and saturated insulation create low spots under the membrane.",
+          "**Past repairs and re-roofs.** Patches, extra layers and roof-overs can build up high spots that trap water behind them.",
+          "**Rooftop equipment.** HVAC curbs, swamp cooler stands and pipe supports block the path water should take to the drain.",
+          "**Settling.** On some clay soils in the valley, building movement can change how a roof drains over the years.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-ponding-water-on-a-flat-roof/white-flat-roof-solar-aerial.webp",
+        alt: "Aerial view of a white flat commercial roof with rows of tilted solar panels on ballast racks and parapet walls around the edge",
+        caption: "Every piece of rooftop equipment is something water has to get around. Ballasted racks, curbs and pipe supports are a common reason water stalls on one part of a roof.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Damage Does Ponding Water Cause?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Faster membrane and coating wear.** Standing water combined with sun magnifies UV exposure and heat cycling at the waterline. Coatings crack and peel there first.",
+          "**Seam failure.** Water sitting on seams for days stresses adhesives and laps, especially on older built-up and modified bitumen roofs.",
+          "**Leaks.** Ponding finds every weak spot within reach. A small pinhole under a pond leaks far more than one on a dry part of the roof.",
+          "**Deck and insulation damage.** Once water gets in, wet insulation loses its value and wood decking rots. See [what roof decking is](/blog/what-is-roof-decking).",
+          "**Added weight.** Water is heavy. As a deck sags, it holds more water, which makes it sag more. This cycle is called progressive deflection and, in extreme cases, it leads to structural failure.",
+          "**Dirt, algae and plant growth.** Ponds collect debris that holds moisture even after the water evaporates.",
+          "**Warranty problems.** Many manufacturer warranties exclude damage from ponding, so a ponding roof may lose coverage.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do Different Flat Roof Systems Handle Ponding?",
+      },
+      {
+        type: "list",
+        items: [
+          "**TPO and PVC:** heat-welded seams handle short-term ponding well, but long-term standing water still shortens membrane life. See [what TPO roofing is](/blog/what-is-tpo-roofing).",
+          "**Modified bitumen and built-up roofs:** more vulnerable at laps and seams, and prone to blistering and granule loss where water sits.",
+          "**Acrylic coatings:** generally not rated for ponding water. They soften and fail where water stands.",
+          "**Silicone coatings:** among the most ponding-tolerant coatings, which is a big reason they're used on low-slope roofs. They still don't fix the drainage problem underneath. See [what silicone roof restoration is](/blog/what-is-silicone-roof-restoration).",
+          "**Spray foam:** can be built up to add slope, but needs a good coating to resist standing water.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "No membrane makes ponding harmless. The best roofs both resist water and drain it.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-ponding-water-on-a-flat-roof/roof-coating-flat-roof-parapet.webp",
+        alt: "Roofer applying a reflective coating across a flat roof, with a parapet wall and rooftop units behind",
+        caption: "A coating protects the surface, but it sits on whatever slope is already there. Drainage has to be corrected first or the same spots will pond again.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Is Ponding Water Common on Las Cruces Flat Roofs?",
+      },
+      {
+        type: "paragraph",
+        text: "So, what is ponding water on a flat roof in Las Cruces specifically? It's usually a drainage problem made worse by local conditions:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Monsoon downbursts.** Las Cruces gets only about 9 to 10 inches of rain a year, but much of it falls in short, heavy July through September storms. A roof that drains fine in a drizzle can't keep up with an inch in an hour.",
+          "**Dust and debris.** Spring winds blow dust, leaves and tumbleweeds onto roofs and into scuppers and canales.",
+          "**Parapets.** Pueblo and Territorial homes and most commercial buildings have parapet walls that hold water on the roof until it reaches an outlet. If the outlet is blocked, the parapet becomes a dam.",
+          "**Older roofs with minimal slope.** Many flat roofs in the area were built decades ago, before tapered insulation was standard.",
+          "**Heat.** Summer roof surfaces get extremely hot, so the waterline of a pond goes through harsh wet and dry and hot and cool cycles.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do You Check a Flat Roof for Ponding?",
+      },
+      {
+        type: "paragraph",
+        text: "You don't always have to see the water to know it's there.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Check 48 hours after rain.** From a safe vantage point, look for standing water.",
+          "**Look for water rings.** Dried rings, dirt lines or stained patches show where water has pooled before.",
+          "**Look for algae or plant growth.** Green or black patches mean water sits there regularly.",
+          "**Check every scupper and canale.** Blocked outlets mean water is backing up somewhere. See [what canales on a roof are](/blog/what-are-canales-on-a-roof).",
+          "**Watch for cracking or peeling coating** in the same spots, often in an outline.",
+          "**Track leaks after storms.** Leaks that show up hours after rain stops often trace back to ponding. See [how to find a roof leak](/blog/how-to-find-a-roof-leak).",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Walking a flat roof is safer than walking a pitched one, but parapets, skylights and soft spots still pose real risks. If you're not sure, have a roofer check it during a [roof inspection](/roofing/roof-inspections).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Is Ponding Water on a Flat Roof Fixed?",
+      },
+      { type: "paragraph", text: "The fix depends on the cause." },
+      {
+        type: "list",
+        items: [
+          "**Clear the drainage.** If clogged scuppers, canales or drains are the cause, cleaning them may solve it.",
+          "**Add or enlarge outlets.** Adding a scupper or drain at a chronic low spot gives water somewhere to go. On parapet roofs, this usually means cutting through the parapet and flashing it properly. See [what parapet repair is](/blog/what-is-parapet-repair).",
+          "**Install crickets.** A cricket is a small raised section that diverts water around obstacles like HVAC curbs and toward drains.",
+          "**Fill low spots.** Some systems allow localized build-up with compatible materials.",
+          "**Tapered insulation.** During a re-roof, tapered insulation boards add consistent slope toward drains. This is the most reliable long-term fix.",
+          "**Repair the deck.** If the deck has sagged or rotted, it needs repair or reinforcement before a new roof goes on.",
+          "**Choose a ponding-tolerant system.** When re-roofing or restoring, silicone coatings and certain membranes handle any remaining standing water better.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Coating over a pond without fixing the cause only hides it for a while.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Can Ponding Water Be Prevented?",
+      },
+      { type: "paragraph", text: "Mostly, yes." },
+      {
+        type: "list",
+        items: [
+          "**Clear scuppers, canales and drains** before monsoon season and again in fall.",
+          "**Keep debris off the roof**, especially after spring wind events.",
+          "**Limit foot traffic** and protect walkways to HVAC equipment.",
+          "**Fix small low spots early**, before they grow.",
+          "**Plan slope into any replacement.** Ask your roofer how the new roof will drain.",
+          "**Schedule regular inspections.** A [roof maintenance plan](/blog/what-is-a-roof-maintenance-plan) catches drainage problems before they become leaks.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How long can water sit on a flat roof?",
+      },
+      {
+        type: "paragraph",
+        text: "The industry standard is 48 hours. Water that drains or evaporates within 48 hours of rain is normal, while water that stays longer is considered ponding.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Is ponding water on a flat roof dangerous?",
+      },
+      {
+        type: "paragraph",
+        text: "It can be. Over time it causes leaks, membrane wear and deck damage, and large ponds add significant weight that can make a deck sag further.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Does ponding water void a roof warranty?",
+      },
+      {
+        type: "paragraph",
+        text: "It can. Many manufacturer warranties exclude damage from ponding water, so check your warranty terms and fix drainage problems early.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Will a roof coating fix ponding water?",
+      },
+      {
+        type: "paragraph",
+        text: "A coating doesn't fix the cause. Silicone coatings tolerate ponding better than acrylics, but drainage problems still need to be corrected with slope, crickets or added outlets.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can I remove ponding water myself?",
+      },
+      {
+        type: "paragraph",
+        text: "Pushing water toward a drain with a soft broom is generally safe, but avoid sharp tools that can puncture the membrane. Long-term fixes need a roofer.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How much does it cost to fix ponding on a flat roof?",
+      },
+      {
+        type: "paragraph",
+        text: "It depends on the cause. Clearing a clogged scupper is minor, while adding drains or tapered insulation is a larger project, often done during replacement.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Ponding Water",
+      },
+      {
+        type: "paragraph",
+        text: "So, what is ponding water on a flat roof? It's water that's still on the roof 48 hours after rain, and it's a sign of a drainage problem. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Ponding comes from sagging decks, blocked scuppers and canales, low spots or poor slope.",
+          "It wears out membranes and coatings faster, opens seams, adds weight and can void warranties.",
+          "Clearing outlets helps, but lasting fixes add slope or drainage, ideally during a re-roof.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For how long different flat roofs last, see [how long a flat roof lasts](/blog/how-long-does-a-flat-roof-last).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving southern New Mexico since 2010, including Mesilla, University Park, Hatch, Anthony, Chaparral, Sunland Park, Deming and El Paso. We fix flat roof drainage, add scuppers and crickets, repair parapets, and install [silicone roof restoration](/roofing/silicone-roof-restoration) systems built to handle standing water. If water is sitting on your roof after storms, call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) for a [roof repair](/roofing/roof-repairs) assessment.",
+      },
+    ],
+  },
+  {
+    slug: "what-is-roof-snow-load",
+    title: "What Is Roof Snow Load? A Guide for Southern New Mexico Homeowners",
+    excerpt: "Weight matters more than depth. How snow load is set, what a foot of wet snow really weighs, and why a Ruidoso roof is built very differently from a Las Cruces one.",
+    metaTitle: "What Is Roof Snow Load? A Southern NM Guide",
+    metaDescription: "What is roof snow load? Learn how it's measured, why Ruidoso and Silver City roofs need more of it, and the warning signs of overload.",
+    category: "Homeowner Guides",
+    tags: [
+      "snow load",
+      "winter",
+      "flat roof",
+      "parapet",
+      "metal roofing",
+      "ice dam",
+      "ventilation",
+      "roof decking",
+    ],
+    publishedAt: "2026-11-11",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-is-roof-snow-load/tile-roof-mountain-horizon.webp",
+    featuredImageAlt: "Clay tile and low-slope roof sections on a stucco home, with a mountain range on the horizon",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: [
+      "/roofing/roof-inspections",
+      "/roofing/roof-replacements",
+      "/roofing/emergency-roofing",
+    ],
+    keywords: [
+      "what is roof snow load",
+      "roof snow load new mexico",
+      "ruidoso roof snow load",
+      "how much does snow weigh on a roof",
+      "snow load warning signs",
+    ],
+    faqs: [
+      {
+        question: "How much snow can a roof hold?",
+        answer: "It depends on how the roof was designed and where it is. Roofs are built for the local ground snow load set by the building department, which is much higher in mountain towns like Ruidoso than in Las Cruces.",
+      },
+      {
+        question: "How do I find the snow load for my area?",
+        answer: "Your local building department publishes the design snow load for your jurisdiction. A roofer or structural engineer can also tell you what your roof was built to carry.",
+      },
+      {
+        question: "Is wet snow heavier than dry snow?",
+        answer: "Yes, much heavier. Wet, packed snow can weigh three to four times as much as the same depth of fresh, dry powder.",
+      },
+      {
+        question: "Does Las Cruces need to worry about snow load?",
+        answer: "Rarely. Las Cruces averages about 2 inches of snow a year, and it usually melts within hours. Freeze and thaw cycles and blocked drains are bigger winter concerns here.",
+      },
+      {
+        question: "Can snow cause a roof to collapse?",
+        answer: "It can, especially with heavy wet snow, rain on snow, drifting, or an older roof with weakened framing. Roofs built to current code for their location rarely fail under normal storms.",
+      },
+      {
+        question: "What roof is best for heavy snow?",
+        answer: "Metal roofs shed snow most easily and are common in higher-elevation towns. Any roof can handle snow if the framing is designed for the local snow load.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "Roof snow load is the weight of snow and ice a roof is designed to carry safely, measured in pounds per square foot (psf). It is based on the local ground snow load set by building codes, adjusted for roof slope, exposure and drifting. Mountain towns like Ruidoso and Silver City need far higher snow load ratings than Las Cruces.",
+      },
+      {
+        type: "paragraph",
+        text: "Most Las Cruces homeowners never think about snow load. The city averages around 2 inches of snow a year, and it rarely lasts past noon. But an hour or two north and west, the picture changes. Ruidoso sits near 6,900 feet and Silver City near 6,000 feet, and both see real winter storms that leave heavy, wet snow on roofs for days.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide answers \"what is roof snow load?\" and then explains how it's measured, how much snow actually weighs, how it varies across southern New Mexico, how flat roofs and parapets handle snow, the warning signs of overload, and how to prepare a roof before winter.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Roof Snow Load",
+      },
+      {
+        type: "list",
+        items: [
+          "**What it is:** the weight of snow and ice a roof is built to support, in pounds per square foot.",
+          "**Starting point:** ground snow load, set by the local building department based on climate data.",
+          "**Adjusted for:** roof slope, wind exposure, heating of the building, and drifting.",
+          "**Fresh dry snow:** roughly 5 psf per foot of depth.",
+          "**Wet, packed snow:** roughly 15 to 20 psf per foot or more.",
+          "**Ice:** about 5 psf per inch.",
+          "**Highest risk areas here:** Ruidoso, Cloudcroft, Silver City and other higher-elevation towns.",
+          "**Warning signs:** sagging, new drywall cracks, sticking interior doors, creaking or popping sounds.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Is Roof Snow Load Measured?",
+      },
+      { type: "paragraph", text: "Snow load starts with two numbers." },
+      {
+        type: "list",
+        items: [
+          "**Ground snow load** is how much snow weight is expected on the ground in a given area, based on historical weather records. Building codes and local jurisdictions publish these values. They rise sharply with elevation.",
+          "**Roof snow load** is what the roof actually has to be designed for. Engineers start from the ground snow load and adjust it for the roof's slope, how exposed it is to wind, whether the building is heated, and whether snow can drift or slide onto it.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "A roof's framing, decking and connections are then sized to carry that load plus the weight of the roof itself. When a home is built to code for its location, the roof is designed to handle the snow that area normally sees, with a safety margin.",
+      },
+      {
+        type: "paragraph",
+        text: "Problems happen when a storm exceeds the design, when snow drifts unevenly, when rain soaks the snow, or when an older roof has weakened framing or rotted decking.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Much Does Snow Weigh?",
+      },
+      {
+        type: "paragraph",
+        text: "Snow varies far more in weight than most people expect.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Fresh, light snow:** about 5 pounds per square foot for every foot of depth.",
+          "**Settled snow:** about 10 to 15 psf per foot as it compacts.",
+          "**Wet, heavy snow:** 20 psf per foot or more. Spring storms in the mountains often bring this kind.",
+          "**Ice:** roughly 5 psf for every inch of thickness, so a few inches of ice can weigh as much as two feet of fresh snow.",
+          "**Rain on snow:** the snow absorbs the rain like a sponge, adding weight without adding depth.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "That's why depth alone doesn't tell you much. Two feet of wet snow can weigh three or four times as much as two feet of powder.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Does Snow Load Vary Across Southern New Mexico?",
+      },
+      {
+        type: "paragraph",
+        text: "The answer to \"what is roof snow load?\" depends a lot on where your home sits.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Las Cruces, Mesilla, University Park and the Mesilla Valley (about 3,900 to 4,000 feet):** very light snowfall that melts fast. Ground snow loads are low, and snow load is rarely the deciding factor in roof design.",
+          "**Hatch, Deming, Anthony, Chaparral and Sunland Park:** similar to Las Cruces, with occasional light snow.",
+          "**Truth or Consequences (about 4,200 feet):** light snow, but bigger day-to-night temperature swings that cause freeze and thaw cycles.",
+          "**Silver City (about 6,000 feet):** regular winter snow, with storms that can leave several inches to a foot on roofs.",
+          "**Ruidoso and Cloudcroft (about 6,900 to 8,600 feet):** the heaviest snow in the region. Roofs here are designed for significantly higher snow loads and often need regular snow management in heavy winters.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "The local building department sets the ground snow load for each jurisdiction. If you're building, re-roofing or adding solar in a mountain town, that number matters.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do Flat Roofs and Parapets Handle Snow?",
+      },
+      {
+        type: "paragraph",
+        text: "Flat roofs with parapets, common on Pueblo-style homes and commercial buildings, need extra attention in snow country.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Drifting.** Wind piles snow against parapet walls and rooftop equipment, creating loads far heavier than the open roof.",
+          "**No shedding.** A flat roof holds all the snow that falls on it until it melts.",
+          "**Blocked drains.** Snow and ice clog scuppers, canales and drains, so meltwater can't escape. Water pools behind ice and adds weight.",
+          "**Ponding after melt.** Meltwater that can't drain sits on the roof. See [what ponding water on a flat roof is](/blog/what-is-ponding-water-on-a-flat-roof).",
+          "**Parapet freeze damage.** Water soaked into cracked parapet caps freezes and expands, widening cracks. See [what parapet repair is](/blog/what-is-parapet-repair).",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do Roof Pitch and Material Affect Snow Shedding?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Steep roofs shed snow faster** than low-slope roofs, which reduces the load.",
+          "**Metal roofs** shed snow best because of their smooth surface, which is why they're popular in Ruidoso and Cloudcroft. Snow guards are often added so snow doesn't slide off all at once onto walkways or decks. See [what metal roofing is](/blog/what-is-metal-roofing).",
+          "**Asphalt shingles** hold snow longer because of their textured surface.",
+          "**Tile roofs** hold snow well but are heavy themselves, so the framing must be designed for both the tile and the snow.",
+          "**Low-slope and flat roofs** hold almost all their snow.",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-is-roof-snow-load/roofer-harness-tile-roof.webp",
+        alt: "Roofer in a safety harness working at the edge of a clay tile roof against a clear sky",
+        caption: "Tile is heavy before any snow lands on it, so the framing underneath has to be sized for the tile and the local snow load together.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Are the Warning Signs of Too Much Snow on a Roof?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Visible sagging** of the roofline or ceiling",
+          "**New cracks** in drywall or plaster, especially near the ceiling",
+          "**Interior doors** that suddenly stick or won't latch, particularly upstairs",
+          "**Creaking, cracking or popping sounds** from the attic or roof",
+          "**Leaks** or water stains during or after a snowstorm",
+          "**Bent or bowed** ceiling joists or rafters, if you can see into the attic",
+          "**Sprinkler heads** in commercial buildings pushed down below the ceiling line",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "If you notice several of these at once, leave the area under the affected roof and call a professional. See [what emergency roof repair is](/blog/what-is-emergency-roof-repair).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Should You Remove Snow From Your Roof?",
+      },
+      {
+        type: "paragraph",
+        text: "Usually, a roof built to code for its area doesn't need snow removed after a normal storm. Removal makes sense when:",
+      },
+      {
+        type: "list",
+        items: [
+          "Snow is unusually deep or wet",
+          "Rain is forecast on top of existing snow",
+          "Drifts are piling against parapets or equipment",
+          "The roof is older or showing any warning signs above",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "If you do clear snow, stay on the ground and use a roof rake with a long handle, pulling snow down from the edge. Leave a few inches on the roof so you don't scrape off shingles or damage the membrane. Don't climb onto a snowy roof, and keep clear of power lines. For flat roofs and large commercial roofs, hire a professional.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Is an Ice Dam, and Does It Happen Here?",
+      },
+      {
+        type: "paragraph",
+        text: "An ice dam is a ridge of ice that forms at the eaves when heat from the house melts snow on the upper roof and the water refreezes at the colder edge. Water then backs up under the shingles and leaks inside.",
+      },
+      {
+        type: "paragraph",
+        text: "Ice dams are rare in Las Cruces but do happen in Ruidoso, Cloudcroft and Silver City. Good attic insulation, air sealing and balanced ventilation keep the roof deck cold and prevent most of them. See [what roof ventilation is](/blog/what-is-roof-ventilation).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do You Prepare a Mountain Roof Before Winter?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Clear gutters, scuppers and canales** so meltwater can drain.",
+          "**Repair damaged shingles, tiles and flashing** before snow arrives.",
+          "**Check parapet caps** for cracks that will let water in to freeze.",
+          "**Inspect the attic** for stains, rot and signs of past ice dams.",
+          "**Confirm insulation and ventilation** are adequate.",
+          "**Install snow guards** on metal roofs over doors, decks and walkways.",
+          "**Trim overhanging branches** that could drop heavy snow or break under ice.",
+          "**Have older roofs inspected**, especially if the decking or framing may be weakened. See [what roof decking is](/blog/what-is-roof-decking).",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For a full fall checklist, see [how to prepare your roof for winter](/blog/how-to-prepare-your-roof-for-winter).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How much snow can a roof hold?",
+      },
+      {
+        type: "paragraph",
+        text: "It depends on how the roof was designed and where it is. Roofs are built for the local ground snow load set by the building department, which is much higher in mountain towns like Ruidoso than in Las Cruces.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How do I find the snow load for my area?",
+      },
+      {
+        type: "paragraph",
+        text: "Your local building department publishes the design snow load for your jurisdiction. A roofer or structural engineer can also tell you what your roof was built to carry.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Is wet snow heavier than dry snow?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes, much heavier. Wet, packed snow can weigh three to four times as much as the same depth of fresh, dry powder.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Does Las Cruces need to worry about snow load?",
+      },
+      {
+        type: "paragraph",
+        text: "Rarely. Las Cruces averages about 2 inches of snow a year, and it usually melts within hours. Freeze and thaw cycles and blocked drains are bigger winter concerns here.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can snow cause a roof to collapse?",
+      },
+      {
+        type: "paragraph",
+        text: "It can, especially with heavy wet snow, rain on snow, drifting, or an older roof with weakened framing. Roofs built to current code for their location rarely fail under normal storms.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What roof is best for heavy snow?",
+      },
+      {
+        type: "paragraph",
+        text: "Metal roofs shed snow most easily and are common in higher-elevation towns. Any roof can handle snow if the framing is designed for the local snow load.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Roof Snow Load",
+      },
+      {
+        type: "paragraph",
+        text: "So, what is roof snow load? It's the weight of snow and ice a roof is designed to carry, measured in pounds per square foot and set by local building codes. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Weight matters more than depth. Wet snow and ice weigh far more than fresh powder.",
+          "Snow load varies widely across southern New Mexico, from very low in Las Cruces to high in Ruidoso and Silver City.",
+          "Flat roofs, parapets and older framing need the most attention, and fall is the time to prepare.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Snow and ice are one of several issues covered in [the most common roof problems](/blog/most-common-roof-problems).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving southern New Mexico since 2010, including Ruidoso, Silver City, Truth or Consequences, Hatch, Deming and the Mesilla Valley. We inspect mountain and flat roofs before winter, repair parapets and drainage, and install [roof replacements](/roofing/roof-replacements) designed for local snow loads. Call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) to schedule a [roof inspection](/roofing/roof-inspections) before the snow arrives. If snow has already damaged your roof, our [emergency roofing](/roofing/emergency-roofing) team can help.",
+      },
+    ],
+  },
+  {
+    slug: "different-types-of-stucco-finishes",
+    title: "Different Types of Stucco Finishes: A Guide for Las Cruces Homes",
+    excerpt: "Santa Fe, sand float, dash, lace, cat face and Spanish. What each finish looks like, which ones hide cracks, and why matching an existing texture is the hard part.",
+    metaTitle: "Different Types of Stucco Finishes Explained",
+    metaDescription: "Explore the different types of stucco finishes, from Santa Fe and sand to dash and lace, plus how to match an existing texture on repairs.",
+    category: "Stucco",
+    tags: [
+      "stucco",
+      "stucco finishes",
+      "texture matching",
+      "EIFS",
+      "stucco repair",
+      "color",
+      "Santa Fe finish",
+    ],
+    publishedAt: "2026-11-11",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/different-types-of-stucco-finishes/smooth-stucco-wall-surface.webp",
+    featuredImageAlt: "Close view of a smooth stucco wall surface meeting a curved parapet edge on a modern home",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: ["/stucco", "/roofing/roof-repairs", "/roofing/roof-inspections"],
+    keywords: [
+      "different types of stucco finishes",
+      "stucco finishes las cruces",
+      "santa fe stucco finish",
+      "sand float stucco finish",
+      "matching stucco texture on a repair",
+    ],
+    faqs: [
+      {
+        question: "What is the most popular stucco finish in New Mexico?",
+        answer: "The Santa Fe finish is one of the most popular in New Mexico because its soft, rounded look suits Pueblo and adobe-style homes. Sand float finishes are also very common.",
+      },
+      {
+        question: "Which stucco finish is easiest to maintain?",
+        answer: "Sand float finishes are generally the easiest to keep clean because they have less texture to trap dust. Acrylic finishes also hold color well with little upkeep.",
+      },
+      {
+        question: "Can you change the finish on existing stucco?",
+        answer: "Yes. A new finish coat can be applied over sound existing stucco after cleaning and preparing the surface. Damaged or cracked areas must be repaired first.",
+      },
+      {
+        question: "Why doesn't my stucco patch match?",
+        answer: "Usually the texture, tools, aggregate size or color differ from the original. Matching takes testing and skill, and sometimes the whole wall section needs refinishing.",
+      },
+      {
+        question: "Is acrylic stucco better than traditional stucco?",
+        answer: "Neither is better for every home. Acrylic resists hairline cracks and fading, while traditional cement finishes are more breathable and long-lasting on masonry and lath walls.",
+      },
+      {
+        question: "Does stucco need to be painted?",
+        answer: "Not if it has integral color. Painting is optional, but it can refresh faded color, and elastomeric paint can help bridge small cracks.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "The different types of stucco finishes include smooth or Santa Fe, sand or float, dash, lace and skip trowel, cat face, Spanish or Mission, and swirl. Each is created in the final coat with a specific tool and technique. The finish affects how a wall looks, how well it hides cracks and dirt, and how easily it can be matched on a repair.",
+      },
+      {
+        type: "paragraph",
+        text: "The finish coat is the part of a stucco wall everyone sees, and it does a lot of the visual work on a home. In Las Cruces and Mesilla, where Pueblo, Territorial and Spanish styles dominate, the right finish can make a home look like it belongs here. The wrong one, or a mismatched patch, stands out from the street.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide walks through the different types of stucco finishes, how each one is applied, which ones suit local architecture, traditional versus acrylic finish coats, how color is added, and how a contractor matches an existing texture during a repair.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Stucco Finishes",
+      },
+      {
+        type: "list",
+        items: [
+          "**Where the finish happens:** the final coat, applied over the scratch and brown coats.",
+          "**Most common finishes here:** Santa Fe, sand float, dash and lace.",
+          "**Best for hiding cracks and imperfections:** heavier textures like dash, lace and cat face.",
+          "**Easiest to keep clean:** smoother finishes like sand float.",
+          "**Hardest to patch invisibly:** smooth and Santa Fe finishes.",
+          "**Finish coat types:** traditional cement-based or acrylic (elastomeric).",
+          "**Color options:** integral color mixed into the finish, or paint applied afterward.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Is a Stucco Finish?",
+      },
+      {
+        type: "paragraph",
+        text: "Traditional stucco goes on in three coats. The scratch coat bonds to the lath, the brown coat builds thickness and creates a flat surface, and the finish coat adds the texture and, often, the color. For the full process, see [how stucco is applied](/blog/how-is-stucco-applied).",
+      },
+      {
+        type: "paragraph",
+        text: "The finish coat is usually about an eighth of an inch thick. Its texture comes from the tool used (a trowel, a float, a sponge or a sprayer), the consistency of the mix, the size of the sand, and the plasterer's hand. Two crews using the same finish name can produce noticeably different walls.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Are the Different Types of Stucco Finishes?",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Smooth and Santa Fe Finish",
+      },
+      {
+        type: "paragraph",
+        text: "A smooth finish is troweled flat with little visible texture. The Santa Fe finish is a softer variation with gentle, rounded undulations that mimic hand-plastered adobe. It's one of the most popular finishes in New Mexico.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** soft, organic, adobe-inspired",
+          "**Best for:** Pueblo Revival and Santa Fe-style homes",
+          "**Trade-offs:** shows cracks and patches more than textured finishes, and takes the most skill to apply",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Sand Float Finish",
+      },
+      {
+        type: "paragraph",
+        text: "A sand finish is created by working the finish coat with a float, which brings the sand in the mix to the surface. The result is a fine, even, slightly gritty texture. Coarser sand creates a heavier float texture.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** uniform and clean",
+          "**Best for:** contemporary, Territorial and commercial buildings",
+          "**Trade-offs:** shows hairline cracks more than heavy textures, but is easy to clean and fairly easy to match",
+        ],
+      },
+      {
+        type: "image",
+        src: "/images/blog/different-types-of-stucco-finishes/modern-stucco-exterior-massing.webp",
+        alt: "Modern stucco home with smooth-finished walls, deep window reveals and a flat parapet roofline",
+        caption: "Smooth and fine sand float finishes suit contemporary massing like this, where the wall planes are meant to read as clean, unbroken surfaces.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Dash Finish",
+      },
+      {
+        type: "paragraph",
+        text: "A dash finish is sprayed or thrown onto the wall, leaving a bumpy, splattered texture. It can be light or heavy depending on the mix and pressure.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** rough, textured",
+          "**Best for:** walls where durability and hiding imperfections matter most",
+          "**Trade-offs:** collects dust and can be harder to clean, which matters during spring wind season",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Lace and Skip Trowel Finish",
+      },
+      {
+        type: "paragraph",
+        text: "Lace starts as a dash coat, then the high points are knocked down with a trowel, creating flattened areas with lower texture in between. Skip trowel is similar but hand-applied, with the trowel skipping across the wall to leave random flat patches.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** layered, textured, with a hand-crafted feel",
+          "**Best for:** Spanish and Mediterranean styles, and hiding uneven walls",
+          "**Trade-offs:** pattern varies by plasterer, so matching on repairs takes skill",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Cat Face Finish",
+      },
+      {
+        type: "paragraph",
+        text: "Cat face is a mostly smooth wall with scattered rougher patches, sometimes called inclusions, that look like spots of exposed texture.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** smooth with random rough \"islands\"",
+          "**Best for:** adding character to a smooth wall",
+          "**Trade-offs:** hard to reproduce exactly on patches",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Spanish or Mission Finish",
+      },
+      {
+        type: "paragraph",
+        text: "A Spanish or Mission finish is a heavier, hand-troweled texture with visible trowel marks and thicker raised areas.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** rustic, Old World",
+          "**Best for:** Spanish Colonial and Mission-style homes",
+          "**Trade-offs:** heavy texture collects dust, and the pattern depends entirely on the plasterer",
+        ],
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Swirl and Worm Finishes",
+      },
+      {
+        type: "paragraph",
+        text: "Swirl finishes are made with circular float or trowel motions. A worm finish, also called a rough float, uses larger aggregate that drags across the surface, leaving small grooves.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Look:** patterned, distinctive",
+          "**Best for:** accent walls or homes where a unique look is wanted",
+          "**Trade-offs:** less common today, and harder to match",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Traditional Cement vs Acrylic Finish Coats",
+      },
+      {
+        type: "paragraph",
+        text: "Any of these textures can be done in two main material types.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Traditional cement-based finish:** breathable, durable and long-lasting, with a classic matte look. It's more prone to hairline cracking and usually needs paint or integral color to stay consistent.",
+          "**Acrylic or elastomeric finish:** a flexible, polymer-based finish that resists hairline cracks, holds color better and offers a wider color range. It's common over EIFS systems. It's less breathable, so it must be used on the right substrate. See [what EIFS is](/blog/what-is-eifs).",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "In the Las Cruces sun and with 30 to 40 degree daily temperature swings, acrylic finishes hold color longer, while traditional finishes handle moisture movement through the wall well. For how the two systems compare overall, see [stucco vs EIFS](/blog/stucco-vs-eifs).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Stucco Finishes Hide Cracks Best?",
+      },
+      {
+        type: "paragraph",
+        text: "Among the different types of stucco finishes, heavier textures do the best job of hiding hairline cracks and minor wall imperfections.",
+      },
+      {
+        type: "list",
+        items: [
+          "**Best at hiding cracks:** dash, lace, skip trowel, Spanish",
+          "**Moderate:** heavy sand float, cat face",
+          "**Shows cracks most:** smooth, Santa Fe, fine sand float",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Texture doesn't prevent cracks, though. For why stucco cracks in the first place, see [what causes stucco cracks](/blog/what-causes-stucco-cracks).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Which Finish Suits Homes in Las Cruces and Mesilla?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Pueblo Revival and Santa Fe-style homes:** Santa Fe or smooth hand-troweled finishes, usually in earth tones.",
+          "**Territorial homes:** smooth or sand float finishes, often with brick or contrasting trim at the parapet.",
+          "**Spanish and Mission-style homes:** Spanish, lace or skip trowel finishes.",
+          "**Contemporary homes and commercial buildings:** sand float or smooth acrylic finishes.",
+          "**Historic Mesilla:** matching the original texture and color is often essential, both for appearance and for any historic district standards.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Is Color Added to Stucco?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Integral color:** pigment mixed into the finish coat, so the color runs all the way through. Chips and scratches don't show a different color underneath, and there's no paint to peel.",
+          "**Paint:** applied after the stucco cures. It allows any color and can be refreshed, but it adds a maintenance cycle. Elastomeric paints can also bridge small cracks.",
+          "**Fog coat:** a thin, colored cement wash used to refresh faded color or even out patches on traditional stucco.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Desert sun fades color over time, especially on south- and west-facing walls.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Is an Existing Stucco Texture Matched on a Repair?",
+      },
+      {
+        type: "paragraph",
+        text: "This is where finish choice matters most. A patch that doesn't match is obvious, and most homeowners notice it right away.",
+      },
+      { type: "paragraph", text: "A good match comes from:" },
+      {
+        type: "list",
+        items: [
+          "**Identifying the original finish** and the aggregate size in the existing wall",
+          "**Testing on a sample board** before working on the wall",
+          "**Matching the tools and technique**, not just the material",
+          "**Feathering the texture** into the surrounding wall",
+          "**Matching color** with integral color, a fog coat or paint",
+          "**Finishing to a natural break**, such as a corner, control joint or trim line, so the eye doesn't catch the edge",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Smooth and Santa Fe finishes are the hardest to patch invisibly. For larger repairs, refinishing the whole wall section to the nearest break is often the only way to get a seamless result. When damage goes deeper than the finish, see [what stucco remediation is](/blog/what-is-stucco-remediation).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Long Do Stucco Finishes Last?",
+      },
+      {
+        type: "paragraph",
+        text: "The stucco itself can last 50 years or more when it's installed and maintained properly. See [how long stucco lasts](/blog/how-long-does-stucco-last). The finish's appearance usually needs attention sooner:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Paint:** typically repainted every 5 to 10 years in the desert sun",
+          "**Integral color:** fades gradually and can be refreshed with a fog coat",
+          "**Acrylic finishes:** often hold color 10 years or more",
+          "**Texture:** lasts as long as the wall, but heavy textures may need occasional cleaning",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What is the most popular stucco finish in New Mexico?",
+      },
+      {
+        type: "paragraph",
+        text: "The Santa Fe finish is one of the most popular in New Mexico because its soft, rounded look suits Pueblo and adobe-style homes. Sand float finishes are also very common.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Which stucco finish is easiest to maintain?",
+      },
+      {
+        type: "paragraph",
+        text: "Sand float finishes are generally the easiest to keep clean because they have less texture to trap dust. Acrylic finishes also hold color well with little upkeep.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can you change the finish on existing stucco?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes. A new finish coat can be applied over sound existing stucco after cleaning and preparing the surface. Damaged or cracked areas must be repaired first.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Why doesn't my stucco patch match?",
+      },
+      {
+        type: "paragraph",
+        text: "Usually the texture, tools, aggregate size or color differ from the original. Matching takes testing and skill, and sometimes the whole wall section needs refinishing.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Is acrylic stucco better than traditional stucco?",
+      },
+      {
+        type: "paragraph",
+        text: "Neither is better for every home. Acrylic resists hairline cracks and fading, while traditional cement finishes are more breathable and long-lasting on masonry and lath walls.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Does stucco need to be painted?",
+      },
+      {
+        type: "paragraph",
+        text: "Not if it has integral color. Painting is optional, but it can refresh faded color, and elastomeric paint can help bridge small cracks.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Stucco Finishes",
+      },
+      {
+        type: "paragraph",
+        text: "The different types of stucco finishes range from smooth Santa Fe to heavy Spanish textures, and each one changes how a home looks and how it ages. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "The finish coat sets the look, and the tool and the plasterer's hand matter as much as the material.",
+          "Heavier textures hide cracks and imperfections, while smoother finishes are easier to clean but harder to patch.",
+          "On repairs, matching the existing texture and color is a skill, and it's what separates a seamless patch from an obvious one.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving southern New Mexico since 2010, including Mesilla, University Park, Hatch, Anthony, Deming, Silver City and El Paso. Our [stucco services](/stucco) cover residential and commercial stucco, EIFS, parapets, repairs and finish matching, from Santa Fe to sand float. Because we also handle roofing, we fix the parapet and roof-to-wall transitions that cause many stucco problems. Call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact).",
+      },
+    ],
+  },
+  {
+    slug: "what-are-canales-on-a-roof",
+    title: "What Are Canales on a Roof? A Guide to Pueblo-Style Roof Drains",
+    excerpt: "The spouts that throw water off a parapet roof and clear of the stucco. Where they came from, why they leak, and how to keep them working through monsoon season.",
+    metaTitle: "What Are Canales on a Roof? Pueblo Drainage Guide",
+    metaDescription: "What are canales on a roof? Learn how these Pueblo-style drains work, why they leak, how to maintain them and when to repair or replace.",
+    category: "Local Guides",
+    tags: [
+      "canales",
+      "parapet",
+      "flat roof",
+      "drainage",
+      "stucco",
+      "Pueblo style",
+      "flashing",
+      "maintenance",
+    ],
+    publishedAt: "2026-11-11",
+    author: { name: "Gilbert & Sons Roofing and Stucco" },
+    featuredImage: "/images/blog/what-are-canales-on-a-roof/tile-roof-stucco-parapet-corner.webp",
+    featuredImageAlt: "Clay tile roof section meeting a stucco parapet wall at an inside corner",
+    status: "published",
+    showEstimateCta: false,
+    relatedServices: ["/roofing/roof-repairs", "/stucco", "/roofing/roof-inspections"],
+    keywords: [
+      "what are canales on a roof",
+      "canales las cruces",
+      "pueblo style roof drains",
+      "canale vs scupper",
+      "canale leaking repair",
+    ],
+    faqs: [
+      {
+        question: "What is the purpose of a canale?",
+        answer: "A canale drains rainwater off a flat roof through the parapet wall and throws it away from the building, protecting the walls and foundation from water damage.",
+      },
+      {
+        question: "What is the difference between a canale and a scupper?",
+        answer: "A canale projects out from the wall to throw water clear of it, while a scupper is an opening in the parapet that's usually flush with the wall and often drains into a downspout.",
+      },
+      {
+        question: "Why is water running down the wall below my canale?",
+        answer: "Usually the canale is too short, sloped wrong, or leaking at the flashing, so water runs back along its underside. Cracked stucco around the opening can also let water into the wall.",
+      },
+      {
+        question: "How often should canales be cleaned?",
+        answer: "At least twice a year, before monsoon season and in fall, and after major wind or dust storms.",
+      },
+      {
+        question: "Are wood canales a good choice?",
+        answer: "Wood canales look authentic but rot over time. Lining them with metal or replacing them with copper, galvanized or stainless steel lasts longer.",
+      },
+      {
+        question: "Can canales be added to an existing roof?",
+        answer: "Yes. A roofer can cut a new opening through the parapet, install a canale, and flash it into the roof and stucco. It's a common fix for roofs that pond.",
+      },
+    ],
+    content: [
+      {
+        type: "paragraph",
+        text: "Canales are channels that run through the parapet wall of a flat roof and project outward, carrying rainwater off the roof and away from the walls. They are a signature feature of Pueblo and Spanish Colonial architecture in New Mexico. Made of wood, galvanized steel, copper or stainless steel, they need clear flow and sound flashing to work.",
+      },
+      {
+        type: "paragraph",
+        text: "If you live in a Pueblo Revival or Territorial home in Las Cruces or Mesilla, you've probably seen them: the short spouts sticking out of the top of the wall that pour water off the roof during a monsoon storm. They're both decorative and essential. When they work, water leaves the roof and lands well away from the stucco. When they don't, water backs up on the roof or runs down the walls.",
+      },
+      {
+        type: "paragraph",
+        text: "This guide answers \"what are canales on a roof?\" and then covers where they came from, how they work, how they compare with scuppers and gutters, what they're made of, why they leak, the damage a failing canale causes, and how to maintain, repair or replace them.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Quick Facts: Canales",
+      },
+      {
+        type: "list",
+        items: [
+          "**What they are:** roof drains that pass through the parapet and project out from the wall.",
+          "**Pronunciation:** \"kah-NAH-lehs,\" from the Spanish word for channel or gutter.",
+          "**Where you find them:** Pueblo Revival, Santa Fe, Territorial and Spanish Colonial homes and buildings.",
+          "**Common materials:** wood, galvanized steel, copper, stainless steel.",
+          "**Most common problems:** clogs, failed flashing where the canale meets the parapet, rotted wood, water staining walls.",
+          "**Maintenance:** clear before monsoon season and again in fall, and check seals yearly.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Where Did Canales Come From?",
+      },
+      {
+        type: "paragraph",
+        text: "Canales date back centuries in the Southwest. Ancestral Pueblo builders and later Spanish colonists built flat earthen roofs supported by vigas, with parapet walls around the edges. Water had to leave the roof somehow, and it had to get away from the adobe walls, which erode when they stay wet. The answer was a hollowed log or wooden trough set through the parapet, pushing water out and away.",
+      },
+      {
+        type: "paragraph",
+        text: "The Pueblo Revival movement of the early 1900s brought canales back as a defining look, and they remain a standard feature on Santa Fe-style homes throughout New Mexico today, including across the Mesilla Valley.",
+      },
+      {
+        type: "image",
+        src: "/images/blog/what-are-canales-on-a-roof/flat-roof-stucco-homes-aerial.webp",
+        alt: "Aerial view of flat-roofed stucco homes with parapet walls in a Las Cruces neighborhood",
+        caption: "Parapet walls ring almost every flat roof in the valley. They hold water on the roof until it reaches an outlet, which is exactly the job a canale does.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do Canales Work?",
+      },
+      {
+        type: "paragraph",
+        text: "A canale works as part of a whole drainage system.",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "**The roof slopes toward the canale.** Even \"flat\" roofs need a slight slope so water moves to the outlet.",
+          "**Water reaches the parapet** and enters the canale opening at roof level.",
+          "**The canale carries water through the wall**, sealed and flashed into the roof membrane and parapet.",
+          "**The spout projects out** far enough that water falls clear of the stucco wall.",
+          "**Water lands on a splash block, rock bed or drainage area** that moves it away from the foundation.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "If any part of that chain fails, water either backs up on the roof or ends up on the wall and foundation.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Canales vs Scuppers vs Gutters",
+      },
+      {
+        type: "list",
+        items: [
+          "**Canales** pass through the parapet and project outward, often a foot or more, to throw water away from the wall. They're both functional and decorative.",
+          "**Scuppers** are openings in the parapet that let water out, usually flush with the wall or projecting only slightly. They often drain into a downspout or collector box.",
+          "**Gutters** run along the eave of a pitched roof and collect water into downspouts. They aren't used on parapet roofs in the same way.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Many flat-roofed homes in Las Cruces have a mix of canales and scuppers. Both depend on clean flow and good flashing.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Are Canales Made Of?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Wood:** the traditional material and the most authentic look. It rots over time where water sits, especially if it isn't lined or sealed.",
+          "**Galvanized steel:** affordable and durable, and can be painted to match trim. It can rust once the coating wears off.",
+          "**Copper:** long-lasting and attractive, developing a natural patina over time. It costs more.",
+          "**Stainless steel:** very durable and rust-resistant, with a modern look.",
+          "**Lined wood:** wood canales with a metal liner, combining the traditional look with better water resistance.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Many older wood canales are replaced with metal, or lined with metal, when they start to rot.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Why Do Canales Leak?",
+      },
+      {
+        type: "paragraph",
+        text: "So, what are canales on a roof most likely to do wrong? Leak at the connection. Common causes:",
+      },
+      {
+        type: "list",
+        items: [
+          "**Failed flashing.** The joint between the canale, the roof membrane and the parapet is the most common leak point. Sealants dry out in UV and heat cycling. See [what roof flashing is](/blog/what-is-roof-flashing).",
+          "**Clogs.** Leaves, dirt, gravel, nests and tumbleweeds block the opening, and water backs up across the roof. See [what ponding water on a flat roof is](/blog/what-is-ponding-water-on-a-flat-roof).",
+          "**Rotted wood.** Wood canales rot from the inside, letting water into the parapet.",
+          "**Cracked stucco around the opening.** Movement between the canale and the wall cracks the stucco, letting water behind it. See [what causes stucco cracks](/blog/what-causes-stucco-cracks).",
+          "**Too short a projection.** If the spout doesn't extend far enough, water runs back along the underside and down the wall.",
+          "**Wrong slope.** If the canale tilts back toward the roof or sits higher than the roof surface, water won't reach it.",
+          "**Too few canales.** Some roofs don't have enough outlets for monsoon downpours.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "What Damage Does a Failing Canale Cause?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Roof leaks** where water backs up and finds seams or the parapet",
+          "**Parapet damage**, including cracked caps and water inside the wall. See [what parapet repair is](/blog/what-is-parapet-repair).",
+          "**Stucco staining and deterioration** below the canale, with dark streaks, efflorescence and bubbling",
+          "**Interior damage** at window heads and walls below",
+          "**Foundation and soil erosion** where water lands on bare ground. On some clay soils in the valley, repeated soaking near the foundation can contribute to movement and cracking.",
+          "**Ponding** on the roof behind a blocked canale",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "How Do You Maintain Canales?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Clear them before monsoon season** in early summer, and again in fall after leaves drop.",
+          "**Check after major wind events**, when tumbleweeds and debris collect at parapets.",
+          "**Look at the flashing and sealant** where the canale meets the roof and parapet. Cracks or gaps need resealing.",
+          "**Check wood canales for soft spots** or rot.",
+          "**Look at the wall below** for new staining, which signals water running back along the canale.",
+          "**Keep splash blocks or rock beds in place** under each canale so water moves away from the foundation.",
+          "**Include canales in regular roof inspections.** A [roof maintenance plan](/blog/what-is-a-roof-maintenance-plan) covers them along with scuppers and parapets.",
+        ],
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "When Should Canales Be Repaired or Replaced?",
+      },
+      {
+        type: "list",
+        items: [
+          "**Repair** when the canale itself is sound but the flashing, sealant or surrounding stucco has failed.",
+          "**Line** a wood canale with metal when the wood is starting to deteriorate but the look is worth keeping.",
+          "**Replace** when wood is rotted through, metal is rusted out, or the canale is too short or poorly sloped.",
+          "**Add canales or scuppers** when the roof ponds or overflows during heavy rain.",
+          "**Upgrade during re-roofing.** A roof replacement is the best time to replace canales and re-flash them properly into the new membrane. See [how long a flat roof lasts](/blog/how-long-does-a-flat-roof-last).",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "Because canales sit where the roof, the parapet and the stucco wall meet, fixing them right often takes both roofing and stucco work.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Frequently Asked Questions",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What is the purpose of a canale?",
+      },
+      {
+        type: "paragraph",
+        text: "A canale drains rainwater off a flat roof through the parapet wall and throws it away from the building, protecting the walls and foundation from water damage.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "What is the difference between a canale and a scupper?",
+      },
+      {
+        type: "paragraph",
+        text: "A canale projects out from the wall to throw water clear of it, while a scupper is an opening in the parapet that's usually flush with the wall and often drains into a downspout.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Why is water running down the wall below my canale?",
+      },
+      {
+        type: "paragraph",
+        text: "Usually the canale is too short, sloped wrong, or leaking at the flashing, so water runs back along its underside. Cracked stucco around the opening can also let water into the wall.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "How often should canales be cleaned?",
+      },
+      {
+        type: "paragraph",
+        text: "At least twice a year, before monsoon season and in fall, and after major wind or dust storms.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Are wood canales a good choice?",
+      },
+      {
+        type: "paragraph",
+        text: "Wood canales look authentic but rot over time. Lining them with metal or replacing them with copper, galvanized or stainless steel lasts longer.",
+      },
+      {
+        type: "heading",
+        level: 3,
+        text: "Can canales be added to an existing roof?",
+      },
+      {
+        type: "paragraph",
+        text: "Yes. A roofer can cut a new opening through the parapet, install a canale, and flash it into the roof and stucco. It's a common fix for roofs that pond.",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "The Bottom Line on Canales",
+      },
+      {
+        type: "paragraph",
+        text: "So, what are canales on a roof? They're the traditional Pueblo-style drains that carry water through the parapet and away from your walls. Three takeaways:",
+      },
+      {
+        type: "list",
+        ordered: true,
+        items: [
+          "Canales are part of a system: roof slope, flashing, the canale itself and where the water lands all have to work.",
+          "Most problems come from clogs, failed flashing, rotted wood and cracked stucco at the opening.",
+          "Clean them twice a year, check the seals, and replace or line worn canales during roof work.",
+        ],
+      },
+      {
+        type: "paragraph",
+        text: "For a broader look at flat roofs common to the region, see [what stucco roofing is](/blog/what-is-stucco-roofing), and if water is already getting in, see [how to find a roof leak](/blog/how-to-find-a-roof-leak).",
+      },
+      {
+        type: "heading",
+        level: 2,
+        text: "Contact Gilbert & Sons Roofing and Stucco",
+      },
+      {
+        type: "paragraph",
+        text: "Gilbert & Sons Roofing and Stucco is a licensed (NM License #377887), insured and bonded contractor based in Las Cruces and serving southern New Mexico since 2010, including Mesilla, University Park, Hatch, Anthony, Deming and El Paso. We repair, line, replace and add canales, re-flash them into flat roofs, and fix the stucco and parapets around them. Call 575-649-2316, email gilbertandsons2010@gmail.com, or [request an estimate through our contact page](/#contact) for [roof repairs](/roofing/roof-repairs) or [stucco work](/stucco) on your Pueblo-style home.",
+      },
+    ],
+  },
 ];
